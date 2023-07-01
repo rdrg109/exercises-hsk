@@ -1,0 +1,184 @@
+* Listening
+
+** 1
+
+*** 1
+
+**** transcript
+
+中医的秘方特别有趣，老百姓都有这样的概念，说秘方往往是中医家族里边最核心的机密，要保密，坚决不能告诉别人，都是在自家枕头底下藏着或者在保险柜里锁着的。
+
+***** translation
+
+The secret recipes of Chinese medicine are particularly interesting, the people have the concept that the secret recipes are often the most core secrets of the Chinese medicine family, to be kept secret, determined not to tell others, are hidden under their own pillows or locked in the safe.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 2
+
+**** transcript
+
+她准备敲舱门的手久久举着，如同蟠桃园里被孙悟空施了定身法的瑶池仙女。直到有人从船舱另一侧走来，她才醒过神来，急匆匆地返回自己的舱里，趴在铺上牙咬枕巾哭泣起来。
+
+***** translation
+
+Her hand was ready to knock on the cabin door for a long time, just like the fairy of Yao Chi in the Peach Garden who had been cast by Sun Wukong's fixation method. Only when someone came from the other side of the cabin, she snapped out of it and hurriedly returned to her cabin to lie down on the bunk and cry with her teeth on the pillowcase.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 3
+
+**** transcript
+
+母亲双手合十，深深地低下了头。父亲缓慢地站起身，虽然热泪盈眶，却微笑着回过身来，抬起手给了儿子一记响亮的耳光，说道：“去了这么长时间！你这个调皮鬼，还记得有家！”
+
+***** translation
+
+The mother folded her hands and bowed her head deeply. The father slowly stood up, smiled back despite his hot tears, raised his hand and gave his son a resounding ear, saying, "Been gone so long! You naughty boy, you still remember to have a home!"
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 4
+
+**** transcript
+
+陶侃手下的一些官吏喜欢喝酒，往往因此误了公务。陶侃知道了非常生气。他吩咐人把酒器一古脑儿扔到江里去，还把那些官吏鞭打了一顿。从此以后，大家都吓得不敢再喝酒了。
+
+***** translation
+
+Some officials under Tao Kan liked to drink, and often missed their official duties as a result. Tao Kan was very angry when he found out. Tao ordered people to throw the wine containers to the river, and also whipped those officials a beating. From then on, everyone was too scared to drink again.
+
+***** notes
+
+陶侃 / tao2 kan3 / Tao Kan, Jin Dynasty general ;
+官吏 / guan1 li4 / bureaucraft, official ;
+公务 / gong1 wu4 / official business ;
+往往 / wang3 wang3 / usually ;
+因此 / yin1 ci3 / as a result ;
+吩咐 / fen1 fu4 / to command, to instruct ;
+酒器 / jiu3 qi4 / utensils for drinking wine ;
+扔 / reng1 / to throw away ;
+江 / jiang1 / river ;
+吓 / he4 / to scare ;
+敢 / gan3 / to dare ;
+
+***** QUESTION “河”和“江“有什么区别？
+:LOGBOOK:
+- State "QUESTION"   from              [2022-08-21 Sun 02:01]
+:END:
+
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 5
+
+**** transcript
+
+沃尔特的得力助手尤布很欣赏这只叫米奇的老鼠，他认为它的表情有点儿像沃尔特本人。沃尔特和尤布抓紧时间进行米老鼠的设计。他们避开其他画家们，躲到沃尔特家后面的一个车库里工作，为的是不走漏一点儿风声。
+
+***** translation
+
+Walter's right-hand man, Yub, admired the mouse named Laich, which he thought had an expression somewhat like Walter himself. Walter and Ueb seized the time to work on the design of the mouse. They avoided the other painters and went to work in a storage room behind Walter's house so that no one would get wind of them.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
