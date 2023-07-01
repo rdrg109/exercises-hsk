@@ -1,0 +1,5036 @@
+* 听力
+
+** 第一部分
+
+*** 1
+:PROPERTIES:
+:ID: 92505775-43b3-4860-a968-5e7443592bf0
+:END:
+
+**** 段话
+很多妻子都希望自己的丈夫能记住他们结婚的日子，并且能在每年的这一天收到他送的礼物。
+
+**** 星星
+
+妻子希望丈夫陪她逛街。
+
+**** 答案
+
+0
+
+*** 2
+:PROPERTIES:
+:ID: 074727a7-3313-46be-9a0a-789d9cf332f8
+:END:
+
+**** 段话
+
+抱歉，这张表格您填得不对，请稍等一下，我再拿一张新的给您，请您重新填写一下。
+
+**** 星星
+
+表格填写错了。
+
+**** 答案
+
+1
+
+*** 3
+:PROPERTIES:
+:ID: b4a27006-b7e3-4823-aa4b-6a9e2ece5b4a
+:END:
+
+**** 段话
+
+去面试的时候衣服要穿得正式一些，不能太随便，穿戴整齐表示你对面试者的尊重，会给他留下一个好的印象。
+
+**** 星星
+
+面试时必须准时到。
+
+**** 答案
+
+0
+
+*** 4
+:PROPERTIES:
+:ID: 7e7e72bd-7a7d-4c83-a519-cc04565f9c5e
+:END:
+
+**** 段话
+
+出汗可以影响人的体温。大量运动后人会觉得很热，这时出汗可以使体温降低。相反，在寒冷的环境下，少出汗，可以留住体内的热量。
+
+**** 星星
+
+多出汗对身体好。
+
+**** 答案
+
+0
+
+*** 5
+:PROPERTIES:
+:ID: e14c5ea8-0a2e-4eba-8076-5267d3b89f98
+:END:
+
+**** 段话
+
+狗是很聪明的动物，但要让它完成一些任务，只教一次是不可能让它马上就记住的，应该耐心地一遍一遍地教给它，使它熟悉，然后才能学会。
+
+**** 星星
+
+教狗学习需要耐心。
+
+**** 答案
+
+1
+
+*** 6
+:PROPERTIES:
+:ID: 897eb645-a1c2-4849-a22b-b70e3694fe1a
+:END:
+
+**** 段话
+
+到机场后，他才发现忘记带信用卡了，他乘坐的航班大约半小时后就要起飞了，他只好改签下一趟航班。
+
+**** 星星
+
+他没带护照。
+
+**** 答案
+
+0
+
+*** 7
+:PROPERTIES:
+:ID: 0d68a150-ac4f-427d-ace1-2711cff01f0f
+:END:
+
+**** 段话
+
+现在朋友之间流行发各种幽默短信，这给我们的生活带来一些快乐。但是如果同样的短信你收到了三四遍，再幽默的短信你也笑不出来了。
+
+**** 星星
+
+发短信很麻烦。
+
+**** 答案
+
+0
+
+*** 8
+:PROPERTIES:
+:ID: 07de2ef2-168b-4790-888f-bbe010f06679
+:END:
+
+**** 段话
+
+舞会上最好不要直接拒绝别人的邀请，如果不得不拒绝，可以告诉他：“我有些累了，想休息一下。”之后也不要很快又接受其他人的邀请。
+
+**** 星星
+
+不要直接拒绝邀请。
+
+**** 答案
+
+1
+
+*** 9
+:PROPERTIES:
+:ID: 115841a9-9da2-41c0-b683-6a2a16dce9a4
+:END:
+
+**** 段话
+
+太阳对我们的影响实在是太大了，它每天为地球提供阳光和热量，保证动植物在合适温度下正常生长，这种情况在将来至少四十亿年不会改变。
+
+**** 星星
+
+太阳对大自然的影响很大。
+
+**** 答案
+
+1
+
+*** 10
+:PROPERTIES:
+:ID: fc6bc077-3798-491a-9f8c-9b9485733c10
+:END:
+
+**** 段话
+
+春天天气忽冷忽热，容易感冒，医生提醒人们要注意室内空气质量，早上起床后应该打开窗户换换空气。如果感冒了，要及时去医院。
+
+***** QUESTION
+:PROPERTIES:
+:CREATED: [2022-10-08 14:56:57 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-08 Sat 14:57]
+:END:
+
+****** 问题
+:PROPERTIES:
+:CREATED: [2022-10-08 14:57:26 -05]
+:END:
+
+ 在“室内空气质量”，“质量”什么意思？
+
+根据[[https://mdbg.net]]，英语的意思是"quality / (physics) mass"。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-10-08 18:35:34 -05]
+:END:
+
+The quality of the iar.
+
+污染严重的城市，空气质量
+
+**** 星星
+
+春天容易感冒。
+
+**** 答案
+
+1
+
+** 第二部分
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+*** 11
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:ID: cbbaefc8-420e-4dbf-9407-d812d737e083
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+想喝茶
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+啤酒喝多了
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+肚子不舒服
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+不想去医院
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+男：今天吃得太多了，肚子有点儿不舒服。
+女：喝点儿热茶可能会好一些。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+男的怎么了？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+c
+
+*** 12
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:ID: f64226f2-629b-4951-8807-cf40c4fbba86
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+昨晚有比赛
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+比赛推迟了
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+男的很紧张
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+女的是记者
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+女：都九点了，你怎么还在睡懒觉？快起床吧。
+男：昨晚看网球比赛看到两点半，这不周六吗，平时哪能睡到九点？
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+根据对话，可以知道什么？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+a
+
+*** 13
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:ID: 472dfe2e-8528-4de9-a497-2fe178d09e6b
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+长得很帅
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+需要鼓励
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+不太成熟
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+符合要求
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+男：这件事让小刘负责怎么样？
+女：我觉得挺合适的，他就是学这个专业的，做事情也很仔细。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+女的觉得小刘怎么样？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+d
+
+*** 14
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:ID: f1bf6384-ff53-493a-88fc-002a11429033
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+警察
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+导游
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+服务员
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+售货员
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+女：那位导游给我的感觉很不错，这几天我们玩得很愉快。
+男：同意，她的服务态度确实挺好，我们真应该好好谢谢她。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+他们打算感谢谁？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+b
+
+*** 15
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:ID: 6d035bab-fc6a-4a19-9c28-35c048c4e5d3
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+沙发
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+空调
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+眼镜
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+袜子
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+男：小姐，您好，您想买什么家具？需要我为您介绍一下吗？
+女：谢谢，我想买沙发，有蓝色的吗？
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+女的要买什么？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+a
+
+*** 16
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:ID: b81a33fe-9b9d-493a-93c9-3c681ac79849
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+睡觉
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+看电视
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+弹钢琴
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+阅读杂志
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+女：真对不起，把您吵醒了。
+男：别客气，我正好也要起来活动活动了。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+男的刚才最可能在做什么？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+a
+
+*** 17
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:ID: f70cd562-bf1b-4060-9323-95bddbec5dbe
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+蛋糕
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+果汁
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+饼干
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+咖啡
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+男：奇怪，你忘记放糖了吗？这杯咖啡怎么这么苦？
+女：你的在那儿呢，这杯是我的，我的没放糖。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+他们在谈什么？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+d
+
+*** 18
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:ID: 271086cb-85bc-4c31-9bbb-55bd9c96fbd6
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+不用来接
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+想提前回家
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+还有个约会
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+路上堵车了
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+女：喂，你中午几点到？我请个假去火车站接你。
+男：不用专门来接我，我行李很少，你放心吧，家里见。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+男的是什么意思？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+a
+
+*** 19
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:ID: 2f23be08-4a7b-4c94-bada-976e86c884de
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+女儿
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+父亲
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+爷爷
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+奶奶
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+男：晚上有什么安排吗？跟我们去游泳吧。
+女：不了，我爸今天过生日，家里来了一些亲戚，我得回去帮忙。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+今天是谁过生日？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+b
+
+*** 20
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:ID: a62029f4-6d02-447f-87d2-005f0dd6199c
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+比较咸
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+太辣了
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+不太新鲜
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+盐放少了
+
+**** 
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:47 -05]
+:END:
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+女：我今天做的酸菜鱼怎么样？你尝了吗？
+男：还可以，鱼肉很鲜，如果汤里再加一点儿盐就更好了。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+男的觉得鱼怎么样？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+d
+
+*** 21
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:ID: 9ab051e7-c374-4e55-a597-c95b4ff9b517
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+生病了
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+相机借走了
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+正在收拾家
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+怕打扰男的
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+男：你现在在哪儿呢？找时间把咱们在公园照的照片发给我？
+女：抱歉，照相机刚被我妹借走了，暂时发不了，明天一定发给你。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+女的为什么现在不能发照片？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+b
+
+*** 22
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:ID: 6b34c81f-61fd-4dc3-bf40-17341836c8c8
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+邻居
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+夫妻
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+司机和乘客
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+大夫和护士
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+女：你这条裤子脏死了，一起扔洗衣机里洗洗吧。
+男：等一下！口袋里还有两张电影票。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+他们俩最可能是什么关系？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+b
+
+*** 23
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:ID: 78d72d5f-3815-4a3c-a49c-633c07c6da9c
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+挂张地图
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+注意节约
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+挂对面墙上
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+抬进厨房里
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+男：这张画儿挂这儿可以吗？
+女：这儿地方太小，有点儿窄，还是挂对面的墙上吧。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+女的是什么意见？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+c
+
+*** 24
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:ID: 0d993081-90bc-45f0-bfdb-f0ca9ca6c3e8
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+楼层好
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+购物方便
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+交通方便
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+周围热闹
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+女：马上就要毕业了，你准备在学校附近租房子吗？
+男：学校附近太贵。离学校远点儿没关系，只要离地铁或者公交车站近就行。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+男的对房子有什么要求？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+c
+
+*** 25
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:ID: 2b68bb86-1e5a-4826-8068-03f639d853f3
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+见面的地点
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+回来的时间
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+工资和奖金
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+公司的规定
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+男：去长城玩儿的同事，请明天到公司集合，九点出发，一共是十二位同事。现在还有人要报名吗？
+女：明天我们参观多长时间？大概几点能回来？
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+女的关心什么？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:37:54 -05]
+:END:
+
+b
+
+** 第三部分
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+*** 26
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:ID: fa232337-dfa0-4eee-8e91-d941f22c58d2
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+读博士
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+去旅游
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+谈生意
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+学法律
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+女：好久不见，最近在忙什么呢？
+男：我在办签证，准备出国。
+女：你的生意不是做得很顺利吗？怎么突然想出国留学了？
+男：你误会了，我是去旅游。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+男的为什么要出国？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+b
+
+*** 27
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:ID: 17f1ac7a-13be-4509-9a43-a0b6e147918f
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+她变胖了
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+不能打折
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+想买衬衫
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+再试试白的
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+男：你穿这件衣服看起来又高又瘦，很漂亮。
+女：真的啊？太好了，你说我穿哪个颜色更好呢？
+男：你穿这个黄色的就行，不过白的也不错。
+女：那我再试试白的，两个比较一下。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+女的是什么意思？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+d
+
+*** 28
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:ID: 172e2525-b3fd-456c-9d80-a38b5a2bfec9
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+收入高
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+压力大
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+能积累经验
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+会影响学习
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+女：听说你大学二年级的时候就开始在广告公司工作了。
+男：是的，这让我积累了较为丰富的工作经验。
+女：这样做不会影响你的学习吗？
+男：我认为不会，实际工作能让我更理解书本上的知识。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+男的对参加工作怎么看？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+c
+
+*** 29
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:ID: 2db52030-8b1e-4cfa-8fb0-8f405ead15c8
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+5号
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+15 号
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+星期五
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+星期日
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+男：你研究生考试考得怎么样？
+女：数学可能考得不太理想。
+男：大家都觉得题挺难的。你复习那么长时间了，肯定没问题。
+女：谢谢！五号成绩就出来了，到时候就知道了。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+成绩什么时候出来？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+a
+
+*** 30
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:ID: 7757cb2f-d500-43b0-b3e4-c374e1639a4d
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+口渴了
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+迟到了
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+爱开玩笑
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:41 -05]
+:END:
+
+不吃羊肉
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+女：先生您好，您的座位在这儿。
+男：谢谢。请把菜单给我。
+女：给您，这个是今天的特价菜。
+男：我不吃羊肉，我先看看其他的菜吧。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+关于男的，可以知道什么？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+d
+
+*** 31
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:ID: ae393d12-f200-43bd-a6b1-a83e4e4a5541
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+撞车了
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+超速了
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+发烧了
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+住院了
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+男：你不是两点就出发了？难道路上花了两个多小时？
+女：我半路上跟另一辆车撞了，刚才把车送去修了。
+男：撞得严重吗？你怎么那么不小心！
+女：没事，不严重，就是把车门擦坏了。但恐怕一星期都不能开车了。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+关于女的，可以知道什么？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+a
+
+*** 32
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:ID: 4f1dc084-5769-43e1-ad6a-8e74d81335ce
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+得意
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+紧张
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+吃惊
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+着急
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+女：海洋公园到底是不是在东边啊？怎么还没到？
+男：方向肯定没错，估计再有几分钟就到了吧。
+女：再晚了我们就来不及看表演了。
+男：别担心，下午还有一场呢。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+女的现在心情怎么样？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+d
+
+*** 33
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:ID: 91aea6d8-fa48-4593-ac8e-b7a931da04bd
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+去打针了
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+买了台电脑
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+买新房子了
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+写错地址了
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+男：今天是小王请客？他有什么高兴事儿呀？
+女：他搬新家了，晚上请老同学们去家里吃饭，顺便看看他的新房子。
+男：是吗？他在哪儿买的房子？
+女：他那儿的名字好像是“长江花园”，环境很好，很安静。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+小王怎么了？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+c
+
+*** 34
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:ID: b7da965c-b328-481d-ad41-6fd6f7b53d18
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+南门
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+西门
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+教室
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+图书馆旁边
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+女：明天的演唱会你要不要看？
+男：我当然想去，可惜票早就卖光了。
+女：正好我朋友多给了我一张，那到时候一起去吧。
+男：真的假的？你是在开玩笑骗我吧？
+女：怎么会呢？明晚七点南门见。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+明天晚上他们在哪儿见面？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+a
+
+*** 35
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:ID: 240f08b2-8ed5-474e-b00e-d5a89b2dd946
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+同意
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+原谅
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+太麻烦
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+十分满意
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+男：这些塑料盒子还有用吗？
+女：没用了。
+男：没用的东西就放垃圾桶里，别到处乱扔。
+女：好吧，那我现在把房间整理一下。
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+女的是什么态度？
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:42 -05]
+:END:
+
+a
+
+*** 36-37
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:ID: dadedf91-9f40-4de5-8831-0ca852c31848
+:END:
+
+**** 课文字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+北方人爱吃饺子，除了因为饺子味道鲜美，还因为人们忙了一年，过年时全家人坐在一起包饺子，是很好的交流机会。另外，还跟北方的气候有关，北方比南方寒冷，吃热饺子让人感觉很暖和、很舒服。
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+***** 36
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+北方人过年有什么习惯？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+爬山
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+理发
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+吃饺子
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+吃面条
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+c
+
+***** 37
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+说话人认为北方的气候怎么样？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+干燥
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+寒冷
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+暖和
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+常刮风
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+b
+
+*** 38-39
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:ID: b23c1524-9c59-4136-b9f1-4cc004402a7a
+:END:
+
+**** 课文字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+教育不同性格的孩子要使用不同的办法：对那些活泼的孩子要给他们一些限制；对那些害羞的孩子要经常鼓励他们说出自己的看法，当他们这样做了以后，要表扬他们，这样才能让每一个孩子都健康地发展。
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+***** 38
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+根据这段话，教育孩子要考虑哪方面的不同？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+性别
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+性格
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+兴趣
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+标准
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+b
+
+***** 39
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+这段话主要谈什么？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+现代教育学
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+什么是感情
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+儿童的爱好
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+怎样教育孩子
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+d
+
+*** 40-41
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:ID: a4fed56d-b1d1-405c-80a9-f98b243f0dee
+:END:
+
+**** 课文字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+一个人听一只小鸟叫，觉得很好听，尽管他完全不懂小鸟唱的是什么。一个人看一张画，他看来看去都看不懂画的是什么，但是仍然觉得好看。其实在人们不懂什么是美的时候，美一直都在，美不会因为人们不懂而改变。
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+***** 40
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+关于小鸟，可以知道什么？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+腿很长
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+羽毛很软
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+叫声很好听
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+喜欢听音乐
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+c
+
+***** 41
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+美有什么特点？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+很难判断
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+一直都在
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+让人兴奋
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+大家都能懂
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+b
+
+*** 42-43
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:ID: abb29391-d2dd-4bf6-a517-a881e3439920
+:END:
+
+**** 课文字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+生活是什么？不同的人有不同的看法。有人说，生活是一杯酒，辣中带香；有人说，生活是一块巧克力，甜中带些苦；也有人说，生活是一个圆面包，最中间那部分是最好吃的，然而不是每个人都能吃到。生活究竟是什么？可能我们每个人都有自己的答案。
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+***** 42
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+这段话谈的是什么？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+职业
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+生活
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+食品
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+味道
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+b
+
+***** 43
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+圆面包有什么特点？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+中间最好吃
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+不太受欢迎
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+样子很特别
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+价格很便宜
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+a
+
+*** 44-45
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:ID: 9cc54206-6454-4e6c-807d-c5c0c3e8ef56
+:END:
+
+**** 课文字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+现在，做一个网站变得越来越容易了。不仅许多公司有网站，而且很多人都有自己的网站。访问各种各样的网站已经成为人们生活的一部分，网站，极大地丰富了现代人的精神生活。
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+***** 44
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+关于网站，下列哪个正确？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+十分普遍
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+合格的不多
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+数量在减少
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+内容都差不多
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+a
+
+***** 45
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+说话人对网站是什么态度？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+支持
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+批评
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+怀疑
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+讨厌
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:18:56 -05]
+:END:
+
+a
+
+
+* 阅读
+
+** 第一部分
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+*** 46-50
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:ID: a366e486-81ea-4d89-9715-17f357a28b4a
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+伤心
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+按时
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+距离
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+坚持
+
+***** e
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+耐心
+
+***** f
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+个子
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+***** 46
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+****** 课文填空
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+爸爸，我明天出差，下星期四回来，您记得🟦吃药。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+b
+
+***** 47
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+****** 课文填空
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+这儿离大使馆还有一段🟦，你还是坐出租车去吧。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+c
+
+***** 48
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+****** 课文填空
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+这个问题有点儿复杂，你🟦听我给你解释一下好吗？
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+e
+
+***** 49
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+****** 课文填空
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+别看王师傅🟦没你高，力气却比你大多了，你信不信？
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+f
+
+***** 50
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+****** 课文填空
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+人在🟦难过的时候，哭一哭也许会好受一些。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:26 -05]
+:END:
+
+a
+
+**** 笔记
+:PROPERTIES:
+:CREATED: [2023-01-04 19:25:59 -05]
+:END:
+
+
+伤心 🟦 shang1 xin1 🟦 v. to feel deeply hurt 🟦
+距离 🟦 ju4 li2 🟦 n. distance 🟦
+耐心 🟦 nai4 xin1 🟦 adj. to be patient 🟦
+解释 🟦 jie3 shi4 🟦 n. explanation 🟦
+师傅 🟦 shi1 fu5 🟦 master 🟦
+个子 🟦 ge4 zi5 🟦 n. height 🟦
+坚持 🟦 jian1 chi2 🟦 v. to persevere with 🟦
+
+*** 51-55
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:ID: b0195d04-be09-4c90-bd95-b4ef6527fb42
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+严格
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+后悔
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+温度
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+直接
+
+***** e
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+重点
+
+***** f
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+提醒
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+***** 51
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+Ａ：经理，新的计划发您信箱了，您看了吗？
+Ｂ：内容太简单，不够详细，缺少🟦，明天我们得继续讨论。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+e
+
+***** 52
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+Ａ：最近我总是咳嗽，吃点儿什么药好？
+Ｂ：以后别抽烟了好不好？等身体出现问题了，🟦就来不及了。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+b
+
+***** 53
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+Ａ：周末的演出改到晚上 7 点了，你通知小王了没？
+Ｂ：还没呢，一上午都在忙。你不🟦的话，我可能真忘了。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+f
+
+***** 54
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+Ａ：真让人受不了！一个简单的动作让我们练二三十遍。
+Ｂ：老师对你们🟦些好，可以让你们打好基础。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+a
+
+****** ANSWERED 
+:PROPERTIES:
+:CREATED: [2023-01-04 14:56:00 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2023-01-05 Thu 18:49]
+- State "UNANSWERED" from              [2023-01-04 Wed 14:56]
+:END:
+
+******* Question
+:PROPERTIES:
+:CREATED: [2023-01-04 14:56:05 -05]
+:END:
+
+What does this sentence mean? I found 基础 in the dictionary
+
+基础 🟦 ji1 chu3 🟦 base; foundation; basis/basic; fundamental 🟦
+
+Ａ：真让人受不了！一个简单的动作让我们练二三十遍。
+Ｂ：老师对你们严格些好，➡️可以让你们打好基础⬅️。
+
+******* Answer
+:PROPERTIES:
+:CREATED: [2023-01-05 18:47:13 -05]
+:END:
+
+基础 🟦 ji1 chu3 🟦 base; foundation; basis/basic; fundamental 🟦
+打基础 🟦 ji1 chu3 🟦 build the basis for some knowledge (e.g. speaking a new language) 🟦
+
+Acording to Qi, we need to learn the basic for everything.
+
+***** 55
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+Ａ：张律师，这份申请材料要复印几份？
+Ｂ：先印 8 份，一会儿你印好以后🟦送到会议室吧。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:26 -05]
+:END:
+
+d
+
+**** 笔记
+:PROPERTIES:
+:CREATED: [2023-01-04 10:56:14 -05]
+:END:
+
+温度 🟦 wen1 du4 🟦 temperature 🟦
+直接 🟦 zhi2 jie1 🟦 direct (opposite: indirect 間接|间接[jian4 jie1])/immediate/straightforward 🟦
+
+51
+
+计划 🟦 ji4 hua4 🟦 n. project 🟦
+信箱 🟦 xin4 xiang1 🟦 n. mailbox 🟦
+详细 🟦 xiang2 xi4 🟦 adj. detailed 🟦
+缺少 🟦 que1 shao3 🟦 v. to lack 🟦
+重点 🟦 zhong4 dian3 🟦 n. important point 🟦
+继续 🟦 ji4 xu4 🟦 v. to continue 🟦
+
+52
+
+后悔 🟦 hou4 hui3 🟦 v. to regret 🟦
+来不及 🟦 lai2 bu5 ji2 🟦 it's too late (to do something) 🟦
+
+53
+
+演出 🟦 yan3 chu1 🟦 n. performance, concert, show 🟦
+改 🟦 gai3 🟦 v. to change 🟦
+通知 🟦 tong1 zhi1 🟦 v. to inform 🟦
+提醒 🟦 ti2 xing3 🟦 v. to remind 🟦
+
+54
+
+严格 🟦 yan2 ge2 🟦 adj. rigorous 🟦
+基础 🟦 ji1 chu3 🟦 base; foundation; basis/basic; fundamental 🟦
+
+55
+
+申请 🟦 shen1 qing3 🟦 n. application or form 🟦
+复印 🟦 fu4 yin4 🟦 v. to duplicate a document 🟦
+印 🟦 yin4 🟦 v. to print 🟦
+份 🟦 fen4 🟦 classifier for things that are printed (e.g. gifts, newspaper, magazine, papers, reports and contracts) 🟦
+
+
+** 第二部分
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+*** 56
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:ID: 3ba8b48f-a43e-4138-93e3-8f919f5b4168
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+而且环境保护得也很好
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+小城四季的风景都很美
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+因此每年都吸引着成千上万的游客去那儿旅游
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+bac
+
+*** 57
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:ID: 54191ed4-84d6-4584-a055-f2b0f4651ded
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+学会接受别人的批评
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+然后才会变得更优秀
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+才能发现自己的缺点
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+acb
+
+*** 58
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:ID: c75c3327-da9f-4902-86f4-9e98c928c1e8
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+我从小就养成了写日记的习惯
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+把每天发生的事情记在笔记本上
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+也算是对一天生活的总结
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+abc
+
+*** 59
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:ID: be95d22b-427d-49f4-85b0-218f2edbeb48
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+就好像站在镜子前面，看镜子里面的人
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+尊重别人的人，同样也会受到别人的尊重
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:42 -05]
+:END:
+
+你热情他也热情，你友好他也友好
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+bac
+
+*** 60
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:ID: 14352e3e-d6a7-4ab5-8462-8f96e1083e58
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+不管在外面的世界遇到什么困难
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+家永远是我们心中最安全的地方
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+因为我们总是能够在家里找到爱和幸福
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+abc
+
+*** 61
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:ID: 5ab9b365-09aa-459c-af98-4dcd94b16c4b
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+对皮肤很有好处
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+例如，每天早晨吃一到两个新鲜西红柿
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+常吃西红柿对解决一些健康问题有很大的帮助
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+cba
+
+*** 62
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:ID: 7d735be7-9928-4aa3-b914-4c56a41e5422
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+为人们交友提供了方便
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+网上各种免费的聊天工具
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+现在，连人们办公也离不开它了
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+bac
+
+*** 63
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:ID: e86a49b6-60ec-4f31-9485-6ee3a4c2c97d
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+但是时间不要太长，最好在半小时到一小时之间
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+一般来说，感到微微出汗的时候就可以了
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+散步能让人减轻压力，变得轻松起来
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+cab
+
+**** 笔记
+:PROPERTIES:
+:CREATED: [2023-01-04 18:44:36 -05]
+:END:
+
+微 🟦 wei1 🟦 slightly 🟦
+出汗 🟦 chu1 han4 🟦 v. to sweat 🟦
+减轻 🟦 jian3 qing1 🟦 v. to alleviate 🟦
+轻松 🟦 qing1 song1 🟦 v. to relax 🟦
+压力 🟦 ya1 li4 🟦 n. pressure 🟦
+之间 🟦 zhi1 jian1 🟦 between 🟦
+*** 64
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:ID: 38d1ec38-1047-43b9-94cf-35610d68f0e1
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+从他嘴里说出来也会变得十分有趣
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+他是一个幽默的人
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+即使是很普通的经历
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+bca
+
+*** 65
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:ID: 7561c4e7-5bd6-4b2c-854a-13e2fc5213f8
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+因为红色能更好地保护皮肤
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+按照经验，人们往往认为夏天应该多穿白色衣服
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+但有研究证明，其实穿红色的更好
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:00:43 -05]
+:END:
+
+bca
+
+** 第三部分
+:PROPERTIES:
+:CREATED: [2022-12-27 10:37:26 -05]
+:END:
+
+*** 66
+:PROPERTIES:
+:ID: df2f625a-6d4c-4542-8bac-406fe6751c66
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+减肥不只是为了瘦，更是为了健康。所以正确的减肥方法是按时吃饭，多吃水果，增加运动量，而不是饿肚子。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+减肥的主要目的是：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+更健康
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+更美丽
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+心情更好
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+锻炼身体
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+a
+
+*** 67
+:PROPERTIES:
+:ID: be9b1600-4d39-4d94-9358-6f0cc44d1ffd
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+一个脾气不好的人虽然不一定让人讨厌，但是却很难跟人交朋友。因为没有人会喜欢跟一个总是容易生气的人在一起。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+脾气不好的人：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+喜欢交流
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+没有朋友
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+容易生气
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+让人讨厌
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+c
+
+*** 68
+:PROPERTIES:
+:ID: a6dc8ade-f6a6-4bc2-836b-33e8bf1a715c
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+中国有 56 个民族，同汉族相比，其他民族的人数比较少，习惯上被叫做“少数民族”，每个民族都有不同的习惯和文化，许多民族都有自己的语言和文字。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+根据这段话，可以知道中国的少数民族：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+有 56 个
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+多在山区
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+爱唱歌跳舞
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+有不同的文化
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+d
+
+*** 69
+:PROPERTIES:
+:ID: 8d424103-b89b-4dd3-8cd0-cf97160ac698
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+很多人害怕与周围的人比较，比较不但让失败的人更难受，而且让那些成功的人感到有压力，因为肯定还有比他们更成功的人。但是从另一方面来看，通过比较又可以发现自己的优点、缺点，使自己取得更大的成绩。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+比较的好处是可以：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+引起竞争
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+赢得同情
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+原谅别人
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+更了解自己
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+d
+
+*** 70
+:PROPERTIES:
+:ID: 42fe5703-fc17-4d65-8527-a91fddc7e9d0
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+小组讨论教学，不仅让学生学到了知识，更重要的是提供了一种愉快的学习环境。学生只有在这样的环境下，才敢想、敢说、敢做、敢怀疑。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+小组讨论教学使学生：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+更诚实
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+更有信心
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+不重视知识
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+学会主动放弃
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+b
+
+*** 71
+:PROPERTIES:
+:ID: 4bbb85f2-2631-43b2-aa34-0ba2f92e96fc
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+成功是不会受到年龄限制的。只要你不放弃希望，不怕辛苦，能够一直坚持努力学习，提高自己的水平和能力，就一定来得及。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+什么样的人能获得成功？
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+聪明的
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+孤单的
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+不停努力的
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+能适应环境的
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+c
+
+*** 72
+:PROPERTIES:
+:ID: 019fc8b5-21e6-437b-a744-81f9f9287a74
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+小时候，我们往往会有许多浪漫的理想。但是随着年龄的增长，我们天天忙于工作和生活，那些梦逐渐地离我们远去了。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+根据这段话，当我们长大时：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+更幸福了
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+烦恼减少了
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+喜欢回忆童年
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+忘了过去的理想
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+d
+
+*** 73
+:PROPERTIES:
+:ID: 0af1bfed-5b4b-4daf-b12d-ea2066c72bba
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+下班时，同事小王叫住我，说到现在还没有联系上那位顾客，我告诉他的电话号码不对。我查了一下手机，才发现那个电话号码少了一个数字，我真是太粗心了。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+小王为什么没联系上那个顾客？
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+手机丢了
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+传真机坏了
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+电话号码错了
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+顾客没带手机
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+c
+
+*** 74
+:PROPERTIES:
+:ID: 0b890de2-f512-461e-8a8c-c2bc45862191
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+下班回到家，看到桌子上满满的都是我喜欢吃的菜。儿子走过来对我说：“妈妈，祝您母亲节快乐！”我的心里特别感动，我为有这样的儿子感到骄傲。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+根据这段话，可以知道什么？
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+菜凉了
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+儿子很激动
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+母亲很幽默
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+今天是母亲节
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+d
+
+*** 75
+:PROPERTIES:
+:ID: 929783b3-e30d-4dff-9d2f-c9e81fb80c20
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+做任何事情都有一个过程，如果把过程做好了，结果一般都会很好。可是，现在很多人做事情的时候只是想着结果，从来都不关心过程。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+根据这段话，做事情的过程：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+比较无聊
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+困难很多
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+值得关注
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+一般都很精彩
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+c
+
+*** 76
+:PROPERTIES:
+:ID: 6bbbef93-8ed6-4664-9369-57b4b658cbb4
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+有些人对自己的性格总是不很满意，想要改变它。其实性格没有完全好或者坏的区别，关键是要根据自己的性格特点来选择适合自己做的事。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+关于性格，下列哪个正确？
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+决定成败
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+各有特点
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+和友谊无关
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+一直在变化
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+b
+
+*** 77
+:PROPERTIES:
+:ID: c69eb887-984e-47b7-964f-6cd3140affd6
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+压力是一个非常有趣的东西，人们在没有压力的情况下，往往不想工作。在压力很大的情况下，工作的效果又很不好。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+压力很大时，人们：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+经常加班
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:49 -05]
+:END:
+
+积极工作
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+工作质量差
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+会觉得很有趣
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+c
+
+*** 78
+:PROPERTIES:
+:ID: 17cf4137-d3b1-409e-9e66-8b0aa3108112
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+经济、社会、科学、教育等各方面的变化，都会对一个国家的发展产生极大的影响，但是其中起关键作用的应该还是教育。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+这段话主要谈的是：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+社会的管理
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+国家的历史
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+教育很重要
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+科技的发展
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+c
+
+*** 79
+:PROPERTIES:
+:ID: 4c36a8ce-9b2b-4304-9efd-aa2035b58472
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+道歉并不仅仅是一句简单的“对不起”，道歉时应该让人感觉到你真心的歉意，那样才有可能获得别人的原谅。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+怎样才能得到别人的原谅？
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+真心道歉
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+说对不起
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+态度冷静
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+改变意见
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:58:50 -05]
+:END:
+
+a
+
+*** 80-81
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:ID: 79ac02a2-7e53-4847-8464-32cf2703b0c4
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+随着科学技术的发展，我们的世界正在越变越小。相距几千公里的国家，以前坐船需要几个月，现在乘坐飞机不过十几个小时。原来寄信需要好几天，现在发电子邮件用不了一分钟就到了。以前外地的新闻要几天后才能知道，现在有了网站，任何消息都可以在第一时间和全世界的人们直接交流。所以人们都说，地球变成了一个小村子。
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+***** 80
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+****** 星星
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+根据这段话，现在人们：
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+联系少了
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+交通更方便
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+活动范围小了
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+不关心新闻了
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+b
+
+***** 81
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+****** 星星
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+地球变成了小村子主要是因为：
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+科技的发展
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+经济的发展
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+文化的影响
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+城市的扩大
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+a
+
+*** 82-83
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:ID: 25d35a42-825e-409b-8f0d-8b5bace9433a
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+每个人的生命中都会遇见一件重要的事情，那就是结婚，选择与自己爱的人在一起生活。在结婚之前，我们都要弄清楚自己想要的是什么，而不要被别人对幸福的看法影响，因为没有人能够代替你获得幸福，真正的幸福是你和你爱的人在一起，共同生活，并且从心底里感到幸福与快乐。
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+***** 82
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+****** 星星
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+结婚之前，我们应该：
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+休息好
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+学会表达
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+与父母商量
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+知道自己要什么
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+d
+
+***** 83
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+****** 星星
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+根据这段话，婚后幸福的条件是：
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+互相信任
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+相互尊重
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+有责任心
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+找到你爱的人
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+d
+
+*** 84-85
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:ID: e9b8e106-8507-4fb8-8685-0e6d6bc80f91
+:END:
+
+**** 课文
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+一个年轻人问富人怎么才能赚更多的钱。富人拿出 3 块大小不同的西瓜说：“如果西瓜的大小代表钱的多少，你选哪块？”年轻人想都没想就拿了最大的一块。而富人自己吃了最小的一块。很快富人就吃完了，又拿起最后一块西瓜吃起来，一边吃一边说：“还是我吃得多吧。”年轻人突然明白了，只看眼前一定会输掉更多。
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+***** 84
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+****** 星星
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+富人为什么选小块西瓜？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+他饱了
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+他懂礼貌
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+离他最近
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+有机会吃到第 3 块
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+d
+
+***** 85
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:40 -05]
+:END:
+
+****** 星星
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:41 -05]
+:END:
+
+这个故事想说明什么？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:41 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:41 -05]
+:END:
+
+先苦后甜
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:41 -05]
+:END:
+
+别羡慕富人
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:41 -05]
+:END:
+
+别只看到眼前
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:41 -05]
+:END:
+
+速度是最重要的
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 10:54:41 -05]
+:END:
+
+c
+
+* 书写
+
+** 第一部分
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:37 -05]
+:END:
+
+*** 86
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:37 -05]
+:ID: 48f48290-4664-4958-94c5-7e71118a4be9
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:37 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:37 -05]
+:END:
+
+钥匙
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:37 -05]
+:END:
+
+里
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:37 -05]
+:END:
+
+在
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:37 -05]
+:END:
+
+塑料袋
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+钥匙在塑料袋里。
+
+*** 87
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:ID: 73f6f59e-6c1a-4c69-887c-e7bface1efa7
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+这次机会
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+把
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+教授
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+竟然
+
+***** 5
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+放弃了
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+教授竟然把这次机会放弃了。
+
+*** 88
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:ID: 23862b65-2879-48d1-b02c-953031097fc1
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+一头牛
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+看起来
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+那座山
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+像
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+那座山看起来像一头牛。
+
+*** 89
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:ID: 07733a96-b76b-47d5-a6af-7d92118ce98a
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+下雨
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+很湿润
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+后
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+空气
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+下雨后空气很湿润。
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+空气下雨后很湿润。
+
+*** 90
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:ID: 1fe41420-0584-4dbd-8fb0-6c16316cf577
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+招聘
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+银行
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+高级主管
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+决定
+
+***** 5
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+一名
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+银行决定招聘一名高级主管。
+
+*** 91
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:ID: 37e7cc57-986c-421b-af45-ac97484f2d1c
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+那位
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+深受
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+演员
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+观众的喜爱
+
+***** 5
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+著名的
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+那位著名的演员深受观众的喜爱。
+
+*** 92
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:ID: d493c533-b1ec-408a-86e6-9adad1e0e4f9
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+北京语音
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+标准音
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+普通话
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+以
+
+***** 5
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+为
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+普通话以北京语音为标准音。
+
+*** 93
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:ID: 22e0440c-24c4-4973-b30f-4837a76091fa
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+反对的
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+知道校长
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+原因
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+没人
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+没人知道校长反对的原因。
+
+*** 94
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:ID: 54782345-1393-417f-94fd-38f65405402b
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+禁止
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+打电话
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+加油站
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+附近
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+加油站附近禁止打电话。
+
+*** 95
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:ID: f4c8f164-0284-4464-bd8b-78ddb5af01af
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+进行了
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+同学们
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+调查
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+在超市
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:38 -05]
+:END:
+
+同学们在超市进行了调查。
+
+** 第二部分
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:END:
+
+*** 96
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:ID: f6a7d944-3b34-4879-b5d7-9d2e3829fff0
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:END:
+
+打扮
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:END:
+
+表演前要好好打扮一下。
+
+*** 97
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:ID: 79b7e0e8-d4df-4f4c-b7c9-7d28405f99a2
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:END:
+
+京剧
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:END:
+
+京剧一直很受欢迎。
+
+*** 98
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:ID: 13f7b7d6-88f7-4c7d-a055-f4f25e7d4e1f
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:END:
+
+朵
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:END:
+
+这朵花又大又漂亮。
+
+*** 99
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:ID: 572392df-7df6-44ee-a1e9-5dbd95210ac0
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:END:
+
+笑话
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:END:
+
+他讲的笑话真有意思。
+
+*** 100
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:ID: dd9136a4-7c27-40e3-910a-92e568d66a67
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:END:
+
+失望
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:35:33 -05]
+:END:
+
+比赛输了，他们很失望。
+

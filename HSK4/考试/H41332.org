@@ -1,0 +1,4803 @@
+* 听力
+
+** 第一部分
+
+*** 1
+:PROPERTIES:
+:ID: f5636c4b-b9c0-4f6c-a5ac-9f7efa0a1051
+:END:
+
+**** 段话
+
+**** 星星
+
+李经理不在办公室。
+
+**** 答案
+
+1
+
+*** 2
+:PROPERTIES:
+:ID: d3c3e16a-b94e-46ca-b3f0-27dd955ba4b7
+:END:
+
+**** 段话
+
+**** 星星
+
+他让小高写邀请信。
+
+**** 答案
+
+0
+
+*** 3
+:PROPERTIES:
+:ID: 430af91f-a5c5-4bae-a2dc-ed1b79d7ad7f
+:END:
+
+**** 段话
+
+**** 星星
+
+他俩从小就认识。
+
+**** 答案
+
+0
+
+*** 4
+:PROPERTIES:
+:ID: cf78bf90-6efa-453e-a57a-2e4c0d241f02
+:END:
+
+**** 段话
+
+**** 星星
+
+叔叔现在还爱打篮球。
+
+**** 答案
+
+1
+
+*** 5
+:PROPERTIES:
+:ID: 8fc87246-188e-40aa-90a7-ee191e55d061
+:END:
+
+**** 段话
+
+**** 星星
+
+日记是他生活的一部分。
+
+**** 答案
+
+1
+
+*** 6
+:PROPERTIES:
+:ID: f5b93c02-5e8c-41cf-aad1-9fde494c0999
+:END:
+
+**** 段话
+
+**** 星星
+
+他正在排队买票。
+
+**** 答案
+
+0
+
+*** 7
+:PROPERTIES:
+:ID: fd139935-165b-409b-81de-392da5149fdd
+:END:
+
+**** 段话
+
+**** 星星
+
+他希望大家给他发短信。
+
+**** 答案
+
+0
+
+*** 8
+:PROPERTIES:
+:ID: cfc56484-6600-4791-9d49-d726320ac245
+:END:
+
+**** 段话
+
+**** 星星
+
+生气时别急着做决定。
+
+**** 答案
+
+1
+
+*** 9
+:PROPERTIES:
+:ID: be590943-7703-4487-8122-d0b123597ca2
+:END:
+
+**** 段话
+
+**** 星星
+
+妻子觉得房子很便宜。
+
+**** 答案
+
+0
+
+*** 10
+:PROPERTIES:
+:ID: 428567ec-6018-4364-a480-c1a50f0d9675
+:END:
+
+**** 段话
+
+**** 星星
+
+手机上网让生活更方便了。
+
+**** 答案
+
+1
+
+** 第二部分
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+*** 11
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: 5861b3c4-95a0-49c9-aa34-91b6a85ed562
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+饺子
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+羊肉
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+面包
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+饼干
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+c
+
+*** 12
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: 4f3f4dbc-6d0f-4b38-9b1b-c2deb5687ec5
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+警察
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+律师
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+司机
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+售货员
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+c
+
+*** 13
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: 9e505909-9415-4da9-b8c3-ff409395d6a1
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+要准时
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+椅子不够
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+会议推迟了
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+不能换座位
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+d
+
+*** 14
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: 40623ba2-ffef-4bde-a95e-389c6c8194a4
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+变瘦了
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+发工资了
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+生意谈成了
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+签证办好了
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+c
+
+*** 15
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: 0dba9bcf-beb2-4a72-ac5b-604ae19ba10f
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+约会
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+取钱
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+改密码
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+买信封
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+b
+
+*** 16
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: 63d7d5dd-3511-4a25-94c7-dd9827693ff0
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+邮局
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+教室
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+地铁站
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+卫生间
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+d
+
+*** 17
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: c05cdcf9-fc0f-49ae-8bdc-6779ea10e92c
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+家具旧了
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+裤子脏了
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+眼镜破了
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+镜子放低了
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+d
+
+*** 18
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: f14f0b7b-9eed-44be-98d5-96c170f0ccb0
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+洗碗
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+扔垃圾
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+拿毛巾
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+打扫厨房
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+c
+
+*** 19
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: 6abf9579-d7a6-48a8-b78a-5d0a8de0e47f
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+很愉快
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+很难过
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+很伤心
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+很紧张
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+a
+
+*** 20
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: 1604e3d4-40c0-4a7c-a855-8819e2b200e9
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+王教授
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+李校长
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+他孙女儿
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+一位护士
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+a
+
+*** 21
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: 3c1c8a4a-cfd0-43e1-a432-85c857cf04bb
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+5 毛
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+15 元
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+21 元
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+35 元
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+b
+
+*** 22
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: a94d57c8-d588-41f0-a19d-962fc39e2a04
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+眼睛疼
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+被骗了
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+昨晚没睡
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+遇到了困难
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+c
+
+*** 23
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:ID: bcbd26fa-00aa-4285-bc54-c9ba69704425
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+脱袜子
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+开空调
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+擦桌子
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+修理冰箱
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:30 -05]
+:END:
+
+b
+
+*** 24
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:ID: 6cbb81bd-4494-48cc-aed4-79f080d21f9b
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+事情解决了
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+客人很吃惊
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+任务没完成
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+男的想请假
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+a
+
+*** 25
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:ID: 5567d4e1-0717-4cf3-b250-4102c169760e
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+发烧了
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+专业不符
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+觉得辛苦
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+要照顾母亲
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 16:06:31 -05]
+:END:
+
+d
+
+** 第三部分
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+*** 26
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:ID: 7fcefeed-fcd3-4fbc-93cf-e7e203457b3f
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+做汤
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+做蛋糕
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+民族文化
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+儿童音乐
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+b
+
+*** 27
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:ID: e3266bbe-bfcf-402d-8f49-ac259f855d0e
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+价格高
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+不干净
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+换货麻烦
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+号码不合适
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+d
+
+*** 28
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:ID: 98a69793-6a71-4913-8f1f-d542392dbcec
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+别着急
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+别粗心
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+多练习
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+别去深水区
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+d
+
+*** 29
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:ID: 63f06894-0a5b-4e7d-a999-421569d493b9
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+迟到了
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+要加班
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+早上有课
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+放暑假了
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+c
+
+*** 30
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:ID: 9d5e5354-a8de-4f30-b0ea-d4fa8652059e
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+年底
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+出发前
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+旅行回来
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+儿子生日时
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+d
+
+*** 31
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:ID: 0660db71-6c54-4a77-98c1-3639f8bbb427
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+饭店
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+海洋馆
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+动物园
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+大使馆
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+b
+
+*** 32
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:ID: ced420c2-dfcb-4026-a77c-4d8ec6141e4c
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+少吃辣
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+去打针
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+多喝水
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+别总躺着
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+a
+
+*** 33
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:ID: 5440cea1-b793-4627-ae72-4f01b49d7641
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+阴天
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+降温了
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+变暖了
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+常刮风
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+c
+
+*** 34
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:ID: 6ea6e5f5-cd84-4fbb-9289-f934231262dc
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+预习
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+填表格
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+收拾房间
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+整理材料
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+a
+
+*** 35
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:ID: 5193ca36-2748-42d7-81aa-2c3b977c975b
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+腿长
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+聪明
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+有基础
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+经常总结
+
+**** 对话字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-26 13:49:48 -05]
+:END:
+
+c
+
+*** 36-37
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:ID: ba0a31d1-bf50-4df7-8b26-06ae3efde5c9
+:END:
+
+**** 课文字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+***** 36
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+同事
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+邻居
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+房东
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+服务员
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+a
+
+***** 37
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+没零钱了
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+输了比赛
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+认错人了
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+丢了钥匙
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+c
+
+*** 38-39
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:ID: b87e49b7-9a9c-41d6-8e85-77bd5feef07b
+:END:
+
+**** 课文字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+***** 38
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+只吃水果
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+适合女性
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+不能喝啤酒
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+多吃巧克力
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+a
+
+***** 39
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+很新鲜
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+过程长
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+不起作用
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+对身体不好
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+d
+
+*** 40-41
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:ID: 08b7a44d-2eff-4a48-872f-f38eb34ceeb9
+:END:
+
+**** 课文字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+***** 40
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+能打折
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+送饮料
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+能看表演
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+存包免费
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+a
+
+***** 41
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+是导游
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+年龄小
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+很马虎
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+在理发店工作
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+d
+
+*** 42-43
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:ID: 821b4751-33a8-4f8b-9534-350e9d5f6824
+:END:
+
+**** 课文字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+***** 42
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+医院北边
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+学校对面
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+烤鸭店西边
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+火车站旁边
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+b
+
+***** 43
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+爱购物
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+要去出差
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+喜欢散步
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+开了家餐厅
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+b
+
+*** 44-45
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:ID: e3ab5e37-db67-48df-8e9f-1eac5d7ad8d8
+:END:
+
+**** 课文字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+***** 44
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+要有耐心
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+人各有特点
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+理想很重要
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+植物需要阳光
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:05 -05]
+:END:
+
+b
+
+***** 45
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:06 -05]
+:END:
+
+****** 问题字稿
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:06 -05]
+:END:
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:06 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:06 -05]
+:END:
+
+少考试
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:06 -05]
+:END:
+
+多调查
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:06 -05]
+:END:
+
+降低标准
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:06 -05]
+:END:
+
+方法要多样
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:19:06 -05]
+:END:
+
+d
+
+* 阅读
+
+** 第一部分
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:27 -05]
+:END:
+
+*** 46-50
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:ID: 20f99edd-6f0d-4fd0-a251-5fef711f8c01
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+重
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+首先
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+观众
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+坚持
+
+***** e
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+擦
+
+***** f
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+地点
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+***** 46
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+****** 课文填空
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+爷爷，为什么橡皮能🟦掉铅笔写的字？
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+e
+
+***** 47
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+****** 课文填空
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+这部电影非常感人，很多🟦都被感动得哭了。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+c
+
+***** 48
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+****** 课文填空
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+不管别人怎么说，🟦你要对自己有信心才行。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+b
+
+***** 49
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+****** 课文填空
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+这次聚会的🟦是小李选的，时间也是他定的。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+f
+
+***** 50
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+****** 课文填空
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+谢谢，不用了，这个行李箱一点儿都不🟦，里面都是衣服。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 01:53:28 -05]
+:END:
+
+a
+
+*** 51-55
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:27 -05]
+:ID: 37ebb25e-09fe-4d37-8b2c-c217fab44cc9
+:END:
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:27 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:27 -05]
+:END:
+
+难受
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:27 -05]
+:END:
+
+郊区
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:27 -05]
+:END:
+
+温度
+
+***** d
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:27 -05]
+:END:
+
+流行
+
+***** e
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:27 -05]
+:END:
+
+香
+
+***** f
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:27 -05]
+:END:
+
+恐怕
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:27 -05]
+:END:
+
+***** 51
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:27 -05]
+:END:
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+Ａ：家里的果汁够吗？要不要再买几瓶？
+Ｂ：要是明天来的人多，🟦会不够，再买两瓶吧。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+f
+
+***** 52
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+Ａ：听说公司明年要搬到🟦，到时候我又得重新租房子了。
+Ｂ：这个消息准确吗？我怎么不知道？
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+b
+
+***** 53
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+Ａ：你稍微开慢点儿，我有点儿🟦。
+Ｂ：你怎么了？实在不行，我们在路边停下来休息会儿。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+a
+
+***** 54
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+Ａ：面条儿做好了，快来吃吧。
+Ｂ：真🟦啊，我最喜欢吃你做的西红柿鸡蛋面了。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+e
+
+***** 55
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+Ａ：姐，你觉得这条蓝色的裙子怎么样？
+Ｂ：挺好的，今年🟦蓝色，而且夏天穿这样的裙子也凉快。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 02:05:28 -05]
+:END:
+
+d
+
+** 第二部分
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:END:
+
+*** 56
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:ID: 4a7782ab-0436-480c-a63f-3916623ffb56
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:END:
+
+意思是希望朋友之间的友好关系
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:END:
+
+能够一直继续下去，越久越好
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:END:
+
+人们常说“友谊地久天长”
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:END:
+
+cab
+
+*** 57
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:ID: 57407c85-3c93-47fc-9538-25b53430be01
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:END:
+
+只要找出文中的关键信息
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:END:
+
+就可以在短时间内了解文章的大意
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:END:
+
+做到快速阅读其实不难，简单来说
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:END:
+
+cab
+
+*** 58
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:ID: 85351f1a-31f2-4391-a945-ea2c8aecb6d8
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:58 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+请不要在园区内抽烟，谢谢
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+欢迎大家来到国家森林公园
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+为了保证您和他人的安全
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+bca
+
+*** 59
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:ID: a8c2c2c9-e6da-4a38-9295-5241f1d0eb77
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+如果你不能勇敢地走出第一步
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+所以，千万不要因为害怕失败而不敢开始
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+就永远没有机会获得成功
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+acb
+
+*** 60
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:ID: ac2c83b9-1430-4911-9372-c76f83f5bf91
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+不过这里以前比较安静
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+我对这里当然熟悉了，我家原来就住这儿附近
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+不像现在这么热闹
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+bac
+
+*** 61
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:ID: 71f2e30a-72ad-4da5-a8f3-653b27b4496a
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+就是有时语法上会有点儿小错误
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+他的中文说得很流利
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+但我们交流起来完全没问题
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+bac
+
+**** 笔记
+:PROPERTIES:
+:CREATED: [2023-01-04 20:16:53 -05]
+:END:
+
+交流 🟦 jiao1 liu2 🟦 v. to exchange 🟦
+*** 62
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:ID: ee7dbec3-a96d-4a5f-9d3e-d5dca58f0f9c
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+这样到时候你才不会手忙脚乱
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+无论干什么事情
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+最好都能提前做好计划
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+bca
+
+*** 63
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:ID: e552250a-8105-4d98-b373-5a91817fd30b
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+意思是希望孩子能健健康康地长大
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+“虎头鞋”因其前半部分像老虎头而得名
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+有些地方父母会给一岁左右的孩子穿上这种鞋
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+bca
+
+*** 64
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:ID: 43b0f7ba-fb5d-4805-9f26-92d709b8c288
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+4 年的留学生活很快就要结束了
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+相信这些都会成为我日后的美好回忆
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+我在这里经历了很多，也学到了很多
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+acb
+
+*** 65
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:ID: 9f5f7276-fb74-4c7e-93d9-668efdc3de0d
+:END:
+
+**** 句子
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+我们还是把它推到里面去吧
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+把这个地方空出来
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+沙发太大了，放这儿容易堵着门，进出不方便
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 11:01:59 -05]
+:END:
+
+cab
+
+** 第三部分
+:PROPERTIES:
+:CREATED: [2022-12-27 10:37:38 -05]
+:END:
+
+*** 66
+:PROPERTIES:
+:ID: f1806c21-b60c-4579-aada-76d490f969cd
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+各位乘客，大家好，感谢大家乘坐此次航班，我们的飞机将于 20 分钟后降落在北京首都国际机场。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+飞机：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+晚点了
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+要降落了
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+由北京出发
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+刚起飞不久
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+b
+
+*** 67
+:PROPERTIES:
+:ID: 7714c958-333c-43a3-a3ad-abfd94267186
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+上午来应聘的那个小伙子是学电子技术的，成绩很优秀，通过面试时和他的对话，感觉他的性格也不错，我觉得他挺适合这份工作的。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+他觉得那个小伙子怎么样？
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+很帅
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+不诚实
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+性格好
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+能力一般
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+c
+
+*** 68
+:PROPERTIES:
+:ID: baa73826-3d95-40c7-a877-caeda4419dac
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+生活中有这样两种人：一种总是看别人怎么生活，另一种喜欢生活给别人看。其实，每个人有每个人的生活，不用羡慕他人，也用不着向别人证明什么，只要用心走好自己的路，幸福就在前方。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+根据这段话，我们应该：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+学会拒绝
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+少发脾气
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+保护自己
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+过好自己的生活
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+d
+
+*** 69
+:PROPERTIES:
+:ID: 47bb6f89-4b7d-49be-b4a6-cdda20cc1abd
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+除了正式的名字，中国人一般都有个小名。往往孩子还没出生，父母就已经起好了小名。小名一般都比较好听好记，而且多数是两个相同的字，例如“乐乐”“笑笑”“聪聪”等。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+小名往往：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+比较好记
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+都很浪漫
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+不受重视
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+是一种玩笑
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+a
+
+*** 70
+:PROPERTIES:
+:ID: 374037cb-434b-4bd7-a48f-db6cb8594ef6
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+我叫张远，今天上午在图书馆丢了一张饭卡，卡上有我的姓名和学号。如果有同学看见了我的饭卡，请速与我联系，非常感谢。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+他写这段话的目的是：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+道歉
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+找回饭卡
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+通知朋友
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+申请奖学金
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+b
+
+*** 71
+:PROPERTIES:
+:ID: 7de520a8-105c-4b76-94eb-b8f06628952e
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+时间是无价的，一个人再怎么有钱，也买不到时间。知识忘了可以重新学，钱花光了可以再赚，可是时间过去了就永远回不来了。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+这段话主要想告诉我们：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+要勇敢
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:00 -05]
+:END:
+
+知识很重要
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+要管理好钱
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+不要浪费时间
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+d
+
+*** 72
+:PROPERTIES:
+:ID: a086f123-757e-4637-8e95-9a2b8e2f95ba
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+很多网站上都说，刷牙时在牙膏上加点儿盐，坚持一段时间，就能使牙变白。我打算试试，看看这个方法究竟有没有效。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+“这个方法”指的是：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+吃 7 分饱
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+自备塑料袋
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+皮肤增白法
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+牙膏里加盐
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+d
+
+*** 73
+:PROPERTIES:
+:ID: a6ce43ba-49f4-42b9-ae0d-32ffd4211bc4
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+山东省烟台市是中国著名的“苹果之都”。由于气候等自然条件较好，那儿的苹果个儿大，味道香甜，颜色也漂亮，吸引了很多人前去购买。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+烟台：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+空气差
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+常下雪
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+苹果很有名
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+到处是葡萄树
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+c
+
+*** 74
+:PROPERTIES:
+:ID: 8ccc0758-eb3e-46d7-88d9-bbd841f23fd0
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+很多人习惯在早上锻炼身体，但室外锻炼并不是越早越好，尤其是冬天，日出前温度较低，并不适合运动。医生建议：冬季锻炼最好选在日出后，而且运动量不要太大，可以跑跑步、打打羽毛球等。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+冬季锻炼最好：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+在室内
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+穿厚点儿
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+日出后进行
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+别超过半小时
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+c
+
+*** 75
+:PROPERTIES:
+:ID: a8aacba3-2ac0-4e7b-abf5-d70237f8371f
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+这是本介绍最新科学发现和研究的杂志，它的语言简单易懂，而且十分幽默。像我这种对科学完全不感兴趣的人，读起来竟然也会觉得很有趣。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+那本杂志：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+页数很多
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+很有意思
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+很难理解
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+是关于艺术的
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+b
+
+*** 76
+:PROPERTIES:
+:ID: 8a9096cf-8ccd-4515-a9ce-a082fc1afe63
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+有些人对自己要求非常严格，不允许自己出现任何错误。虽然对自己要求高是好事，但谁都会有缺点，我们应该学会接受自己的缺点，并想办法把它们改掉。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+这段话告诉我们，要：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+有礼貌
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+接受批评
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+正确认识缺点
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+学会原谅别人
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+c
+
+*** 77
+:PROPERTIES:
+:ID: fda45108-5702-4d6a-b08b-09b8ad522c32
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+今天的晚会太精彩了，特别是那些外国留学生表演的中国功夫，动作既标准又好看，非常棒。以后如果还有这样的晚会，一定要告诉我啊。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+他认为功夫表演：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+好极了
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+让人失望
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+不太合格
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+让人很放松
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+a
+
+*** 78
+:PROPERTIES:
+:ID: 6decd512-0d48-4dc2-b48e-1e269febc445
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+“责任感”指的是一种对工作负责的态度。一个人即使能力再高，经验再丰富，如果缺少责任感，也很难获得别人的尊重。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+责任感能使人：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+赢得尊重
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+获得支持
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+变得自信
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+得到鼓励
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+a
+
+*** 79
+:PROPERTIES:
+:ID: 2df73099-2415-4527-bca2-f31049b5e55b
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+我叔叔以前是记者，因为职业的关系，他几乎走遍了亚洲所有的国家，看到了很多美景，也认识了许多朋友，后来他把自己的经历写成了一本书。
+
+**** 星星
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+他叔叔：
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+力气很大
+
+***** b
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+爱看小说
+
+***** c
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+体育很好
+
+***** d
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+去过很多国家
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2023-01-01 16:59:01 -05]
+:END:
+
+d
+
+*** 80-81
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:ID: 8735a2dc-f25f-4bf0-b96c-2202d422c4d6
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+很晚了，5 岁的女儿还在看电视。我对她说：“再看 10 分钟就去洗脸睡觉。”她不高兴地说：“10 分钟太短了。”于是我说：“那就 600 秒，够长了吧？”女儿听后开心地说：“够了够了，妈妈真好。”
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+***** 80
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+****** 星星
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+她让女儿：
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+洗澡
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+快去睡
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+早点儿起床
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+弹会儿钢琴
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+b
+
+***** 81
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+****** 星星
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+女儿为什么后来又高兴了？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+鱼做好了
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+收到礼物了
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+受到表扬了
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+以为时间增加了
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+d
+
+*** 82-83
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:ID: c63728fb-0410-48bf-9aa7-cd9522c72a90
+:END:
+
+**** 段话
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+现在全世界大约 80 多个国家有高速公路。高速公路一般能适应每小时 120公里或者更高的速度，其发展情况往往可以看出一个国家的交通及经济发展水平。高速公路既有优点也有缺点，优点是行车速度快，安全方便，可以减少铁路等方面的交通压力；缺点是对环境影响大、收费高。
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+***** 82
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+****** 星星
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+通过高速公路，可以判断该国的：
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+经济水平
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+教育情况
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+汽车数量
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+环境质量
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+a
+
+***** 83
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+****** 星星
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+高速公路有什么优点？
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+不堵车
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+污染小
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+行车快且方便
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+周围收费站少
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+c
+
+*** 84-85
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:ID: dbcd55e2-4d95-4039-b531-8fea82054fca
+:END:
+
+**** 课文
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+虽然我们常说要按规定做事，但有句话叫“规定是死的，人是活的”。它提醒我们，当“规定”和“经验”不能解决问题时，应该改变自己的态度和想法，试着走走以前从来没走过的路，也许这样就能找到解决问题的方法了。
+
+**** 题
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+***** 84
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+****** 星星
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+“人是活的”这里“活”指的是：
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+富有热情
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+懂得改变
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+有同情心
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+感情丰富
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+b
+
+***** 85
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+****** 星星
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+根据这段话，规定：
+
+****** 选择
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+******* a
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+可以被打破
+
+******* b
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+越详细越好
+
+******* c
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+要符合法律
+
+******* d
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+不能太复杂
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 10:58:08 -05]
+:END:
+
+a
+
+* 书写
+
+** 第一部分
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+*** 86
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:ID: ebb9a0a8-e004-4967-8518-599ad379dd31
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+不错
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+这台
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+质量
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+洗衣机的
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+这台洗衣机的质量不错。
+
+*** 87
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:ID: e8c6806b-fa03-4e36-b712-2c5f8a2bd782
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+著名的
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+是
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+她丈夫
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+京剧演员
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+她丈夫是著名的京剧演员。
+
+*** 88
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:ID: e334345f-3333-4b4b-935a-87ba6fc7468a
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+我
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+客厅
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+把
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+收拾
+
+***** 5
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+好了
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+我把客厅收拾好了。
+
+*** 89
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:ID: dc29f49d-9a86-46c2-95af-2519ad333c64
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+两
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+公里
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+大概有
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+加油站离这儿
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+加油站离这儿大概有两公里。
+
+*** 90
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:ID: 8130ceca-effe-42e6-9f2b-934c0f4f0dde
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+发生
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+在
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+这个故事
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+上个世纪末
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+这个故事发生在上个世纪末。
+
+*** 91
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:ID: 8795efac-db56-4a57-88d1-4492c5d6872d
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+意见和看法
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+谈了
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+大家
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+都
+
+***** 5
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+自己的
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+大家都谈了自己的意见和看法。
+
+*** 92
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:ID: f1fc1780-4f6e-4a45-b183-d0f538ca3d83
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+要
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+好习惯
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+的
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+养成
+
+***** 5
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+节约用水
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+要养成节约用水的好习惯。
+
+*** 93
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:ID: 95b63193-b0f4-4640-88b9-be8d63163db2
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+普通话
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+他的
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+说得
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+不太标准
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+他的普通话说得不太标准。
+
+*** 94
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:ID: c7cdea7c-bad7-4b67-bf0d-da0d513bbdbf
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+出发还
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+吗
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+你现在
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+来得及
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+你现在出发还来得及吗？
+
+*** 95
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:ID: 4c2c997e-bba1-4d01-bee0-9ac207ee3ae7
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+排好队
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+按照
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+顺序
+
+***** 4
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+请同学们
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-12-27 14:28:44 -05]
+:END:
+
+请同学们按照顺序排好队。
+
+** 第二部分
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:END:
+
+*** 96
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:ID: b9927642-9b9e-4119-9b28-7934c8ace053
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:END:
+
+包子
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:END:
+
+这家店的包子非常好吃。
+
+*** 97
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:ID: 66d870fe-d8d2-4447-bcf2-8c48c0d6b6ed
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:END:
+
+到底
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:END:
+
+答案到底是什么呢？
+
+*** 98
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:ID: 3bb1ccf4-5774-4db9-8943-636d332f7b13
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:END:
+
+毕业
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:END:
+
+祝贺你顺利毕业！
+
+*** 99
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:ID: dad71f3f-e20f-4086-abd5-a8f234f74d89
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:END:
+
+抱
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:END:
+
+你怎么抱这么多书？我来帮你吧。
+
+*** 100
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:ID: e51573a5-f5d4-4fc9-afeb-30f4a500f77f
+:END:
+
+**** 词语
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:END:
+
+长城
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-27 14:41:16 -05]
+:END:
+
+下周末我准备去爬长城。
+

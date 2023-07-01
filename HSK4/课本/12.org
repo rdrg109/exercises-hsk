@@ -1,0 +1,645 @@
+* 热身
+
+** 1
+:PROPERTIES:
+:ID: b59ea8c8-9c84-480d-81c3-701aa8300bff
+:END:
+
+*** 1
+
+**** 词语
+
+盐
+
+**** 答案
+
+a
+
+*** 2
+
+**** 词语
+
+友好
+
+**** 答案
+
+c
+
+*** 3
+
+**** 词语
+
+相反
+
+**** 答案
+
+d
+
+*** 4
+
+**** 词语
+
+叶子
+
+**** 答案
+
+b
+
+*** 5
+
+**** 词语
+
+教育
+
+**** 答案
+
+f
+
+*** 6
+
+**** 词语
+
+商量
+
+**** 答案
+
+e
+
+* 课文1
+:PROPERTIES:
+:CREATED: [2022-07-06 23:13:43 -05]
+:END:
+
+** 1
+
+*** 标题
+
+王经理做生意遇到了困难
+
+*** 对话
+
+王经理：听说这次生意你到现在还没谈成。
+马经理：接我以前的经验，早应该谈成了，这次我也不知道哪儿除了问题。
+王经理：有句话叫：”规定和应验是死的，认识活的”。当“规定”和“经验”不能解决问题时，建议你改变一下自己的态度和想法。
+马经理：很多时候，我都习惯根据过去的经验做事，可惜，经验不是全部都是对的。
+王经理：遇到不能解决的问题时，我们应该试着走走以前从来没走过的路，也许这样就能找到解决问题的方法了。
+马经理：好，我再跟同事商量商量，希望能及时发现问题，并且准确地找到解决问题的方法。
+
+**** 对我生词
+
+生意 🟦 sheng1 yi 🟦 business ;
+遇到 🟦 yu4 dao4 🟦 to come across ;
+困难 🟦 kun4 nan 🟦 difficult ;
+谈成 🟦 tan2 cheng2 🟦 ;
+经验 🟦 jing1 yan4 🟦 experience ;
+建议 🟦 jian4 yi4 🟦 to advice ;
+改变 🟦 gai3 bian4 🟦 to transform ;
+态度 🟦 tai4 du4 🟦 attitude ;
+方法 🟦 fang1 fa3 🟦 way ;
+准确 🟦 zhun3 que4 🟦 accurate ;
+
+*** 生词
+
+1. 规定 🟦 gui1ding4 🟦 n. rule, regulation ;
+2. 死 🟦 si3 🟦 adj. rigid, inflexible ;
+3. 可惜 🟦 ke3xi1 🟦 adj. pitiful, regretful ;
+4. 全部 🟦 quan2bu4 🟦 n. all, whole ;
+5. 也许 🟦 ye3xu3 🟦 adv. maybe, perhaps ;
+6. 商量 🟦 shang1liang 🟦 v. to discuss ;
+7. 并且 🟦 bing4qie3 🟦 conj. and ;
+
+** 2
+
+*** 标题
+
+高老师告诉女儿洗衣服的方法
+
+*** 对话
+
+女儿：妈，您看我刚买的裤子，洗完以后颜色怎么变得这么难看呢？
+高老师：看来是掉颜色了，你洗的时候在水里加点儿盐就不会这样了。
+女儿：放盐？！盐不是用来做饭的吗？难道它还能让衣服不掉颜色？
+高老师：当然。有些衣服第一次洗的时候会掉颜色，其实，有很都方法可以解决这个问题。在水里加勺盐再洗是最简单的方法。用盐水来洗新衣服，这样穿得再久、洗的次数再多，衣服也不容易掉颜色。
+女儿：我第一次听说盐有保护衣服颜色的作用，生活种还真有不少课本上无法学到的知识。
+高老师：买际上，很多问题的答案都可以从生活中找到，但这需要你用眼睛去发现，用心去总结。
+
+**** 对我生词
+
+难道 🟦 nan2 dao4 🟦 could it be that? ;
+掉 🟦 diao4 🟦 to drop ;
+知识 🟦 zhi3 shi 🟦 knowledge ;
+总结 🟦 zong3 jie2 🟦 to sum up ;
+
+*** 生词
+
+8. 盐 🟦 yan2 🟦 n. salt ;
+9. 勺子 🟦 shao2 (zi) 🟦 n. spoon ;
+10. 保护 🟦 bao3hu4 🟦 v. to protect ;
+11. 作用 🟦 zuo4yong4 🟦 n. function ;
+12. 无法 🟦 wu2fa3 🟦 v. cannot, to be unable (to do sth.) ;
+无 🟦 wu2 🟦 v. not ot have, to be without ;
+
+**** UNANSWERED [#C]
+:PROPERTIES:
+:CREATED: [2022-12-19 19:23:18 -05]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-19 19:23:22 -05]
+:END:
+
+Why doesn't the character 无 has numbering?
+:LOGBOOK:
+- State "UNANSWERED" from              [2022-12-19 Mon 19:23]
+:END:
+** 3
+
+*** 标题
+
+高老师学习王教授的教育方法
+
+*** 对话
+
+高老师：王教授，今天听完您的这节课，我终于明白为什么您的课那么受学生欢迎了。
+王教授：谢谢！您能详细谈谈对我的课的看法吗？
+高老师：我发现您对学生特别了解，而且总是能用最简单的方法把复杂的问题解释清楚，让每个学生都能听懂，这一点真是值得我们好好儿学习。
+王教授：哪里哪里，这只是因为我对每个学生的能力水平比较了解。
+高老师：那你认为对于老师来说，什么是最难做到的？
+王教授：世界上没有完全相同的叶子，同样地，世界上也没有完全一样的人。所以，在教育学生时，要根据学生的特点选择不同的方法，我想这应该是最不容易做到的。
+
+**** 对我生词
+
+教授 🟦 jiao4 shou4 🟦 professor ;
+教育 🟦 jiao4 yu4 🟦 to educate ;
+方法 🟦 fang1 fa3 🟦 method ;
+看法 🟦 kan4 fa3 🟦 opinion ;
+复杂 🟦 fu4 za2 🟦 complicated ;
+能力 🟦 neng2 li4 🟦 ability ;
+
+*** 生词
+
+13. 节 🟦 jie2 🟦 m. section, length ;
+14. 详细 🟦 xiang2xi4 🟦 adj. detailed ;
+15. 解释 🟦 jie3shi4 🟦 v. to explain ;
+16. 对于 🟦 dui4yu2 🟦 prep. for, to, with regard to ;
+17. 叶子 🟦 ye4zi 🟦 n. leaf ;
+18. 教育 🟦 jiao4yu4 🟦 v. to educate ;
+
+* 课文2
+
+** 4
+
+*** 段话
+
+人人都会使用语言，但是怎么用语言把话说好却是一门艺术。看一个人怎么说话，往往可以比较准确地判断出他是一个什么样的人。有的人心里怎么想，嘴上就怎么说，即使是别人的缺点，他也会直接说出来，这样的人虽然很诚实，但是可能会引起别人的误会；有的人虽然也看到了别人的缺点，但却不会直接指出来，而是通过别的方法来提醒，让她认识到自己的缺点，这样的人会让人觉得更友好。
+
+**** 对我生词
+
+艺术 🟦 yi4 shu4 🟦 art ;
+往往 🟦 wang3 wang3 🟦 often ;
+准确 🟦 zhun3 que4 🟦 accurate ;
+判断 🟦 pan4 duan4 🟦 to judge ;
+即使 🟦 ji2 shi3 🟦 even if ;
+诚实 🟦 cheng2 shi2 🟦 honest ;
+缺点 🟦 que1 dian3 🟦 fault ;
+提醒 🟦 ti2 xing3 🟦 to remind ;
+
+*** 生词
+
+19. 使用 🟦 shi3yong4 🟦 v. to use ;
+20. 语言 🟦 yu3yan2 🟦 n. language ;
+21. 直接 🟦 zhi2jie1 🟦 adj. direct, straight ;
+22. 引起 🟦 yin3qi3 🟦 v. to cause, to lead to ;
+23. 误会 🟦 wu4hui4 🟦 n. misunderstanding ;
+24. 友好 🟦 you3hao3 🟦 adj. friendly ;
+
+** 5
+
+*** 段话
+
+无论做什么事情，都要注意方法，学习尤其是这样。使用正确的方法，我们做起事来能“事半功倍“，也就是说，能节约时间，用较少的力气，取得更好的效果。相反，如果方法不对，可能花五倍甚至十倍的时间都不能完成任务，结果变成了“事倍功半”。有一点需要提醒大家，别人的方法也许得有效，但是并不一定适合自己。因此，我们应该在听取别人意见的同时，仔细考虑一下，再根据不同的情况选择不同的方法，这样才能达到最好的效果。
+
+**** 对我生词
+
+无论 🟦 wu2 lun4 🟦 no matter what ;
+尤其 🟦 you2 qi2 🟦 particularly ;
+使用 🟦 shi3 yong4 🟦 to use ;
+正确 🟦 zheng4 que4 🟦 correct ;
+方法 🟦 fang1 fa3 🟦 means ;
+取得 🟦 qu3 de2 🟦 to acquire, to get, to obtain ;
+听取 🟦 ting1 qu3 🟦 to listen to ;
+甚至 🟦 shen4 zhi4 🟦 even ;
+效果 🟦 xiao4 guo3 🟦 result ;
+事倍功半 🟦 shi4 bei4 gong1 ban4 🟦 twice the effort for half the result ;
+提醒 🟦 ti2 xing3 🟦 to remind ;
+五倍 🟦 wu3 bei4 🟦 five times ;
+十倍 🟦 shi2 bei4 🟦 ten times ;
+
+*** 生词
+
+25. [X] 事半功倍 🟦 shi4 ban4 gong1 bei4 🟦 to achieve twice the result with half the effort ;
+26. 节约 🟦 jie2yue1 🟦 v. to economize, to save ;
+27. 力气 🟦 li4qi 🟦 n. physical strength, effort ;
+28. 相反 🟦 xiang1fan3 🟦 conj. on the contrary ;
+29. 任务 🟦 ren4wu 🟦 n. task, mission ;
+30. 意见 🟦 yi4jian4 🟦 n. opinion, suggestion ;
+31. 仔细 🟦 zi3xi4 🟦 adj. careful, meticulous ;
+32. 达到 🟦 da2dao4 🟦 v. to reach, to attain ;
+
+**** UNANSWERED [#C]
+:PROPERTIES:
+:CREATED: [2022-12-19 19:27:16 -05]
+:END:
+:LOGBOOK:
+- State "UNANSWERED" from              [2022-12-19 Mon 19:27]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-19 19:27:21 -05]
+:END:
+
+
+Definition no. 25 doesn't have a lexical category. I think this happens because it is an idiom.
+
+Previously, I had found words without lexical category, however they weren't idioms.
+
+Why doesn't this group of words doesn't have lexical category?
+* 练习
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 1541c855-01a1-4c31-bed3-87df9e3dd8ec
+:END:
+
+**** 选择
+
+***** 1
+
+引起
+
+***** 2
+
+也许
+
+***** 3
+
+仔细
+
+***** 4
+
+作用
+
+***** 5
+
+可惜
+
+**** 题
+
+***** 1
+
+****** 段话填空
+
+她表示要放弃这个去国外留学的机会，同学们都觉得很🟦。
+
+****** 答案
+
+可惜
+
+***** 2
+
+****** 段话填空
+
+如果你觉得心烦，可以吃点儿蛋糕或者巧克力，这些甜的东西🟦会给你带来好好心情。
+
+****** 答案
+
+也许
+
+***** 3
+
+****** 段话填空
+
+现在网上银行的🟦，越来越大。有了它，网上购物就方便多了，还可以在网上交水费、电费等。
+
+****** 答案
+
+作用
+
+***** 4
+
+****** 段话填空
+
+你现在做出的每一个决定都有可能影响到你的将来。所以，做决定之前前最好🟦考虑一下。
+
+****** 答案
+
+仔细
+
+***** 5
+
+****** 段话填空
+
+事情的原因和结果往往是互相联系的。一定的原因会🟦一定的结果，有时候一件事情的结果可能又是另外一件事情的原因。
+
+****** 答案
+
+引起
+
+*** 6-10
+:PROPERTIES:
+:ID: ed8c3ee2-0e3c-49c0-9e74-2da713163176
+:END:
+
+**** 选择
+
+***** 1
+
+详细
+
+***** 2
+
+解释
+
+***** 3
+
+商量
+
+***** 4
+
+力气
+
+***** 5
+
+直接
+
+**** 题
+
+***** 6
+
+****** 对话填空
+
+Ａ：咱们在这儿休息一会儿吧，我没🟦爬了。
+Ｂ：一看就知道你不经常锻炼。
+
+****** 答案
+
+力气
+
+***** 7
+
+****** 对话填空
+
+Ａ：刚才手机没电了，听说你打电话找我了，有什么事吗？
+Ｂ：大家在教室🟦晚会节目的事情呢，就差你了。
+
+****** 答案
+
+商量
+
+***** 8
+
+****** 对话填空
+
+Ａ：经理，新的计划发您信箱了，您看了吗？
+Ｂ：内容太简单，不够🟦，明天我们得再开会商量商量。
+
+****** 答案
+
+详细
+
+***** 9
+
+****** 对话填空
+
+Ａ：你有没有李律师的电话号码？我想问他几个法律方面的问题。
+Ｂ：有，我发到你手机上，你🟦跟他联系就行。
+
+****** 答案
+
+直接
+
+***** 10
+
+****** 对话填空
+
+Ａ：怎么样？事情解决了吧？
+Ｂ：对，我向那位顾客🟦了这次不能及时送贷的原因，她表示可以理解。
+
+****** 答案
+
+解释
+
+* 注释
+
+** 3
+
+*** 比一比
+
+**** 做一做
+
+***** 词语
+
+****** 1
+
+对于
+
+****** 2
+
+关于
+
+***** 题
+
+****** 1
+:PROPERTIES:
+:ID: 762e5d48-4d89-4652-bd5b-ec9e1e33b3ff
+:END:
+
+******* 课文
+
+🟦这个问题，你应该再认真地考虑一下。
+
+******* 答案
+
+******** 1
+
+1
+
+******** 2
+
+1
+
+****** 2
+:PROPERTIES:
+:ID: 1d42f593-ebfe-47f7-9e4a-6d263144521b
+:END:
+
+******* 课文
+
+🟦这方面的情况，大家最好上网去查一查。
+
+******* 答案
+
+******** 1
+
+0
+
+******** 2
+
+1
+
+****** 3
+:PROPERTIES:
+:ID: 9c632f2d-7373-40dd-97b2-09ff9fd011ae
+:END:
+
+******* 课文
+
+🟦怎样提高中文阅读能经力，这一学习方法实践证明是有效的。
+
+******* 答案
+
+******** 1
+
+0
+
+******** 2
+
+1
+
+****** 4
+:PROPERTIES:
+:ID: 09e756da-2933-4910-9e95-4b3e8fdf577f
+:END:
+
+******* 课文
+
+现在人们🟦自然环境越来越注意保护了。
+
+******* 答案
+
+******** 1
+
+1
+
+******** 2
+
+0
+
+****** 5
+:PROPERTIES:
+:ID: 3562b2be-2bea-4529-b15f-48143c64ddf4
+:END:
+
+******* 课文
+
+昨天在报纸上看到一篇🟦这位明星的新闻，才知道她竟然还只是一位在校大学生。
+
+******** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-12-26 12:00:15 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-26 Mon 18:49]
+- State "UNANSWERED" from              [2022-12-26 Mon 12:00]
+:END:
+
+********* Question
+:PROPERTIES:
+:CREATED: [2022-12-26 12:00:18 -05]
+:END:
+
+在这个句子里，“校”什么意思？
+
+昨天在报纸上看到一篇关于这位明星的新闻，才知道她竟然还只是一位在➡️校⬅️大学生。
+
+********* Answer
+:PROPERTIES:
+:CREATED: [2022-12-26 18:47:21 -05]
+:END:
+
+They are still learning in the university.
+
+Those students that are doing internships can't be used with 校.
+
+******** 笔记
+:PROPERTIES:
+:CREATED: [2022-12-26 11:53:16 -05]
+:END:
+
+明星 🟦 ming2​xing1​ 🟦 n. star, celebrity ;
+竟然 🟦 jing4ran2 🟦 unexpectedly ;
+
+******* 答案
+
+******** 1
+
+0
+
+******** 2
+
+1
+
+* 扩展
+
+** 做一做
+:PROPERTIES:
+:ID: 342f9b9d-4f4f-49b5-8761-d90df65ee61e
+:END:
+
+*** 选择
+
+**** 1
+
+信用卡
+
+**** 2
+
+作用
+
+**** 3
+
+使用
+
+*** 题
+
+**** 1
+
+***** 内容填空
+
+很多葡萄酒的瓶子都是深色的，这是因为太阳光会让酒的味道发生改变，而深色酒瓶能起到保护🟦。
+
+***** 答案
+
+****** 1
+
+作用
+
+**** 2
+
+***** 内容填空
+
+Ａ：我的钱包怎么不见了？钱和🟦都在里面呢。
+Ｂ：你先别着急，仔细回忆一下，你最后在哪儿用过它。
+
+***** 答案
+
+****** 1
+
+信用卡
+
+**** 3
+
+***** 内容填空
+
+新闻往往🟦数字来说明问题，所以这些数字必须是准确的，只有这样，才能证明新闻的“真”，才是对读者负责。
+
+***** 答案
+
+****** 1
+
+使用
+

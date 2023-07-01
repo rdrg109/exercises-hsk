@@ -1,0 +1,613 @@
+* 热身
+
+** 1
+:PROPERTIES:
+:ID: d6877f09-7a4e-4a62-b11e-af6974077522
+:END:
+
+*** 1
+
+**** 词语
+
+吃惊
+
+**** 答案
+
+f
+
+*** 2
+
+**** 词语
+
+开心
+
+**** 答案
+
+c
+
+*** 3
+
+**** 词语
+
+欢众
+
+**** 答案
+
+e
+
+*** 4
+
+**** 词语
+
+讨论
+
+**** 答案
+
+d
+
+*** 5
+
+**** 词语
+
+餐厅
+
+**** 答案
+
+a
+
+*** 6
+
+**** 词语
+
+互联网
+
+**** 答案
+
+b
+
+* 课文1
+:PROPERTIES:
+:CREATED: [2022-07-07 15:10:27 -05]
+:END:
+
+** 1
+
+*** 标题
+
+小雨和小夏在聊小夏的爷爷表演京剧的情况
+
+*** 对话
+
+小雨：小夏，你爷爷京剧唱得真专业，我还以为她是京剧演员呢。
+小夏：对啊，他本来就是京剧演员，年轻时在我们那儿很有名，深受观众们的喜爱。
+小雨：你爷爷一定对京剧有着很深厚的感情。
+小夏：是呀，他8岁就开始上台演出，到现在大概唱了60多年了，他对这们艺术的喜爱从来没有改变过。
+小雨：这么说你喜欢听京剧也是受了你爷爷的影响？
+小夏：我小时候经常去看他的演出。平时他还给我讲很多京剧里的历史故事，让我学到了很多知识。
+
+**** 对我生词
+
+表演 🟦 biao3 yan3 🟦 performance ;
+专业 🟦 zhuan1 ye4 🟦 professional ;
+深 🟦 shen1 🟦 deep ;
+受 🟦 shou4 🟦 to accept ;
+感情 🟦 gan3 qing2 🟦 emotion, sentiment ;
+艺术 🟦 yi4 shu4 🟦 art ;
+平时 🟦 ping2 shi2 🟦 normal times ;
+历史 🟦 li4 shi3 🟦 history ;
+知识 🟦 zhi1 shi 🟦 knowledge ;
+
+*** 生词
+
+1. 京剧 🟦 jing1ju4 🟦 n. Beijing opera ;
+2. 演员 🟦 yan3yuan2 🟦 n. actor/actress ;
+3. 观众 🟦 guan1zhong4 🟦 n. audience ;
+4. 厚 🟦 hou4 🟦 adj. deep, profound ;
+5. 演出 🟦 yan3chu1 🟦 v. to perform, to put on (a show) ;
+6. 大概 🟦 da4gai4 🟦 adv. roughly, approximately ;
+** 2
+
+*** 标题
+
+小雨和马克在聊京剧
+
+*** 对话
+
+小雨：真没想到你一个来自美国的外国留学生，能把京剧唱得这么好。
+马克：我常常跟着电视学唱京剧，然后一遍一遍地练习，偶尔跟中国人一起唱上几句。
+小雨：难道你从来没有接受过京剧方面的专门教育吗？
+马克：别吃惊，因为我以前学习过音乐、有一些音乐基础，又对京剧这种表演艺术非常感兴趣，所以能比较容易地学会它的唱法。
+马克：你真厉害！竟然连很多中国人都听不懂的京剧也能学会。我还是比较喜欢听流行音乐。
+小雨：那是你不了解京剧的唱法。在音乐方面，京剧给了我很多新的想法。我还把京剧的一些特点增加到了自己的音乐中，达到了很好的效果。
+
+**** 对我生词
+
+京剧 🟦 jing1 ju4 🟦 Beijing opera ;
+常常 🟦 chang2 chang2 🟦 often ;
+句 🟦 ju4 🟦 sentence ;
+表演 🟦 biao3 yan3 🟦 performance ;
+唱法 🟦 chang4 fa3 🟦 singing style ;
+厉害 🟦 li4 hai 🟦 awesome, serious ;
+竟然 🟦 jing4 ran2 🟦 actually ;
+连 🟦 lian2 🟦 even ;
+学会 🟦 xue2 hui4 🟦 to master ;
+流行 🟦 liu2 xing2 🟦 (of a style of something, e.g. clothing, song, etc.) popular ;
+增加 🟦 zeng1 jia1 🟦 to increase ;
+达到 🟦 da2 dao4 🟦 to achieve ;
+效果 🟦 xiao4 guo3 🟦 result ;
+
+*** 生词
+
+7. 来自 🟦 lai2zi4 🟦 v. to be from ;
+8. 遍 🟦 bian4 🟦 m. /(denoting an action from beginning to end)/ time;
+9. 偶尔 🟦 ou3'er3 🟦 adv. occassionally, once in a while ;
+10. 吃惊 🟦 chi1 jing1 🟦 v. to be surprised, to be shocked ;
+11. 基础 🟦 ji1chu3 🟦 n. basis, foundation ;
+12. 表演 🟦 biao3yan4 🟦 v. to act, to perform ;
+
+**** UNANSWERED [#C]
+:PROPERTIES:
+:CREATED: [2022-12-19 19:29:39 -05]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-19 19:29:47 -05]
+:END:
+
+The pinyin of which other words contain the notation ='=?
+:LOGBOOK:
+- State "UNANSWERED" from              [2022-12-19 Mon 19:29]
+:END:
+** 3
+
+*** 标题
+
+李老师和校长在谈工作
+
+*** 对话
+
+李老师：校长，因为外国留学不了解中国文化，有时候会影响他们和中国人之间正常交流，甚至还可能引骑误会，带来麻烦，所以我们想申请举办一次中国传统文化节活动。
+校长：你们的想法很好，举办文化节活动，一方面能让客国学生更好地了解中国，另一方面也能为学生那个们提供互相交流和学习的机会。
+李老师：谢谢您的支持！
+校长：上次的春游活动你们办得非常有趣，大家都玩儿的很开心，这次活动继续由你负责，相信也一定很成功。
+李老师：我们回去就开会讨论，星期五之前把详细的计划书发给你。
+校长：好的，准备过程中有什么问题，你们可以直接来找我。
+
+**** 对我生词
+
+校长 🟦 xiao4 zhang3 🟦 headmaster ;
+谈 🟦 tan2 🟦 to discuss ;
+交流 🟦 jiao1 liu2 🟦 communication ;
+甚至 🟦 shen4 zhi4 🟦 even ;
+误会 🟦 wu4 hui4 🟦 to misunderstand ;
+传统 🟦 chuan2 tong3 🟦 traditional ;
+举办 🟦 ju3 ban4 🟦 to hold ;
+一方面 🟦 yi1 fang1 mian4 🟦 on one hand ;
+另一方面  🟦 ling4 yi1 fang1 mian4 🟦 on the other hand ;
+支持 🟦 zhi1 chi2 🟦 support ;
+春游 🟦 chun1 you2 🟦 spring excursion ;
+活动 🟦 huo2 dong4 🟦 activity ;
+负责 🟦 fu4 ze2 🟦 to be in charge of ;
+成功 🟦 cheng2 gong1 🟦 success ;
+直接 🟦 zhi2 jie1 🟦 immediately ;
+
+*** 生词
+
+13. 正常 🟦 zheng4chang2 🟦 adj. normal, regular ;
+14. 申请 🟦 shen1qing3 🟦 v. to apply for ;
+15. 有趣 🟦 you3qu4 🟦 adj. interesting, fun ;
+16. 开心 🟦 kai1xin1 🟦 adj. happy, glad ;
+17. 继续 🟦 ji4xu4 🟦 v. to go on, to continue ;
+18. 由 🟦 you2 🟦 prep. by (sb.) ;
+19. 讨论 🟦 tao3lun4 🟦 v. to discuss, to talk over ;
+
+* 课文2
+
+** 4
+
+*** 段话
+
+
+筷子在中国大约已经有3000多年的历史了。对外国人来说，使用筷子吃饭并不容易。所以，国外的一些中国餐厅在放筷子的纸袋上会提供使用筷子的详细说用。不过，如果你认为每个中国人大都会正确使用筷子，那就错了。有人在互联网上专门进行过调查，结果发现没六个中国人中就有一个使用筷子的方法是错误的。如果你想正确使用筷子，那就好好练习吧。
+
+**** 对我生词
+
+提供 🟦 ti2 gong1 🟦 to supply ;
+详细 🟦 xiang2 xi4 🟦 in detail ;
+正确 🟦 zheng4 que4 🟦 correct ;
+进行 🟦 jin4 xing2 🟦 to carry out ;
+调查 🟦 diao4 cha2 🟦 survey ;
+结果 🟦 jie guo 🟦 as a result ;
+错误 🟦 cuo4 wu4 🟦 mistake ;
+
+*** 生词
+
+20. 大约 🟦 da4yue1 🟦 approximately, about ;
+21. 餐厅 🟦 can1ting1 🟦 restaurant ;
+22. 纸袋 🟦 zhi3dai4 🟦 paper bag ;
+    + 袋（子） 🟦 dai4 (zi) 🟦 bag, sack ;
+23. 互联网 🟦 hu4lian2wang3 🟦 Internet ;
+24. 进行 🟦 jin4xing2 🟦 to conduct, to carry out ;
+25. 错误 🟦 cuo4wu4 🟦 wrong ;
+** 5
+
+*** 段话
+
+茶在中国有千年历史，是中国最常见的饮料。最早的时候，茶只是被当作一种药，而不是饮料。后来，随着人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。在中国，喝茶是一种十分普遍的生活习惯。很多中国人来说，喝茶已成为他们生活中不可缺少的一部分。但是有的饮料虽然名字叫“茶”，却并不是真正的茶，比如广东省的人爱喝的“凉茶“，它的味道稍微有点儿苦，其实是一种用中药做成的饮料。
+
+**** 对我生词
+
+微常见 🟦 chang2 jian4 🟦 commonly seen ;
+加深 🟦 jia1 shen1 🟦 to deepen ;
+成为 🟦 cheng2 wei2 🟦 to become ;
+缺少 🟦 que1 shao3 🟦 to lack ;
+却 🟦 que4 🟦 but ;
+并 🟦 bing4 🟦 (not) at all ;
+真正 🟦 zhen1 zheng4 🟦 true ;
+苦 🟦 bitter 🟦 amargo ;
+
+
+*** 生词
+
+26. 随着 🟦 sui2 zhe 🟦 prep. along with, as ;
+27. 十分 🟦 shi2 fen1 🟦 shi2 fen1 🟦 adv. very, extremely ;
+28. 普遍 🟦 pu3 bian4 🟦 adj. universal, common ;
+29. 部分 🟦 bu4 fen 🟦 n. part ;
+30. 稍微 🟦 shao1 wei1 🟦 adv. a little, slightly ;
+31. 苦 🟦 ku3 🟦 adj. bitter ;
+32. 省 🟦 sheng3 🟦 n. province ;
+
+*** 专有名词
+:PROPERTIES:
+:CREATED: [2022-12-19 19:32:30 -05]
+:END:
+
+广东省 / Guang3dong1 Sheng3 / Guangdong, a province of China ;
+
+* 练习
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: f643ab60-1c80-42a3-a528-47c62838e508
+:END:
+
+**** 选择
+
+***** 1
+
+演出
+
+***** 2
+
+演员
+
+***** 3
+
+表演
+
+***** 4
+
+普遍
+
+***** 5
+
+苦
+
+**** 题
+
+***** 1
+
+****** 段话填空
+
+今天的晚会太精彩了，特别是那些外国留学生🟦的中国功夫，动作既标准又好看，非常棒。
+
+****** 答案
+
+表演
+
+***** 2
+
+****** 段话填空
+
+这次🟦举办得非常成功，吸引了不少当地的观众。
+
+****** 答案
+
+演出
+
+***** 3
+
+****** 段话填空
+
+凉茶虽然味道🟦，但对身体很有好处。另外凉茶热着喝效果也很不错。
+
+****** 答案
+
+苦
+
+***** 4
+
+****** 段话填空
+
+每天晚上，么园里都有一群老的人唱京剧。他们很喜欢唱京剧，虽然不是专业的🟦，不过，他们唱得不错，听起来很有味道。
+
+****** 答案
+
+演员
+
+***** 5
+
+****** 段话填空
+
+很多大学生毕业后，选择的第一个职业，往往和自己的专业没什么关系，这种情况现在越来越🟦。
+
+****** 答案
+
+普遍
+
+*** 6-10
+:PROPERTIES:
+:ID: 809e8897-7c2b-4c1f-99cb-2128be627662
+:END:
+
+**** 选择
+
+***** 1
+
+稍微
+
+***** 2
+
+基础
+
+***** 3
+
+厚
+
+***** 4
+
+遍
+
+***** 5
+
+继续
+
+**** 题
+
+***** 6
+
+****** 对话填空
+
+Ａ：这本小说这么🟦，什么时候才能看完啊？
+Ｂ：每天晚上看十几页，差不多一个月就可以看完。
+
+****** 答案
+
+厚
+
+***** 7
+
+****** 对话填空
+
+Ａ：你学得可真快！
+Ｂ：我小时候学过两年的舞，有点儿🟦。
+
+****** 答案
+
+其础
+
+***** 8
+
+****** 对话填空
+
+Ａ：材料整理好了没？
+Ｂ：差不多了，我再检查一🟦就给您送过去。
+
+****** 答案
+
+遍
+
+***** 9
+
+****** 对话填空
+
+Ａ：你想好了没？是🟦读书还是参加工作？
+Ｂ：我考虑过了，我想先工作两年，然后再考研究生。
+
+****** 答案
+
+继续
+
+***** 10
+
+****** 对话填空
+
+Ａ：孙小姐，我们大概什么时候出发？
+Ｂ：大家先回房间🟦休息一下，半个小时后我们楼下集合。
+
+****** 答案
+
+稍微
+
+* 注释
+
+** 1
+
+*** 比一比
+
+**** 做一做
+
+***** 词语
+
+****** 1
+
+大概
+
+****** 2
+:PROPERTIES:
+:ID: be3732de-31cb-4683-9d5b-900d26c077a2
+:END:
+
+也许
+
+***** 题
+
+****** 1
+:PROPERTIES:
+:ID: b777270a-4795-4ab2-9e76-ee4a2fd4b9da
+:END:
+
+******* 课文
+
+这次调查发现，超过70％的儿童愿意让爸爸给自己读书。为什么会出现这种情况？🟦是因为父亲平时陪孩子玩儿的时间太少。
+
+******* 答案
+
+******** 1
+
+1
+
+******** 2
+
+1
+
+****** 2
+:PROPERTIES:
+:ID: 38426427-0a35-4088-8561-0cb6802420bc
+:END:
+
+******* 课文
+
+穷人的孩子早当家，他们🟦没有很多钱，却可能比富人家的孩子经历得更多。
+
+******* 答案
+
+******** 1
+
+0
+
+******** 2
+
+1
+
+****** 3
+:PROPERTIES:
+:ID: c2df1e0c-1e9d-4acb-8777-09c1a5d3e08c
+:END:
+
+******* 课文
+
+师傅，我去机场。🟦要多长时间？半小时能到吗？
+
+******* 答案
+
+******** 1
+
+1
+
+******** 2
+
+0
+
+****** 4
+:PROPERTIES:
+:ID: cfcb1a89-ee0c-4bed-b24f-efa549ae5ed2
+:END:
+
+******* 课文
+
+小孩儿的脾气变化很快。刚才还对你哭个不停，🟦一下子就没事了，好像什么都没发生过。
+
+******* 答案
+
+******** 1
+
+0
+
+******** 2
+
+1
+
+****** 5
+:PROPERTIES:
+:ID: 65c43ed2-0742-420c-a8c5-9b262c1f96df
+:END:
+
+******* 课文
+
+您最近在拍哪部电影？能谈谈电影的🟦内容吗？
+
+******* 答案
+
+******** 1
+
+1
+
+******** 2
+
+0
+
+* 扩展
+
+** 做一做
+:PROPERTIES:
+:ID: 4b4e4041-58a6-4870-8900-3674fd19d504
+:END:
+
+*** 选择
+
+**** 1
+
+商量
+
+**** 2
+
+数量
+
+**** 3
+
+质量
+
+*** 题
+
+**** 1
+
+***** 内容填空
+
+大熊猫样子非常可爱，深爱人们喜爱。但是🟦不多全世界一共才有一千多只。
+
+***** 答案
+
+****** 1
+
+数量
+
+**** 2
+
+***** 内容填空
+
+了解顾客的实际需要十分重要，一样东西，不管它🟦多好、多便宜，如果顾客完全不需要它，我们就很难把它卖出去。
+
+***** 答案
+
+****** 1
+
+质量
+
+**** 3
+
+***** 内容填空
+
+Ａ：你们两个怎么样了？打算什么时候结婚？
+Ｂ：我们🟦过了，就明年十月一号。
+
+***** 答案
+
+****** 1
+
+商量
+
+

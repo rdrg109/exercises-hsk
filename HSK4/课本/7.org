@@ -1,0 +1,615 @@
+* 热身
+
+** 1
+:PROPERTIES:
+:ID: c9382012-49d1-4b8e-aa1b-924e0ea4a913
+:END:
+
+*** 1
+
+**** 词语
+
+流血
+
+**** 答案
+
+e
+
+*** 2
+
+**** 词语
+
+咳嗽
+
+**** 答案
+
+c
+
+*** 3
+
+**** 词语
+
+减肥
+
+**** 答案
+
+f
+
+*** 4
+
+**** 词语
+
+抽烟
+
+**** 答案
+
+a
+
+*** 5
+
+**** 词语
+
+植物
+
+**** 答案
+
+b
+
+*** 6
+
+**** 词语
+
+烦恼
+
+**** 答案
+
+d
+
+* 课文1
+:PROPERTIES:
+:CREATED: [2022-07-04 17:31:58 -05]
+:END:
+
+** 1
+
+*** 标题
+
+小李和小林聊天气和身体况
+
+*** 对话
+
+小李：你的鼻子怎么流血了？快用纸擦擦。
+小林：我还不习惯北方的气候，估计是天气太干。今天天气不是很冷，你怎么穿这么多？
+小李：就是因为昨天穿得太少，我都感冒了。
+小林：最近感冒的人特别多。你去看医生了吗？
+小李：没有，只我是咳嗽，有点儿头疼，不严重，多和点儿水就好了。
+小林：春天天气时冷时热，特别容易感冒。这时候一定要多注意保暖，另外，最好经常打开窗户换换空气。
+
+
+**** 对我生词
+
+况 🟦 kuang4 🟦 situation ;
+身体况 🟦 shen1 ti3 kuang4 🟦 physical condition ;
+纸 🟦 zhi3 🟦 paper ;
+干 🟦 gan1 🟦 dry, clean ;
+注意 🟦 zhu4 yi4 🟦 to pay attention to ;
+另外 🟦 ling4 wai4 🟦 besides, in addition ;
+空气 🟦 kong1 qi4 🟦 air, atmosphere ;
+
+**** QUESTION “干”什么意思？
+:PROPERTIES:
+:CREATED: [2022-07-04 17:37:41 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-04 Mon 17:37]
+:END:
+
+*** 生词
+
+1. [X] 流血 🟦 liu2 xie3 🟦 v. to bleed ;
+2. 擦 🟦 ca1 🟦 v. to wipe ;
+3. 气候 🟦 qi4hou4 🟦 n. climate ;
+4. 估计 🟦 gu1ji4 🟦 v. to estimate, to reckon ;
+5. 咳嗽 🟦 ke2sou 🟦 v. to cough ;
+6. 严重 🟦 yan2zhong4 🟦 adj. serious, grave ;
+7. 窗户 🟦 chuang1hu 🟦 n. window ;
+8. 空气 🟦 kong1qi4 🟦 n. air ;
+
+** 2
+
+*** 标题
+
+小夏和小雨聊小雨抽烟的事情
+
+*** 对话
+
+小夏：你咳嗽好点儿了吗？医生怎么说的？
+小雨：还是老样子，他让我以后不要再抽烟了。
+小夏：抽烟对身体一点儿好处也没有。
+小雨：我也知道，可是我觉得抽烟这个动作看上去很帅。
+小夏：等你身体出现问题了，后悔就来不及了。
+小雨：其实家人也一直反对我抽烟，我自己却觉得没什么。但最近总是咳嗽，所以我有些担心了。
+小夏：抽烟不仅自己没好处，不会影响周围人的身体健康。为了你和你的家人，别再抽了。
+
+**** 对我生词
+
+处 🟦 chu3 ;
+却 🟦 que4 🟦 but ;
+仅 🟦 jin3 🟦 barely, merely, only ;
+
+*** 生词
+
+9. 抽烟 🟦 chou1 yan1 🟦 to smoke ;
+10. 动作 🟦 dong4zuo4 🟦 n. action, movement ;
+11. 帅 🟦 shuai4 🟦 adj. handsome ;
+12. 出现 🟦 chu1xian4 🟦 v. to appear, to emerge ;
+13. 后悔 🟦 hou4hui3 🟦 v. to regret ;
+14. 来不及 🟦 lai2buji2 🟦 v. to have not enough time to, to be too late to ;
+15. 反对 🟦 fan3dui4 🟦 v. to oppose, to object to ;
+
+** 3
+
+*** 标题
+
+小李和小林聊电脑对身体的影响
+
+*** 对话
+
+小李：我最近眼睛总是跳，大夫说是因为我长时间看电脑，眼睛太累。
+小林：长时间做在电脑前面工作，眼睛容易累。最好是每过一小时就休息休息，然后再开始工作。
+小李：医生也这么说，他还告诉我要多向远处看看，尤其是多看看绿色的植物。
+小林：长时间对看电脑不仅对眼睛不好，身体也会不舒服。研究发现，如果人一天静坐超过6小时，就会影响身体健康。
+小李：是啊！像咱们这些久坐办公室的人要注意，有时间应该多站来起活动活动。
+小林：好，咱们午饭后就去附近的公园散散步。
+
+**** 对我生词
+
+尤其 🟦 you2 qi2 🟦 especially ;
+仅 🟦 jin3 🟦 barely, merely, only ;
+咱 🟦 zan2 🟦 I or me ;
+活动 🟦 huo2 dong4 🟦 activity ;
+
+*** 生词
+
+16. 大夫 🟦 dai4fu 🟦 n. doctor ;
+17. 植物 🟦 zhi2wu4 🟦 n. plant ;
+18. 研究 🟦 yan2jiu1 🟦 v. to study, to do research ;
+19. 炒锅 🟦 chao1guo4 🟦 v. to exceed, to surpass ;
+20. 散步 🟦 san4bu4 🟦 v. to take a walk ;
+
+* 课文2
+
+** 4
+
+*** 段话
+
+每个人都希望自己健康，那么什么才是健康呢？过去，人们认为健康就是指身体不生病。但是，现在人们认识到，健康还指精神上的健康。只有身体和精神都健康，才算是真正的健康。有一位教授用数学来说明健康有多么重要：要是健康是1，其他都是1后面的0:如果没有1，不管有多少0也没用。所以我们平时一定要注意锻炼，别等健康出问题了才后悔。
+
+**** 对我生词
+
+真正 🟦 zhen1 zheng4 🟦 real, true ;
+平 🟦 ping2 🟦 equal ;
+后悔 🟦 hou4 hui3 🟦 to regret ;
+平时 🟦 ping2 shi2 🟦 ordinary times, normal times, usual days ;
+
+*** 生词
+
+21. 指 🟦 zhi3 🟦 v. to refer to ;
+22. [X] 精神 🟦 jing1shen2 🟦 n. spirit, mind ;
+23. 教授 🟦 jiao4shou4 🟦 n. professor ;
+24. 数字 🟦 shu4zi4 🟦 n. number ;
+25. 说明 🟦 shuo1ming2 🟦 v. to explain, to show ;
+26. 要是 🟦 yao4shi 🟦 conj. if, supposing ;
+
+** 5
+
+*** 段话
+
+我听一位医生说过一句话：“最好的医生是自己”，最好的药是时间，最好的运动是散步。“前两条我理解得不深，最后一条我完全同意。散步是生活中最简单的锻炼方法，既可以活动身体，又可以减肥，而且不会像跑步那样辛苦。晚饭后，一家人一起出去散散步，是一件很幸福的事情。肚子吃饱了需要活动，家人忙了一天需要交流，夫妻说说一天的工作能加深感情，听孩子谈谈学校里有意思的事，一天的烦恼就都跑掉了。
+
+**** 对我生词
+
+理解 🟦 li3 jie3 🟦 to comprehend, to understand ;
+深 🟦 shen1 🟦 deep ;
+方法 🟦 fang1 fa3 🟦 means, method, way ;
+减肥 🟦 jian3 fei2 🟦 to lose weight ;
+辛苦 🟦 xin1 ku3 🟦 exhausting, to work hard ;
+幸福 🟦 xing4 fu2 🟦 happiness ;
+交流 🟦 jiao1 liu2 🟦 communication ;
+夫妻 🟦 fu1 qi1 🟦 husband and wife, married couple ;
+谈 🟦 tan2 🟦 to discuss, to speak, to talk ;
+烦恼 🟦 fan2 nao3 🟦 worries ;
+跑掉 🟦 pao3 diao4 🟦 to run away ;
+
+*** 生词
+
+27. [X] 既 🟦 ji4 🟦 adj. (/used together with "又")/ both ... and ... ;
+28. 减肥 🟦 jian3 fei2 🟦 v. to lose weight ;
+29. 辛苦 🟦 xin1ku3 🟦 adj. hard, toilsome ;
+30. 肚子 🟦 du4zi 🟦 n. belly, stomach ;
+31. 感情 🟦 gan3qing2 🟦 n. affection, love ;
+32. 烦恼 🟦 fan2nao3 🟦 adj. worried, vexed ;
+33. 掉 🟦 diao4 🟦 v. /used after certain verbs, indicating the result of an action/ ;
+
+**** UNANSWERED [#C]
+:PROPERTIES:
+:CREATED: [2022-12-19 16:41:01 -05]
+:END:
+:LOGBOOK:
+- State "UNANSWERED" from              [2022-12-19 Mon 16:41]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-19 16:41:06 -05]
+:END:
+
+Did the editor accidentally included the last parantehesis in the text that is italicized in definition no. 27? In other definitions, parenthesis are not affected by italics. See definition no. 26 of chapter 2.
+
+I think the only way to answer this question is by contacting the editor.
+* 练习
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 2c5886ac-5584-4488-9232-fac32a9b70ce
+:END:
+
+**** 选择
+
+***** 1
+
+后悔
+
+***** 2
+
+擦
+
+***** 3
+
+反对
+
+***** 4
+
+动作
+
+***** 5
+
+指
+
+**** 题
+
+***** 1
+
+****** 段话填空
+
+经理让服务员把所有桌子都🟦干净。
+
+****** 答案
+
+擦
+
+***** 2
+
+****** 段话填空
+
+第一印象是🟦在第一次见面时给别人留下的印象。
+
+****** 答案
+
+指
+
+***** 3
+
+****** 段话填空
+
+生气时不要急着做决定，因为这个时候做的决定可能让你🟦。
+
+****** 答案
+
+后悔
+
+***** 4
+
+****** 段话填空
+
+他对自己的要求很高，希望比赛的时候把每个🟦都做好。
+
+****** 答案
+
+动作
+
+***** 5
+
+****** 段话填空
+
+我本来以为她会🟦我这么做，没想到她竟然支持我。
+
+****** 答案
+
+反对
+
+*** 6-10
+:PROPERTIES:
+:ID: 305a0d5e-2665-4496-a812-108d884b1dbf
+:END:
+
+**** 选择
+
+***** 1
+
+严重
+
+***** 2
+
+研究
+
+***** 3
+
+辛苦
+
+***** 4
+
+超过
+
+***** 5
+
+出现
+
+**** 题
+
+***** 6
+
+****** 对话填空
+
+Ａ：你的腿怎么了？快坐下休息一会儿吧。
+Ｂ：没事儿，大夫说不🟦。
+
+****** 答案
+
+严重
+
+***** 7
+
+****** 对话填空
+
+Ａ：你看一下，现在有多少人同意这个计划？
+Ｂ：一共有十五个人，🟦了三分之二。
+
+****** 答案
+
+超过
+
+***** 8
+
+****** 对话填空
+
+Ａ：今天的晚饭怎么样？
+Ｂ：特别好吃，🟦你了，一会儿我来先碗。
+
+****** 答案
+
+辛苦
+
+***** 9
+
+****** 对话填空
+
+Ａ：你觉得老孙这个人怎么样？
+Ｂ：老孙是个非常热情的人，他总是能在第一时间🟦，帮助大家解决问题。
+
+****** 答案
+
+出现
+
+***** 10
+
+****** 对话填空
+
+Ａ：你毕业后有什么打算？留北京还是回江西（Jiāngxī，name of a Chinese province）？
+Ｂ：还没决定，我在考虑要不要读🟦生。
+
+****** 答案
+
+研究
+
+
+* 注释
+
+** 1
+
+*** 比一比
+
+**** 做一做
+
+***** 词语
+
+****** 1
+
+估计
+
+****** 2
+:PROPERTIES:
+:ID: 71e05c19-6cd4-47d5-8e09-ea4a1b8b65f3
+:END:
+
+可能
+
+***** 题
+
+****** 1
+:PROPERTIES:
+:ID: 4a09998b-5da9-4ecb-86bb-7bd99e7bf7c3
+:END:
+
+******* 课文
+
+那个饭馆儿去晚了人特别多，要等很长时间，这会儿去🟦来不及了。
+
+******* 答案
+
+******** 1
+
+1
+
+******** 2
+
+1
+
+****** 2
+:PROPERTIES:
+:ID: 82d03eea-cd6a-4551-acdd-2d7b060efa82
+:END:
+
+******* 课文
+
+还有一分钟比赛就结束了，我🟦他们没机会再进球了。
+
+******* 答案
+
+******** 1
+
+
+
+******** 2
+
+
+
+****** 3
+:PROPERTIES:
+:ID: c549de40-1c1b-471b-9805-aaa367e90ce4
+:END:
+
+******* 课文
+
+已经这么晚了，老师🟦休息了，你别打电话了。
+
+******* 答案
+
+******** 1
+
+1
+
+******** 2
+
+1
+
+****** 4
+:PROPERTIES:
+:ID: 90e1568e-3301-4bf8-8d38-532bc5e063bc
+:END:
+
+******* 课文
+
+我看这是不🟦的事情，网上的消息可不能全信。
+
+******* 答案
+
+******** 1
+
+0
+
+******** 2
+
+1
+
+****** 5
+:PROPERTIES:
+:ID: b26fd2a8-858d-4e12-b8b9-1f92fdd2eb7d
+:END:
+
+******* 课文
+
+你看，那个人最🟦想做什么？
+
+******* 答案
+
+******** 1
+
+0
+
+******** 2
+
+1
+
+* 扩展
+
+** 做一做
+:PROPERTIES:
+:ID: 11ed041e-5605-41ba-8d7d-c6c01b3fb6c0
+:END:
+
+*** 选择
+
+**** 1
+
+生气
+
+**** 2
+
+脾气
+
+**** 3
+
+空气
+
+**** 4
+
+气候
+
+*** 题
+
+**** 1
+
+***** 内容填空
+
+Ａ：听说你去丽江（Lìjiāng，name of a place in China）玩儿了？那儿怎么样？
+Ｂ：那里特别美，🟦也很新鲜。
+
+***** 答案
+
+****** 1
+
+空气
+
+**** 2
+
+***** 内容填空
+
+Ａ：为什么有的孩子喜欢发🟦呢？
+Ｂ：他们主要是想从爸妈那里得到一些好处？
+
+***** 答案
+
+****** 1
+
+脾气
+
+**** 3
+
+***** 内容填空
+
+Ａ：来北方好几年了吧？你觉得北方和南文的🟦样吗？
+Ｂ：夏天差不多，但是冬天北方比较干。
+
+***** 答案
+
+****** 1
+
+气候
+
+**** 4
+
+***** 内容填空
+
+Ａ：你怎么还没到啊！我已经等了你一个小时了。
+Ｂ：别🟦，我马上就到门口了。
+
+***** 答案
+
+****** 1
+
+生气
+
+

@@ -1,0 +1,680 @@
+* 热身
+
+** 1
+:PROPERTIES:
+:ID: 4db60ed9-6492-4b02-b9f5-4d311a13569d
+:END:
+
+*** 1
+
+**** 词语
+
+密码
+
+**** 答案
+
+f
+
+*** 2
+
+**** 词语
+
+信息
+
+**** 答案
+
+b
+
+*** 3
+
+**** 词语
+
+举
+
+**** 答案
+
+e
+
+*** 4
+
+**** 词语
+
+危险
+
+**** 答案
+
+d
+
+*** 5
+
+**** 词语
+
+交通
+
+**** 答案
+
+c
+
+*** 6
+
+**** 词语
+
+付款
+
+**** 答案
+
+a
+
+* 课文1
+:PROPERTIES:
+:CREATED: [2022-07-09 16:23:45 -05]
+:END:
+
+** 1
+
+*** 标题
+
+王静给孙月推荐一本书
+
+*** 对话
+
+孙月：上次女儿问我飞机是怎么起飞和降落的，真不知道该怎么回答她，她现在总是有客种客样的“为什么”。
+王静：孩子眼中的世界是美丽和奇特的。有一本书教《新十万个为什么》，现在卖的非常火。书里的内容都是儿童想知道科学知识，相信你女儿一定喜欢读。
+孙月：难道它和我们小时候看的《十万个为什么》不一样吗 作者是谁啊？
+王静：作者的名字我没记住。《新十万个为什么》的内容更新，介绍了各种科学知识，包括地球、动物、植物、交通、科学技术，社会和文化等很多方面。
+孙月：太好了！不过她这么小，我不知道她是否能读懂。
+王静：放心吧，这本书的语言简单易懂，一定能增长孩子的科学知识。
+
+**** QUESTION Does this book really exist?
+:PROPERTIES:
+:CREATED: [2022-07-09 16:29:35 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-09 Sat 16:29]
+:END:
+
+**** QUESTION “看懂”和“读懂”是什么意思？
+:PROPERTIES:
+:CREATED: [2022-07-09 16:38:31 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-09 Sat 16:38]
+:END:
+
+**** 对我生词
+
+推荐 🟦 tui1 jian4 🟦 to recommend ;
+眼中 🟦 yan3 zhong1 🟦 in one's eyes ;
+美丽 🟦 mei3 li4 🟦 beautiful ;
+奇特 🟦 qi2 te4 🟦 peculiar, usual ;
+内容 🟦 nei4 rong2 🟦 content ;
+儿童 🟦 er2 tong2 🟦 children ;
+知识 🟦 zhi3 shi 🟦 knowledge ;
+地球 🟦 di4 qiu2 🟦 the earth ;
+记住 🟦 ji4 zhu 🟦 to rememebr ;
+植物 🟦 zhi2 wu4 🟦 plants ;
+科学 🟦 ke1 xue2 🟦 science ;
+技术 🟦 ji4 shu4 🟦 technology ;
+社会 🟦 she4 hui4 🟦 society ;
+方面 🟦 fang1 mian4 🟦 fields ;
+!语言 🟦 yu3 yan2 🟦 language ;
+易懂 🟦 yi4 dong1 🟦 easy to understand ;
+
+*** 生词
+
+1. 降落 🟦 jiang4luo4 🟦 v. to descend, to land ;
+2. 火 🟦 huo3 🟦 adj. hot, popular ;
+3. 作者 🟦 zuo4zhe3 🟦 n. author ;
+4. 交通 🟦 jiao1tong1 🟦 n. traffic, communication ;
+5. 技术 🟦 ji4shu4 🟦 n. technology ;
+6. 是否 🟦 shi4fou3 🟦 adv. if, whether ;
+** 2
+
+*** 标题
+
+李老师和高老师在聊电脑和互联网技术的发展
+
+*** 对话
+
+李老师：现在的大学生一遇到不明白的问题，可以马上在网上查找答案，几秒钟就把问题解决了，这比我们上学的时候方便多了。
+高老师：现在的人们，尤其是大学生开始普遍使用电脑，他们的生活已经离不开电脑。
+李老师：据调查，70％的人遇到问题时，首先想到的就是上网找答案。
+高老师：电脑和互亮王技术的发展使学生们的学习方式发生了很多变化，不过天天对着电脑看，眼睛实在受不了。
+李老师：不仅是学习方式，而且连生活方式也发生了很大改变。现在越来越多的学生喜欢在网上写日记，他们说这样可以让朋友及时了解自己的生活。
+高老师：这个办法不错，既能方使大学的交流，还能节约用纸，保护环境，但是如果别人都能看到我的日记的花，多不安全啊！
+李老师：放心吧，可以给网上的日记加密码，那样只有得到了允许，别人才能看到。
+
+
+**** 对我生词
+
+互联网 🟦 hu4 lian2 wang3 🟦 Internet ;
+技术 🟦 ji4 shu4 🟦 technology ;
+发展 🟦 fa1 zhan3 🟦 development ;
+查找 🟦 cha2 zhao3 🟦 to look up ;
+方便 🟦 fang1 bian4 🟦 covenient ;
+尤其 🟦 you2 qi2 🟦 especially ;
+普遍 🟦 pu3 bian4 🟦 common ;
+据 🟦 ju4 🟦 aaccording to ;
+调查 🟦 diao4 cha2 🟦 investigation ;
+首先 🟦 shou3 xian1 🟦 in the first place ;
+方式 🟦 fang1 shi4 🟦 mode ;
+发生 🟦 fa1 sheng1 🟦 to happen ;
+变化 🟦 bian4 hua4 🟦 to change ;
+不仅 🟦 bu4 jin3 🟦 not only ;
+连 🟦 lian2 🟦 even ;
+及时 🟦 ji2 shi2 🟦 without delay ;
+交流 🟦 jiao1 liu2 🟦 communication ;
+保护 🟦 bao3 hu4 🟦 to protect ;
+
+*** 生词
+
+7. 秒 🟦 miao3 🟦 m. second, 1/60 minute ;
+8. [X] 方式 🟦 fang1 shi4 🟦 n. way, mode ;
+9. 受不了 🟦 shou4 bu liao3 🟦 cannot stand, cannot bear ;
+10. 日记 🟦 ri4 ji4 🟦 n. diary, journal ;
+11. 安全 🟦 an1quan2 🟦 adj. safe, secure ;
+12. 密码 🟦 mi4 ma3 🟦 n. password ;
+13. 允许 🟦 yun3 xu3 🟦 v. to allow, to permit ;
+
+** 3
+
+*** 标题
+
+王静和孙月在聊关于梦的情况
+
+*** 对话
+
+王静：我昨天晚上做了一个特别奇怪的梦，梦到自己正在一座桥上走，走着走着，突然开过来一辆车，非常危险，接着又梦见我跳到车上，跟警察一起，抓住了一个坏人。
+孙月：奇怪，你怎么总能记住自己做了什么梦？我好像从来没座过梦。
+王静：每个人都会做梦，区别只是有多有少。有的人睡醒之后还记得梦里的事情，有的人却记不清楚了。你之所以觉得从来没做过梦。只不过是忘记了。
+孙月：你说的有道理，我一般都是一觉睡到天亮。很多人认为做梦是上天要告诉他们将来会发生的一些事情，可能上天不想让我知道吧。
+王静：一般晚上睡觉时，身体感觉到什么，人就容易梦到什么内容。记得有一次，我晚饭吃的太咸，那天晚上就梦见自己到。处找商店买矿泉水。
+孙月：很多人都试着对梦进行解释，有些甚至专门写过这方面的书，可惜到现在仍然没有一个科学的说法。
+
+**** QUESTION “接着”和”突然“的意思是一样？
+:PROPERTIES:
+:CREATED: [2022-07-09 17:07:14 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-09 Sat 17:07]
+:END:
+
+**** 对我生词
+
+梦 🟦 meng4 🟦 dream ;
+坏人 🟦 huai4 ren2 🟦 bad person ;
+记住 🟦 ji4 zhu 🟦 to rememebr ;
+睡醒 🟦 shui4 xing3 🟦 to wake up ;
+之后 🟦 zhi1 hou4 🟦 afterwards ;
+道理 🟦 dao4 li4 🟦 justification ;
+感觉 🟦 gan3 jue2 🟦 perception, to feel ;
+甚至 🟦 shen4 zhi4 🟦 even ;
+专门 🟦 zhuan1 men2 🟦 specialized ;
+仍然 🟦 reng2 ran2 🟦 still, yet ;
+说法 🟦 shuo1 fa 🟦 theory ;
+
+*** 生词
+
+14. 座 🟦 zuo4 🟦 m. /used for bridges, mountains, buildings, etc./ ;
+15. 桥 🟦 qiao2 🟦 n. bridge ;
+16. 危险 🟦 wei1 xian3 🟦 adj. dangerous ;
+17. 接着 🟦 jie1 zhe 🟦 adv. then, immediately, after that ;
+18. 警察 🟦 jing3 cha2 🟦 n. police ;
+19. [X] 抓 🟦 zhua1 🟦 v. to catch, to arrest ;
+20. 咸 🟦 xian2 🟦 adj. salty ;
+21. 矿泉水 🟦 kuang4 quan2 shui3 🟦 n. mineral water ;
+
+* 课文2
+
+** 4
+
+*** 段话
+
+现在手机不但价格降低了，而且作用也越来越大，打电话、发短信已经成了人们普通使用的联系方法。除此，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方使了人们的生活。举一个例子，迷路时，只要用手机地图查一下地址，马上就能知道怎么去那个地点。现在的手机更像是一部可以拿在手中的电脑，现代人的生活已经越来越离不开手机了。
+
+
+**** QUESTION “例子”，“例如”，比如“有什么一样的意思？
+:PROPERTIES:
+:CREATED: [2022-07-09 18:21:30 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-09 Sat 18:21]
+:END:
+
+**** 对我生词
+
+价格 🟦 jia4 ge2 🟦 price ;
+降低 🟦 jiang4 di1 🟦 to reduce ;
+作用 🟦 zuo4 yong4  🟦 effect ;
+短信 🟦 duan4 xin4 🟦 text message ;
+普通 🟦 pu3 tong1 🟦 normal ;
+除此以外 🟦 chu2 ci3 yi3 wai4 🟦 apart from that ;
+购物 🟦 gou4 wu4 🟦 to shop, to buy things ;
+例子 🟦 li4 zi 🟦 for instasnce ;
+地图 🟦 di4 tu2 🟦 map ;
+现代 🟦 xian4 dai4 🟦 modern era ;
+
+*** 生词
+
+22. 付款 🟦 fu4 kuan3 🟦 to pay a sum of money ;
+23. 举 🟦 ju3 🟦 v. to give, to enumerate ;
+24. 迷路 🟦 mi2 lu4 🟦 v. to lose one's way ;
+25. 地址 🟦 di4zhi3 🟦 n. address ;
+26. 地点 🟦 di4dian3 🟦 n. place, site ;
+
+** 5
+
+*** 段话
+
+21世纪，我们的生活发生了巨大变化，几千公里以外的国家，以前坐船需要几个月，现在乘坐飞机不过十几个小时。原来寄信需要好几天，现在连邮局都不用去，只要在家里上网发个电子邮件，不用了一分钟，远处的朋友就能收到，比写信封用的时间都短。以前外地的新闻要几天后才能知道，现在只要打开网站，任何信息都可以在第一时间获得。现代科学技术的发展让世界变得越来越小，所以现在人们都把地球叫作“地球村"。
+
+**** 对我生词
+
+发生 🟦 fa1 sheng1 🟦 to happen ;
+巨 🟦 ju4 🟦 tremendous ;
+公里 🟦 gong1 li3 🟦 kilometer ;
+乘坐 🟦 cheng2 zuo4 🟦 to ride (in a vehicle) ;
+原来 🟦 yuan2 lai2 🟦 originally ;
+寄 🟦 ji4 🟦 to mail, to send ;
+信息 🟦 xin4 xi1 🟦 message ;
+寄信 🟦 ji4 xin4 🟦 send a letter ;
+邮局 🟦 you2 ju2 🟦 post office ;
+远处 🟦 yuan3 chu4 🟦 distant place ;
+信封 🟦 xin4 feng1 🟦 envelope ;
+红色信封 🟦 hong2 se4 xin4 feng1 🟦 red envelope ;
+红包 🟦 hong2 bao1 🟦 red envelope given in Spring Festival ;
+任何 🟦 ren4 he2 🟦 any, whatever ;
+信息 🟦 xin4 xi1 🟦 message ;
+技术 🟦 ji4 shu4 🟦 technology ;
+发展 🟦 fa1 zhan3 🟦 development ;
+地球 🟦 di4 qiu2 🟦 the earth ;
+叫作 🟦 jiao4 zuo4 🟦 to be called ;
+地球村 🟦 di4 qiu2 cun1 🟦 global village ;
+
+*** 生词
+
+27. 世纪 🟦 shi4ji4 🟦 n. century ;
+28. 邮局 🟦 you2ju2 🟦 n. post office ;
+29. 收 🟦 shou1 🟦 v. to receive ;
+30. 信封 🟦 xin4feng1 🟦 n. envelope ;
+31. 网站 🟦 wang3zhan4 🟦 n. website ;
+32. 信息 🟦 xin4xi1 🟦 n. news, information ;
+
+* 练习
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: da832cef-654c-4631-83e9-a066f5974722
+:END:
+
+**** 选择
+
+***** 1
+
+收
+
+
+***** 2
+
+座
+
+***** 3
+
+安全
+
+***** 4
+
+危险
+
+***** 5
+
+降落
+
+**** 题
+
+***** 1
+
+****** 段话填空
+
+北京有一🟦山，叫香山，非常有名。每到秋天，满山都是红叶，风景特别漂亮。
+
+****** 答案
+
+座
+
+***** 2
+
+****** 段话填空
+
+有些人直接拿自己的生日做银行卡或信用卡的密码。其实，这样做很不🟦。
+
+****** 答案
+
+安全
+
+***** 3
+
+****** 段话填空
+
+无论对自己还是对其他人来说，喝完酒开车都是极其🟦的。
+
+****** 答案
+
+危险
+
+***** 4
+
+****** 段话填空
+
+说出去的话很难🟦回。因此，生气时不要随便说话，这时候说的一般都是气话，会给别人留下不好的印象，甚至会伤害别人。
+
+******* 笔记
+:PROPERTIES:
+:CREATED: [2022-12-21 14:28:54 -05]
+:END:
+
+气话 🟦 qi4 hua4 🟦 n. something said in the moment of anger ;
+甚至 🟦 shen4 zhi4 🟦  even, so much so that ;
+伤害 🟦 shang1 hai4 🟦 v. to injure, to harm ;
+
+****** 答案
+
+收
+
+***** 5
+
+****** 段话填空
+
+各位乘客，大家好，感谢大家乘坐此次航班，我们的飞机将于20分钟后🟦在北京首都国际机场。
+
+****** 答案
+
+降落
+
+*** 6-10
+:PROPERTIES:
+:ID: 87ba7196-b19c-489c-a599-73a8d09e7119
+:END:
+
+**** 选择
+
+***** 1
+
+地点
+
+***** 2
+
+地址
+
+***** 3
+
+技术
+
+***** 4
+
+迷路
+
+***** 5
+
+咸
+
+**** 题
+
+***** 6
+
+****** 对话填空
+
+Ａ：饺子很香，不过鸡蛋汤稍微有点儿🟦。
+Ｂ：那我下次少放点儿盐。
+
+****** 答案
+
+咸
+
+***** 7
+
+****** 对话填空
+
+Ａ：对面那条街上新开了一家理发店，听说那儿的理发师🟦还不错。
+Ｂ：是吗？正好我也该理发了，那明天下班后我去试试。
+
+****** 答案
+
+技术
+
+***** 8
+
+****** 对话填空
+
+Ａ：我怎么觉得咱俩好像🟦了？
+Ｂ：没有，我以前来过这儿，前面路口转就到了。
+
+****** 答案
+
+迷路
+
+***** 9
+
+****** 对话填空
+
+Ａ：能把照片发到我邮箱里吗？
+Ｂ：没问题，把你的邮箱🟦告诉我，我整理好了就发给你。
+
+****** 答案
+
+地址
+
+***** 10
+
+****** 对话填空
+
+Ａ：今天下午我们还是两点在东门集合吗？
+Ｂ：时间不变，🟦改在西门了。快去整理一下东西吧，我们马上出发。
+
+****** 答案
+
+地点
+
+* 注释
+
+** 3
+
+*** 比一比
+
+**** 做一做
+
+***** 词语
+
+****** 1
+
+接着
+
+****** 2
+:PROPERTIES:
+:ID: fbd6e6b3-8b05-4b01-9b53-a1d6271184a2
+:END:
+
+然后
+
+***** 题
+
+****** 1
+:PROPERTIES:
+:ID: 490e39f4-800d-4dd1-a200-20d38d706bcc
+:END:
+
+******* 课文
+
+妹妹刚参加工作一年就买了房子，🟦就结了婚，今年又生了一个小男孩儿，生活得很幸福。
+
+******* 答案
+
+******** 1
+
+1
+
+******** 2
+
+1
+
+****** 2
+:PROPERTIES:
+:ID: 459b9e95-42f2-42dc-ab0a-a36afabb8360
+:END:
+
+******* 课文
+
+我说完了，你🟦说吧。
+
+******* 答案
+
+******** 1
+
+1
+
+******** 2
+
+0
+
+****** 3
+:PROPERTIES:
+:ID: 279f8550-6d81-4d98-a63a-41c0942805ae
+:END:
+
+******* 课文
+
+你先上网看看吧，多比较比较，🟦再做决定。
+
+******* 答案
+
+******** 1
+
+0
+
+******** 2
+
+1
+
+****** 4
+:PROPERTIES:
+:ID: 3c6b126d-f353-4d76-b1e9-62776d40ffbd
+:END:
+
+******* 课文
+
+进了商店，妻子先买了一件衬衫，🟦又买了一条裤子。
+
+******* 答案
+
+******** 1
+
+1
+
+******** 2
+
+0
+
+****** 5
+:PROPERTIES:
+:ID: 6182073f-5669-46fb-93d3-9d26d59ba4e8
+:END:
+
+******* 课文
+
+今天的课就到这儿，下节课🟦讲这个问题。
+
+******* 答案
+
+******** 1
+
+1
+
+******** 2
+
+0
+
+* 扩展
+
+** 做一做
+:PROPERTIES:
+:ID: a09ad576-bad7-4a68-bc30-843a4260e415
+:END:
+
+*** 选择
+
+**** 1
+
+地点
+
+**** 2
+
+特点
+
+**** 3
+
+优点
+
+**** 4
+
+缺点
+
+**** 5
+
+重点
+
+*** 题
+
+**** 1
+
+***** 内容填空
+
+教育学生时，要根据学生的🟦选择不同的方法。
+
+***** 答案
+
+****** 1
+
+特点
+
+**** 2
+
+***** 内容填空
+
+现在有个通知，十一月七日上午八点有中国文化研讨会，🟦在图书馆三楼会议室，希望大家准时参加。
+
+***** 答案
+
+****** 1
+
+地点
+
+**** 3
+
+***** 内容填空
+
+由于时间限制，这份材料我就不向大家详细介绍了，我只对其中的🟦简单说明一下。
+
+***** 答案
+
+****** 1
+
+重点
+
+**** 4
+
+***** 内容填空
+
+Ａ：你对小李的印象怎么样？
+Ｂ：他的🟦是有礼貌，诚实，能吃苦，🟦是太马虎，太粗心了，不适合我们的工作。
+
+***** 答案
+
+****** 1
+
+优点
+
+****** 2
+
+缺点

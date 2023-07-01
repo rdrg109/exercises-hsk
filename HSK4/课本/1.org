@@ -1,0 +1,931 @@
+:PROPERTIES:
+:CREATED: [2022-07-01 17:31:34 -05]
+:END:
+
+* 热身
+:PROPERTIES:
+:CREATED: [2022-12-23 10:30:44 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:ID: 3f8740ab-c739-4f9f-9485-a3265fff9f09
+:END:
+
+*** 1
+
+**** 词语
+
+《西雅图未眠夜》
+
+**** 答案
+
+a
+
+*** 2
+
+**** 词语
+
+《诺丁山》
+
+**** 答案
+
+e
+
+*** 3
+
+**** 词语
+
+《当男人爱上女人》
+
+**** 答案
+
+b
+
+*** 4
+
+**** 词语
+
+《罗马假日》
+
+**** 答案
+
+a
+
+*** 5
+
+**** 词语
+
+《罗密欧与朱丽叶》
+
+**** 答案
+
+f
+
+*** 6
+
+**** 词语
+
+《泰坦尼克号》
+
+**** 答案
+
+c
+
+* 课文1-3
+:PROPERTIES:
+:CREATED: [2022-07-01 17:33:49 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-07-01 17:39:26 -05]
+:ID: d5836f1c-297c-4f6f-adf5-139506e33c1c
+:END:
+
+*** 标题
+:PROPERTIES:
+:CREATED: [2022-07-04 11:01:55 -05]
+:END:
+
+孙月和王静聊王静的男朋友
+
+*** 对话
+:PROPERTIES:
+:CREATED: [2022-07-04 11:01:57 -05]
+:END:
+
+孙月：听说你男朋友李进跟你一个学校的，是你同学吗？
+王静：是的，他学的是新闻，我学的是法律，我和他不是一个班。
+孙月：那你们俩是怎么认识的？
+王静：我们是在一次足球比赛中认识的。我们班跟他们班比赛，他一个人踢进两个球，我对他印象很深，后来就慢慢熟悉了。
+孙月：你为什么喜欢他？
+王静：他不仅足球踢得好，性格也不错。
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-07-04 11:01:59 -05]
+:END:
+
+1. 法律 🟦 fa3lv4 🟦 n. law ;
+2. 俩  🟦 lia3 🟦 num.-m. two, both ;
+3. 印象 🟦 yin4xiang4 🟦 n. impression ;
+4. 深 🟦 shen1 🟦 adj. deep ;
+5. 熟悉  🟦 shu2xi 🟦 v. to be familiar with ;
+6. 不仅 🟦 bu4jin3 🟦 conj. not only ;
+7. 性格 🟦 xing4ge2 🟦 n. personality ;
+
+*** 专有名词
+:PROPERTIES:
+:CREATED: [2022-07-04 11:02:02 -05]
+:END:
+
+1. 孙月 🟦 Sun1 Yue4 🟦 Sun Yue, name of a person ;
+2. 王静 🟦 Wang2 Jing4 🟦 Wang Jing, name of a person ;
+3. 李进 🟦 Li3 Jin4 🟦 Li Jin, name of a person ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-07-01 17:39:27 -05]
+:ID: e128712c-f0f2-4340-91e5-956fb6961614
+:END:
+
+*** 标题
+:PROPERTIES:
+:CREATED: [2022-07-04 11:01:40 -05]
+:END:
+
+王静跟老师聊她要结婚的事情
+
+*** 对话
+:PROPERTIES:
+:CREATED: [2022-07-04 11:01:44 -05]
+:END:
+
+王静：李老师，我下个月5号就要结婚了。
+李老师：你是在开玩笑吧？你们不是才认识一个月？
+王静：虽然我们认识的时间不长，但我从来没这么快东过。
+李老师：两个人在一起，最好能有共同的兴趣和爱好。
+王静：我们有很多共同的爱好，经常一起打球，唱歌，做菜。
+李老师：看来你真的找到适合你的人了。祝你们幸福！
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-07-04 11:01:50 -05]
+:END:
+
+祝 🟦 zhu4 🟦 to express good wishes ;
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-07-04 11:01:47 -05]
+:ID: d7ca3eb5-d4aa-403f-a4b7-d96794485735
+:END:
+
+8. 开玩笑 🟦 kai1 wan2xiao4 🟦 to be kidding ;
+9. 从来 🟦 cong2lai2 🟦 adv. always, all along ;
+10. 最好 🟦 zui4hao3 🟦 adv. had better ;
+11. 共同 🟦 gong4tong2 🟦 adj. common, shared ;
+12. 适合 🟦 shi4he2 🟦 v. to suit, to fit ;
+13. 幸福 🟦 xing4fu2 🟦 adj. happy ;
+
+**** UNANSWERED [#B]
+:PROPERTIES:
+:CREATED: [2022-12-19 15:19:13 -05]
+:END:
+:LOGBOOK:
+- State "UNANSWERED" from              [2022-12-19 Mon 15:19]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-19 15:19:15 -05]
+:END:
+
+Why doesn't the word 开玩笑 have lexical category? Note that the other words in the same list have lexical category.
+
+**** UNANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-19 15:18:27 -05]
+:END:
+:LOGBOOK:
+- State "UNANSWERED" from              [2022-12-19 Mon 15:18]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-19 15:18:42 -05]
+:END:
+
+Why the pinyin of the word 开玩笑 is separated?
+
+*** 专有名词
+:PROPERTIES:
+:CREATED: [2022-07-04 11:02:02 -05]
+:END:
+
+4. 李 🟦 Li3 🟦 Li, a Chinese family name ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-07-01 17:45:07 -05]
+:ID: eb80c3ba-41bf-4af2-a682-9dd449486470
+:END:
+
+*** 标题
+:PROPERTIES:
+:CREATED: [2022-07-04 11:00:58 -05]
+:END:
+
+高老师和离老师聊结婚后的生活
+
+*** 对话
+:PROPERTIES:
+:CREATED: [2022-07-04 11:00:43 -05]
+:END:
+
+高老师：听说您跟妻子结婚快二十年了？
+李老师：到6月9号，我们就结婚二十年了。这么多年，我们的生活一直挺幸福的。
+高老师：我和丈夫刚结婚的时候，每天都觉得很新鲜，在一起有说不完的话。但是现在……
+李老师：两个人共同生活，只有浪漫和新鲜感是不够的。
+高老师：您说的对！我现在每天看到的都是他的缺点。
+李老师：两个人在一起时间长了，就会有很多问题。只有接受了他的缺点，我们才能更好地一起生活。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-07-04 11:00:05 -05]
+:END:
+
+挺 🟦 ting3 🟦 quite ;
+幸福 🟦 xing4 fu2 🟦 happy ;
+共同 🟦 gong4 tong2 🟦 common, shared ;
+浪漫  🟦 lang4 man4 🟦 romantic ;
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-07-04 11:00:29 -05]
+:END:
+
+14. 生活 🟦 sheng1huo2 🟦 n.🟦v. life, to live ;
+15. 刚  🟦 gang1 🟦 adv. just, not long ;
+16. 浪漫 🟦 lang4man4 🟦 adj. romantic ;
+17. 够 🟦 gou4 🟦 v. to be enough ;
+18. 缺点 🟦 que1dian3 🟦 n. shortcoming ;
+19. 接受  jie1shou4 🟦 v. to accept ;
+
+*** 专有名词
+:PROPERTIES:
+:CREATED: [2022-07-04 11:02:02 -05]
+:END:
+
+4. 高 🟦 Gao1 🟦 Gao, a Chinese family name ;
+
+* 课文4-5
+:PROPERTIES:
+:CREATED: [2023-01-21 17:45:49 -05]
+:END:
+
+** 4
+:PROPERTIES:
+:ID: af9f69ec-430b-4264-8138-8bf5aad37f91
+:END:
+
+*** 段话
+
+很多女孩子羡慕浪漫的爱情。那什么是浪漫呢？年轻人说：“浪漫是她想要月亮时，你不会给她星星；中年人说：”浪漫是即使晚上加班到零点，到家时，自己家里也还亮着灯；老年人说：浪漫其实就像歌中唱的那样，“我能想到最浪漫的事，就是和你一起慢慢变老。”其实，让我们感动的，就是生活中简单的爱情。有时候，简单就是最大的幸福。
+
+**** 对我生词
+
+浪漫 | lang4 man | romantic ;
+中年人 | zhong1 nian2 ren2 | middle aged (between the ages of about 40 and 60) ;
+即便 | ji2 bian4 | even if, even though, immediately, right away ;
+幸福 | xing4 fu2 | blessed, happiness, happy ;
+
+*** 生词
+
+20. 羡慕 🟦 xian4mu4 🟦 v. to envy, to admire ;
+21. 爱情 🟦 ai4qing2 🟦 n. love (between a man and a woman) ;
+22. [X] 星星 🟦 xing1xing 🟦 n. star ;
+23. 即使 🟦 ji2shi3 🟦 conf. even if ;
+24. 加班 🟦 jia1 ban1 🟦 v. to work overtime ;
+25. [X] 亮 🟦 liang4 🟦 v. to shine, to be lit ;
+26. 感动 🟦 gan3dong4 🟦 v. to touch, to move ;
+
+** 5
+:PROPERTIES:
+:ID: 0fd7b3d2-a6a4-4739-b56b-8573a9bd2118
+:END:
+
+*** 段话
+
+说到结婚，人们就会很自然地想起爱情。爱情是结婚的重要原因，但两个人共同生活，不仅需要浪漫的爱情，更需要性格上互相吸引。
+
+我丈夫是个很幽默的人。即使是很普通的事情，从他嘴里说出来也会变得很有意思。在我难过的时候，他总是有办法让我高兴起来。而且他的脾气也不错，结婚快十年了，我们俩几乎没因为什么事红过脸，很多人都特别羡慕我们。
+
+**** 笔记
+
+生活 🟦 sheng1 huo2 🟦 to live ;
+
+**** 对我生词
+
+即使 🟦 ji2 shi3 🟦 even if, even though ;
+普通 🟦 pu3 tong1 🟦 average, common, general ;
+
+*** 生词
+
+27. 自然 🟦 zi4ran2 🟦 adv. naturally, certainly ;
+28. 原因 🟦 yuan2yin1 🟦 n. reason ;
+29. 互相 🟦 hu4xiang1 🟦 adv. mutually ;
+30. 吸引 🟦 xi1yin3 🟦 v. to attract ;
+31. 幽默 🟦 you1mo4 🟦 adj. humourous ;
+32. 脾气 🟦 pi2qi 🟦 n. temper, disposition ;
+
+* 练习
+:PROPERTIES:
+:CREATED: [2022-12-20 00:58:42 -05]
+:END:
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-12-20 00:59:00 -05]
+:END:
+
+*** 1-5
+:PROPERTIES:
+:ID: f3ee36fc-7bdb-4451-96ac-f30438be2f2c
+:END:
+
+**** 选择
+
+***** 1
+
+印象
+
+***** 2
+
+接受
+
+***** 3
+
+熟悉
+
+***** 4
+
+共同
+
+****** 笔记
+:PROPERTIES:
+:CREATED: [2022-12-26 18:07:19 -05]
+:END:
+
+共同 🟦 gong4tong2 🟦 jointly, together, collaborative/ ;
+
+***** 5
+
+吸引
+
+****** 笔记
+:PROPERTIES:
+:CREATED: [2022-12-26 17:53:41 -05]
+:END:
+
+吸引 🟦 xi1 yin3 🟦 v. to attract  🟦
+
+**** 题
+
+***** 1
+
+****** 段话填空
+:PROPERTIES:
+:CREATED: [2022-12-23 10:07:30 -05]
+:END:
+
+他们两个人🟦努力，终于完成了工作。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-23 10:08:00 -05]
+:END:
+
+共同
+
+***** 2
+
+****** 段话填空
+:PROPERTIES:
+:CREATED: [2022-12-23 10:08:09 -05]
+:END:
+
+那个地方特别漂亮，每年都会🟦很多国内外的游客。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-23 10:08:13 -05]
+:END:
+
+吸引
+
+***** 3
+
+****** 段话填空
+:PROPERTIES:
+:CREATED: [2022-12-23 10:08:16 -05]
+:END:
+
+在我的🟦中，他一直是个很幽默的人。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-23 10:08:20 -05]
+:END:
+
+印象
+
+***** 4
+
+****** 段话填空
+:PROPERTIES:
+:CREATED: [2022-12-23 10:08:23 -05]
+:END:
+
+我是一个南方人，很难🟦每天吃面条。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-23 10:08:25 -05]
+:END:
+
+接受
+
+****** 笔记
+:PROPERTIES:
+:CREATED: [2023-01-21 19:53:40 -05]
+:END:
+
+接受 🟦 jie1 shou4 🟦 v. to accept 🟦
+
+***** 5
+
+****** 段话填空
+:PROPERTIES:
+:CREATED: [2022-12-23 10:08:28 -05]
+:END:
+
+这个事你最好先问一下李老师，这方面他比我🟦。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-23 10:08:31 -05]
+:END:
+
+熟悉
+
+*** 6-10
+:PROPERTIES:
+:ID: f19dc77d-9e44-4b0e-9a20-1b8850959f72
+:END:
+
+**** 选择
+
+***** 1
+
+脾气
+
+******* 笔记
+:PROPERTIES:
+:CREATED: [2022-12-26 17:56:16 -05]
+:END:
+
+脾气 🟦 pi2qi5 🟦 n. character, temperament ;
+
+***** 2
+
+从来
+
+***** 3
+
+感动
+
+***** 4
+
+羡慕
+
+****** 笔记
+:PROPERTIES:
+:CREATED: [2022-12-26 17:58:15 -05]
+:END:
+
+羡慕 🟦 xian4mu4 🟦 v. to envy, to admire ;
+
+***** 5
+
+开玩笑
+
+**** 题
+
+***** 6
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-20 01:26:27 -05]
+:END:
+
+Ａ：下个星期的游泳比赛你参加吗？
+Ｂ：你别跟我🟦了，我没学过游泳，怎么参加比赛啊？
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-20 01:26:36 -05]
+:END:
+
+开玩笑
+
+***** 7
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-20 01:26:39 -05]
+:END:
+
+Ａ：小李这个人怎么样？
+Ｂ：他虽然🟦很大，但工作很认真。
+
+******* ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-26 17:59:27 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-26 Mon 18:58]
+- State "UNANSWERED" from              [2022-12-26 Mon 17:59]
+:END:
+
+******** Question
+:PROPERTIES:
+:CREATED: [2022-12-26 17:59:47 -05]
+:END:
+
+在这个对话，“脾气很大”什么意思？
+
+Ａ：小李这个人怎么样？
+Ｂ：➡️他虽然脾气很大⬅️，但工作很认真。
+
+******** Answer
+:PROPERTIES:
+:CREATED: [2022-12-26 17:59:55 -05]
+:END:
+
+easy to get angry
+
+very emotional
+
+You could also say
+
+Ｂ：➡️他虽然脾气不好⬅️，但工作很认真。
+Ｂ：➡️他虽然脾气很不好⬅️，但工作很认真。
+
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-20 01:26:40 -05]
+:END:
+
+脾气
+
+******* 笔记
+:PROPERTIES:
+:CREATED: [2022-12-26 18:00:14 -05]
+:END:
+
+脾气 🟦 pi2qi5 🟦 n. temper, disposition ;
+
+***** 8
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-20 01:26:43 -05]
+:END:
+
+Ａ：真🟦你，找了个那么漂亮的女朋友！
+Ｂ：她不仅长得漂亮，也很聪明。
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-20 01:26:48 -05]
+:END:
+
+羡慕
+
+***** 9
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-20 01:26:51 -05]
+:END:
+
+Ａ：都这么晚了，他怎么还没到？
+Ｂ：他以前🟦不迟到，今天是怎么了？
+
+****** 答案
+:PROPERTIES:
+:CREATED: [2022-12-20 01:28:27 -05]
+:END:
+
+从来
+
+***** 10
+
+****** 对话填空
+:PROPERTIES:
+:CREATED: [2022-12-23 10:06:30 -05]
+:END:
+
+Ａ：这个电影讲了一个爱情故事，很浪漫，让人特别🟦。
+Ｂ：你们女孩子就是喜欢看这种电影。
+
+****** 答案
+
+感动
+
+* 注释
+:PROPERTIES:
+:CREATED: [2022-12-23 10:10:36 -05]
+:END:
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-12-23 19:03:58 -05]
+:END:
+
+*** 比一比
+:PROPERTIES:
+:CREATED: [2022-12-23 10:10:45 -05]
+:END:
+
+**** 做一做
+:PROPERTIES:
+:CREATED: [2022-12-23 10:12:15 -05]
+:END:
+
+***** 词语
+:PROPERTIES:
+:CREATED: [2022-12-23 10:12:39 -05]
+:END:
+
+****** 1
+:PROPERTIES:
+:CREATED: [2022-12-23 10:12:59 -05]
+:END:
+
+刚
+
+****** 2
+:PROPERTIES:
+:CREATED: [2022-12-23 10:13:00 -05]
+:ID: 83b10749-6ed0-44b6-a252-3381a2483433
+:END:
+
+刚才
+
+***** 题
+:PROPERTIES:
+:CREATED: [2022-12-23 10:17:45 -05]
+:END:
+
+****** 1
+:PROPERTIES:
+:CREATED: [2022-12-23 10:17:56 -05]
+:ID: 80c47ada-07ed-42cb-82b4-783c8a133383
+:END:
+
+******* 课文
+:PROPERTIES:
+:CREATED: [2022-12-23 10:17:58 -05]
+:END:
+
+我🟦给妈妈打了一个电活。
+
+******* 答案
+:PROPERTIES:
+:CREATED: [2022-12-23 10:18:18 -05]
+:END:
+
+******** 1
+:PROPERTIES:
+:CREATED: [2022-12-23 10:18:22 -05]
+:END:
+
+1
+
+******** 2
+:PROPERTIES:
+:CREATED: [2022-12-23 10:18:23 -05]
+:END:
+
+1
+
+****** 2
+:PROPERTIES:
+:CREATED: [2022-12-23 10:19:31 -05]
+:ID: 533b91fb-dc22-48df-ae7c-276ca1b98498
+:END:
+
+******* 课文
+:PROPERTIES:
+:CREATED: [2022-12-23 10:19:32 -05]
+:END:
+
+我昨天🟦到，有点儿累，想休息休息。
+
+******* 答案
+:PROPERTIES:
+:CREATED: [2022-12-23 10:20:16 -05]
+:END:
+
+******** 1
+:PROPERTIES:
+:CREATED: [2022-12-23 10:20:36 -05]
+:END:
+
+1
+
+******** 2
+:PROPERTIES:
+:CREATED: [2022-12-23 10:20:37 -05]
+:END:
+
+0
+
+****** 3
+:PROPERTIES:
+:ID: e0fa34b4-6c42-4847-bf50-86c63064a1ee
+:END:
+
+******* 课文
+
+你🟦不在办公室，我把东西给你同事了。
+
+******* 答案
+
+******** 1
+
+0
+
+******** 2
+
+1
+
+****** 4
+:PROPERTIES:
+:ID: 71b6f795-b811-4d3f-ba5c-f4f5dfb9b0c8
+:END:
+
+******* 课文
+
+不好意思，🟦我太忙了，没时间跟你说活。
+
+******* 答案
+
+******** 1
+
+0
+
+******** 2
+
+1
+
+****** 5
+:PROPERTIES:
+:ID: 8f0fb2fa-75ce-4933-9d12-22c775cd13fc
+:END:
+
+******* 课文
+
+我🟦搬来一个星期，对这儿的环境还不太熟悉。
+
+******* 答案
+
+******** 1
+
+1
+
+******** 2
+
+0
+
+* 扩展
+:PROPERTIES:
+:CREATED: [2022-12-24 18:03:35 -05]
+:END:
+
+** 做一做
+:PROPERTIES:
+:CREATED: [2022-12-24 18:03:52 -05]
+:ID: 91230345-29dc-4752-b0b4-92c4e35f747e
+:END:
+
+*** 选择
+:PROPERTIES:
+:CREATED: [2022-12-24 18:04:01 -05]
+:END:
+
+**** 1
+:PROPERTIES:
+:CREATED: [2022-12-24 18:04:09 -05]
+:END:
+
+感到
+
+**** 2
+:PROPERTIES:
+:CREATED: [2022-12-24 18:04:11 -05]
+:END:
+
+感动
+
+**** 3
+:PROPERTIES:
+:CREATED: [2022-12-24 18:04:11 -05]
+:END:
+
+感冒
+
+**** 4
+:PROPERTIES:
+:CREATED: [2022-12-24 18:04:11 -05]
+:END:
+
+感兴趣
+
+*** 题
+
+**** 1
+
+***** 内容填空
+
+Ａ：我🟦了，明天想请一天假。
+Ｂ：没问题。你最好去医院看一下。
+
+***** 答案
+
+****** 1
+
+感冒
+
+**** 2
+
+***** 内容填空
+
+张老师上课的时候经常讲一些有趣的故事，让这些一年级的学生们对历史越来越🟦了。
+
+***** 答案
+
+****** 1
+
+感兴趣
+
+**** 3
+
+***** 内容填空
+
+等车的时候，我随便买了报纸，看了没几页，就看到一个小故事，虽然不长，但是让我很🟦。
+
+****** UNANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-26 17:39:57 -05]
+:END:
+:LOGBOOK:
+- State "UNANSWERED" from              [2022-12-26 Mon 17:40]
+:END:
+
+******* Question
+:PROPERTIES:
+:CREATED: [2022-12-26 17:40:04 -05]
+:END:
+
+I didn't understand the meaning of this part.
+
+等车的时候，我随便买了报纸，➡️看了没几页⬅️，就看到一个小故事，虽然不长，但是让我很感动。
+
+****** UNANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-26 18:02:28 -05]
+:END:
+:LOGBOOK:
+- State "UNANSWERED" from              [2022-12-26 Mon 18:02]
+:END:
+
+******* Question
+:PROPERTIES:
+:CREATED: [2022-12-26 18:02:45 -05]
+:END:
+
+What does this part mean?
+
+等车的时候，➡️我随便买了报纸⬅️，看了没几页，就看到一个小故事，虽然不长，但是让我很感动。
+
+"I casually bought a newspaper" -> "I never do it, but I did it this time"
+
+***** 答案
+
+****** 1
+
+感动
+
+**** 4
+
+***** 内容填空
+
+当你帮助别人时，不但会让别人🟦被关心，你自己也会更快乐。
+
+***** 答案
+
+****** 1
+
+感到
+
+******* 对我生词
+:PROPERTIES:
+:CREATED: [2023-01-21 19:49:03 -05]
+:END:
+
+感到 🟦 gan3 dao4 🟦 v. to feel 🟦
