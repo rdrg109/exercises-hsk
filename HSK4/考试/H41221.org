@@ -1752,7 +1752,7 @@ b
 :ID: 4a44da34-7b02-4d4d-b702-7a0ba3a96bcb
 :END:
 
-**** 课文字稿
+**** 段话
 :PROPERTIES:
 :CREATED: [2022-12-27 01:19:02 -05]
 :END:
@@ -1874,7 +1874,7 @@ a
 :ID: bfe47bb0-66a2-41e2-a09c-bd34f203945c
 :END:
 
-**** 课文字稿
+**** 段话
 :PROPERTIES:
 :CREATED: [2022-12-27 01:19:02 -05]
 :END:
@@ -1996,7 +1996,7 @@ d
 :ID: 6a58f149-6dd9-4d9d-8f82-46ae7b22dc7b
 :END:
 
-**** 课文字稿
+**** 段话
 :PROPERTIES:
 :CREATED: [2022-12-27 01:19:02 -05]
 :END:
@@ -2118,7 +2118,7 @@ d
 :ID: 67afceba-fff5-49af-9a6c-850e0ce78f8c
 :END:
 
-**** 课文字稿
+**** 段话
 :PROPERTIES:
 :CREATED: [2022-12-27 01:19:02 -05]
 :END:
@@ -2240,7 +2240,7 @@ d
 :ID: a9011018-bc80-48fe-99cd-5cbab7fb3aca
 :END:
 
-**** 课文字稿
+**** 段话
 :PROPERTIES:
 :CREATED: [2022-12-27 01:19:02 -05]
 :END:
