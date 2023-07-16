@@ -1,0 +1,3961 @@
+* HSK1
+:PROPERTIES:
+:CREATED: [2022-02-09 23:54:17 -05]
+:END:
+
+** Chapter 1
+:PROPERTIES:
+:CREATED: [2022-03-14 21:44:04 -05]
+:END:
+
+*** Pinyin
+:PROPERTIES:
+:CREATED: [2022-03-14 21:44:06 -05]
+:END:
+
+**** 4. Tone Sandhi: 3rd tone + 3rd tone
+:PROPERTIES:
+:CREATED: [2022-03-14 21:44:13 -05]
+:END:
+
+When two third-tone syllables are read in sequence, the first syllable turns into the second tone, i.e., the 3+3 sequence becomes a 2+3 one. For example "nǐ (你)" + "hǎo (好)" is read "ní hǎo". However, when put in the written form, the original tone is kept.
+
+|----------+----------+----+----------+----------|
+| 3rd tone | 3rd tone | -> | 2nd tone | 3rd tone |
+|----------+----------+----+----------+----------|
+| nǐ (你)  | hǎo (好) |    | ní       | hǎo      |
+| kě (可)  | yǐ (以)  |    | ké       | yǐ       |
+| fǔ (辅)  | dǎo (导) |    | fú       | dǎo      |
+|----------+----------+----+----------+----------|
+
+Read the following words aloud and pay attention to the change in the tone of the 3rd tone syllables.
+
+nǐ hǎo
+
+kěyǐ
+
+fǔdǎo
+
+xiǎojiě
+
+kǒuyǔ
+
+yǔfǎ
+
+fǎyǔ
+
+tǎo hǎo
+
+liǎojiě
+
+yǒuhǎo
+
+yǔsǎn
+
+shǒubiǎo
+
+** Chapter 2
+:PROPERTIES:
+:CREATED: [2022-02-10 06:08:05 -05]
+:END:
+
+
+*** Book
+:PROPERTIES:
+:CREATED: [2022-03-19 07:55:19 -05]
+:END:
+
+**** Text
+:PROPERTIES:
+:CREATED: [2022-03-19 07:55:22 -05]
+:END:
+
+***** 1
+:PROPERTIES:
+:CREATED: [2022-03-19 07:55:25 -05]
+:END:
+
+A：谢谢！
+pi: xièxie
+en: thank you
+es: gracias
+
+B：不谢！
+pi: bú xiè
+en: sure
+es: de nada
+
+New words
+
+不 | bù | no, not | no | adverb ;
+
+
+***** 2
+:PROPERTIES:
+:CREATED: [2022-03-19 07:55:39 -05]
+:END:
+
+A：谢谢你！
+pi: xièxie nǐ
+en: thank you
+es: gracias
+
+B：不客气！
+pi: bú kèqi
+en: you're welcome, don't mention it
+es: ni lo mencioness
+
+***** 3
+:PROPERTIES:
+:CREATED: [2022-03-19 07:55:40 -05]
+:END:
+
+A：再见！
+B：再见！
+
+再见
+zàijiàn
+goodbye
+
+** Chapter 3
+:PROPERTIES:
+:CREATED: [2022-03-14 21:36:54 -05]
+:END:
+
+*** Pinyin
+:PROPERTIES:
+:CREATED: [2022-03-14 21:36:59 -05]
+:END:
+
+**** 3. Tone sandhi of 不 (bù)
+:PROPERTIES:
+:CREATED: [2022-03-14 21:37:10 -05]
+:END:
+
+When "不" is followed by a syllable in the first, second or third tone, its tone doesn't change.
+
+bù chī | to not eat | no comer
+bù xíng | not OK | no está bien
+bù hǎo | not good | no está bien
+bù hē | to not drink | no tomar
+bù néng | can't | no poder
+bù xiǎng | don't want | no querer
+
+When 不 is followed by a syllable in the fourth tone, it changes into the second tone.
+
+bú huì | to be unable to
+bú shì | to be not
+bú kàn | to not look
+
+** Chapter 4
+:PROPERTIES:
+:CREATED: [2022-04-03 11:41:14 -05]
+:END:
+
+*** Pinyin
+:PROPERTIES:
+:CREATED: [2022-04-03 11:41:44 -05]
+:END:
+
+**** 3. Tone Sandhi of 一
+:PROPERTIES:
+:CREATED: [2022-04-03 11:41:41 -05]
+:END:
+
+When 一 is followed by a syllable in the first, second or third tone, it changes into the fourth tone.
+
+pi: yì shāng
+en: one sheet/piece
+
+pi: yì tiáo
+en: one (long) piece
+
+pi: yì zhǒng
+en: one type
+
+When "一" is followed by a syllable in the fourth, it changes into the second tone
+
+pi: yídìng
+en: sure, certainly
+
+pi: yí kuài
+en: one piece
+
+When "一" is used alone or in a number, its tone doesn't change.
+
+Examples of 一 being used alone
+
+pi: dì yī
+en: first
+
+pi: yī èr sān
+en: one, two, three
+
+pi: xīngqī yī
+en: Monday
+
+Examples of 一 being used in a number
+
+pi: shíyī
+en: eleven
+
+Examples of 一 being used alone and in a number
+
+pi: bǎifēnzhī yī
+en: one percent
+
+** Chapter 5
+:PROPERTIES:
+:CREATED: [2022-03-19 22:03:38 -05]
+:END:
+
+*** Text
+:PROPERTIES:
+:CREATED: [2022-03-19 22:03:41 -05]
+:END:
+
+**** In the school
+:PROPERTIES:
+:CREATED: [2022-03-19 22:03:44 -05]
+:END:
+
+女儿 | nǚ'ér | daughter | hija | noun ;
+
+几 | jǐ | how many | cuantos | pronoun ;
+
+岁 | suì | year (of age) | año (edad) | m. ;
+
+了 | le | (used at the end or in middle of a sentence to indicate a change or a new circumstance) | (usado dentro o al final de una oración para indicar cambio o nueva circunstancia) | particle ;
+
+今年 | jīnnián | this year | este año | noun ;
+
+
+
+*** Notes
+:PROPERTIES:
+:CREATED: [2022-03-19 22:06:28 -05]
+:END:
+
+**** 3. "了" Indicating a change
+:PROPERTIES:
+:CREATED: [2022-03-19 22:10:03 -05]
+:END:
+
+"了" is used at the end of a sentence to indicate a change or the ocurrence of a new situation. For example,
+
+1. 李老师今年50岁了。
+pi: lǐ lǎoshī jīnnián wǔshí suìle
+en: Ms. Li is 50 years old
+es: El Sr. Lee tiene 50 años
+
+2.我朋友的女儿今年四岁了。
+pi: wǒ péngyǒu de nǚ'ér jīnnián sì suì le
+en: My friend's daughter is four years old
+es: La hija de mi amigo tiene 4 años
+
+3. 你女儿几岁了？
+pi: nǐ nǚ'ér jǐ suì le
+en: How old is your daughter?
+es: ¿Qué edad tiene tu hija?
+
+** Chapter 6
+:PROPERTIES:
+:CREATED: [2022-02-14 17:39:17 -05]
+:END:
+
+我会说汉语。
+pi: wǒ huì shuō hànyǔ
+en: I can speak chinese
+es: Yo puedo hablar chino
+
+*** Book
+:PROPERTIES:
+:CREATED: [2022-03-15 00:12:34 -05]
+:END:
+
+**** Text
+:PROPERTIES:
+:CREATED: [2022-02-14 17:39:22 -05]
+:END:
+
+***** 1. 在学校 In the school
+:PROPERTIES:
+:CREATED: [2022-03-18 00:02:15 -05]
+:END:
+
+Dialogue
+
+A：你会说汉语吗？
+
+B：我会说汉语。
+
+A：你吗吗会说汉语吗？
+
+B：她不会说。
+
+New words
+
+会 | huì | can, to be able to | poder | modal verb ;
+
+说 | shuō | to speak, to say | hablar | verb ;
+
+吗吗 | māma | mother | noun ;
+
+***** 2. In the kitchen
+:PROPERTIES:
+:CREATED: [2022-02-14 17:39:29 -05]
+:END:
+
+Notes
+
+我和我爸爸想吃中国菜
+pi: wǒ hé wǒ bàba xiǎng chī zhōngguó cài
+en: My dad and I want to eat chinese food
+
+***** 3. 在图书馆 In the library
+:PROPERTIES:
+:CREATED: [2022-03-18 00:02:16 -05]
+:END:
+
+New words
+
+汉字 | hànzì | chinese character | caracter chino | noun ;
+
+**** Notes
+:PROPERTIES:
+:CREATED: [2022-03-15 00:12:28 -05]
+:END:
+
+***** The modal verb 会
+:PROPERTIES:
+:CREATED: [2022-03-15 00:12:41 -05]
+:END:
+
+The modal verb "会" is used before a verb, indicating acquiring an ability through learning. Its negative form is "不会". For example,
+
+|---------+--------+------------|
+| Subject | (不)会 | Verb       |
+|---------+--------+------------|
+| 我      | 会     | 写汉字。   |
+| 我      | 不会   | 做中国菜。 |
+| 你妈妈  | 会     | 说汉语吗？ |
+|---------+--------+------------|
+
+我会写汉字。
+pi: wǒ huì xiě hànzì
+en: I can write chinese characters
+es: Puedo escribir caracteres chinos
+
+我不会做中国菜。
+pi; wǒ bú huì zuò zhōngguó cài
+en: I can't cook chinese food
+es: No puedo cocinar comida china
+
+你妈妈会说汉语吗？
+pi: nǐ māma huì shuō hànyǔ ma
+en: Can your mom speak chinese?
+es: ¿Tu mama puede hablar chino?
+
+** Chapter 7
+:PROPERTIES:
+:CREATED: [2022-02-14 17:34:10 -05]
+:END:
+
+
+*** Book
+:PROPERTIES:
+:CREATED: [2022-03-17 23:01:44 -05]
+:END:
+
+**** Warm-up
+:PROPERTIES:
+:CREATED: [2022-03-19 07:49:35 -05]
+:END:
+
+1. E
+
+书 | shū | book | libro | noun ;
+
+2. D
+
+中国菜
+pi: zhōngguó cài
+en: chinese food
+es: comida china
+
+3. A
+
+学校 | xuéxiào | school | escuela | noun ;
+
+4. C
+
+二十五号
+pi: èrshíwǔ hào
+en: 25th
+es: 25
+
+5. F
+
+月 | yuè | month | mes | noun
+
+6. B
+
+看书
+pi: kàn shū
+es: read book
+
+**** Text
+:PROPERTIES:
+:CREATED: [2022-03-17 23:01:38 -05]
+:END:
+
+昨天我和我的家人去饭馆吃三明治和蛋糕
+es: Ayer fui a un restaurante con mi familia a comer sándwiches y pasteles
+
+
+***** In a bank
+:PROPERTIES:
+:CREATED: [2022-03-17 23:01:49 -05]
+:END:
+
+
+A：请问，今天几号？
+B：今天九月一号。
+A：今天星期几？
+B：星期三。
+
+
+New words
+
+请 | qǐng | (polite) please | (amable) por favor | verb ;
+
+问 | wèn | to ask, to inquire | preguntar, pedir | verb ;
+
+今天 | jīntiān | today | hoy día | noun ;
+
+号 | hào | (for date of month) number | (para meses) número | noun ;
+
+月 | yuè | month | mes | noun ;
+
+星期 | xīngqī | week | semana | noun ;
+
+note
+
+请 | qǐng :
+
+***** Look at the calendar
+:PROPERTIES:
+:CREATED: [2022-03-17 23:05:06 -05]
+:END:
+
+A：昨天是几月几号？
+B：昨天是八月三十一号，星期二。
+A：明天呢？
+B：明天是九月二号，星期四。
+
+New words
+
+昨天 | zuótiān | yesterday | ayer ;
+
+明天 | míngtiān | tomorrow | mañana ;
+
+***** In a  coffee house
+:PROPERTIES:
+:CREATED: [2022-03-17 23:05:10 -05]
+:END:
+
+** Chapter 8
+:PROPERTIES:
+:CREATED: [2022-02-12 21:37:39 -05]
+:END:
+
+*** Book
+:PROPERTIES:
+:CREATED: [2022-03-15 20:02:38 -05]
+:END:
+
+**** Text
+:PROPERTIES:
+:CREATED: [2022-02-12 21:38:56 -05]
+:END:
+
+***** 2. In the living room
+:PROPERTIES:
+:CREATED: [2022-02-12 21:39:05 -05]
+:END:
+
+id:a8351ebd-3078-4621-accc-c8b2db1dcada mentions the difference between the version that she showed in the slides and the one mentioned in the book.
+
+My interpretation of the difference is
+
+下午你想去做什么？
+xiàwǔ nǐ xiǎng qù zuò shénme
+where do you want to go for doing something this afternoon?
+
+下午你想做什么？
+xiàwǔ nǐ xiǎng zuò shénme
+what do you want to do this afternon?
+
+Dialogue
+
+Ａ：下午你想去做什么？
+pi: xiàwǔ nǐ xiǎng qù zuò shénme
+Ｂ：下午我想去商店
+Ｂ：xiàwǔ wǒ xiǎng qù shāngdiàn
+Ａ：你想买什么？
+Ａ：nǐ xiǎng mǎi shénme
+Ｂ：我想买一个杯子
+Ａ：wǒ xiǎng mǎi yī gè bēizi
+
+New words
+下 | xià :
+
+午 | wǔ :
+
+下午 | xiàwǔ | afternoon | tarde | noun;
+
+商 | shāng :
+
+店 | diàn :
+
+商店 | shāngdiàn | shop, store | tienda | noun ;
+
+买 | mǎi :
+
+买 | mǎi | buy, purchase | comprar | verb ;
+
+个 | gè :
+
+个 | gè | general measure word | palabra de medida general | measure word ;
+
+杯 | bēi :
+
+子 | zǐ :
+
+杯子 | bēizi | cup | taza | noun ;
+
+
+***** 3. In a store
+:PROPERTIES:
+:CREATED: [2022-02-12 21:58:55 -05]
+:END:
+
+Ａ：你好！这个杯子多少钱？
+pi: nǐ hǎo! zhège bēizi duōshao qián?
+en: hello, how much is this chair?
+es: ¡hola! ¿cuánto cuesta esta silla?
+
+Ｂ：二十八块。
+pi: érshíbā kuài
+en: 22 yuan
+es: 22 yuanes
+
+Ａ：那个杯子多少钱？
+pi: nǎge bēizi duōshao qián?
+en: how much is this cup?
+es: ¿cuánto cuesta esta taza?
+
+Ｂ：那个杯子十八块钱。
+pi: nàge bēizi shíbā kuài qián
+en: that cup is 18 yuan
+es: esa taza está 18 yuanes
+
+New words
+
+这 | zhè | this | este | pronoun ;
+
+*** Workbook
+:PROPERTIES:
+:CREATED: [2022-02-09 23:54:29 -05]
+:END:
+
+**** Listening
+:PROPERTIES:
+:CREATED: [2022-03-17 23:37:10 -05]
+:END:
+
+
+***** Part 3
+:PROPERTIES:
+:CREATED: [2022-02-10 00:01:40 -05]
+:END:
+
+****** 9
+:PROPERTIES:
+:CREATED: [2022-02-10 00:26:19 -05]
+:END:
+
+Alternatives
+
+a
+
+桌子 | zhuōzi | desk, table | mesa | noun ;
+
+b
+
+椅子 | yǐzi | chair | silla | noun ;
+
+c
+
+杯子 | bēizi | cup | taza | noun ;
+
+Dialogue
+
+明天他想去商店买一个杯子。
+pi: míngtiān tā xiǎng qù shāngdiàn mǎi yī gè bēizi
+en: Tomorrow he wants to go to the store and buy a mug.
+es: Mañana quiere ir a la tienda a comprar una taza.
+
+他想买什么？
+pi: tā xiǎng mǎi shénme
+en: What does he want to buy?
+es: ¿Qué quiere comprar?
+
+Answer: C
+
+****** 10
+:PROPERTIES:
+:CREATED: [2022-02-10 00:26:15 -05]
+:END:
+
+Alternatives
+
+a
+
+茶 | chá | tea | té | noun ;
+
+b
+
+咖啡 | kāfēi | coffee | café ;
+
+c
+
+米饭 | mǐfàn | rice | arroz ;
+
+Dialogue
+
+他想喝茶，你呢？
+pi: tā xiǎng hē chá, nǐ ne
+en: He wants to drink tea, and you?
+es: El quiere tomar té y ¿tú?
+
+他想诃什么？
+pi: tā xiǎng hē shénme
+en: What does he want to drink?
+es: ¿Qué quiere tomar?
+
+Answer
+
+a
+
+****** 11
+:PROPERTIES:
+:CREATED: [2022-02-10 00:26:12 -05]
+:END:
+
+Alternatives
+
+a
+
+商店 | shāngdiàn | shop | tienda | noun ;
+
+b
+
+学校 | xuéxiào | school | escuela | noun ;
+
+c
+
+朋友家 | péngyou jiā | friends' house | casa de un amigo ;
+
+Dialogue
+
+大卫今天下午去中国朋友家诃茶。
+pi: dàwèi jīntiān xiàwǔ qù zhōngguó péngyǒu jiā hē chá
+en: David went to a Chinese friend's house this afternoon to have tea.
+es: David ha ido esta tarde a tomar el té a casa de un amigo chino.
+
+大卫今天下午去哪儿？
+pi: dàwèi jīntiān xiàwǔ qù nǎér
+en: Where is David going this afternoon?
+es: ¿a dónde va David hoy en la tarde?
+
+Answer
+
+c
+
+Notes
+
+大卫 | dàwèi | david (male given name) | david (nombre de hombre) ;
+
+****** 12
+:PROPERTIES:
+:CREATED: [2022-02-10 00:26:07 -05]
+:END:
+
+Alternatives
+
+
+a
+
+三十八块
+pi: sānshíbā kuài
+en: 38 yuan
+es: 38 yuanes
+
+b
+
+七十九块
+pi: qīshíjiǔ kuài
+en: 79 yuan
+es: 79 yuanes
+
+c
+
+四十九块
+pi: sìshíjiǔ kuài
+en: 49 yuan
+es: 49 yuanes
+
+Dialogue
+
+这个菜三十八块，那个在四十九块。
+pi: zhège cài sān shí bā kuài, nàge zài sìshíjiǔ kuài
+en: this dish is 38 yuan, that one is 49 yuan.
+es: Este plato cuesta 38 yuanes y ese otro 49 yuanes.
+
+那个菜多少钱？
+pi: nàge cài duōshao qián
+en: how much is that dish?
+es: ¿cuánto cuesta ese plato?
+
+Answer
+
+c
+
+****** Confusions
+:PROPERTIES:
+:CREATED: [2022-02-10 00:45:19 -05]
+:END:
+
+The following confusion was made because I wanted to extract the character 买 from the following sentence, but instead of copying that character, I copied 东.
+
+#+begin_src text
+我去超市买东西
+wǒ qù chāoshì mǎi dōngxi
+I go to the supermarket to buy things
+#+end_src
+
+东 (dōng) -> 买 (mǎi)
+诃 (hē) -> 喝 (hē)
+
+The following confusion was generated because I struggle to distinguish the pronunciation of 在 and 菜
+
+在 (zài) -> 菜 (cài)
+
+** Chapter 9
+:PROPERTIES:
+:CREATED: [2022-02-14 17:52:07 -05]
+:END:
+
+*** Book
+:PROPERTIES:
+:CREATED: [2022-03-15 20:06:45 -05]
+:END:
+
+**** Text
+:PROPERTIES:
+:CREATED: [2022-02-14 17:52:13 -05]
+:END:
+
+***** 1. At home
+:PROPERTIES:
+:CREATED: [2022-03-19 07:22:44 -05]
+:END:
+
+Dialogue
+
+A：小猫在哪儿？
+B：小猫在那二。
+A：小狗在哪儿？
+B：小狗在椅子下面。
+
+New words
+
+小 | xiǎo | small, little | pequeño | adjective ;
+
+猫 | māo | cat | gato | noun ;
+
+在 | zài | to be in/on/at | estar en | verb ;
+
+那儿 | nàr | there | ahì | pronoun ;
+
+狗 | gǒu | dog | perro | noun ;
+
+椅子 | yǐzi | chair | silla | noun ;
+
+下面（下） | xiàmiàn | under, below | abajo, debajo de | noun ;
+
+***** 2. At the railway station
+:PROPERTIES:
+:CREATED: [2022-02-14 17:52:18 -05]
+:END:
+
+Ａ：你在哪儿工作？
+pi: nǐ zài nǎr gōngzuò
+en: where do you work?
+
+Ｂ：我在学校工作
+pi: wǒ zài xuéxiào gōngzuò
+en: I work at a school
+
+Ａ：你儿子在哪儿工作？
+pi: nǐ érzi zài nǎr gōngzuò
+en: where does your son work?
+
+Ｂ：我儿子在医院工作，他是医生
+pi: wǒ érzi zài yīyuàn gōngzuò, tā shì yīshēng
+en: my son works at a hospital, he's a doctor
+
+New words
+
+医院 | yīyuàn | hospital | hospital | noun ;
+
+医生 | yīshēng | doctor | doctor | noun ;
+
+***** 3. On the phone
+:PROPERTIES:
+:CREATED: [2022-02-14 17:58:08 -05]
+:END:
+
+Ａ：你爸爸在家吗？
+pi: nǐ bàba zài jiā ma
+en: Is your father at home?
+
+Ｂ：不在家
+pi: bú zài jiā
+en: No, he isn't
+
+Ａ：他在哪儿呢？
+pi: tā zài nǎr ne
+en: where is he?
+
+Ｂ：他在医院
+pi: tā zài yīyuàn
+en: He is in the hospital
+
+**** Notes
+:PROPERTIES:
+:CREATED: [2022-02-14 22:13:29 -05]
+:END:
+
+***** The verb "在"
+:PROPERTIES:
+:CREATED: [2022-02-14 22:13:37 -05]
+:END:
+
+
+我朋友在学校校
+wǒ péngyǒu zài xuéxiào
+es: my friend is at school
+
+我妈妈在家
+pi: wǒ māma zài jiā
+en: my mother is at home
+
+小狗在椅子下面
+pi: xiǎo gǒu zài yǐzi xiàmiàn
+en: puppy under the chair
+
+***** The interrogative pronoun "哪儿"
+:PROPERTIES:
+:CREATED: [2022-02-14 22:22:39 -05]
+:END:
+
+我的杯子在哪儿？
+pi: wǒ de bēizi zài nǎér
+en: where is my cup?
+
+我的中国朋友在哪儿？
+pi: wǒ de zhōngguó péngyǒu zài nǎr
+en: where is my chinese friend?
+
+小猫在哪儿？
+pi: xiǎo māo zài nǎr
+en: where is the kitten?
+
+***** The preposition "在"
+:PROPERTIES:
+:CREATED: [2022-02-14 22:27:07 -05]
+:END:
+
+我在朋友家喝茶
+pi: wǒ zài péngyǒu jiā hē chá
+
+他们在学校看书
+pi: tāmen zài xuéxiào kàn shū
+es: ellos están leyendo libros en la escuela
+
+我儿子在医院工作
+pi: wǒ érzi zài yīyuàn gōngzuò
+es: mi hijo trabaja en un hospital
+
+***** The interrogative particle "呢"
+:PROPERTIES:
+:CREATED: [2022-02-14 22:36:12 -05]
+:END:
+
+Used at the end of a sentence, the interrogative particle "呢" asks about the location of somebody or something. For example,
+
+我的小猫呢？
+pi: wǒ de xiǎo māo ne
+es: ¿Dónde está mi gatito?
+
+我的杯子呢？
+pi: wǒ de bēizi ne
+es: ¿Dónde está mi taza?
+
+他在哪儿呢？
+pi: tā zài nǎr ne
+es: ¿Dónde está él?
+
+
+***** Difference between "呢" and "在哪儿"
+:PROPERTIES:
+:CREATED: [2022-02-14 23:31:18 -05]
+:END:
+
+Some people might wonder what's the difference between using "呢" and "在哪儿". The difference is in the context where these sentences are being used.
+
+你的书包呢？
+pi: nǐ de shūbāo ne
+en: where is your school bag?
+
+你的书包在哪儿？
+pi: nǐ de shūbāo zài nǎér
+en: where is your school bag?
+
+In the following context, 呢 has [another meaning.
+
+Ａ：我的铅(is blue)
+en: my pen is blue
+
+Ｂ：你的书包呢？
+pi: nǐ de shūbāo ne
+en: what about your schoolbag?
+
+**** Exercises
+:PROPERTIES:
+:CREATED: [2022-02-14 22:40:32 -05]
+:END:
+
+***** 2: Answer the questions based on the dialogues
+:PROPERTIES:
+:CREATED: [2022-02-14 22:40:45 -05]
+:END:
+
+Q: 小狗在哪儿？
+pi: xiǎo gǒu zài nǎr
+
+Ａ：小狗在椅子下面
+pi: xiǎo gǒu zài yǐzi xiàmiàn
+es: el cachorro está bajo la silla
+
+Ａ：小狗在桌子上面
+pi: xiǎo gǒu zài zhuōzi shàngmiàn
+es: el cachorro está sobre la mesa
+
+Ａ：小狗在床下面
+pi: xiǎo gǒu zài chuáng xiàmiàn
+es: el cachorro está bajo la cama
+
+
+
+Q: 他在哪儿工作？
+en: where does he work?
+
+Ａ：他在医院工作
+en: he works in a hospital
+
+Ａ：他在学校工作
+en: he works in a school
+
+Ａ：他在饭馆工作
+en: he works in a restaurant
+
+Q: 他儿子在哪儿工作？
+en: where does his son work?
+
+Ａ：他的儿子在饭馆工作
+en: His son works in a restaurant
+
+他的儿子在健身房工作
+pi: tā de érzi zài jiànshēnfáng gōngzuò
+en: His son works at a gym
+
+Q: 他爸爸在家吗？
+pi: tā bàba zài jiā ma
+en: is his father at home?
+
+Ａ：不在家
+pu: bù zài jiā
+en: No, he isn't.
+
+Q: 他爸爸在哪儿呢？
+Ａ：他爸爸在健身房
+Ａ：他爸爸在医院
+
+***** Fill the gaps
+:PROPERTIES:
+:CREATED: [2022-02-14 22:51:09 -05]
+:ID: f7c04930-7de7-4722-b86d-6628575ef049
+:END:
+
+猫在椅子上面
+pi: māo zài yǐzi shàngmiàn
+es: El gato está sobre la silla
+en: The kitten is on the chair
+
+小孩子在椅子下
+pi: xiǎo háizǐ zài yǐzi xià
+en: small children under the chair
+es: niño pequeño bajo la silla
+
+我妈妈是医生，她在医院工作
+pi: wǒ māma shì yīshēng, tā zài yīyuàn gōngzuò
+en: My mother is a doctor, she works at a hospital
+es: Mi madre es una doctora, trabaja en un hospital
+
+我女儿是学生，她不在医院工作
+pi: wǒ nǚ'ér shì xuésheng, tā bù zài yīyuàn gōngzuò
+en: My daughter is a student, she doesn't work at a hospital
+
+** Chapter 10
+:PROPERTIES:
+:CREATED: [2022-02-15 22:31:18 -05]
+:END:
+
+*** Book
+:PROPERTIES:
+:CREATED: [2022-03-15 00:22:58 -05]
+:END:
+
+**** Text
+:PROPERTIES:
+:CREATED: [2022-02-15 22:31:59 -05]
+:END:
+
+***** In the office
+:PROPERTIES:
+:CREATED: [2022-03-19 21:25:17 -05]
+:END:
+
+Dialogue
+
+A：桌子上有什么？
+B：桌子上有一个电脑和一本书。
+A：杯子在哪儿？
+B：杯子在桌子里。
+
+New words
+
+桌子 | zhuōzi | desk, table | mesa | noun ;
+
+上 | shang | up, above ;
+
+电脑 | diànnǎo | computer | computadora | noun ;
+
+和 | hé | and | y | conjugation ;
+
+本 | běn | (a measure word for books) | palabra de medida para libros | measure word ;
+
+里 | li | noun | inner, inside, interior | dentro, interior ;
+
+
+***** In the gym
+:PROPERTIES:
+:CREATED: [2022-02-15 22:32:06 -05]
+:ID: 2eb6bdc4-6960-4f60-81d3-ea91dea1b491
+:END:
+
+前面
+pi: qiánmiàn
+en: front
+
+后面
+pi: hòumiàn
+en: back
+
+王方
+pi: wáng fāng
+en: Wang Fang
+
+谢朋
+pi: xiè péng
+en: Xie Peng
+
+Ａ：前面那个人叫什么名字？
+pi: qiánmiàn nàge rén jiào shénme míngzi
+en: what's the name of the person in the front?
+
+Ｂ：她叫王方，在一院工作
+pi: tā jiào wáng fāng, zài yīyuàn gōngzuò
+en: She is Wang Fang, she works in a hospital
+
+Ａ：后面那个人呢？她叫什么名字？
+pi: hòumiàn nàge rén ne? tā jiào shénme míngzi
+en: What about the persson at the back? What's his name?
+
+Ｂ：他叫谢朋，在商店工作
+pi: tā jiào xiè péng, zài shāngdiàn gōngzuò
+en: He is Xie Peng. He works in a store
+
+***** In the library
+:PROPERTIES:
+:CREATED: [2022-02-15 22:32:12 -05]
+:ID: 4654873c-900f-4554-a611-855eb870a935
+:END:
+
+这儿 | zhèr | here | aquì ;
+
+没有
+pi: méiyǒu
+en: there is not
+
+能
+pi: néng
+en: can / may
+es: poder
+
+坐
+pi: zuò
+en: to sit / to be seated
+
+Ａ：这儿有人吗？
+pi: zhèr yǒu rén ma
+en: Is this seat taken?
+
+Ｂ：没有
+pi: méiyǒu
+en: no, it isn't
+
+Ａ：我能坐这儿吗？
+pi: wǒ néng zuò zhèr ma
+en: can i sit here?
+
+Ｂ：请坐
+pi: qǐngzuò
+en: yes, please
+
+**** Notes
+:PROPERTIES:
+:CREATED: [2022-03-15 00:22:57 -05]
+:END:
+
+***** The "有" sentence: indicating existence
+:PROPERTIES:
+:CREATED: [2022-03-19 21:24:13 -05]
+:END:
+
+The verb "有" can be used in an existential sentence to indicate a person or thing exists somewhere. For example:
+
+|------------------+----+------------------------|
+| Word of locality | 有 | Person/Thing  Existing |
+|------------------+----+------------------------|
+| 椅子下面         | 有 | 一只小狗。             |
+| 学校里           | 有 | 一个商店。             |
+| 桌子上           | 有 | 一个电脑和一本书。     |
+|------------------+----+------------------------|
+
+
+椅子下面（有）只小狗。
+pi: yǐzi xiàmian yǒu yī zhī xiǎo gǒu
+en: There is a puppy under the chair.
+es: Hay un perro pequeño debajo de la silla.
+
+学校里（有）一个商店。
+pi: xuéxiào lǐ yǒu yī gè shāngdiàn
+en: There is a store in the school.
+es: Hay una tienda en la escuela.
+
+桌子上（有）一个电脑和一本书。
+pi: zhuōzi shángmian yī gè diànnǎo hé yī běn shū
+en: There is a computer and a book on the table.
+es: Hay un ordenador y un libro sobre la mesa.
+
+In the negative form of a "有" sentence, "没有" is used without a numeral classifier before the object. For example:
+
+椅子下面（没有）小狗。
+pi: yǐzi xiàmian méiyǒu xiǎo gǒu
+en: There are no puppies under the chairs.
+es: No hay cachorros debajo de las sillas.
+
+学校里（没有）商店。
+pi: xuéxiào lǐ méiyǒu shāngdiàn
+en: There are no stores in the school.
+es: No hay tiendas en la escuela.
+
+桌子上（没有）电脑和书。
+pi: zhuōzi sháng méiyǒu diànnǎo hé shū
+en: There are no computers or books on the tables.
+es: No hay ordenadores ni libros en las mesas.
+
+***** The Modal verb "能"
+
+The modal verb "能" is usually used before a verb to form the predicate indicating an ability or possibility. The interrogative sentence structure "能…吗？" is often used to indicate a request or hope for permission. For example:
+
+明天下午我能去商店。
+pi: míntiān xiàwǔ wǒ néng qù shāngdiàn
+en: I can go to the store tomorrow afternoon
+es: Puedo ir a la tienda mañana por la tarde
+
+你能在这儿写你的名字吗？
+pi: nǐ néng zài zhèr xiě nǐ de míngzi
+en: can you write your your name here?
+es: ¿puedes escribir tu nombre acá?
+
+我能坐这儿吗？
+pi: wǒ néng zuò zhèr ma
+en: can I sit here?
+es: ¿me puedo sentar acá?
+
+notes
+
+名字 | míngzi | name | nombre ;
+
+**** Exercises
+:PROPERTIES:
+:CREATED: [2022-02-15 23:19:51 -05]
+:END:
+
+***** 3. Describe the pictures
+:PROPERTIES:
+:CREATED: [2022-02-15 23:19:54 -05]
+:END:
+
+Picture no. 1
+
+桌子上面有一个杯子
+pi: zhuōzi shàngmiàn yǒu yí gè bēizi
+es: Hay una taza encima de la mesa
+
+椅子前面有一个桌子
+pi: yǐzi qiánmian yǒu yí gè zhuōzi
+es: hay una mesa frente a la silla
+
+桌子前面有一个椅子
+pi: zhuōzi qiánmian yǒu yí gè yǐzi
+es: hay una silla frente a la mesa
+
+Picture no. 2
+
+桌子上面有电脑和书
+pi: zhuōzi shàngmian yǒu diànnǎo hě shū
+es: mesa con ordenador y libros encima
+
+Picture no. 3
+
+我能坐这儿吗？
+pi: wǒ néng zuò zhèr ma
+
+Picture no. 4
+
+他在商店工作
+pi: tā zài shāngdiàn gōngzuò
+es: él trabaja en una tienda
+
+*** Workbook
+:PROPERTIES:
+:CREATED: [2022-02-16 23:08:52 -05]
+:END:
+
+**** Part II
+:PROPERTIES:
+:CREATED: [2022-02-16 23:08:55 -05]
+:END:
+
+***** 5
+:PROPERTIES:
+:CREATED: [2022-02-17 00:12:40 -05]
+:END:
+
+电脑
+pi: diànnǎo
+en: computer
+es: computadora
+
+Ａ：你的桌子上有什么？
+pi: nǐ de zhuōzi shàng yǒu shénme
+en: what's on your desk?
+es: ¿qué hay en tu escritorio?
+
+Ｂ：我的桌子上有一个电脑
+pi: wǒ de zhuōzi shàng yǒu yī gè diànnǎo
+en: I have a computer on my desk
+es: tengo una computadora en mi escritorio
+
+Answer: E
+
+***** 6
+:PROPERTIES:
+:CREATED: [2022-02-17 00:12:43 -05]
+:END:
+
+那儿
+pi: nǎr
+en: there
+es: ahí
+
+Ａ：你女儿呢？
+pi: nǐ nǚ'ér ne
+en: where is your daughter?
+es: ¿dónde está tu hija?
+
+Ｂ：在那儿，她在桌子下面
+pi: zài nà'er, tā zài zhuōzi xiàmiàn
+en: there she is, under the table
+es: ahí está, debajo de la mesa
+
+Answer: A
+
+***** 7
+:PROPERTIES:
+:CREATED: [2022-02-17 00:12:47 -05]
+:END:
+
+那个
+pi: nàge
+en: that thing
+es: esa cosa
+
+
+Ａ：谁是大卫？
+pi: shéi shì dàwèi
+en: who is David?
+es: ¿quién es David?
+
+Ｂ：我后面的那个人是大卫
+pi: wǒ hòumiàn de nà gè rén shí dàwèi
+en: the man behind me is David
+es: el hombre detrás de mí es David
+
+Answer: D
+
+***** 8
+:PROPERTIES:
+:CREATED: [2022-02-17 00:12:56 -05]
+:END:
+
+Ａ：李老师家在后面吗？
+pi: lǐ lǎoshī jiā zài hóumiàn
+en: is Mr. Lee's house in the back?
+es: ¿La casa del profesor Li está en la parte de atrás?
+
+Ｂ：不是，李老师家在前面
+pi: búshì, lǐ lǎoshī jiā zài qiánmian
+en: no, Mr. Li's house is in front
+es: no, la casa del Sr. Li está al frente. 
+
+Answer: B
+** Chapter 11
+:PROPERTIES:
+:CREATED: [2022-02-16 22:35:54 -05]
+:END:
+
+*** Book
+:PROPERTIES:
+:CREATED: [2022-03-15 20:06:30 -05]
+:END:
+
+**** Warm-up
+:PROPERTIES:
+:CREATED: [2022-02-20 12:36:22 -05]
+:END:
+
+Match the pictures with the times
+
+五点
+pi: xiànzài wǔ diǎn
+mul: 5:00
+
+二点
+pi: èr diǎn
+mul: 2:00
+
+九点四十五分
+pi: jiǔ diǎn sìshíwǔ fēn
+mul: 9:45
+
+十二点
+pi: shíèr diǎn
+mul: 9:45
+
+三点五分
+pi: sān diǎn wǔ fēn
+mul: 3:05
+
+六点三十分
+pi: liù diǎn shānshí fēn
+mul: 6:30
+
+十点十分
+pi: shí diǎn shí fēn
+mul: 10:10
+
+**** Text
+:PROPERTIES:
+:CREATED: [2022-02-19 23:54:26 -05]
+:END:
+
+***** 1. In the library
+:PROPERTIES:
+:CREATED: [2022-02-19 23:54:32 -05]
+:END:
+
+现在
+pi: xiànzài
+en: now
+es: ahora
+
+点
+pi: diǎn
+en: o'clock
+es: hora
+
+分
+pi: fēn
+en: minute
+es: minuto
+
+中午
+pi: zhōngwǔ
+en: noon
+es: mediodía
+
+吃饭
+pi: chī fàn
+en: to eat a meal
+es: comer
+
+Ａ：现在几点？
+pi: xiànzài jǐ diǎn
+en: what's the time now?
+es: ¿qué hora es?
+
+Ｂ：现在十点十分
+pi: xiànzài shí diǎn shí fēn
+en: it's ten past ten
+es: Son las 10:10
+
+Ａ：中午几点吃饭？
+pi: zhōngwǔ jǐ diǎn chī fàn
+en: What time do you eat at noon?
+es: ¿A qué hora comes al mediodía?
+
+Ｂ：十二点吃饭
+pi: shí'èr diǎn chī fàn
+en: At twelve a clock
+es: A las 12 en punto
+
+***** 2. At home
+:PROPERTIES:
+:CREATED: [2022-02-19 23:54:38 -05]
+:END:
+
+
+时候
+pi: shíhou
+en: time
+es: tiempo
+
+回
+pi: huí
+en: come / back / return
+
+我们
+pi: we
+en: we
+es: nosotros
+
+电影
+pi: diànyǐng
+en: film / movie
+es: película
+
+Ａ：爸爸什么时候回家？
+pi: bàba shénme shíhou huí jiā
+en: when is dad coming home?
+es: ¿Cuándo papa volverá a casa?
+
+Ｂ：下午五点
+pi: xiàwǔ wǔ diǎn
+en: 5:00 p.m.
+es: 5 de la tarde
+
+Ａ：我们什么时喉去看电影？
+pi: wǒmen shénme shíhou qù kàn diànyǐng
+en: When do we go to the movies?
+es: ¿A qué hora vamos a ver películas?
+
+Ｂ：六点三十分
+pi: liù diǎn sānshí fēn
+en: 6:30 p.m.
+es: 6:30 de la tarde
+
+***** 3. At home
+:PROPERTIES:
+:CREATED: [2022-02-20 12:21:37 -05]
+:END:
+
+住
+pi: zhù
+en: live / stay
+es: vivir
+
+前
+pi: qián
+en: before / eearlier than
+es: antes
+
+Ａ：我星期一去北京
+pi: wǒ xīngqī yī qù běijīng
+en: I'll go to Beijing next Monday
+es: Iré a Beijing el siguiente lunes
+
+Ｂ：你想在北京住几天？
+pi: nǐ xiǎng zài běijīng zhù jǐ tiān
+en: how many days do you want to stay in Beijing?
+es: ¿Cuántos días quieres quedarte en Beijing?
+
+Ａ：住三天
+pi: zhù sān tiān
+en: 3 days
+es: 2 días
+
+Ｂ：你星期五前能回家吗？
+pi: xīngqī wǔ qián néng huí jiā ma
+en: Can you come back before Friday?
+es: ¿Podrás estar en casa el viernes?
+
+Ａ：能
+pi: néng
+en: I can
+es: Sí
+
+**** Notes
+:PROPERTIES:
+:CREATED: [2022-02-17 08:33:00 -05]
+:END:
+
+***** 1. Expression of time
+:PROPERTIES:
+:CREATED: [2022-02-20 13:03:30 -05]
+:END:
+
+点 and 分 are used to express time in Chinese, observing the principle of "the bigger unit preceding the smaller unit".
+
+点 means "o'clock", indicating a whole hour. For example,
+
+|  9:00 | 九点   |
+| 11:00 | 十一点 |
+|  2:00 | 两点   |
+
+The counterpart of 2 o'clock in Chinese is "两点" (liǎng diǎn) instead of 二点 (èr diǎn).
+
+If it is not a "whole hour" time, "分" is used. The pattern is "... 点 ... 分". For example:
+
+|  5:30 | 五点三十分 |
+| 11:10 | 十一点十分 |
+|  2:05 | 两点零五分 |
+
+To distingue a time before noon from one afternoon, the pattern "上午 (morning) ... (... 分)" or "下午" (afternoon) is used. For example:
+
+ | 8:00 a.m. | 上午八点         |
+ | 3:10 p.m. | 下午三点十分     |
+ | 5:25 p.m. | 下午五点二十五分 |
+
+
+***** 2. Time Word Used as an Adverbial
+:PROPERTIES:
+:CREATED: [2022-02-17 08:33:11 -05]
+:ID: b74a1dc1-cf72-4015-9562-eb108eb0d04c
+:END:
+
+When a time word serves as an adverbial modifier in a sentence, it often follows the subject. Sometimes it can be used before the subject. For example,
+
+|-----------+------------------+------------|
+| Subject   | Time (adverbial) | Predicate  |
+|-----------+------------------+------------|
+| 妈妈      | 六点             | 做饭       |
+| māma      | liù diǎn         | zuò fàn    |
+|-----------+------------------+------------|
+| 李老师    | 上午八点         | 去学校     |
+| lǐ lǎoshī | shàngwǔ bā diǎn  | qù xuéxiào |
+|-----------+------------------+------------|
+| 我        | 星期一           | 去北京     |
+| wǒ        | xīngqī yī        | qù běijīng |
+|-----------+------------------+------------|
+
+妈妈六点做饭
+pi: māma liù diǎn zuò fàn
+en: mom cooks dinner at six
+es: mamá cocina a las 6
+
+李老师上午八点去学校
+pi: lǐ lǎoshī shàngwǔ bā diǎn qù xuéxiào
+en: ms. Li goes to school at 8:00 am
+es: la Sra. Lee va a la escuela a las 8 de la mañana
+
+我星期一去北京
+pi: wǒ xīngqī yī qù běijīng
+en: I'm going to Beijing on Monday
+es: me voy a Pekín el lunes
+
+|--------------------+---------+-----------------|
+| Time (adverbial)   | Subject | Predicate       |
+|--------------------+---------+-----------------|
+| 七点               | 我      | 吃饭            |
+| qī diǎn            | wǒ      | chīfàn          |
+|--------------------+---------+-----------------|
+| 中午十二点         | 我们    | 回家            |
+| zhōngwǔ shíèr diǎn | wǒmen   | huíjiā          |
+|--------------------+---------+-----------------|
+| 下午五点           | 他们    | 去看电影        |
+| xiàwǔ wǔ diǎn      | tāmen   | qù kàn diànyǐng |
+|--------------------+---------+-----------------|
+
+七点我吃饭
+pi: qī diǎn wǒ chīfàn
+en: I eat at 7:00
+es: yo como a las 7
+
+中午十二点我们回家
+pi: zhōngwǔ shíèr diǎn wǒmen huíjiā
+en: we go home at 12:00 noon
+es: nos vamos a casa a las 12 del mediodía
+
+下午五点他们去看电影
+pi: xiàwǔ wǔ diǎn tāmen qù kàn diànyǐng
+en: they went to the movies at 5:00 p.m.
+es: van al cine a las 5 de la tarde
+
+***** 3. The noun 前
+:PROPERTIES:
+:CREATED: [2022-02-17 09:38:03 -05]
+:ID: 719c6feb-1bd8-4408-95ec-e6f36c2c8973
+:END:
+
+The noun 前 can be used to refer to a period prior to the present time or the time being mentioned. For example,
+
+三天前
+pi: sān tiān qián
+en: 3 days ago
+es: hace 3 días
+
+一个星期前
+pi: yī gè xīngqī qián
+en: 1 week ago
+es: hace 1 semana
+
+四点前
+pi: sì diǎn qián
+en: before 4 o'clock
+es: antes de las 4
+
+星期五前
+pi: xīngqī wǔ qián
+en: by friday / before friday
+es: para el viernes / antes del viernes
+
+Dialogue 1
+
+Ａ：你什么时侯去学校？
+pi: nǐ shénme shíhòu qù xuéxiào
+en: When are you going to school?
+es: ¿cuándo vas a ir a la escuela?
+
+Ｂ：八点前
+pi: bā diǎn qián
+en: before 8:00
+es: antes de las 8:00
+
+Dialogue 2
+
+Ａ：你什么拾侯回北京？
+pi: nǐ shénme shíhòu huí běijīng
+en: when will you return to Beijing?
+es: ¿cuándo volverá a Pekín?
+
+Ｂ：星期六前
+pi: xīngqī liù qián
+en: before saturday
+es: antes del sábado
+
+Dialogue 3
+
+Ａ：你星期五前能回家吗？
+pi: nǐ xīngqī wǔ qián néng huí jiā ma
+en: can you be home by Friday?
+es: ¿podrás volver casa el viernes?
+
+Ｂ：能
+pi: néng
+en: Yes, I can
+es: Sí, puedo
+
+**** Exercises
+:PROPERTIES:
+:CREATED: [2022-02-16 22:35:56 -05]
+:END:
+
+***** 2. Answer the questions based on the dialogues
+:PROPERTIES:
+:CREATED: [2022-02-20 14:26:50 -05]
+:END:
+
+Q: 现在几点？
+Ａ：现在零点三分
+Ａ：现在六点十分
+Ａ：现在八点四十八分
+Ａ：现在十一点五十八分
+
+Q: 他们几点吃饭？
+Ａ：上午八点
+Ａ：十一点五十分
+Ａ：下午七点三十分
+
+Q: 爸爸什么时候回家？
+Ａ：上午一点
+Ａ：上午两点
+Ａ：下午八点
+Ａ：下午十一点
+
+Q: 他们什么时候去看电影？
+Ａ：八点三十分
+Ａ：七点四十五分
+Ａ：九点二十分
+
+Q: 他去哪儿？ 什么十候能回家？
+Ａ：商店，下午八点十分
+Ａ：饭馆，下午十点二十分
+Ａ：健身房，上午九点三十分
+
+***** 3. Describe the pictures
+:PROPERTIES:
+:CREATED: [2022-02-16 22:36:02 -05]
+:ID: 2a2f401d-0d93-4a0b-a240-9ba8662fb4db
+:END:
+
+忙
+pi: máng
+en: busy
+
+她上午十一点在学校看书
+pi: tā shàngwǔ shíyī diǎn zài xuéxiào kàn shū
+en: she reads at school at eleven in the morning
+es: ella lee un libro en el colegio a las once de la mañana
+
+王方中午十二点吃饭，去商店买橙
+pi: wángfāng zhōngwǔ shíèr diǎn qù shāngdiàn mǎi chéng
+
+她们很忙，星期六七点三十五分也工作
+pi: tāmen hěn máng, xīngqī liù qī diǎn sānshíwǔ fēn yě gōngzuò
+en: They are very busy, they even work at 7:35 p.m. on Saturdays
+es: están muy ocupados, trabajando incluso a las 7:35 de la tarde los sábados
+
+她上午不喝茶，下午四点前喝茶
+pi: tā shàngwǔ bù hē chá, xiàwǔ sì diǎn qián hē chá
+en: she doesn't drink tea in the morning and drinks it before 4p.m.
+es: no bebe té por la mañana, lo hace antes de las 4p.m.
+
+**** Pinyin: Function of neutral tones syllables
+:PROPERTIES:
+:CREATED: [2022-02-20 15:22:41 -05]
+:END:
+
+The neutral tone in Chinese is not only a phonological phenomenom, but also a way to distinguish meanings. For example, the word "东西" refers to the directions east and west when read as "dōngxi", but when read as "dōngxi", it means "thing/stuff".
+
+老子
+pi: lǎozi
+en: father
+es: padre
+
+老子
+pi: lǎozǐ
+en: Lao-tzu, an ancient Chinese thinker
+
+买卖
+pi: mǎimai
+en: business
+es: empresa
+
+买卖
+pi: mǎimài
+en: buy and sell
+es: comprar y vender
+
+大意
+pi: dàyì
+en: careless
+es: descuidado
+
+大意
+pi: dàyì
+en: rough idea
+es: general idea
+
+**** Characters
+:PROPERTIES:
+:CREATED: [2022-02-20 15:30:33 -05]
+:END:
+
+***** Single-component characters
+:PROPERTIES:
+:CREATED: [2022-02-20 15:31:42 -05]
+:END:
+
+"午" in Chinese referes to the period of time between 11 a.m. and 1.pm.
+
+"电" originally referred to a sharp and multi-edged flash in the sky during a rain. It is both a physical phenomenom and a type of energy.
+
+
+***** Chinese radicals: "TODO" and "TODO"
+:PROPERTIES:
+:CREATED: [2022-02-20 15:31:51 -05]
+:END:
+
+The radical "TODO" is usually related to a landform or location.
+
+院
+pi: yuàn
+en: courtyard
+es: patio
+
+阳
+pi: yáng
+en: sun
+es: sol
+
+The radical "TODO" is usually related to a person.
+
+你
+pi: nǐ
+en: you (singular)
+es: tú
+
+他
+pi: tā
+en: he/him
+es: él
+
+**** Application
+:PROPERTIES:
+:CREATED: [2022-02-20 15:36:23 -05]
+:END:
+
+***** 1. Pair Work
+:PROPERTIES:
+:CREATED: [2022-02-20 15:36:27 -05]
+:END:
+
+1. 现在三点三十分
+mul: 3:30
+
+2. 现在十一点二十三分
+mul: 11:23
+3: 现在十点四十三分
+mul: 10:43
+
+4: 现在四点十五分
+mul: 04:15
+
+5: 现在五点五十八分
+mul: 05:58
+
+6: 现在一点二十七分
+mul: 01:27
+
+7: 现在十二点二十七分
+mul: 12:27
+
+8: 现在二点三十四分
+mul: 02:34
+
+9: 现在七点四十五分
+mul: 07:45
+
+10: 现在十点五分
+mul: 10:05
+
+
+***** 2. Group Work
+:PROPERTIES:
+:CREATED: [2022-02-20 15:41:02 -05]
+:END:
+
+Questions
+
+你几点吃早饭？
+pi: nǐ jǐ diǎn chī zǎofàn
+
+你几点来学校？
+pi: nǐ jǐ diǎn lái xuéxiào
+
+你几点看书？
+pi: nǐ jǐ diǎn kàn shū
+
+你几点回家？
+pi: nǐ jǐ diǎn huí jiā
+
+你几点看电视？
+pi: nǐ jǐ diǎn kàn diànshì
+
+****** Person 1
+:PROPERTIES:
+:CREATED: [2022-02-20 17:31:31 -05]
+:END:
+
+我七点吃早饭
+pi: wǒ qī diǎn chī zǎofàn
+
+我八点二十分来学校
+pi: wǒ bā diǎn èrshí fēn lái xuéxiào
+
+我十五点看书
+pi: wǒ shíwǔ diǎn kàn shū
+
+我十八点前回家
+pi: wǒ shíbā diǎn qián huí jiā
+en: I'll be home before 18:00
+es: me voy a casa antes de las 18
+
+我看电视晚上二十点
+pi: wǒ kàn diànshì èrshí diǎn wǎnshang
+es: veo la televisión a las 20 de la noche
+
+****** Person 2
+:PROPERTIES:
+:CREATED: [2022-02-20 17:31:37 -05]
+:END:
+
+我六点吃早饭
+pi: wǒ liù diǎn chī zǎofàn
+
+我六点四十五分来学校
+pi: wǒ liù diǎn sìshíwǔ fēn lái xuéxiào
+
+我十四点看书
+
+我十五点前回家
+
+视晚七点我看电
+
+****** Person 3
+:PROPERTIES:
+:CREATED: [2022-02-20 17:31:41 -05]
+:END:
+
+我十点二十分吃早饭
+pi: wǒ shí diǎn èrshí fēn chī zǎofàn
+
+我九点来学校
+pi: wǒ jiǔ diǎn lái xuéxiào
+
+上午六点我看书
+
+下午四点前我回家
+
+晚上十点我看电视
+
+****** Person 4
+:PROPERTIES:
+:CREATED: [2022-02-20 17:31:43 -05]
+:END:
+
+我九点四十分吃早饭
+pi: wǒ jiǔ diǎn sìshí fēn chī zǎofàn
+
+我十一点来学校
+pi: wǒ shíyī diǎn lái xuéxiào
+
+下午五点我看书
+pi: xiàwǔ wǔ diǎn wǒ kàn shū
+
+十五点前我回家
+pi: shíwǔ diǎn qián wǒ huì jiā
+
+十七点我看电视
+pi: shíqī diǎn wǒ kàn diànshì
+
+****** Summary
+:PROPERTIES:
+:CREATED: [2022-02-20 17:45:39 -05]
+:END:
+
+|--------+------------+--------------+------------+------------|
+|        | 小王       | no. 2        | no. 3      | no. 4      |
+|--------+------------+--------------+------------+------------|
+| 吃早饭 | 七点       | 六点         | 十点二十分 | 九点四十分 |
+| 来学校 | 八点二十分 | 六点四十五分 | 九点       | 十一点     |
+| 看书   | 十五点     | 十四点       | 上午六点   | 下午五点   |
+| 回家   | 十八点前   | 十五点前     | 下午四点前 | 十五点前   |
+| 看电视 | 晚上二十点 | 晚上七点     | 晚上十点   | 十七点     |
+|--------+------------+--------------+------------+------------|
+
+** Chapter 12
+:PROPERTIES:
+:CREATED: [2022-02-20 17:56:41 -05]
+:END:
+
+*** Book
+:PROPERTIES:
+:CREATED: [2022-03-15 20:06:18 -05]
+:END:
+
+**** Warm-up
+:PROPERTIES:
+:CREATED: [2022-02-20 17:56:47 -05]
+:END:
+
+冷 | lěng | cold | frío ;
+
+热 | rè | hot | calor ;
+
+下雨 | xiàyǔ | rain | llover ;
+
+水 | shuǐ | water | agua ;
+
+水果 | shuǐguǒ | fruit | fruta ;
+
+医生 | yīshēng | doctor | doctor ;
+
+1. C
+2. D
+3. B
+4. A
+5. F
+6. E
+
+**** Text
+:PROPERTIES:
+:CREATED: [2022-02-20 18:06:59 -05]
+:END:
+
+***** 1. On the road
+:PROPERTIES:
+:CREATED: [2022-02-20 18:07:04 -05]
+:END:
+
+天气 | tiānqì | weather | clima | ;
+
+怎么样 | zěnmeyàng | how (indicates nature condition or manner) | ¿cómo ...? | pronoun ;
+
+太 | tài | too, excessively | mucho, excesivamente | adverb ;
+
+太...了 | tāi .... le | too, extremely | mucho, extremadamente | adverb ;
+
+热 | rè | hot | caliente | ;
+
+冷 | lěng | cold | frío | ;
+
+Ａ：昨天北京的天气怎么样？
+pi: zuótiān běijīng de tiānqì zěnmeyàng
+en: how was the weather in beijing yesterday?
+es: ¿Cómo estuvo el clima en Beijing ayer?
+
+Ｂ：太热了
+pi: tài rè le
+en: it was too hot
+es: estuvo muy caliente
+
+Ａ：明天呢？明天天气怎么样？
+pi: míntiān ne? míngtiān tiānqì zěnmeyàng
+en: what about tomorrow? what will the weather be like tomorrow?
+es: ¿Qué tal mañana? ¿Cómo estará el clima mañana?
+
+Ｂ：明天天气很好，不冷不热
+pi: míngtiān tiānqì hěn hǎo, bù lěng bú rè
+en: it will be fine, neither cold nor hot
+es: Estará bien, ni frio ni caliente
+
+
+
+Some additional examples
+
+今天我们这儿很冷，下雨
+pi: jīntiān wǒmen zhèr hěn lěng, xiàyǔ
+en: today it is very cold and it rains
+es: hoy hace mucho frio y llueve
+
+你们那儿天气怎么样？
+pi: nǐmen nǎr tiānqì zěnmeyàng
+en: how was the weather over there?
+es: ¿cómo está el clima ahí?
+
+今天我们这儿晴天，不冷不热
+pi: jīntiān wǒmen zhèr qíngtiān, bù lěng bú rè
+
+
+***** 2. In the gym
+:PROPERTIES:
+:CREATED: [2022-02-20 18:23:43 -05]
+:END:
+
+下雨
+pi: xiàyǔ
+en: rain
+es: llover
+
+下
+pi: xià
+en: fall
+es: caerse
+
+雨
+pi: yǔ
+en: rain
+es: llover
+
+小姐
+pi: xiǎojiě
+en: miss, young lady
+
+来
+pi: lái
+en: to come
+es: venir
+
+Ａ：今天会下雨吗？
+pi: jīntiān huì xià yǔ ma
+en: will it rain today?
+es: ¿va a llover hoy?
+
+Ｂ：今天不会下雨
+pi: jīntiān bú huì xià yǔ
+en: no, it won't rain
+es: no lloverá
+
+Ａ：王小姐今天会来吗？
+pi: wáng xiǎojiě jīntiān huì lái ma
+en: is Miss Wang coming today?
+es: ¿Va a venir hoy la señorita Wong?
+
+B:不会来，天气太冷了
+pi: bú huì lái, tiānqì tài lěng le
+en: won't come, it's too cold
+es: no vendrá, hace demasiado frío
+
+***** 3. In the sickroom
+:PROPERTIES:
+:CREATED: [2022-02-20 18:41:20 -05]
+:END:
+
+身体 | shēntǐ | body, health | cuerpo, salud ;
+
+爱 | ài | like, love | gustar, amar ;
+
+些 | xiē | some, a few | algunos ;
+
+水果 | shuǐguǒ | fruit | fruta ;
+
+水 | shuǐ | water | agua ;
+
+Ａ：你身体怎么样？
+pi: nǐ shēntǐ zěnmeyàng
+en: How is your body feeling?
+es: ¿Cómo se siente tu cuerpo?
+
+Ｂ：我身体不太好。天气太热了，不爱吃饭
+pi: wǒ shēntí bú tài hǎo. tiānqì tài rè le, bú ài chī fàn
+en: not very well, It's too hot. I have no appetite
+es: no tan bien. Está muy caliente. No tengo apetito
+
+Ａ：你多吃些水果，多喝水
+pi: nǐ duō chī xiē shuǐguǒ, duō hē shuǐ
+en: eat more fruit and drink more water
+es: come mas frutas y toma más agua
+
+Ｂ：谢谢你，医生
+pi: xièxie nǐ, yīshēng
+en: thank you, doctor
+es: gracias, doctor
+
+**** Notes
+:PROPERTIES:
+:CREATED: [2022-02-20 18:49:07 -05]
+:END:
+
+***** 1. The interrogative pronoun 怎么样
+:PROPERTIES:
+:CREATED: [2022-02-20 18:49:09 -05]
+:END:
+
+"怎么样" is used to ask about the condition of soemthing or someone. For example,
+
+你的汉语怎么样？
+pi: nǐ de hànyǔ zěnmeyàng
+en: how is your chinese?
+es: ¿cómo es tu chino?
+
+你妈妈身体怎么样？
+pi: nǐ māma shēntǐ zěnmeyàng
+en: how is your mother's health?
+es: ¿cómo está la salud de tu madre?
+
+明天天气怎么样？
+pi: míngtiān tiānqì zěnmeyàng
+en: How will tomorrow's weather be?
+es: ¿Cómo estará el clima de mañana?
+
+***** 2. Sentences with subject-predicate phrase as the predicate
+:PROPERTIES:
+:CREATED: [2022-02-20 18:57:35 -05]
+:END:
+
+In Chinese, there is such a kind of sentence in which the predicate is a subject-predicate phrase. The structure is
+
+我身体不太好
+pi: wǒ shēntǐ bù tài hǎo
+en: I am not in good health
+es: No me siento bien
+
+明天天气很好
+pi: míngtiān tiānqì hěn hǎo
+en: good weather tomorrow
+es: buen clima mañana
+
+你身体怎么样？
+pi: nǐ shēntǐ zěnmeyàng
+en: how are you feeling?
+es: ¿cómo te encuentras?
+
+|---------+-----------+-----------|
+|         | Predicate | Predicate |
+|---------+-----------+-----------|
+| Subject | Subject   | Predicate |
+|---------+-----------+-----------|
+| 我      | 身体      | 不太好    |
+| 明天    | 天气      | 很好      |
+| 你      | 身体      | 怎么样？  |
+|---------+-----------+-----------|
+
+***** 3. The adverb "太"
+:PROPERTIES:
+:CREATED: [2022-02-20 19:05:02 -05]
+:END:
+
+The adverb "太" indicates a high degree. "了" is often used at the end of the sentences with "太", but not in negative sentences. For example
+
+太热了
+pi: tài rè le
+en: very hot
+es: mucho calor
+
+天气太冷了
+pi: tiānqì tài lěng le
+en: the weather is very cold
+es: el clima está muy frío
+
+我身体不太好
+pi: wǒ shēntǐ bú tài hǎo
+en: I'm not in good health
+es: no me siento bien
+
+***** The modal verb "会"
+:PROPERTIES:
+:CREATED: [2022-02-20 19:08:17 -05]
+:END:
+
+"会"  (huì) indicates a possibility of the situation mentioned. For example,
+
+Dialogue
+
+Ａ：爸爸八点前会回家吗？
+pi: bàba bā diǎn qián huì huí jiā ma
+en: will dad be home before 8:00?
+es: ¿estará papá en casa antes de las 8?
+
+Ｂ：会
+pi: huì
+en: yes
+es: sí
+
+Dialogue
+
+Ａ：明天她会来吗
+pi: míngtiān tā huì lài ma
+en: tomorrow will she come?
+es: ¿mañana podrá venir?
+
+Ｂ：她会来
+pi: tā huì lái
+en: yes
+es: sí
+
+Dialogue
+
+Ａ：今天会下雨吗？
+pi: jīntiān huì xiàwǔ ma
+en: will it rain tomorrow?
+es: ¿lloverá mañana?
+
+Ｂ：今天不会下雨
+pi: jīntiān bú hùi xiàwǔ
+en: it won't rain today
+es: no lloverá hoy
+
+**** Exercises
+:PROPERTIES:
+:CREATED: [2022-02-20 19:23:02 -05]
+:END:
+
+***** 2. Answer the questions based on the dialogues
+:PROPERTIES:
+:CREATED: [2022-02-20 19:23:08 -05]
+:END:
+
+****** Question 1
+:PROPERTIES:
+:CREATED: [2022-02-20 19:43:53 -05]
+:END:
+
+Q: 昨天北京的天气怎么样？
+pi: zuótiān běijīng de tiānqì zěnmeyàng
+en: how was the weather yesterday in beijing?
+es: ¿Cómo estuvo el clima ayer en Beijing?
+
+Ａ：很热
+
+Ａ：很冷
+
+Ａ：很好，不冷不热
+
+Ａ：昨天在北京下雨
+
+****** Question 2
+:PROPERTIES:
+:CREATED: [2022-02-20 19:43:58 -05]
+:END:
+
+Q: 明天天气怎么样？
+pi: míngtiān tiānqì zěnmeyàng
+en: how will the weather be tomorrow?
+es: ¿Cómo estará el clima mañana?
+
+Ａ：明天会下雨
+
+Ａ：明天不会下雨
+
+Ａ：明天天气很热
+
+Ａ：明天天气恨冷
+
+Ａ：明天会下雪
+pi: míngtiān huì xiàxuě
+en: it will snow tomorrow
+es: mañana nevará
+
+****** Question 3
+:PROPERTIES:
+:CREATED: [2022-02-20 19:44:05 -05]
+:END:
+
+Q: 今天会下雨吗？
+pi: jīntiān huì xiàyǔ ma
+en: will it rain today?
+es: ¿lloverá hoy?
+
+Ａ：今天不会下雨
+pi: jīntiān bú huì xiàyǔ
+en: it won't rain today
+es: hoy lloverá
+
+Ａ：今天会下雨
+pi: jīntiān huì xiàyǔ
+en: it will rain today
+es: hoy lloverá
+
+Ａ：今天不会下雨，明天也不会下雨
+pi: jīntiān bú huì xiàyǔ, míngtiān yě bù huì xiàyǔ
+en: it won't rain today, it won't rain tomorrow
+es: hoy lloverá, mañana tampoco
+
+****** Question 4
+:PROPERTIES:
+:CREATED: [2022-02-20 19:44:09 -05]
+:END:
+
+Q: 王小姐会来吗？
+pi: wáng xiǎojiě huì lái ma
+en: will Miss Wang come?
+es: ¿viene la señorita Wong?
+
+Ａ：会来，天气很好
+pi: huì lái, tiānqì hěo hǎo
+en: will come, the weather is good
+
+Ａ：不会来，天气太冷了
+pi: bù huì lái, tiānqì tài lěng le
+en: she won't come, the weather is very cold
+
+Ａ：不会来，今天会下雨
+pi: bú huì lái, jīntiān huì xiàyǔ
+
+Question 5
+
+****** Question 5
+:PROPERTIES:
+:CREATED: [2022-02-20 19:44:16 -05]
+:END:
+
+Q: 他的身体怎么样？
+pi: tā de shēntǐ zěnmeyàng
+en: how is he feeling?
+es: ¿cómo se siente?
+
+Ａ：他身体不太好
+pi: tā shēntǐ bú tài hǎo
+en: He is not well.
+es: no está bien
+
+Ａ：他身体太好
+pi: tā shēntǐ tài hǎo
+en: He is in good health.
+es: goza de buena salud
+
+Ａ：他身体不太好，他不爱吃饭
+pi: tā shēntǐ bù tài hǎo, tā bú ài chī fàn
+en: he's not well, he doesn't like to eat
+es: No está bien, no le gusta comer
+
+***** Describe the pictures using the newly-learned language points and words
+:PROPERTIES:
+:CREATED: [2022-02-20 19:53:04 -05]
+:END:
+
+妈妈的身体不太好
+pi: māma de shēntǐ bú tài hǎo
+es: la salud de mamá no es buena
+
+明天天气很好，不会下雨
+pi: míngtiān tiānqì hěn hǎo, bú huì xiàyǔ
+en: good weather tomorrow, no rain
+es: buen tiempo mañana, sin lluvia
+
+王小姐爱吃水果，不爱吃饭
+pi: wáng xiǎojiě ài chī shuǐguǒ, bú ài chī fàn
+en: miss Wang loves to eat fruit and does not like to eat
+es: A la señorita Wong le encanta la fruta y no le gusta comer
+
+今天天气很热，你多喝水
+pi: jīntiān tiānqì hěn rè, nǐ duō hē shuǐ
+en: It is very hot today, you drink more water
+es: Es un día caluroso, bebes más agua
+
+**** Pinyin
+:PROPERTIES:
+:CREATED: [2022-02-20 19:59:18 -05]
+:END:
+
+***** Tone collocation in trisyllabic words (1): words starting with a first-tone syllable
+:PROPERTIES:
+:CREATED: [2022-03-14 21:52:21 -05]
+:END:
+
+星期一
+pi: xīngqī yī (1 + 1 + 1)
+en: monday
+es: lunes
+
+冰淇淋
+pi: bīngjīlíng (1 + 1 + 2)
+en: ice cream
+es: helado
+
+星期五
+pi: xīngqī wǔ (1 + 1 + 3)
+en: friday
+es: viernes
+
+星期六
+pi: xīngqī liù (1 + 1 + 4)
+en: saturday
+es: sábado
+
+清洁工
+pi: qīngjiégōng (1 + 2 + 1)
+en: cleaner
+es: limpiador (persona que limpia las calles)
+
+捉迷藏 (1 + 2 + 2)
+pi: zhuōmícáng
+en: hide and seek
+es: escondidas
+
+吃苹果 (1 + 2 + 3)
+pi: chī píngguǒ
+en: eat apple
+es: comer manzana
+
+加拿大 (1 + 2 + 4)
+pi: jiānádà
+en: canada
+es: cánada
+
+高脚杯 (1 + 3 + 1)
+pi: gāojiǎobēi
+en: goblet
+es: copa
+
+堆雪人 (1 + 3 + 2)
+pi: duī xuěrén
+en: make a snowman
+es: hacer un muñeco de nieve
+
+花雨伞 (1 + 3 + 3)
+pi: huā yǔsǎn
+en: colorful umbrella
+es: sombrilla colorida
+
+吃米饭 (1 + 3 + 4)
+pi: chī mǐfàn
+en: eat rice
+es: comer arroz
+
+哈密瓜 (1 + 4 + 1)
+pi: hāmìguā
+en: hami melon
+
+机器人 (1 + 4 + 2)
+pi: jīqìrén
+en: robot
+es: robot
+
+拨浪鼓 (1 + 4 + 3)
+pi: bōlànggǔ
+en: rattle-drum
+es: sonajero
+
+醫務室 (1 + 4 + 4)
+pi: yīwùshì
+en: medical room / medical office
+es: enfermería / consultorio médico
+
+**** Characters
+:PROPERTIES:
+:CREATED: [2022-02-20 20:28:48 -05]
+:END:
+
+***** 1. Single component characters
+:PROPERTIES:
+:CREATED: [2022-02-20 20:29:00 -05]
+:END:
+
+****** 天 (tiān)
+:PROPERTIES:
+:CREATED: [2022-02-20 20:30:35 -05]
+:END:
+
+"天" originally meant "the top of the head". It later mean "sky", opposite to "地" (dì) (earth).
+
+****** 气 (qì)
+:PROPERTIES:
+:CREATED: [2022-02-20 20:30:38 -05]
+:END:
+
+Shaped like "三", "气" refers to the air, which has no shape or size and can spread freely.
+
+****** 雨 (yǔ)
+:PROPERTIES:
+:CREATED: [2022-02-20 20:31:00 -05]
+:END:
+
+"雨" is shaped like raindrops falling  from the sky, indicating the natural phenomenom "rain".
+
+***** 2. Chinese radicals
+:PROPERTIES:
+:CREATED: [2022-02-20 20:31:47 -05]
+:END:
+
+The radical "" is usually related to women.
+
+姐姐
+pi: jiě
+en: elder sister
+es: hermana mayor
+
+妈
+pi: mā
+en: mother
+es: madre
+
+The radical "" is usually related to food.
+
+饭
+pi: fàn
+en: meal
+es: comida
+
+饮
+pi: yǐn
+en: drink
+es: tomar
+
+**** Application
+:PROPERTIES:
+:CREATED: [2022-02-20 20:40:04 -05]
+:END:
+
+***** Pair Work
+:PROPERTIES:
+:CREATED: [2022-02-20 20:51:15 -05]
+:END:
+
+Work in pairs and make comments using "太 ... 了" or its negative form.
+
+Q: 他的汉语怎么样？
+pi: tā de hànyǔ zěnmeyàng
+en: how is your chinese?
+
+Ａ：不太好
+pi: bú tài hǎo
+
+Ａ：太好了
+pi: tài hǎo le
+
+Using 北京的天气:
+
+北京的天气太冷了
+pi: běijīng de tiānqì tài lěng le
+
+北京的天气不太冷
+pi: běijīng de tiānqì bú tài lěng
+
+北京的天气太热了
+pi: běijīng de tiānqì tài lěng le
+
+北京的天气不太热
+pi: běijīng de tiānqì bú tài lěng
+
+Using 中国菜:
+
+中国菜太好吃了
+中国菜不太好吃
+
+Using 那个电影:
+
+那个电影太好看了
+pi: nǎge diànyǐng tài hǎokàn le
+en: that movie was so good
+es: esa película fue muy buena
+
+那个电影不太好看
+pi: nǎge diànyǐng bù tài hǎokàn
+en: that movie is not very good
+es: esa película no es muy buena
+
+Using 王老师写的汉字:
+
+王老师写的汉字太好了
+pi: wáng lǎoshī xiě de hànzì tài hǎo le
+en: mr. wang's chinese characters are so good
+es: Los caracteres chinos del Sr. Wang son tan buenos
+
+王老师写的汉字不太好
+pi: wáng lǎoshī xiě de hànzì bù tài hǎo
+en: mr. wang doesn't write Chinese characters very well
+es: los caracteres chinos del Sr. Wang no son muy buenos
+
+***** Group Work
+:PROPERTIES:
+:CREATED: [2022-02-20 20:50:57 -05]
+:END:
+
+These are the name of some countries, but I don't think you will use it, because when you live in a country, you don't usually ask for the weather of the country, you ask for a given city instead. Unless you are speaking between foreigners, asking for a country's weather could sound strange.
+
+英国 | yīngguó | United Kingdom | Reino Unido ;
+
+意大利 | yìdàlì | Italy | Italia ;
+
+加拿大 | jiānádà | canada | cánada ;
+
+Question
+
+昨天(place)天气好吗？
+明天(place)天气好吗？
+今天(place)天气好吗？
+
+(昨天 / 今天 / 明天)会下雨吗？
+pi: (zuótiān / jīntiān / míngtiān) huì xiàyǔ ma
+
+(昨天 / 今天 / 明天)会下雪吗？
+pi: (zuótiān / jīntiān / míngtiān) huì xiàxuě ma
+
+Dialogue 1
+
+Ａ：昨天北京天气好吗？
+pi: zuótiān běijīng tiānqì hǎo ma
+en: How was the weather in Beijing yesterday?
+es: ¿cómo estuvo el clima ayer en Pekín?
+
+Ｂ：昨天很好。不冷不热。
+pi: zuótiān hěn hǎo. bù lěng bú rè.
+
+Ａ：明天会下雨吗？
+pi: míngtiān huì xià yǔ ma
+
+Ｂ：明天不会下雨。
+pi: míngtiān bú huì xià yǔ
+
+Dialogue 2
+
+Ａ：昨天英国天气怎么样？
+Ｂ：不太好，昨天下雪
+Ａ：今天英国天气怎么样？
+Ｂ：太好，今天不会下雪，今天不会下雨
+Ａ：明天英国天气怎么样？
+Ｂ：太好，明天天气很热
+
+Dialogue 3
+
+Ａ：昨天意大利天气怎么样？
+Ｂ：太好，不冷不热
+Ａ：今天意大利天气怎么样？
+Ｂ：不太好，天气太冷了
+Ａ：明天意大利天气怎么样？
+Ｂ：不太好，明天会下雪
+
+Dialogue 4
+
+Ａ：昨天加拿大天气怎么样？
+Ｂ：很好，昨天天气很热
+Ａ：今天加拿大天气怎么样？
+Ｂ：很好，不冷不热
+Ａ：明天加拿大天气怎么样？
+Ｂ：很好，明天不会下雪，明天不会下雨
+
+|----------+--------+----------+----------+------------|
+| Dialogue | Place  | 昨天天气 | 今天天气 | 明天天气   |
+|----------+--------+----------+----------+------------|
+|        1 | 北京   | 很好     | 不太好   | 不好，很冷 |
+|        2 | 英国   | 不太好   | 太好     | 太好       |
+|        3 | 意大利 | 不好     | 不太好   | 不太好     |
+|        4 | 加拿大 | 很好     | 很好     | 很好       |
+|----------+--------+----------+----------+------------|
+
+** Chapter 13
+:PROPERTIES:
+:CREATED: [2022-02-26 18:02:11 -05]
+:END:
+
+*** Book
+:PROPERTIES:
+:CREATED: [2022-03-15 20:06:08 -05]
+:END:
+
+**** Warm-up
+:PROPERTIES:
+:CREATED: [2022-02-26 18:02:33 -05]
+:END:
+
+看电视 | kàn diànshì | watch TV | ver televisión ;
+
+看书 | kàn shū | read book | leer libro ;
+
+睡觉 | shuìjiào | sleep | dormir ;
+
+打电话 | dǎ diànhuà | call | llamar ;
+
+做饭 | zuòfàn | cook food | cocinar ;
+
+学习 | xuéxí | study | estudiar ;
+
+电视 (diànshì) means "TV" while 电影 (diànjǐng) means "movie".
+
+**** Text
+:PROPERTIES:
+:CREATED: [2022-02-26 18:14:43 -05]
+:END:
+
+***** 1. On the phone
+:PROPERTIES:
+:CREATED: [2022-02-26 18:27:04 -05]
+:END:
+
+The dialogue is presented below
+
+Ａ：喂，你在做什么呢？
+pi: wèi, nǐ zài zuò shénme ne
+en: hello, what are you doing?
+es: hola ¿qué estás haciendo?
+
+Ｂ：我在看书呢
+pi: wǒ zài kàn shū ne
+en: I'm reading
+es: estoy leyendo
+
+Ａ：大卫也在看书吗？
+pi: dàwèi yě zài kàn shū ma
+en: is david reading too?
+es: ¿david también está leyendo?
+
+Ｂ：他没看书，他在学做中国菜呢
+pi: tā méi kàn shū, tā zài xué zuò zhōngguó cài ne
+en: no, he isn't. he is learning to cook chinese food
+es: él no está leyendo, está aprendiendo a cocinar comida china
+
+The new words are presented below.
+
+喂
+pi: wèi
+en: hello, hey
+es: hola
+
+也
+pi: yě
+en: also, too
+es: tambíen
+
+学习（学）
+pi: xuéxí (xué)
+en: to study / to learn
+es: aprender
+
+The new proper nouns are presented below.
+
+大卫
+pi: dàwèi
+en: david
+es: david
+
+***** 2. In a coffee house
+:PROPERTIES:
+:CREATED: [2022-02-26 18:27:09 -05]
+:END:
+
+Dialogue
+
+Ａ：昨天上午你在做什么呢？
+pi: zuótiān shànwǔ nǐ zài zuò shénme ne
+en: What were you doing yesterday morning?
+es: ¿Qué hacías ayer por la mañana?
+
+Ｂ：我在睡觉呢。你呢？
+pi: wǒ zài shuìjiào ne. nǐ ne?
+en: I was sleeping. What about you?
+es: Estaba durmiendo. ¿Y tú?
+
+Ａ：我在家看电视呢。你喜欢看电视吗？
+pi: wǒ zài jiā kàn diànshì ne. nǐ xǐhuan kàn diànshì ma
+en: I was watching TV at home. Do you like watching TV?
+es: Estaba viendo la televisión en casa. ¿Te gusta ver la televisión?
+
+Ｂ：我不喜欢看电视，我喜欢看电影。
+pi: wǒ bù xǐhuan kàn diànshì, wǒ xǐhuan kàn diànyǐng
+en: I don't like watching TV, I like watching movies.
+es: No me gusta ver la televisión, me gusta ver películas.
+
+New words
+
+上午
+pi: shàngwǔ
+en: morning, before noon
+es: mañana
+
+睡觉
+pi: shuìjiào
+en: sleep
+es: dormir
+
+电视
+pi: diànshì
+en: television
+es: televisión
+
+喜欢
+pi: xǐhuan
+en: like
+es: gustar
+
+***** 3. In the school office
+:PROPERTIES:
+:CREATED: [2022-02-26 18:39:51 -05]
+:END:
+
+Ａ：82304155, 这是李老师的电话吗？
+pi: bā èr sān líng sì yāo wǔ wǔ, zhè shì lǐ lǎoshī de diànhuà ma?
+en: 82304155, is this Mr. Li's phone number?
+es: 82304155, ¿es el número de teléfono del Sr. Lee?
+
+Ｂ：不是。他的电话是82304156。
+pi: bú shì. tā de diànhuà shì bā èr sān líng sì yāo wǔ liù
+en: No. His phone number is 82304156.
+es: No. Su número es 82304156.
+
+Ａ：好，我现在给她打电话。
+pi: hǎo, wǒ xiànzài gěi tā dǎ diànhuà
+en: Okay, I'll call her now.
+es: De acuerdo, la llamaré ahora.
+
+Ｂ：她在工作呢，你下午打吧。
+pi: tā zài gōngzuò ne, nǐ xiàwǔ dǎ ba
+en: She's at work, you can call this afternoon.
+es: Está en el trabajo, puedes llamar esta tarde.
+
+New words
+
+零 | líng | zero (used when saying phone numbers) | cero (usado al decir numeros de celular)
+
+给 | gěi | to | hacia, a ;
+
+打电话 | dǎ diànhuà | make a phone call | llamar a alguien ;
+
+吧
+pi: ba
+en: modal particle used at the end of a sentence to indicate consultation, a suggestion, request or command
+es: partícula modal utilizada al final de una frase para indicar una consulta, una sugerencia, una petición o una orden
+
+**** Notes
+:PROPERTIES:
+:CREATED: [2022-02-26 18:52:33 -05]
+:END:
+
+***** 1. The interjection 喂
+:PROPERTIES:
+:CREATED: [2022-02-26 18:52:39 -05]
+:END:
+
+The word is often used when calling someone or answering a phone call. For example,
+
+Dialogue
+
+Ａ：喂，李老师在家吗？
+pi: wèi, lǐ lǎoshī zài jiā ma
+en: Hello, is Miss Li home?
+es: Hola, ¿está la señorita Li en casa?
+
+Ｂ：她不在家，去学校了
+pi: tā bú zài jiā, qù xuéxiào le
+en: She's not home, she's gone to school
+es: No está en casa, se ha ido al colegio
+
+Dialogue
+
+Ａ：喂，你是张小姐吗？
+pi: wèi, nǐ shì zhāng xiǎojiě ma
+en: Hello, are you Ms. Zhang?
+es: Hola, ¿es usted la señorita Zhang?
+
+Ｂ：对，您是？
+pi: duì, nin shì?
+en: Yes, and you are?
+es: Sí, ¿lo eres?
+
+Dialogue
+
+Ａ：喂，你在做什么呢？
+pi: wèi, nǐ zài zuò shénme ne
+en: Hello, what are you doing?
+es: Hola, ¿qué estás haciendo?
+
+Ｂ：我在看书呢。
+pi: wǒ zài kàn shū ne
+en: I'm reading a book.
+es: Estoy leyendo un libro.
+
+I didn't remember the pinyin of these characters
+
+张 zhang1 5
+小 xiao3 2
+姐 jie3 2
+对 dui4 3
+您 nin2 1
+
+***** "在 ... 呢" used to indicate an action in progress
+:PROPERTIES:
+:CREATED: [2022-02-26 19:14:36 -05]
+:END:
+
+An action in progress  can be expressed by adding the adverb "在" before a verbo r by using the modal particle "呢" at the end of a sentence. For example:
+
+|      | 在 | Verb + Object | （呢） |
+|------+----+---------------+--------|
+| 我   | 在 | 睡觉          | 呢     |
+| 你   | 在 | 做什么        | 呢     |
+| 小王 | 在 | 学习汉语      | 呢     |
+|------+----+---------------+--------|
+
+我在睡觉呢
+pi: wǒ zài shuìjiào ne
+en: I'm sleeping
+es: estoy durmiendo
+
+你在做什么呢？
+pi: nǐ zài zuò shénme ne
+en: what are you doing?
+es: ¿qué estás haciendo?
+
+小王在学习汉语
+pi: xiǎo wáng zài xuéxí hànyǔ
+en: Xiao Wang is learning chinese
+es: Xiao Wang está aprendiendo chino
+
+The negative form is 没 (在) + "verb/verb phrase" without "呢" at the end of the sentence. For example,
+
+|---------+-----------+--------------------|
+|         | Predicate | Predicate          |
+|---------+-----------+--------------------|
+| Subject | 没（在）  | Verb / Verb Phrase |
+|---------+-----------+--------------------|
+| 我      | 没在      | 看电视             |
+| 他们    | 没在      | 工作               |
+| 他      | 没        | 看书               |
+|---------+-----------+--------------------|
+
+我没在看电视
+pi: wǒ méizài kàn diànshì
+en: I'm not watching TV
+es: No estoy viendo televisión
+
+他们没在工作
+pi: tāmen méi zài gōngzuò
+en: they are not working
+es: ellos no están trabajando
+
+他没看书
+pi: tā méi kàn shū
+en: he's not reading
+es: él no está leyendo
+
+I didn't remember the pinyin of these characters
+
+王 wang2 2
+汉 han4 9
+没 mei2 7
+
+****** QUESTION Why does DeepL shows translations in past tense for the sentences?
+:PROPERTIES:
+:CREATED: [2022-02-26 20:41:18 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION" from  [2022-02-26 Sat 20:44]
+:END:
+
+我没在看电视。
+他们没在工作。
+他没看书。
+
+The following translationls are shown in id:47cd6ace-a15b-4b18-bbe0-58a7f0f8e4fe
+
+No estaba viendo la televisión.
+No estaban trabajando.
+No estaba leyendo un libro.
+
+I wasn't watching TV.
+They weren't working.
+He wasn't reading a book.
+
+The following translations are shown in id:eae1c861-cf58-43a5-96f1-a21cab12df14
+
+I'm not watching TV.
+They are not working.
+He didn't read a book.
+
+No estoy viendo la televisión.
+No están trabajando.
+No leyó un libro.
+
+***** Expressions of telephone numbers
+:PROPERTIES:
+:CREATED: [2022-02-26 20:44:46 -05]
+:END:
+
+Telephone numbers are read in a different ways than general numbers. They are read digit by digit. The number "1" in a telephone number is read "yāo". For example,
+
+8069478
+bā líng liù jiǔ sì qī bā
+
+13851897623
+yāo sān bā wǔ yāo bā jiǔ qī liù èr sān
+
+82304156
+bā èr sān líng sì yāo wǔ liù
+
+***** The modal particle "吧"
+:PROPERTIES:
+:CREATED: [2022-02-26 20:46:59 -05]
+:END:
+
+When used at the end of a imperative sentence, the modal particle "吧" indicates a suggestion or command with a softened mood. For example:
+
+Dialogue
+
+Ａ：这儿没有人，请坐吧。
+pi: zhè ér méi yǒu rén, qǐng zuò bā
+en: there is no one here, please sit down
+es: no hay nadie aquí, por favor siéntese
+
+Ｂ：谢谢。
+pi: xièxie
+en: thanks
+es: gracias
+
+Dialogue
+
+
+Ａ：今天我们在家吃饭吧
+pi: jīntiān wǒmen zài jiā chī fàn bā
+en: let's eat at home today
+es: comamos hoy en casa
+
+Ｂ：好
+pi: hǎo
+en: ok
+es: ok
+
+Dialogue
+
+Ａ：我现在给她打电话。
+pi: wǒ xiànzài gěi tā dǎ diànhuà
+en: I'm calling (to) her now
+es: La estoy llamando (a ella) ahora
+
+Ｂ：她在工作呢，你下午打吧
+pi: tā zài gōngzuò, nǐ xiàwǔ dǎ bā
+en: she's working. You can call this afternoon.
+es: está en el trabajo, puedes llamar esta tarde
+
+
+I didn't know the pinyin of these charactesr
+
+请 qing3 2
+坐 zuo4 5
+现 xian4 2
+给 gei3
+打 da3
+话 hua4 5
+
+** Chapter 14
+:PROPERTIES:
+:CREATED: [2022-02-27 00:06:28 -05]
+:END:
+
+*** Book
+:PROPERTIES:
+:CREATED: [2022-03-15 20:05:49 -05]
+:END:
+
+**** Warm-up
+:PROPERTIES:
+:CREATED: [2022-02-27 00:06:31 -05]
+:END:
+
+苹果 | píngguǒ | apple | manzana
+
+车 | chē | car | carro
+
+衣服 | yīfu | clothes | ropa | noun
+
+商店 | shāngdiàn | shop | tienda
+
+书店 | shūdiàn | book store | tienda de libros
+
+英语书 | yīngyǔ shū | english book | libro en inglés
+
+1. D
+2. A
+3. B
+4. F
+5. E
+6. C
+
+**** Text
+:PROPERTIES:
+:CREATED: [2022-02-27 06:05:53 -05]
+:END:
+
+***** In the dorm
+:PROPERTIES:
+:CREATED: [2022-02-27 06:01:03 -05]
+:END:
+
+Ａ：昨天上午你去哪儿了？
+pi: zuótiān shàngwǔ nǐ qù nǎr le
+en: Where did you go yesterday morning?
+es: ¿A dónde fuiste ayer por la mañana?
+
+Ｂ：我去商店买东西了。
+pi: wǒ qù shāngdiàn mǎi dōngxi le
+en: I went to the store to buy something.
+es: He ido a la tienda a comprar algo.
+
+Ａ：你买什么了？
+pi: nǐ mǎi shénme le
+en: What did you buy?
+es: ¿Qué has comprado?
+
+Ｂ：我买了一点儿苹果。
+pi: wǒ mǎile yī diǎn èr píngguǒ
+en: I bought some apple.
+es: He comprado unas manzanas.
+
+New words
+
+东西
+pi: dōngxi
+en: thing, stuff
+es: cosa
+
+一点儿
+pi: yīdiǎnr
+en: a few / a little
+es: some
+
+苹果
+pi: píngguǒ
+en: apple
+es: manzana
+
+***** In the company
+:PROPERTIES:
+:CREATED: [2022-02-27 06:06:19 -05]
+:END:
+
+Ａ：你看见张先生了吗？
+pi: nǐ kànjiàn zhān xiānsheng ma
+en: Have you seen Mr. Zhang?
+es: ¿Has visto al Sr. Zhang?
+
+Ｂ：看见了，他去学开车了。
+pi: kànjiàn le, tā qù xué kāichē le
+en: Yes. He has gone to a driving lesson.
+es: Sí, ha ido a aprender a conducir.
+
+Ａ：他什么时侯能回来？
+pi: tā shénme shíhou néng huílai
+en: When can he come back
+es: ¿Cuándo volverá?
+
+Ｂ：40 分钟后回来。
+pi: sìshí fēnzhōng hòu huílai
+en: After 40 minutes.
+es: En 40 minutos.
+
+New words
+
+看见 | kànjiàn | to see | ver | verb ;
+
+先生 | xiānsheng | Mr., sir | Sr., señor | noun ;
+
+开 | kāi | to drive | conducir, manejar | verb ;
+
+车 | chē | car, vehicle | carro, vehículo | noun
+
+回来 | huílai | come back | regresar | verb ;
+
+分钟 | fēnzhōng | minute | minuto | noun ;
+
+后
+pi: hòu
+en: after / afterwards / later
+es: luego / después / dentro
+
+Proper noun
+
+张
+pi: zhāng
+en: zhang (chinese family name)
+es: zhang (apellido chino)
+
+***** Outside a store
+
+:PROPERTIES:
+:CREATED: [2022-02-27 06:06:24 -05]
+:END:
+
+Ａ：王方的衣服太漂亮了！
+pi: wáng fāng de yīfu tài piàoliang le
+en: Wang Fang's clothes are so beautiful!
+es: ¡La ropa de Wang Fang es tan bonita!
+
+Ｂ：是啊，她买了不少衣服。
+pi: shì a, tā mǎile bùshǎo yīfu
+en: Yes, she bought a lot of clothes.
+es: Sí, compró mucha ropa.
+
+Ａ：你买什么了？
+pi: nǐ mǎi shénme le
+en: What did you buy?
+es: ¿Qué has comprado?
+
+Ｂ：我没买，这些都是王方的东西
+pi: wǒ méi mǎi, zhèixiē dōu shì wáng fāng de dōngxi
+en: I didn't buy any, these are all Wang Fang's things
+es: Yo no compré nada, estas son todas las cosas de Wang Fang.
+
+衣服 | yīfu | clothes | ropa | noun
+
+漂亮
+pi: piàoliang
+en: beautiful, pretty
+es: bonito, lindo
+lexical category: adjective
+
+啊
+pi: a
+en: (modal particle used at the end of a sentence as a sign of confirmation or defense)
+es: (partícula modal utilizada al final de una frase como signo de confirmación o defensa)
+lexical category: particle
+
+少 | shǎo | little, few | poco | adjective ;
+
+不少 | bùshǎo | quite a few, many | muchos | adjective ;
+
+这些 | zhèxiē | these | esos | pronoun ;
+
+都 | dōu | both, all | todos | adverb ;
+
+**** Notes
+:PROPERTIES:
+:CREATED: [2022-02-27 06:07:01 -05]
+:END:
+
+***** 了 indicating ocurrence or completion
+:PROPERTIES:
+:CREATED: [2022-02-27 06:07:04 -05]
+:END:
+
+了 | le | (particle to indicate ocurrence or completion) | (partícula para indicar acción terminada) | particle ;
+
+"了" can be used at the end of a sentence. For example
+
+|---------+-----------+------|
+| Subject | Predicate | 了   |
+|---------+-----------+------|
+| 我      | 去商店    | 了   |
+| 他      | 去学开车  | 了   |
+| 你      | 买什么    | 了？ |
+|---------+-----------+------|
+
+我去商店了。
+pi: wǒ qù shāngdiǎn le
+en: I went to the store
+es: Fui a la tienda
+
+他去学开车了。
+pi: tā qù xué kāi chē le
+en: he went to learn how to drive
+es: él fue a aprender a conducir
+
+你买什么了？
+pi: nǐ mǎi shénme le
+en: what did you buy?
+es: ¿qué compraste?
+
+"了" can also be used between a verb and its object. There's usually a modifier before the object of the verb, such as a numeral classifier, an adjective or a pronoun, etc. For example:
+
+|---------+------+----+------------------------------+--------|
+| Subject | Verb | 了 | Number - Measure Word/Adj/P. | Object |
+|---------+------+----+------------------------------+--------|
+| 她      | 买   | 了 | 一点儿                       | 苹果   |
+| 我      | 买   | 了 | 不少                         | 衣服   |
+| 你      | 看见 | 了 | 几个                         | 人？   |
+|---------+------+----+------------------------------+--------|
+
+她买了一点儿苹果
+pi: tā mǎile yìdiǎnr píngguǒ
+en: she bought some apples
+es: compró algunas manzanas
+
+我买了不少衣服
+pi: wǒ mǎi le bùshǎo yīfu
+en: I bought a lot of clothes
+es: compré un montón de ropa
+
+你看见了几个人？
+pi: nǐ kànjiàn le jǐ gè rén
+en: how many people did you see?
+es: ¿cuántas personas viste?
+
+The negative form of "了" in both cases above is "没 (méi) + verb + (object)". In the negative form, "了" should be omitted". For example:
+
+|---------+------+-----------|
+| Subject | 没   | Predicate |
+|---------+------+-----------|
+| 她      | 没   | 去商店    |
+| 我      | 没   | 买        |
+| 你      | 看见 | 几个人？  |
+|---------+------+-----------|
+
+她没去商店
+pi: tā méi qù shāngdiàn
+en: she didn't go to the store.
+es: ella no fue a la tienda
+
+我没买
+pi: wǒ méi mǎi
+en: I bought nothing
+es: Yo compré nada
+
+我没看见张先生
+pi: wǒ méi kànjiàn zhāng xiānsheng
+en: I didn't see Mr. Zhang
+es: No vi a Mr. Zhang
+
+***** The noun "后"
+:PROPERTIES:
+:CREATED: [2022-02-27 06:31:21 -05]
+:END:
+
+The noun "后" (hòu) indicates a period after the present time or the time being mentioned. For example:
+
+五点后
+pi: wǔ diǎn hòu
+en: after 5 o'clock
+es: después de las 5
+
+40分钟后
+pi: sìshí fēnzhōng hòu
+en: after 40 minutes
+es: 40 minutos después
+
+星期三后
+pi: xīngqī sān hòu
+en: after Wednesday
+es: después del miércoles
+
+Ａ：你几点去工作？
+pi: nǐ jǐ diǎn qù gōngzuò
+en: What time do you go to work?
+es: ¿A qué hora vas a trabajar?
+
+Ｂ：八点后。
+pi: bā diǎn hòu
+en: After eight o'clock.
+es: Después de las ocho.
+
+Ａ：你什么时侯回家？
+pi: nǐ shénme shíhóu huí jiā
+en: What time do you go home?
+es: ¿A qué hora llegas a casa?
+
+Ｂ：五点后。
+pi: wǔ diǎn hòu
+en: After five o'clock.
+es: Después de las cinco.
+
+Ａ：他什么时侯能回家？
+pi: tā shénme shíhóu néng huí jiā
+en: What time will he be home?
+es: ¿A qué hora llegará a casa?
+
+Ｂ：40分钟后回来。
+pi: sìshī fēnzhōng hòu huí jiā
+en: He will be back in 40 minutes.
+es: En 40 minutos.
+
+***** The modal particle "啊"
+:PROPERTIES:
+:CREATED: [2022-02-27 06:37:03 -05]
+:END:
+
+The modal particle "啊" (a1 1) is used at the end of a declarative sentence to *set the mood*. The pronunciation of "啊" varies with the finals of the syllables before it, and in written Chinese, the variants are represented by different characters sometimes.
+
+
+|-------------------------------------+-------------------------|
+| The final of the syllable before it | The pronunciation of 啊 |
+|-------------------------------------+-------------------------|
+| a e i o ü                           | a -> ia                 |
+| u ao ou                             | a -> ua                 |
+| -n                                  | a -> na                 |
+| -ng                                 | a -> nga                |
+| -i (zi, ci, si 中)                  | a -> za                 |
+| -i (zhi, chi, shi ri 中)            | a -> ra                 |
+|-------------------------------------+-------------------------|
+
+Dialogue
+
+Ａ：你是王小姐吗？
+pi: nǐ shì wáng xiǎojiě ma
+en: Are you Miss Wang?
+es: ¿Es usted la señorita Wong?
+
+Ｂ：是啊
+pi: shì ā
+en: yes
+es: si
+
+Dialogue
+
+Ａ：你想去吃中国菜？
+pi: nǐ xiǎng qù chī zhōngguó cài
+en: you want to go for Chinese food?
+es: ¿quieres ir a por comida china?
+
+Ｂ：好啊
+pi: hǎo ā
+en: good
+es: bien
+
+Dialogue
+
+Ａ：王方的衣服太漂亮了！
+pi: wáng fāng de yīfu tài piàoliang le
+en: wang Fang's clothes are so beautiful!
+es: ¡La ropa de Wang Fang es tan bonita!
+
+Ｂ：是啊，她买了不少衣服。
+pi: shì a, tā mǎile bùshǎo yīfu
+en: Yes, she bought a lot of clothes.
+es: Sí, compró mucha ropa.
+
+****** QUESTION What are the other characters 啊 is represented with?
+:PROPERTIES:
+:CREATED: [2022-02-27 13:41:42 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION" from  [2022-02-27 Sun 13:41]
+:END:
+
+The following is mentioned in the book
+
+#+begin_quote
+The modal particle "啊" (a1 1) is used at the end of a declarative sentence to set the mood. The pronunciation of "啊" varies with the finals of the syllables before it, and in written Chinese, the variants are represented by *different characters sometimes*.
+#+end_quote
+
+***** The adverb "都"
+:PROPERTIES:
+:CREATED: [2022-02-27 06:47:21 -05]
+:END:
+
+"都" (dou1 2) means "both/all". The prople or objects included are put before "都". For example:
+
+我们都是中国人
+pi: wǒmen dōu shì zhōngguó rén
+en: We are all Chinese
+es: todos somos chinos
+
+他们都喜欢喝茶
+pi: tāmen dōu xǐhuan hē chá
+en: they all like to drink tea
+es: a todos les gusta el té
+
+这些都是王方的东西
+pi: zhèxiē dōu shì wáng fāng de dōngxi
+en: these are Wang Fang's things
+es: Estas son todas las cosas de Wang Fang
+
+**** Exercises
+:PROPERTIES:
+:CREATED: [2022-02-27 21:28:11 -05]
+:END:
+
+***** Answer the questions based on the dialogues
+:PROPERTIES:
+:CREATED: [2022-02-27 21:28:15 -05]
+:END:
+
+Question
+
+昨天上午她去哪儿了？
+pi: zuótiān shàngwǔ tā qù nǎr le
+en: Where did she go yesterday morning?
+es: ¿Adónde fue ayer por la mañana?
+
+她去商店买东西
+pi: tā qù shāngdiàn mǎi dōngxi
+en: she went to the shop to buy things
+es: fue a la tienda a comprar cosas
+
+Question
+
+她买什么了？
+pi: tā mǎi shénme le
+en: What did she buy?
+es: ¿Qué ha comprado?
+
+她买了一点儿苹果3
+pi: tā mǎi yìdiǎnr píngguǒ
+en: she bought some apples
+es: ella compró unas manzanas
+
+Question
+
+张先生什么时侯能回来？
+pi: zhāng xiānsheng shénme shíhou néng huílai
+en: When will Mr. Zhang be back?
+es: ¿Cuándo volverá el Sr. Zhang?
+
+张先生四十分中后会回来
+pi: zhāng xiānsheng sìshí fēnzhōng hòu huì huílái
+en: Mr. Zhang will be back after 40 minutes
+Es: El Sr. Zhang regresará después de 40 minutos
+
+Question
+
+王方买什么了？
+pi: wáng fāng mǎi shénme le
+en: What did Wang Fang buy?
+es: ¿Qué compró Wang Fang?
+
+她买了不少衣服
+pi: tā mǎile bùshǎo yīfu
+en: she bought a lot of clothes
+es: ella compro mucha ropa
+
+Question
+
+王方的朋友买什么了？
+pi: wáng fāng de péngyou mǎi shénme le
+en: What did Wang Fang's friend buy?
+es: ¿Qué compró el amigo de Wang Fang?
+
+他没买
+pi: tā méi mǎi
+el: he didn't buy
+es: el no compró
+
+***** Describe the pictures using the newly-learned language points and words
+:PROPERTIES:
+:CREATED: [2022-02-27 23:30:27 -05]
+:END:
+
+Sentence 1
+
+妈妈去商店买了。。。
+1) 这些水果。
+2) 那些水果。
+3) 一点儿水果。
+4) 不少水果。
+
+Sentence 2
+
+她下午去学。。。了。
+
+1) 开车
+
+Sentence 3
+
+桌子上。。。是张先生的东西。
+
+1) 这些
+
+Sentence 4
+
+丽丽买了。。。衣服。
+
+1) 不少
+
+The following sentences are not correct because 太漂亮了 is used after the noun, not before the noun.
+
+2) 不太漂亮的
+3) 太漂亮了的
+
+** Chapter 15
+:PROPERTIES:
+:CREATED: [2022-02-28 00:07:50 -05]
+:END:
+
+*** Book
+:PROPERTIES:
+:CREATED: [2022-03-15 20:05:56 -05]
+:END:
+
+**** Warm-up
+:PROPERTIES:
+:CREATED: [2022-02-28 00:07:54 -05]
+:END:
+
+飞机 | fēijī | plane | avión | noun ;
+
+出租车 | chūzūchē | taxi | taxi | noun ;
+
+大学 | dàxué | university | universidad | noun ;
+
+饭店 | fàndiàn | restaurant | restaurante | noun ;
+
+开车 | kāichē | drive a car | manejar un auto | ;
+
+**** Text
+:PROPERTIES:
+:CREATED: [2022-02-28 00:10:03 -05]
+:END:
+
+***** TODO At the dining table
+:PROPERTIES:
+:CREATED: [2022-02-28 00:10:04 -05]
+:END:
+
+Ａ：你和李小姐是什么时侯认识的？
+pi: nǐ hé lǐ xiǎojiě shì shénme shíhou rènshi de
+en: When did you and Ms. Li meet?
+es: ¿Cuándo se conocieron usted y la Sra. Li?
+
+Ｂ：我们是2011 年9月认识的。
+pi: wǒmen shì èr líng yī yī nián jiǔ yuè rènshi de
+en: We met in September 2011.
+es: Nos conocimos en septiembre de 2011.
+
+Ａ：你们在哪儿认识的？
+pi: nǐmen zài nǎr rènshi de
+en: Where did you meet?
+es: ¿Dónde se conocieron?
+
+Ｂ：我们是在学校认识的，她是我大学同学。
+pi: wǒmen shì zài xuéxiào rènshi de, tā shì wǒ dàxué tóngxué
+en: We met at school, she was my classmate in college.
+es: Nos conocimos en la escuela, era mi compañera de clase en la universidad.
+
+New words
+
+认 | rèn :
+识 | shí :
+
+认识 | rènshi | to meet, to know | conocer | verb ;
+
+年 | nián | year | año | noun ;
+
+大学 | dàxué | college, university | universidad ;
+
+***** Outside a hotel
+:PROPERTIES:
+:CREATED: [2022-02-28 00:10:06 -05]
+:END:
+
+***** In the company
+:PROPERTIES:
+:CREATED: [2022-02-28 00:10:12 -05]
+:END:
+
+高兴
+pi: gāoxìng
+en: glad/happy
+es: feliz
+
+听
+pi: tīng
+en: to listen
+es: escuchar
+
+飞机
+fēijī
+en: airplane
+es: avión
+
+
+**** Notes
+:PROPERTIES:
+:CREATED: [2022-02-28 05:38:39 -05]
+:END:
+
+***** The structure "是 ... 的": used to emphasize time, place or manner
+:PROPERTIES:
+:CREATED: [2022-02-28 05:38:41 -05]
+:END:
+
+When the ocurrence of something is known, "是...的" can be used to emphasize when, where and in which manner it ocurred. "是" can be omitted in positive and interrogative sentences, but not in negative sentences.
+
+|---------+----+-------------------+--------+------|
+| Subject | 是 | Time/Place/Manner | Verb   | 的   |
+|---------+----+-------------------+--------+------|
+| 我      | 是 | 昨天              | 来     | 的。 |
+| 这      | 是 | 在北京            | 买     | 的。 |
+| 我们    | 是 | 怎么              | 来饭店 | 的？ |
+|---------+----+-------------------+--------+------|
+
+我是昨天来的。
+pi: wǒ shì zuótiān lái de
+en: I came yesterday
+es: Yo vine ayer
+
+这是在北京买的。
+pi: zhè shì zài běijīng mǎi de
+en: this was bought in beijing
+es: esto fue comprado en Beijing
+
+我们是怎么来饭店的？
+pi: wǒmen shì zěnme lái fàndiàn de
+en: how did we get to the hotel?
+es: ¿cómo llegamos al hotel?
+
+The negative form is shown below
+
+|---------+----+----+-------------------+--------+------|
+| Subject | 不 | 是 | Time/Place/Manner | Verb   | 的   |
+|---------+----+----+-------------------+--------+------|
+| 我      | 不 | 是 | 昨天              | 来     | 的。 |
+| 这      | 不 | 是 | 在北京            | 买     | 的。 |
+| 我们    | 不 | 是 | 坐出租车          | 来饭店 | 的。  |
+|---------+----+----+-------------------+--------+------|
+
+我不是昨天来的。
+pi: wǒ bú shì zuótiān lái de
+en: I didn't come yesterday
+es: yo no vine ayer
+
+这不是在北京买的。
+pi: zhè bú shì zài běijīng mǎi de
+en: this is not bought in Beijing
+es: esto no fue comprado en Beijing
+
+我们不是坐出租车来的。
+pi: wǒmen bú shì zuò chūzūchē lái de
+en: we didn't come by cab.
+es: no hemos venido en taxi
+
+Without using this rule, the sentences would look like
+
+昨天我没来
+pi: zuótiān wǒ méi lái
+
+(I'm not sure about this one)
+这在北京没买
+pi: zhè zài běijīng méi mǎi
+
+
+***** Expression of a date (2): year, month, date, day of the week
+:PROPERTIES:
+:CREATED: [2022-02-28 05:58:24 -05]
+:END:
+
+Chinese dates are written and read from the bigger unit to the smaller. A year is read digit by digit, followed by the character "年". A month or date is read the whole number followed by "月" (yue4 8) and "日" (ri4) or  "号" (hao4 4) respectively. A day of the week is expressed by the word "星期" plus a specific number. For example, "August 8th of 2008, Friday" is read as "èr líng líng bā nián bā yuè bā hào, xīngqī wǔ"
+
+Here are some examples
+
+2000年
+pi: èr líng líng líng nián
+
+2010年
+pi: èr líng yī líng
+
+2021年
+pi: èr líng èr yī nián
+
+2008年8月8号，星期五
+pi: èr líng líng bā nián bā yuè bā hào, xīngqī wǔ
+en: August 8th of 2008, Friday
+es: viernes 8 de agosto del 2008
+
+Example
+
+明天是2014年5月11号。
+pi: míngtiān shì èr líng yī sì nián wǔ yuè shíyī hào
+en: tomorrow is May 11th, 2014.
+en: mañana es el 11 de mayo de 2014.
+
+Example
+
+Ａ：今天几号？星期几？
+pi: jīntiān jǐ hào? xīngqī jǐ?
+en: what's the date today? what day of the week?
+es: ¿qué día es? ¿qué día de la semana?
+
+Ｂ：今天9月10号，星期三。
+pi: jīntiān jiǔ yuè shí hào, xīngqī sān
+en: today is September 10th, Wednesday.
+es: Hoy es miércoles, 10 de septiembre.
+
+Example
+
+我们是2011年9月认识
+pi: wǒmen shì èr líng yī yī nián jiǔ yuè rènshí
+en: we met in September 2011
+es: nos conocimos en septiembre de 2011
+
+**** Exercises
+:PROPERTIES:
+:CREATED: [2022-03-01 17:46:44 -05]
+:END:
+
+***** 2. Answer the question based on the dialogues
+:PROPERTIES:
+:CREATED: [2022-03-01 17:46:47 -05]
+:END:
+
+1
+
+她们是什么时候认识的？
+pi: tāmen shì shénme shíhou rènshi de
+en: when did they meet?
+es: ¿cuándo se conocieron?
+
+她们是2011年9月认识的。
+pi: tāmen shì èr líng yī yī nián jiǔ yuè rènshi de
+en: they met in September 2011
+es: se conocieron en setiembre del 2011
+
+2
+
+她们是在哪儿认识的？
+pi: tāmen shì zài nǎr rènshi de
+en: where did they meet?
+es: ¿dónde se conocieron?
+
+她们是在学校认识的。
+pi: tāmen shì zài xuéxiào rènshi de
+en: thy met at school
+es: ellas se conocieron en la escuela
+
+3
+
+她们是怎么去饭店的？
+pi: tāmen shì zěnme qù fàndiàn de
+en: how did they get to the hotel?
+es: ¿cómo llegaron al hotel?
+
+她们是坐出租车去饭店的。
+pi: tāmen shì zuò chūzūchē qù fàndiàn de
+en: they went by cab to the hotel
+es: tomaron un taxi hasta el hotel
+
+4
+
+李先生是坐出租车去饭店的吗？
+pi: lǐ xiānsheng shì zuò chūzūchē qù fàndiàn de ma
+en: Did Mr. Lee take a cab to the hotel?
+es: ¿Mr. Lee tomó un taxi para llegar al hotel?
+
+他不是。他是和朋友一起开车去饭店的。
+pi: tā bú shì. tā shì hé péngyou yīqǐ kāichē qù fàndiàn de
+en: He didn't. He drove to the restaurant with his friend.
+es: No, no lo hizo. Iba al hotel con un amigo.
+
+5
+
+李小姐是怎么来北京的？
+pi: lǐ xiǎojiě shì zěnme lái běijīng de
+en: how did Ms. Li come to Beijing?
+es: ¿Cómo llegó la señorita Li a Pekín?
+
+李小姐是坐飞机来北京的。
+pi: lǐ xiǎojiě zuò fēijī lái běijīng de
+en: Ms. Li came to Beijing by plane.
+es: La señorita li llegó a Pekín en avión.
+
+
+***** 3. Describe the pictures using the newly-learned language points and words
+:PROPERTIES:
+:CREATED: [2022-03-01 18:39:37 -05]
+:END:
+
+我们是在巴黎（骑车）的。
+pi: wǒmen shì zài bālí qíchē de
+en: we are cycling in Paris
+Es: estamos haciendo ciclismo en París
+
+我没看见李老师，他是什么时候（回的）？
+pi: wǒ méi kànjiàn lǐ lǎoshī, tā shì shénme shíhou huí de
+en: I didn't see Mr. Lee, when did he return?
+es: No he visto al Sr. Lee, ¿cuándo ha vuelto?
+
+这些衣服不（是）今天（买）的，是昨天买的。
+pi: zhèxiē yīfu bù shì jīntiān mǎi de, shì zuótiān mǎi de
+en: These clothes were not bought today, they were bought yesterday.
+es: Esta ropa no fue comprada hoy, se compró ayer.
+
+我们是一起（开车）来的，我不喜欢坐出租车。
+pi: wǒmen shì yìqǐ (kāichē) lái de, wǒ bù xǐhuan zuò chūzūchē
+en: We came together by car, I don't like to take cabs.
+es: Hemos venido juntos en coche, no me gusta coger taxis.
+Ｂ：
+B：
+
