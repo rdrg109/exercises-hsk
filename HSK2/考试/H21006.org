@@ -1,0 +1,607 @@
+:PROPERTIES:
+:CREATED: [2022-04-25 18:39:11 -05]
+:END:
+
+* Listening
+
+** 1
+
+*** 1
+:PROPERTIES:
+:ID: 07d413bc-96ac-4ae3-9e27-9a82962a2da3
+:END:
+
+今天的报纸来了吗？
+
+ans
+
+0
+
+*** 2
+:PROPERTIES:
+:ID: 4f3d2d98-fd08-4c0c-91e3-a0ce1bd34c47
+:END:
+
+走，我们打篮球去。
+pi: zǒu, wǒ men dǎ lán qiú qù
+en: let's go, let's play basketball
+es: vamos, juguemos al baloncesto
+
+ans
+
+1
+
+*** 3
+:PROPERTIES:
+:ID: ad31a8d2-8989-44aa-bb46-02ef86783f3c
+:END:
+
+姐，你看见我的手表了吗？
+en: sister, have you seen my watch?
+es: hermana ¿has visto mi reloj?
+
+ans
+
+1
+
+*** 4
+:PROPERTIES:
+:ID: d9594bf2-8bf3-4594-8942-56f59dc506b5
+:END:
+
+她还在睡觉。
+
+ans
+
+0
+
+*** 5
+:PROPERTIES:
+:ID: 385bb42a-0ed4-4507-b93c-8ce13127dfea
+:END:
+
+我去把苹果洗一洗。
+en: I'll go wash the apples
+es: iré a lavar las manzanas
+
+ans
+
+0
+
+*** 6
+:PROPERTIES:
+:ID: 056e48d1-475b-4252-968a-993de067b7f4
+:END:
+
+路上有很多人。
+
+ans
+
+0
+
+*** 7
+:PROPERTIES:
+:ID: bc9487d7-b6de-4770-a4c4-9f5974a8f241
+:END:
+
+没关系，我这儿还有两个。
+pi: méiguānxi, wǒ zhèr hái yǒu liǎng ge
+en: It's okay, I have two more here
+es: está bien, tengo dos más aquí
+
+ans
+
+0
+
+*** 8
+:PROPERTIES:
+:ID: 578024c4-db59-4a12-a0c4-55bd902c7d8c
+:END:
+
+医生让您多吃些鱼。
+pi: yīsheng ràng nín duō chī xiē yú
+en: your doctor told you to eat more fish
+es: su médico le dijo que comiera más pescado
+
+ans
+
+1
+
+*** 9
+:PROPERTIES:
+:ID: fc57adbd-4f67-4dd2-bee8-b43cc5b9282c
+:END:
+
+读书的时候我很快了。
+pi: dú shū de shíhou wǒ hěn kuài le
+en: I'm fast when it comes to reading
+es: soy rápido cuando se trata de leer
+
+ans
+
+1
+
+*** 10
+:PROPERTIES:
+:ID: 5fe05ad9-4adf-4ede-b589-5bf6aa3296fd
+:END:
+
+妈妈，送给您，希望您喜欢。
+pi: māma, sòng gěi nín, xīwàng nín xǐhuan
+en: mom, it's for you, I hope you like it
+es: para tí, mamá, espero que te guste
+
+ans
+
+1
+
+** 2
+
+*** 11
+:PROPERTIES:
+:ID: 3fa37677-08e8-4f34-af71-88d6067d6b52
+:END:
+
+女：老师，这个题我不会做。
+pi: lǎoshī, zhè ge tí wǒ bú huì zuò
+en: teacher, I can't do this problem
+es: profesor, no puedo hacer esta pregunta
+
+男：你看着，要这样做。
+pi: nǐ kànzhe, yào zhè yàng zuò
+en: you watch, you do it like this
+es: mira, hazlo así
+
+ans
+
+b
+
+*** 12
+:PROPERTIES:
+:ID: 6ea892a4-a438-436b-abe2-ca5b9cdf12ea
+:END:
+
+男：你怎么了？这么高兴。
+en: what's wrong with you? so happy
+es: ¿qué te pasa? tan feliz
+
+女：我买到了两张明天晚上的票。
+en: I got two tickets for tomorrow night
+es: tengo dos entradas para mañana por la noche
+
+ans
+
+a
+
+*** 13
+:PROPERTIES:
+:ID: e70a69e8-0563-40a9-9c4c-b851af39a598
+:END:
+
+女：今天小猫听话吗？
+pi: jīntiān xiǎo māo tīngguà ma?
+en: is the kitten obedient today?
+es: ¿el gatito está obediente hoy?
+
+男：不听话，它要去外面。
+pi: bù tīnghuà, tā yào qù wàimiàn
+en: no, it's going outside
+es: no, va a salir afuera
+
+ans
+
+e
+
+*** 14
+:PROPERTIES:
+:ID: e40f3219-61d5-4dd7-bfe4-b3863147cbe6
+:END:
+
+男：已经快十点了，儿子怎么还不起床？
+女：他可能生病了。
+
+ans
+
+f
+
+*** 15
+:PROPERTIES:
+:ID: 09e37889-2542-4067-8225-5cc8b5d38a71
+:END:
+
+女：先生，您看这件怎么样？
+男：还可以，这件多少钱？
+
+ans
+
+c
+
+*** 16
+:PROPERTIES:
+:ID: 4835ed35-f297-4b07-ac2f-b619c5a9e889
+:END:
+
+男：家里鸡蛋不多了。
+en: there are not many eggs at home
+es: no tenemos muchos huevos en casa
+
+女：那我下班后去买几斤。
+en: then I'll go buy a few pounds after work
+es: entonces iré a comprar unas cuantas libras después del trabajo
+
+ans
+
+a
+
+*** 17
+:PROPERTIES:
+:ID: c51f5279-6684-47fa-97b5-0e9a12fa0007
+:END:
+
+女：我的洗衣机出问题了，你们能来帮我看看吗？
+男：好的，没问题。
+
+ans
+
+b
+
+*** 18
+:PROPERTIES:
+:ID: b124c8f7-d94f-4470-bf36-423e34d8dea1
+:END:
+
+
+男：这就是你的房间，怎么样？
+女：很好，谢谢你。
+
+ans
+
+e
+
+*** 19
+:PROPERTIES:
+:ID: 6bdd3e29-9f83-4eec-b1a1-bd737f67fc47
+:END:
+
+女：工作做完了，真累。
+en: i'm so tired after the work is done
+es: estoy muy cansado después de haber hecho el trabajo
+
+男：忙完了？下午好好休息一下吧。
+en: you're done? take a good rest this afternoon
+es: ¿terminaste con tu trabajo? descansa bien esta tarde
+
+ans
+
+d
+
+*** 20
+:PROPERTIES:
+:ID: 054cbab9-a93e-4ae6-9672-063562b34734
+:END:
+
+男：这个会不会有点儿小？
+en: is this going to be a little small?
+es: ¿esto es un poco pequeño?
+
+女：不小，我的东西都在里面了。
+en: no, it's not small, I have all my stuff in it
+es: no, tengo todas mis cosas dentro
+
+ans
+
+c
+
+** 3
+
+*** 21
+:PROPERTIES:
+:ID: 151b35f0-08dc-4e32-8543-34f58a638774
+:END:
+
+女：爸，你早上吃药了吗？
+男：我不想吃了，我已经好了。
+
+问：男的为什么不想吃药？
+
+ans
+
+c
+
+*** 22
+:PROPERTIES:
+:ID: 52b485e9-40ee-4459-a49c-b5a4575c6e33
+:END:
+
+男：请进，您找谁？
+女：你好，请问高小姐在吗？
+
+问：女的在做什么？
+
+ans
+
+a
+
+*** 23
+:PROPERTIES:
+:ID: 6525340d-4b05-4d0b-b46d-581430eaa497
+:END:
+
+女：明天是晴天，我和同学去游泳，你去吗？
+en: tomorrow is a sunny day, I go swimming with my classmates, you go?
+es: mañana hace un dia soleado, voy a nadar con mis compañeros de clase ¿vienes?
+
+男：好，我很长时间没运动了。
+en: yes, I haven't exercised for a long time
+es: sí, hace tiempo que no hago ejercicio
+
+问：明天天气怎么样？
+en: how is the weather tomorrow?
+es: ¿cómo estará el clima mañana?
+
+ans
+
+b
+
+*** 24
+:PROPERTIES:
+:ID: b4bcf504-5b15-46b9-a378-df0d2944a9a2
+:END:
+
+男：今天怎么穿得这么漂亮？
+女：今天是我生日，我男朋友要来一起吃饭。
+
+问：女的要和谁一起吃饭？
+
+ans
+
+c
+
+*** 25
+:PROPERTIES:
+:ID: f5a3c405-104a-4609-b274-39f4103fd1c8
+:END:
+
+女：你从六岁就开始学习唱歌了？
+en: you've been learning to sing since you were six years old?
+es: ¿aprendiste a cantar desde los 6 años?
+
+男：不，是四岁。
+en: no, it was four years old
+es: no, tenía cuatro años
+
+问：男的四岁开始学习什么？
+en: what does the man started learning when he was 4 years old?
+es: ¿qué empezó a aaprender el hombre cuando tenía 4 años?
+
+ans
+
+b
+
+*** 26
+:PROPERTIES:
+:ID: 33dd900d-af2c-4478-810f-23b1d7df9e8c
+:END:
+
+男：你叫什么名字？
+pi: nǐ jiào shénme míngzi?
+en: what is your name?
+es: ¿cómo te llamas?
+
+女：我姓白，叫白雪，您叫我小白就可以了。
+pi: wǒ xìng bái, jiào bái xuě, nín jiào wǒ xiǎo bái jiù kěyǐ le
+en: My last name is White, my name is White Snow, you can call me White
+es: mi apellido es Bai, mi nombre es Bai Xue, puedes llamarme Xiao Bai
+
+问：女的姓什么？
+pi: nǚ de xìng shénme?
+en: what is the last name of the woman?
+es: ¿cuál es el apellido de la mujer?
+
+ans
+
+a
+
+*** 27
+:PROPERTIES:
+:ID: 94f8ea0a-0604-4e3b-8113-f7aa5670d132
+:END:
+
+男：你是哪年来北京的？
+女：二零零八年，比你早一年。
+
+问：女的是哪年来北京的？
+
+ans
+
+c
+
+*** 28
+:PROPERTIES:
+:ID: 7651d2fd-ec20-436c-ab64-c8f6b3cd3ef5
+:END:
+
+男：这个电脑怎么卖？
+pi: zhè ge diànnǎo zěnme mài?
+en: how much is this computer selling for?
+es: ¿a qué precio se vende este ordenador?
+
+女：五千八，它是卖得最好的。
+pi: wǔ qiān bā, tā shì mài de zuì hǎo de
+en: five thousand eight, it is the best seller
+es: cinco mil ocho, es el más vendido
+
+问：这个电脑卖多少钱？
+pi: zhè ge diànnǎo mài duō shǎo qián?
+en: how much is this computer selling for?
+es: ¿a qué precio se vende este ordenador?
+
+ans
+
+c
+
+*** 29
+:PROPERTIES:
+:ID: 81fdb8e3-103d-4360-a844-099cdfc48398
+:END:
+
+女：你怎么没坐飞机？
+pi: nǐ zěnme méi zuò fēijī?
+en: why didn't you take a plane?
+es: ¿por qué no has codigo un avión?
+
+男：我没坐过船，所以就坐船来了。
+pi: wǒ méi zuò guo chuán, suǒyǐ jiù zuò chuán lái le
+en: I've never been on a boat, so I came by boat
+es: nunca he estado en un barco, así que he venido en barco
+
+问：男的是怎么来的？
+pi: nán de shì zěnme lái de?
+en: how did the man get here?
+es: ¿cómo ha llegado el hombre hasta aquí?
+
+ans
+
+a
+
+*** 30
+:PROPERTIES:
+:ID: cbb2658c-ce20-4b6d-9ccf-0259cee43ced
+:END:
+
+男：你在那个教室上课？这个吗？
+pi: nǐ zài nà ge jiàoshì shàng kè? zhè ge ma?
+en: you're in that classroom? this one?
+es: ¿estás en esa clase? ¿esta?
+
+女：不是，我在右边的那个大教室。
+pi: bú shì, wǒ zài yòubian de nà ge dà jiàoshì
+en: no, I'm in the big classroom on the right
+es: no, estoy en el aula grande de la derecha
+
+问：他们现在最可能在哪儿？
+pi: tāmen xiànzài zuì kěnéng zài nǎr?
+en: where are they most likely to be right now?
+es: ¿dónde es más probable que estén ahora?
+
+ans
+
+b
+
+** 4
+
+*** 31
+:PROPERTIES:
+:ID: 4adde1e9-4ed6-4542-bd1f-1f1166cb2227
+:END:
+
+男：您现在身体怎么样？
+女：还可以，医生让我多运动。
+男：是要多运动。您的小狗呢？
+en: yes, you need to exercise more, where is your puppy?
+es: si, necesitas hacer más ejercicio ¿dónde está tu cachorro?
+
+女：在这儿，在桌子后面。
+
+问：小狗在哪里？
+
+ans
+
+b
+
+*** 32
+:PROPERTIES:
+:ID: fa215d75-d825-4143-9ddb-1d006724f765
+:END:
+
+女：你吃水果吗？
+男：不吃，我中午吃了很多米饭。
+女：那喝点儿水吧。
+男：好的，谢谢。
+
+问：男的中午吃什么了？
+
+ans
+
+a
+
+米饭
+水果
+羊肉
+
+*** 33
+:PROPERTIES:
+:ID: f188c05b-2883-48a6-bef3-ec097b16b8de
+:END:
+
+男：你这次能休息几天？
+en: how many days do you get off this time?
+es: ¿cuántos días puedes tomarte de vacaciones esta vez?
+
+女：一个星期，我们去旅游吧。
+男：好，你想去哪儿？
+女：我还没想好呢。
+
+问：他们想做什么？
+
+ans
+
+b
+
+*** 34
+:PROPERTIES:
+:ID: 8c298c99-74b1-4314-95b9-d3c0f5631d46
+:END:
+
+女：你向左边看。
+pi: nǐ xiàng zuǒbian kàn
+en: you look to the left
+es: mira a la izquierda
+
+男：看什么？小汽车？
+pi: kàn shénme? xiǎo qì chē?
+en: look at what? the little car?
+es: ¿mirar qué? ¿el coche pequeño?
+
+女：小汽车里面是谁？
+pi: xiǎo qì chē lǐmian shì shéi?
+en: who's inside the car?
+es: ¿quién está en el coche pequeño?
+
+男：我哥？他买新车了？
+
+问：谁买新车了？
+
+ans
+
+a
+
+*** 35
+:PROPERTIES:
+:ID: 29afb2d7-4b33-49d0-9500-593194bc679e
+:END:
+
+男：那本书，我一个小时就看完了。
+en: that book, I read it in an hour
+es: ese libro, lo leí en una hora
+
+女：这么快？看懂了吗？
+en: so fast? did you understand it?
+es: ¿tan rápido? ¿lo has entendido?
+
+男：不太懂，所以看得快。
+en: I don't know much about  it, so I read it quickly
+es: no lo entendí muy bien, así que lo leí rapidamente
+
+女：你是因为看得快，所以看不懂吧？
+en: because you read it fast, you didn't understand it, right?
+es: debido a que lo leiste rapido, no pudiste entenderlo ¿cierto?
+
+问：女的是什么意思？
+en: what does the woman mean?
+es: ¿qué quiere decir la mujer?
+
+ans
+
+c
+

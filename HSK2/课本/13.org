@@ -1,0 +1,491 @@
+:PROPERTIES:
+:CREATED: [2022-04-18 19:55:29 -05]
+:END:
+
+* Warm-up
+:PROPERTIES:
+:CREATED: [2022-04-18 19:55:33 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-04-18 19:55:35 -05]
+:END:
+
+1. c
+
+铅笔 | qiān bǐ | pencil | lapiz ;
+
+2. a
+
+手 | shǒu | hand | mano ;
+
+3. f
+
+宾馆 | bīnguǎn | hotel | hotel ;
+
+4. e
+
+拿 | ná | hold | coger ;
+
+5. b
+
+眼睛 | yǎnjing | eye | ojo ;
+
+6. d
+
+路口 | lùkǒu | intersection | intersección ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-04-18 20:01:05 -05]
+:END:
+
+Good morning! I'm doing this exercise from the workbook, but I don't know which objects to use with the verbs 听 and could you tell me if I'm missing some words that we've already learnt?
+
++ 下: 下雪, 下雨, 下小雨, 下大雨
++ 坐: 坐公共汽车, 坐飞机, 坐火车
++ 听:
++ 上: 上课, 上班
++ 送: 送牛奶, 送报纸
++ 拿: 拿铅笔, 拿书, 拿苹果
+
+* Text
+:PROPERTIES:
+:CREATED: [2022-04-18 20:16:10 -05]
+:END:
+
+** 1. 在办公室
+:PROPERTIES:
+:CREATED: [2022-04-18 20:16:12 -05]
+:ID: e69cc075-9d06-47d7-abd0-334b1f72fbe5
+:END:
+
+Ａ：门开着呢，请进。
+pi: mén kāi zhe ne, qǐng jìn
+en: the door is open, please come in
+es: la puerta esta abierta, por favor entre
+
+Ｂ：请问，张先生在吗？
+pi: qǐngwèn, zhāng xiānsheng zài ma
+en: excuse me, is mr. zhang here?
+es: disculpe, ¿está el Sr. Zhang aquí?
+
+Ａ：他出去了。你下午再来吧。
+pi: tā chūqu le. nǐ xiàwǔ zài lái ba
+en: he's gone out. you can come back this afternoon
+es: ha salido. puedes volver esta tarde
+
+Ｂ：好的，谢谢。
+pi: hǎo de, xièxie
+en: okay, thanks
+es: ok, gracias
+
+** 2. 在办公室
+:PROPERTIES:
+:CREATED: [2022-04-18 21:53:44 -05]
+:ID: cc9c73c2-a9de-47ad-8cd3-010b2c87930b
+:END:
+
+Ａ：那个正在说话的女孩儿是谁？
+pi: nàge zhèngzài shuōhuà de nǚháir shì shéi?
+en: who is the girl who is talking?
+es: ¿quién es esa chica que está hablando?
+
+Ｂ：我知道她的名字，她姓杨，叫杨笑笑，她姐姐是我同学。
+pi: wǒ zhīdào tā de míngzi, tā xìng yáng, jiào yáng xiàoxiao, tā jiějie shì wǒ tóngxué
+en: I know her name, her surname is Yang, called Yang Xiaoxiao, her sister is my classmate
+es: conozco su nombre, su apellido es Yang, su nombre es Yang Xiaoxiao, su hermana es mi compañera de clase
+
+Ａ：那个手里拿着铅笔的呢？
+pi: nàge shǒu li názhe qiānbǐ de ne?
+en: what about the one with the pencil in her hand?
+es: ¿y la que tiene el lápiz en la mano?
+
+Ｂ：我不认识。
+pi: wǒ bú rènshi
+en: I don't know her
+es: no la conozco
+
+** 3. 在运动场
+:PROPERTIES:
+:CREATED: [2022-04-18 22:03:53 -05]
+:ID: d09b4f7a-acd8-4a2d-9941-25cd9b351558
+:END:
+
+Ａ：听说你有女朋友了？我认识她吗？
+pi: tīngshuō nǐ yǒu nǚpéngyou le? wǒ rènshi tā ma?
+en: I heard you have a girlfiend? Do I know her?
+es: ¿he oido que tienes novia? ¿la conozco?
+
+Ｂ：就是我们班那个长着两个大眼睛，非常爱笑的女孩儿。
+pi: jiù shì wǒmen bān nàge zhǎngzhe liǎng ge dà yǎnjing, fēicháng ài xiào de nǚháirháir
+en: it's that girl in our class with two big eyes who loves to smile a lot
+es: es la chica de nuestra clase con dos ojos grandes y una gran sonrisa
+
+Ａ：她不是有男朋友吗？
+pi: tā bù shì yǒu nánpéngyou ma?
+en: doesn't she have a boyfriend?
+es: ¿no tiene novio?
+
+Ｂ：那个已经是她的前男友了。
+pi: nàge yījing shì tā de qián nányǒu le
+en: that's already her ex-boyfriend
+es: ese ya es su exnovio
+
+notes
+
+运动场 | yun4 dong4 chang3 | playground ;
+
+** 4. 在路上
+:PROPERTIES:
+:CREATED: [2022-04-18 22:14:43 -05]
+:ID: 3f2da5b8-78e6-4b22-9ad3-2e3ba61d3e28
+:END:
+
+Ａ：请问，这儿离新京宾馆远吗？
+pi: qǐngwèn, zhèr lí xīnjīng bīnguǎn yuǎn ma?
+en: excuse me, is this place far from Xinjiang Hotel?
+es: disculpe ¿este lugar está lejos del Hotel Xinjing?
+
+Ｂ：不远，走路二十分钟就到。
+pi: bù yuǎn, zǒu lù èrshí fēnzhōng jiù dào
+en: not far, it's a twenty-minute walk
+es: no está lejos, llegas en 20 minutos caminando
+
+Ａ：你能告诉我怎么走吗？
+pi: nǐ néng gàosu wǒ zěnme zǒu ma?
+en: can you tell me how to go?
+es: ¿puede decirme como llegar?
+
+Ｂ：从这儿一直往前走，到了前面的路口再往右走。
+pi: cóng zhèr yìshí wǎng qián zǒu, dàole qiánmiàn de lùkǒu zài wǎng yòu zǒu
+en: go straight ahead from here, and the ngo to the right when you get to the intersection in front of you
+es: sigue recto desde aquí y luego ve a la derecha cuando llegues al cruce de enfrente
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-04-18 22:23:27 -05]
+:END:
+
+** The structural particle 着
+:PROPERTIES:
+:CREATED: [2022-04-18 22:23:28 -05]
+:END:
+
+A verb followed by the structural particle "着" can indicate the continuation of a certain state. For example:
+
+门开着。
+pi: mén kāi zhe
+en: the door is open
+es: la puerta está abierta
+
+他们穿着红色的衣服。
+pi: tāmen chuān zhe hóngsè de yīfu
+en: they are wearing red
+es: ellos visten de rojo
+
+她拿着铅笔
+pi: tā ná zhe qiānbǐ
+en: she is holding a pencil
+es: ella toma el lapiz
+
+In the negative form, "没" is added before the verb. For example
+
+门没开着。
+pi: mén méi chē zhe
+en: the door is not open
+es: la puerta no esta abierta
+
+他们没穿着红色的衣服。
+pi: tāmen méi chuān zhe hóngsè de yīfu
+en: they don't dress red
+es: ellos no visten de rojo
+
+她没拿着铅笔。
+pi: tā méi ná zhe qiānbǐ
+en: she doesn't hold the pencil
+es: ella no sostiene el lapiz
+
+In the interrogative form, "没有" is added at the end of the sentence. For example:
+
+门开着没有？
+pi: mén kāi zhe méiyǒu?
+en: is the door open?
+es: ¿la puerta está abierta?
+
+他们穿着红色的衣服没有？
+pi: tāmen chuān zhe hóngsè de yifu méiyǒu?
+en: are they dressed in red?
+es: ¿están vestidos de rojo?
+
+她手里拿着铅笔没有？
+pi: tā shǒu li ná zhe qiānbǐ méiyǒu?
+en: does she have a pencil in her hand?
+es: ¿tiene un lapiz en la mano?
+
+** The rhetorical question "不是……吗"
+:PROPERTIES:
+:CREATED: [2022-04-18 22:32:08 -05]
+:END:
+
+不是说今天有雨吗？怎么没下？
+pi: bú shì shuō jīntiān yǒu yǔ ma? zěnme méi xià?
+en: didn't you say that there was rain today? why isn't it raining?
+es: ¿no dijiste que iba a llover hoy? ¿por qué no llueve?
+
+你不是北京人吗？怎么不会说北京话？
+pi: nǐ bú shì běijīng rén ma? zěnme bù huì shuō běijīng huà?
+en: aren't you from Beijing? why don't you speak Beijing?
+es: ¿no eres de pekín? ¿por qué no hablas en pekín?
+
+（她是你的女朋友？）她不是有男朋有了吗？
+pi: tā shì nǐ de nǚ péngyou? ta bú shì yǒu nán péngyou le ma?
+en: is she your girlfriend? doesn't she have a boyfriend?
+es: ¿es tu novia? ¿no tiene novio?
+
+** The preposition "往"
+:PROPERTIES:
+:CREATED: [2022-04-18 22:36:59 -05]
+:END:
+
+The preposition "往" is used to indicate direction. For example:
+
+从这儿往前走，就是我们学校。
+pi: còng zhèr wǎng qián zǒu, jiù shì wǒmen xuéxiào
+en: from here to the front is our school
+es: de aquí se pasa a nuestra escuela
+
+你着，往左走是医院，往右走是银行。
+pi: nǐ kàn, wǎng zuǒ zǒu shì yīyuàn, wǎng yòu zǒu shì yínháng
+en: you see, to the left is the hospital and to the right is the bank
+es: verás, a la izquierda está el hospital y a la derecha el banco.
+
+从这儿一直往前走，到了前面的路口再往右走。
+pi: cóng zhèr yīzhí qián zǒu, dào le qiánmian de lùkǒu zài wǎng yòu zǒu
+en: keep going forward from here and go to the right when you get to the intersection in front of you
+es: continúe a partir de aquí y cuando llegue al cruce que hay más adelante, vuelva a ir a la derecha
+
+* Exercises
+:PROPERTIES:
+:CREATED: [2022-04-19 00:42:37 -05]
+:END:
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-04-19 06:21:57 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-04-19 00:47:18 -05]
+:END:
+
+张先生去哪儿了？
+pi: zhāng xiānsheng qù nǎr le?
+en: where did Mr. Zhang went?
+es: ¿a dónde fue Sr. Zhang?
+
+他出去了。
+pi: tā chū qù le
+en: he went out
+es: él salió
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-04-19 00:47:21 -05]
+:END:
+
+杨笑笑谁？
+pi: yáng xiàoxiao shì shéi
+en: who is Yang Xiaoxiao?
+es: ¿quién es Yang Xiaoxiao?
+
+她是正在说话的女孩儿。
+pi: tā shì zhèngzài shuōhuà de nǚháir
+en: she's is the girl that is speaking
+es: ella es la chica que está hablando
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-04-19 00:47:26 -05]
+:END:
+
+他的女朋友是谁？
+pi: tā de nǚ péngyou shì shéi?
+en: who is his girlfriend?
+es: ¿quién es su novia?
+
+她是他们班那个长着两个大眼睛，非常爱笑的女孩儿。
+pi: tā shì tāmen bān nàge zhǎng zhe liǎng ge dà yǎnjing, fēicháng ài xiào de nǚháir
+en: she is the girl in their class with big eyes and a smiling face
+es: es la chica de la clase que tiene dos ojos grandes y es muy sonriente
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-04-19 00:47:23 -05]
+:END:
+
+"前男友"是什么意思？
+pi: "qián nányǒu" shì shénme yìsi
+en: what does "ex-boyfriend" mean?
+es: ¿qué significa «ex novio»?
+
+它的意思是前男朋友。
+pi: tā de yìsi shì qián nán péngyou
+en: it means former boyfriend
+es: significa ex-novio
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-04-19 00:47:30 -05]
+:END:
+
+去新京宾馆怎么走？
+pi: qù xīnjīng bīnguǎn zěnme zǒu?
+en: how can I get to Hotel Xinjing?
+es: ¿cómo puedo llegar al hotel Xinjing?
+
+从这儿一直往前走，到了前面的路口再往右走。
+pi: cóng zhèr yìshí wǎng qián zǒu, dàole qiánmiàn de lùkǒu wǎng yòu zǒu
+en: walk straight ahead from here and turn right at the first crossing
+es: siga defrente desde acá y volteé a la derecha en la primera intersección
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-04-19 06:22:00 -05]
+:END:
+
+他拿着铅笔。
+en: tā ná zhe qiānbǐ
+en: he holds the pencil
+es: coge el lápiz
+
+他穿着白色的衣服。
+pi: tā chuān zhe báisè de yīfu
+en: he wears white clothes
+es: él viste de blanco
+
+电视开着呢。
+pi: diànshì kāi zhe ne
+en: the TV is on
+es: la televisión está encendida
+
+他开着车。
+pi: tā kāi zhe chē
+en: he drives a car
+es: él conduce el coche
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-04-19 06:51:32 -05]
+:END:
+
+Example
+
+有两个学生穿着白色的衣服。
+en: there are two students wearing white clothes
+*** Using 坐着
+:PROPERTIES:
+:CREATED: [2022-04-23 14:07:09 -05]
+:END:
+
+坐着的是小学生。
+en: elementary school students are seated
+es: los niños de la escuela primaria están sentados
+
+坐着的是小学老师。
+en: elementary school teachers are seated
+es: los profesores de la escuela primaria están sentados
+
+坐着的老师今年40岁了。
+en: the teacher sitting is 40 years old
+
+学生都坐着，因为课已经开始了。
+en: the students are seated because the class has already begun
+
+
+*** Using 穿着
+:PROPERTIES:
+:CREATED: [2022-04-23 14:07:13 -05]
+:END:
+
+学生们都穿着鞋子。
+en: all the students are wearing shoes
+
+没有学生穿着裙子。
+en: no students are wearing skirts
+
+有一个学生穿着绿色的鞋子。
+en: there's a student that wears green shoes
+
+穿着白色衣服的女学生笑着。
+pi: chuān zhe bái sè yīfu de nǚ xuéshēng xiào zhe
+en: the female student dressed in white smiles
+es: la estudiante de blanco sonríe
+
+*** Using 看着
+:PROPERTIES:
+:CREATED: [2022-04-23 14:07:17 -05]
+:END:
+
+学生们都看着老师。
+en: all the students are looking to the teacher
+
+老师看着书。
+en: the teacher is reading a book
+*** Using 说着
+:PROPERTIES:
+:CREATED: [2022-04-23 14:13:36 -05]
+:END:
+*** Using 听着
+:PROPERTIES:
+:CREATED: [2022-04-23 14:13:38 -05]
+:END:
+
+学生都听着老师说话。
+en: all the students are listening to the teacher.
+
+
+
+*** Using 拿着
+:PROPERTIES:
+:CREATED: [2022-04-23 14:13:40 -05]
+:END:
+
+没有学生拿着书。
+en: no students is holding a book
+
+那个手里拿着书的女的是老师。
+en: the woman with the book in her hand is the teacher
+*** Using 笑着
+:PROPERTIES:
+:CREATED: [2022-04-23 14:13:42 -05]
+:END:
+
+学生都笑着。
+en: all the students are smiling
+
+穿着白色衣服女学生笑着。
+en: the female student wearing white is smiling.
+
+*** Additional examples
+:PROPERTIES:
+:CREATED: [2022-04-23 14:13:44 -05]
+:END:
+
+红色的椅子坐着的人是谁？
+en: who is the person sit in the red chair?
+
+为什么学生都坐着？
+en: why are the students sitting down?
+
+他坐着火车。
+pi: tā zuò zhe huǒchē
+
+他看着电视。
+pi: tā kàn zhe diànshì
+
+他说着汉语。
+pi: tā shuō zhe hànyǔ
+

@@ -1,0 +1,764 @@
+:PROPERTIES:
+:CREATED: [2022-03-15 20:05:13 -05]
+:END:
+
+* Warm-up
+:PROPERTIES:
+:CREATED: [2022-03-02 23:51:34 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-05 19:04:58 -05]
+:END:
+
+旅游 | lǚyóu | travel | viajar ;
+
+运动 | yùndòng | sport | deporte ;
+
+眼睛 | yǎnjing | eye | ojo ;
+
+足球 | zúqiú | football | fútbol ;
+
+椅子 | yǐzi | chair | silla | noun ;
+
+猫 | māo | cat | gato ;
+
+1. D
+2. E
+3. C
+4. B
+5. F
+6. A
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-05 19:04:51 -05]
+:END:
+
+三月 | sān yuè | march | marzo
+
+六月 | liù yuè | june | junio
+
+九月 | jiǔ yuè | september | setiembre
+
+十二月 | shí èr yuè | december | diciembre
+
+I don't understand how the author supposes students do this activity when previous sections of the book series doesn't discuss how to answer or make these type of questions.
+
+你觉得什么北京时候去最好？
+pi: nǐ juéde shénme shíhou qù běijīng zuì hǎo
+en: what do you think is the best time to go to Beijing?
+es: ¿cuál cree que es la mejor época para ir a Pekín?
+
+三月去北京旅游最好。my
+pi: sān yuè qù běijīng lǚyóu zuì hǎo
+en: March is the best month to travel to Beijing.
+es: Marzo es el mejor mes para viajar a Pekín.
+
+六月去北京旅游最好。
+pi: liù yuè qù běijīng lǚyóu zuì hǎo
+en: June is the best month to travel to Beijing.
+es: Junio es el mejor mes para viajar a Pekín.
+
+九月去北京旅游最好。
+pi: jiǔ yuè qù běijīng lǚyóu zuì hǎo
+en: September is the best month to travel to Beijing.
+es: Septiembre es el mejor mes para viajar a Pekín.
+
+十二月去北京旅游最好。
+pi: shíèr yuè qù běijīng lǚyóu zuì hǎo
+en: December is the best month to travel to Beijing.
+es: Diciembre es el mejor mes para viajar a Pekín.
+
+* Text
+:PROPERTIES:
+:CREATED: [2022-03-05 19:15:56 -05]
+:END:
+
+** 1. 在学校
+:PROPERTIES:
+:CREATED: [2022-03-05 19:24:56 -05]
+:ID: 15666fd3-2775-4624-87dd-935f13a83f1d
+:END:
+
+Ａ：我要去北京旅游，你觉得什么时候去最好？
+pi: wǒ yào qù běijīng lǚyóu, nǐ juéde shénme shíhou qù zuì hǎo
+en: I want to go to Beijing, when do you think is the best time to go?
+es: Quiero visitar Pekín, ¿cuándo cree que es el mejor momento para ir?
+
+Ｂ：九月去北京旅游最好。
+pi: jiǔ yuè qù běijīng lǚyóu zuì hǎo
+en: It's best to go to Beijing in September.
+es: Lo mejor es ir a Pekín en septiembre.3
+
+Ａ：为什么？
+pi: wèi shénme
+en: Why?
+es: ¿Por qué?
+
+Ｂ：九月的北京天气不冷也不热。
+pi: jiǔ yuè de běijīng tiānqì bù lěng yě bú rè
+en: The weather in Beijing in September is not too cold and not too hot.
+es: El tiempo en Pekín en septiembre no es demasiado frío ni demasiado caluroso.
+
+
+旅游
+pi: lǚyóu
+en: travel
+es: viajar
+
+觉得
+pi: juéde
+en: think / feel
+es: pensar
+
+最
+pi: zuì
+en: most, to the greatest extent
+es: lo más
+
+为什么
+pi: wèi shénme
+en: why
+es: porque
+
+也
+pi: yě
+en: also / too
+es: también
+
+** 2. 看照片
+:PROPERTIES:
+:CREATED: [2022-03-05 19:24:59 -05]
+:ID: 62731919-c0c7-4efd-90d3-9845fb87628e
+:END:
+
+Ａ：你喜欢什么运动？
+pi: nǐ xǐhuan shénme yùndòng
+en: What sports do you like?
+es: ¿Qué deporte le gusta?
+
+Ｂ：我最喜欢踢足球。
+pi: wǒ zuì xǐhuan tī zúqiú
+en: I like playing soccer most.
+es: Lo que más me gusta es jugar al fútbol.
+
+Ａ：下午我们一起去踢足球吧。
+pi: xiàwǔ wǒmen yìqǐ qù tī zúqiú ba
+en: Let's go play soccer together this afternoon.
+es: Vamos a jugar al fútbol esta tarde.
+
+Ｂ：好啊！ | hǒa a | sure! | ¡claro! | ;
+
+运动 | yùndòng | sport | deporte | ;
+
+踢足球
+pi: tī zúqiú
+en: play football
+es: jugar fútbol
+
+一起 | yìqǐ | together | juntos | ;
+
+** 3. 在家里
+:PROPERTIES:
+:CREATED: [2022-03-06 12:47:29 -05]
+:ID: 8659dd56-2eb3-47fb-936e-4ef3943f8f57
+:END:
+
+Ａ：我们要不要买几个新的椅子？
+pi: wǒmen yào bu yào mǎi jǐ ge xīn de yǐzi
+en: Do we want to buy some new chairs?
+es: ¿Queremos comprar unas sillas nuevas?
+
+Ｂ：好啊。什么时候去买？
+pi: hǎo a. shénme shíhou qù mǎi
+en: Sure. When should we go shopping?
+es: Claro. ¿Cuándo vamos de compras?
+
+Ａ：明天下午怎么样？你明天几点能回来？
+pi: míngtiān xiàwǔ zěnmeyàng? nǐ míngtiān jǐ diǎn néng huílai
+en: How about tomorrow afternoon? What time will you be back tomorrow?
+es: ¿Qué tal mañana por la tarde? ¿A qué hora volverás mañana?
+
+Ｂ：三点多。
+pi: sān diǎn duō
+en: After three o'clock.
+es: Después de las tres.
+
+要 | yào | want to, would like to | querer, gustar | verb ;
+
+新 | xīn | new | nuevo | adjective ;
+0****** 4. At home
+:PROPERTIES:
+:CREATED: [2022-03-06 12:54:33 -05]
+:END:
+
+Ａ：桌子下面有个猫。
+pi: zhuōzi xiàmiàn yǒu ge māo
+en: There's a cat under the table.
+es: Hay un gato debajo de la mesa.
+
+Ｂ：那是我的猫，它叫花花。
+pi: nà shì wǒ de māo, tā jiào huāhua
+en: That's my cat, his name is Flora.
+es: Ese es mi gato, se llama Flora.
+
+Ａ：它很漂亮
+pi: tā hěn piàoliang
+en: It's pretty
+es: Es muy bonito
+
+Ｂ：是啊，我觉得它的眼睛最漂亮。
+pi: shì a, wǒ juéde tā de yǎnjing zuì piàoliang
+en: Yes, I think it has the prettiest eyes.
+es: Sí, creo que tiene los ojos más bonitos.
+
+Ａ：它多大了？
+pi: tā duō dà le
+en: How old is he?
+es: ¿Qué edad tiene?
+
+Ｂ：六个多月。
+pi: liù ge duō yuè
+en: A little over six months old.
+es: Un poco más de seis meses.
+
+它 | tā | it |  eso | pronoun;
+
+眼睛 | yǎnjing | eye | ojo | noun ;
+
+花花 | huāhua | flower (name of a cat) | flor (nombre de un gato) | noun ;
+
+** 4. 在家里
+:PROPERTIES:
+:CREATED: [2022-06-23 15:05:40 -05]
+:ID: 87eeb1ef-5603-4bfb-bf34-fb2266317017
+:END:
+
+Ａ：桌子下面有个猫。
+Ｂ：那是我的猫，它叫花花。
+Ａ：他很漂亮。
+Ｂ：是啊，我觉得他的眼睛最漂亮。
+Ａ：他多大了？
+Ｂ：六个多月。
+
+
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-03-06 13:04:02 -05]
+:END:
+
+
+** The auxiliary verb 要
+:PROPERTIES:
+:CREATED: [2022-03-06 19:21:08 -05]
+:END:
+
+When used before a verb, it indicates the desire to do something. For example
+
+|---------+----------+----------------|
+| Subject | 要 (aux) | Predicate      |
+|---------+----------+----------------|
+| 王方    | 要       | 学习英语       |
+| 我      | 要       | 吃米饭         |
+| 我们    | 要不要   | 买几个新的椅子 |
+|---------+----------+----------------|
+
+王方要学习英语。
+pi: wàng fāng yào xuéxí yīngyǔ
+en: Wang Fang wants to learn English.
+es: Wang Fang quiere aprender inglés.
+
+我要吃米饭。
+pi: wǒ yào chī mǐfàn
+en: I want to eat rice.
+es: Yo quiero comer arroz.
+
+我们要不要买几个新的椅子？
+pi: wǒmen yào bú yào mǎi jǐ gě xīn de yǐzi
+en: Should we buy some new chairs?
+es: ¿Compramos sillas nuevas?
+
+Its negative form is usually "不想". For example
+
+Example
+
+小王要去，我不想去。
+pi: xiǎo wàng yào qù, wǒ bù xiǎng qù
+en: Wang wants to go, I don't want to go
+es: Wang quiere ir, yo no quiero ir
+
+Example
+
+Ａ：你要吃米饭吗？
+pi: nǐ yào chī mǐfàn ma
+en: do you want to eat rice?
+es: ¿quieres comer arroz?
+
+Ｂ：我不想吃米饭。
+pi: wǒ bù xiǎng chī mǐfàn
+en: I don't want to eat rice
+es: no quiero comer arroz
+
+Example
+
+Ａ：我要去商店买椅子，你去吗？
+pi: wǒ yào qù shāngdiàn mǎi yǐzi, nǐ qù ma
+en: I'm going to the store to buy a chair, are you going?
+es: Voy a la tienda a comprar una silla, ¿vienes?
+
+Ｂ：我不去，我不想买椅子。
+pi: wǒ bú qù, wǒ bù xiǎng mǎi yǐzi
+en: I'm not going, I don't want to buy a chair.
+es: No voy a ir, no quiero comprar una silla.
+
+** The adverb of degree 最
+:PROPERTIES:
+:CREATED: [2022-03-06 19:24:11 -05]
+:END:
+
+It means being the first among things of the same kind or in a certain aspect. For example:
+
+(1) 大卫的汉语最好。
+pi: dàwèi de hànyǔ zuì hǎo
+en: David's chinese is the best
+es: David habla el mejor chino.
+
+(2) 我最喜欢吃米饭。
+pi: wǒ zuì xǐhuan chī mǐfàn
+en: My favourite food is rice
+es: Mi comida favorita es el arroz.
+
+(3) 它的眼睛最漂亮。
+pi: tā de yǎnjīng zuì piàoliang
+en: Its eyes are the most beautiful
+es: sus ojos son los más hermosos
+
+** 3. 几, 多
+:PROPERTIES:
+:CREATED: [2022-03-07 08:03:48 -05]
+:END:
+
+"几" and "多": expressions of approximate numbers.
+
+"几" can indicate an indefinite number less than 10, followed by a measure word. For example:
+
+
+名词
+pi: míng cí
+en: noun
+es: sustantivo
+
+量词
+pi: liàng cí
+en: measure word
+es: medidas
+
+
+|----+------+----------|
+| 几 | 量词 | 名词     |
+|----+------+----------|
+| 几 | 个   | 人       |
+| 几 | 本   | 书       |
+| 几 | 个   | 新的椅子 |
+|----+------+----------|
+
+
+几个人
+pi: jǐ gè rén
+
+几本书
+pi: jǐ běn shū
+
+几个新的椅子
+pi: jǐ gè xīng de yǐzi
+
+车上有几个人。
+pi: chē shàng yǒu jǐ gè rén
+en: There were a few people in the car.
+es: Había unas cuantas personas en el coche.
+
+我想买几本书。
+pi: wǒ xiǎng mǎi jǐ běn shū
+en: I'd like to buy a couple of books.
+es: Me gustaría comprar algunos libros.
+
+我们要不要买几个新的椅子？
+pi: wǒmen yào bú yào mǎi jǐ gè xīng de yǐzi
+en: Should we get some new chairs?
+es: ¿Compramos sillas nuevas?
+
+Example
+
+你家有几口人？
+pi: nǐ jiā yǒu jǐ kǒu rén
+en: How many people are in your family?
+es: ¿Cuántos miembros tiene su familia?
+
+When 几 is used after "十", it indicates a number greater than 10 but less than 20, for example, "十几个人" (a dozen people or so); when used before "十" it indicates a number greater than 20 while less than 100, for example, "几十个人" (dozens of people).
+
+十几个人。
+pi: shí jǐ gè rén
+en: a dozen people or so
+es: una docena de personas o más
+
+"多" can be used together with numeral-measure word phrases. When the numeral is less than 10, "多" should be put behind the measure word. For example,
+
+数词
+pi: shù cí
+en: numeral
+es: número
+
+
+|------+------+----+------|
+| 数词 | 量词 | 多 | 名词 |
+|------+------+----+------|
+| 三   | 个   | 多 | 星期 |
+| 五   | 年   | 多 |      |
+| 六   | 个   | 多 | 月   |
+|------+------+----+------|
+
+三个多星期。
+pi: sān gè duō xīngqī
+en: more than three weeks.
+es: más de 3 semanas
+
+五年多。
+pi: wǔ nián duō
+en: more than five years
+es: más de 5 años
+
+六个多月。
+pi: liù gè duō yuè
+en: more than 6 months
+es: más de seis meses
+
+When the numeral is an integer greater or equal than 10, "多" is put before the measure word. In this case, "多" and 几" are interchangeable. For exmaple,
+
+|------+----+------+------|
+| 数词 | 多 | 量词 | 名词 |
+|------+----+------+------|
+| 十   | 多 | 个   | 月   |
+| 二十 | 多 | 块   | 钱   |
+| 八十 | 多 | 个   | 人   |
+|------+----+------+------|
+
+十多个月。
+pi: shì duō gè yuè
+en: more than 10 months
+es: más de 10 meses
+
+二十多块钱。
+pi: èr shì duō kuài qián
+en: more than 20 dollars
+es: más de 20 dólares
+
+八十多个人。
+pi: bā shì duō gè rén
+en: more than 80 people
+es: más de 80 personas
+
+* Exercises
+:PROPERTIES:
+:CREATED: [2022-03-03 00:08:28 -05]
+:END:
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-07 22:51:23 -05]
+:END:
+
+1
+
+什么时候去北京旅游最好？为什么？
+pi: jiǔ yuè qù běijng lǚyóu zuì hǎo, wèi shénme
+en: When is the best time to travel to Beijing? Why?
+es: ¿Cuándo es la mejor época para viajar a Pekín? ¿Por qué?
+
+九月去北京旅游最好，那个月的北京天气不冷不热。
+pi: jiǔ yuè qù běijng lǚyóu zuì hǎo, nǎgè yuè de běijīng tiānqì bù lěng bù rè
+en: September is the best time to travel to Beijing. The weather in Beijing in September is neither too hot nor too cold.
+es: Septiembre es la mejor época para viajar a Beijing. El clima en Beijing en ese mes no es ni muy caliente ni muy frío.
+
+2
+
+他们下午要做什么？
+pi: tāmen xiàwǔ yào zuò shénme
+en: What are they going to do this afternoon?
+es: ¿Qué van a hacer esta tarde?
+
+他们下午去踢足球。
+pi: tāmen xiàwǔ qù tī zúqiú
+en: They go to play football in the afternoon.
+es: Van a jugar al fútbol por la tarde.
+
+3
+
+他们想什么时候去买椅子？
+pi: tāmen xiǎng shénme shíhòu qù mǎi yǐzi
+en: When do they want to buy a chair?
+es: ¿Cuándo quieren comprar una silla?
+
+他们想下午三点多去买椅子。
+pi: tāmen xiǎng xiàwǔ sān diǎn duō qù mǎi yǐzi
+en: They want to buy chairs after three o'clock in the afternoon.
+es: Quieren comprar sillas después de las tres de la tarde.
+
+4
+
+花花在哪儿？
+pi: huāhua zài nǎr
+en: Where is Huahua?
+es: ¿Dónde está Huahua?
+
+桌子下面。
+pi: zhuōzi xiàmian
+en: under the desk.
+es: bajo el escritorio.
+
+5
+
+花花多大了？
+pi: huā huā duō dà le
+en: How old is Huahua?
+es: ¿Qué edad tiene Huahua?
+
+六个多月。
+pi: liù gè duō yuè
+en: more than six months.
+es: más de seis meses.
+
+** 3
+
+:PROPERTIES:
+:CREATED: [2022-03-03 00:10:58 -05]
+:END:
+
+1. 我要去买（十多）个新杯子。
+我要去买十多个新杯子。
+pi: wǒ yào qù mǎi shì duō gè xīn bēizi
+en: I'm going to buy a dozen new cups.
+es: Voy a comprar una docena de tazas nuevas.
+
+2. 你（要）买衣服，去那个商店吧。
+你要买衣服，去那个商店吧。
+pi: nǐ yào mǎi yīfu, qù nǎge shāngdiàn ba
+en: You want to buy clothes, go to that store.
+es: Si quieres comprar ropa, ve a esa tienda.
+
+3. 我的猫三岁（多）了，你的猫多大了？
+我的猫三岁多了，你的猫多大了？
+pi: wǒ de māo sān suì duō le, nǐ de māo duō dà le
+en: My cat is over three years old, how old is your cat?
+es: Mi gato tiene más de 3 años, ¿qué edad tiene su gato?
+
+4. 我不想学习，我想和朋友去（踢足球吧）。
+我不想学习，我想和朋友去踢足球吧。
+pi: wǒ bù xiǎng xuéxí, wǒ xiǎng hé péngyǒu tī zúqiú bā
+en: I don't want to study, I want to play football with my friends.
+es: No quiero estudiar, quiero ir a jugar al fútbol con mis amigos.
+
+* Pronunciation
+:PROPERTIES:
+:CREATED: [2022-03-08 00:50:03 -05]
+:END:
+
+** Medium-stressed + stressed structure
+:PROPERTIES:
+:CREATED: [2022-03-08 00:56:02 -05]
+:END:
+
+Most disyllabic words fall into this type of structure, with the second syllable stressed and lasting longer. For example,
+
+冰箱 | bīngxiāng | refrigerator | refrigeradora ;
+
+帮忙 | bāng máng | help | ayudar ;
+
+打扰 | dǎrǎo | to disturb | distraer ;
+
+高兴 | gāoxìng | happy | feliz ;
+
+旅游 | lǚyóu | travel | vajar ;
+
+可能 | kěnéng | possibly | posiblemente ;
+
+开始 | kāishǐ | begin | empezar ;
+
+考试 | kǎoshì | participate in an exam | tomar un examen ;
+
+** "Stressed + light" structure
+:PROPERTIES:
+:CREATED: [2022-03-08 00:56:15 -05]
+:END:
+
+A small number of disyllabic words belogn to this type, in which the first syllable is stressed and long and the second is light and short. For example.
+
+Note that the examples shown below are words whose second syllable is in the 5th tone.
+
+东西 | dōngxi | something | algo ;
+
+窗户 | chuānghu | window | ventana ;
+
+萝卜 | luóbo | radish | rábano ;
+
+时候 | shíhou | (duration of) time; (a point in) time; moment | duración de tiempo; punto de tiempo; momento ;
+
+枕头 | zhěntou | pillow | almohada ;
+
+你们 | nǐmen | you (plural) | ustedes ;
+
+告诉 | gàosu | tell, let now | decir, hacer saber ;
+
+故事 | gùshi | story | historia ;
+
+* Characters
+:PROPERTIES:
+:CREATED: [2022-03-08 01:10:09 -05]
+:END:
+
+** Strokes of chinese characters
+:PROPERTIES:
+:CREATED: [2022-03-08 01:10:11 -05]
+:END:
+
+横折提
+pi: héngzhétí
+en: horizontal-turning-raising
+
+话
+pi: huà
+en: word, talk
+es: palabra
+
+说
+pi: shuō
+en: to say, to speak
+es: hablare
+
+横折折折钩
+pi: héngzhézhézhégōu
+en: horizontal-triple-turning-hook
+
+奶 | nǎi | milk | leche ;
+
+场 | chǎng | field, venue | campo ;e
+
+奶奶 | nǎinǎi | grandmother | abuela ;
+
+** Single component characters
+:PROPERTIES:
+:CREATED: [2022-03-08 01:14:20 -05]
+:END:
+
+The complex form of "为" (wéi), 爲, looks like a hand pulling an elephant for work. It originally meant "to work".
+
+The ancient  form of "也" looks like a long snake with a pointed head. As the form of the character evolves, it has lost the original meaning and become an adverb.
+
+王
+The radical "45
+
+** Chinese radicals: "TODO" and "TODO"
+:PROPERTIES:
+:CREATED: [2022-03-08 01:18:58 -05]
+:END:
+
+The radical "王" is sometimes claled the "slanting-jade" radical. It is usually related to jade.
+
+现
+pi: xiàn
+en: now, present
+es: ahora
+
+球
+pi: qiú
+en: ball
+es: pelota, balón
+
+The radical "TODO" is usually related to one's feet.
+
+跑
+pi: pǎo
+en: to run
+es: correr
+
+踢
+pi: tī
+en: to kick
+es: patear
+
+* Application
+:PROPERTIES:
+:CREATED: [2022-03-08 08:20:37 -05]
+:END:
+
+** Pair work
+:PROPERTIES:
+:CREATED: [2022-03-08 08:29:31 -05]
+:END:
+
+1. 你最喜欢吃什么？
+2. 你最不喜欢吃什么？
+3. 你上午最喜欢做什么？
+4. 你下午最喜欢做什么？
+5. 你晚上最喜欢做什么？
+6. 你最喜欢什么书？
+7. 你最喜欢什么菜？
+8. 你最喜欢什么运动？
+9. 你最喜欢什么水果？
+10. 你最喜欢什么国家？
+11. 你最喜欢什么电影？
+12. 你最喜欢什么中国菜？
+
+
+Answers to 1
+
+我最喜欢吃苹果。
+pi: wǒ zuì xǐhuan chī píngguǒ
+
+我最喜欢吃饼干。
+pi: wǒ zuì xǐhuan chī bǐnggān
+
+我最喜欢吃《Lomo saltado》，一道秘鲁菜。
+我最喜欢吃《Papa a la huancaina》，一道秘鲁菜。
+
+Answers to 2
+
+我最不喜欢吃鱼汤。
+
+Answers to 3
+
+我最喜欢的运动是足球。
+
+Answers to 4
+
+我下午最喜欢做学习汉语。
+
+Answers to 5
+
+我晚上最喜欢做跑步。
+
+Answers to 6
+
+我最喜欢的书是《Vajda》。
+我最喜欢的书叫《Vajda》。
+
+Answer to 7
+
+我最喜欢的菜是《Lomo saltado》。
+
+Answer to 12
+
+我最喜欢的中国菜是包子。
+
+
+I'm wondering if I should put two verbs togethers "做(verb)" when answering these questions. Is it OK to do that?
+
+
+你下午最喜欢做什么？
+我下午最喜欢做学习汉语。
+
+你晚上最喜欢做什么？
+我晚上最喜欢做跑步。
+

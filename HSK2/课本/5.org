@@ -1,0 +1,250 @@
+:PROPERTIES:
+:CREATED: [2022-03-19 07:06:47 -05]
+:END:
+
+* Text
+:PROPERTIES:
+:CREATED: [2022-03-19 07:06:51 -05]
+:END:
+
+** 1. 在家里 At home
+:PROPERTIES:
+:CREATED: [2022-03-19 07:35:16 -05]
+:ID: 8185426e-e1c0-414b-a038-4ad4a5a92e07
+:END:
+
+Dialogue
+
+Ａ：晚上我们去饭馆吃饭，怎么样？
+pi: wǎnshang wǒmen qù fànguǎn chī fàn, zěnmeyàng?
+en: let's go to a restaurant for dinner tonight, now about it?
+es: ¿qué tal si vamos a cenar a un restaurante esta noche?
+
+Ｂ：我不想去外面吃，我想在家吃。
+pi: wǒ bù xiǎng qù wàimiàn chī, wǒ xiǎng zài jiā chī
+en: I don't want to go to eat, I want to eat at home
+es: no quiero salir a comer afuera, quiero comer en casa.
+
+Ａ：那你准备做什么呢？
+pi: nà nǐ zhǔnbèi zuò shénme ne?
+en: then what aare you going to make?
+es: ¿qué vas a hacer entonces?
+
+Ｂ：就做你爱吃的鱼吧。
+pi: jiù zuò nǐ ài chī de yù ba
+en: let's make the fish you love
+es: vamos a hacer el pescado que te gusta
+
+
+New words
+
+外面 | wàimiàn | outside | a fuera | noun ;
+
+准备 | zhǔnbèi | to intend, to plan | planear, tener la intención | verb ;
+
+就 | jiù | (used to indicate a conclusion or resolution) | (indica conclusión o resolución) | adverb ;
+
+鱼 | yú | fish | pescado | noun ;
+
+吧 | ba | (used at the end of a sentence to indicate consultation, suggestion, request or command) | (indica consulta, sugerencia o comando) | particle ;
+
+** 2. 在商店 In a store
+:PROPERTIES:
+:CREATED: [2022-03-19 07:35:23 -05]
+:ID: 29a225d1-d431-4071-8dcb-fabdbfd89f3b
+:END:
+
+dialogue
+
+Ａ：帮我看一下这件衣服怎么样？
+pi: bāng wǒ kàn yíxià zhè jiàn yīfu zěnmeyàng
+en: what about you help me to see how this dress looks like?
+es: ¿que tal si me ayudas a ver como queda este vestido?
+
+Ｂ：颜色还可以，就是有点儿大。
+pi: yánsè hái kěyǐ, jiù shì yǒudiǎnr dà
+en: the color is ok, but it's a little big
+es: el color está bien, pero es un poco grande
+
+Ａ：这件小的怎么样？
+pi: zhè jiàn xiǎo de zěnmeyàng
+en: what about this small one?
+es: ¿qué tal este pequeño?
+
+Ｂ：这件不错，就买这件吧。
+pi: zhè jiàn búcuò, jiù mǎi zhè jiàn ba
+en: this one is good, take this one.
+es: esta es muy buena, lleva esta.
+
+new words
+
+件 | jiàn | piece (used for clothes among other items) | pieza (usado para ropa y otros objetos) | measure word ;
+
+还 | hái | passably | fairly | rather | adverb ;
+
+可以 | kěyǐ | not bad | no mal | adjective ;
+
+不错 | búcuò | pretty good | muy bien | adjective ;
+
+** 3. 在教室 In the classroom
+:PROPERTIES:
+:CREATED: [2022-03-19 08:02:09 -05]
+:ID: ca744aa4-2627-49ce-8b02-0a95c8b66eee
+:END:
+
+Dialogue
+
+Ａ：今天去不去打球？
+pi: jīntiān qù bú qù dǎ qiú
+en: are you going to play today?
+es: ¿jugaras hoy?
+
+Ｂ：这两天有点儿累，不去打球了。
+pi: zhè liǎng tiān yǒudiǎnr lèi, bú qù dǎqiú le
+en: I've been feeling tired lately, I won't
+es: Me he estado sintiendo cansada, no iré
+
+Ａ：你在做什么呢？是在想昨天的考试吗？
+pi: nǐ zài zuò shénme ne? shì zài xiǎng zuòtiān de kǎoshì ma?
+en: what are you doing? are you thinking about yesterday's test?
+es: ¿qué estás haciendo? ¿estás pensando sobre el examen de ayer?
+
+Ｂ：是啊，我觉得听和说还可以，渎和写不好，很多字我都不知道是什么意思。
+pi: shì a, wǒ juéde tīng hé shuō hái kěyǐ, dú hé xiě bù hǎo, hěn duō zì wǒ dōu bù zhīdào shì shénme yìsi
+en: yes, I think I did ok in listening and speaking, but not in reading and writing, I didn't know the meanings of many characters
+es: sí, creo que me fue bien en comprensión oral y conversación, pero no en lectura y escritura, no sabía el significado de varios caracteres
+
+new words
+
+考试 | kǎoshì | test, exam | examen | noun ;
+
+意思 | yìsi | meaning | significado | noun ;
+
+note
+
+Qi told me that "打球" means "plays basketball", but 打篮球 is the complete sentence.
+
+读 | dú | to read | leer | verb ;
+
+
+** 4. 在公司 In the company
+:PROPERTIES:
+:CREATED: [2022-03-20 00:08:03 -05]
+:ID: 98be66d3-7882-421c-892b-b32c3a2190e4
+:END:
+
+Dialogue
+
+Ａ：休息一下吧，喝咖啡吗？
+Ｂ：不喝了，我已经喝两杯了。
+Ａ：是啊，咖啡喝多了对身体不好。
+Ｂ：以后我少喝一点儿，每天喝一杯。
+
+New words
+
+咖啡 | kāfēi | coffee | café | noun ;
+
+对 | duì | to, for | para | preposition ;
+
+以后 | yǐhòu | after, afterwards, later | noun ;
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-03-20 00:13:04 -05]
+:END:
+
+** The adverb "就"
+:PROPERTIES:
+:CREATED: [2022-03-21 17:48:26 -05]
+:END:
+
+The structure "就 + verb" indicates a conclusion or a resolution made on the basis of what's been mentioned previously. For example:
+
+你不想去，就在家休息吧。
+pi: nǐ bù xiǎng qù, jiù zài jiā xiūxi ba
+en: You don't want to go, just stay at home and rest
+es: No quieres, así que quédate en casa y descansa
+
+这儿的咖啡不错，就喝咖啡吧。
+pi: zhèr de kāfēi búcuò, jiù hē kāfēi ba
+en: The coffee here is good, so let's have coffee.
+es: El café aquí es bueno, así que tomemos un café.
+
+就做你爱吃的鱼吧。
+pi: jiù zuò nǐ ài chī de yú ba
+en: make the fish you love to eat
+es: hacer el pescado que te gusta comer
+
+Attention: In the sentence, "颜色还可以，就是有点儿大" , "就是" indicates concession.
+
+颜色还可以，就是有点儿大。
+pi: yánsè hái kěyǐ, jiù shì yǒudiǎr dà
+en: the color is okay, just a little too big
+es: el color está bien, pero es un poco grande
+
+** The modal adverb "还"
+:PROPERTIES:
+:CREATED: [2022-03-20 00:13:09 -05]
+:ID: 9c044122-93ae-4ddc-a617-3de4fd04fe32
+:END:
+
+The structure "还 + Adjective" means that something is passable or acceptable. For example:
+
+example
+
+Ａ：你身体怎么样？
+pi: nǐ shēntǐ zěnmeyàng
+en: how are you feeling?
+es: ¿cómo está tu salud?
+
+Ｂ：还好。
+pi: hái hǎo
+en: good
+es: bien
+
+example
+
+Ａ：这件衣服大吗？
+pi: zhè jiàn yīfu dà ma
+en: is this dress big?
+es: ¿este vestido es grande?
+
+Ｂ：还行，不太大。
+pi: hái xíng, bú tài dà
+en: it's okay, not too big
+es: está bien, no es demasiado grande
+
+example
+
+Ａ：昨天的考试怎么样？
+pi: zuótiān de kǎoshì zěnmeyàng
+en: how was yesterday's exam?
+es: ¿cómo estaba el examen de ayer?
+
+Ｂ：我觉得听和说还可以，读和写不好。
+pi: wǒ juéde tīng hé shuō hái kěyǐ, dú hé xiě bù hǎo
+en: I think listening and speaking were good, reading and writing weren't good
+es: Creo que escuchar y hablar estuvo bien, leer y escribir no
+
+** The adverbial modifier "有点儿"
+:PROPERTIES:
+:CREATED: [2022-03-21 17:31:49 -05]
+:END:
+
+The structural "有点儿 + adjective/verb" indicates the speaker's negative mood or complaint. For example:
+
+今天天气有点儿冷。
+pi: jīntiān tīanqì yǒudiǎnr lěng
+en: today's weather is a little bit cold
+es: el clima de hoy está un poco frío
+
+我昨天有点儿累。
+pi: wǒ zuótiān yǒudiǎnr lèi
+en: I was a little tired yesterday
+es: estaba un poco cansado ayer
+
+（这件衣服）有点儿大。
+pi: (zhè jiàn yīfu) yǒudiǎnr dà
+en: this dress is a little big
+es: este vestido es un poco grande
+

@@ -1,0 +1,428 @@
+:PROPERTIES:
+:CREATED: [2022-03-15 20:05:38 -05]
+:END:
+
+* Warm-up
+:PROPERTIES:
+:CREATED: [2022-03-08 11:23:39 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-08 11:43:08 -05]
+:END:
+
+手表 | shǒubiǎo | wristwatch, handwatch | reloj de mano ;
+
+报纸 | bàozhǐ | newspaper | periódico | noun ;
+
+牛奶 | niú nǎi | cow milk | leche de vaca | noun ;
+
+房间 | fángjiān | room | cuarto, habitación | noun ;
+
+丈夫 | zhàngfu | husband | esposo ;
+
+红色 | hóngsè | red color | color rojo ;
+
+1. B
+2. A
+3. C
+4. E
+5. F
+6. D
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-08 11:42:39 -05]
+:END:
+
+Look at the sketch map and describe the positions of the places in it.
+
+后边 | hòubian | back | atrás ;
+
+前边 | qiánbian | front | adelante ;
+
+左边 | zuǒbian | left side | lado izquierdo ;
+
+右边 | yòubian | right side | lado derecho ;
+
+中间 | zhōngjiān | middle | centro ;
+
+旁边 | pángbian | beside | al costado de ;
+
+Places
+
+教学校 | jiāoxuéxiào | teaching school | escuela de enseñaza ;
+
+ 体育馆 | tǐyùguǎn | stadium | estadio | noun ;
+
+图书馆 | túshūguǎn | library | librería ;
+
+操场 | cāo chǎng | sporst venue | instalación deportiva ;
+
+医务室 | yīwùshì | clinic | consultorio médico ;
+
+食堂 | shí táng | dining room, dining hall | comedor ;
+
+教学校左边有体育馆。
+pi: jiāoxuéxiào zuǒbian yǒu tǐyùguǎn
+en: There is a gymnasium to the left of the teaching school.
+es: Hay un gimnasio a la izquierda de la escuela de enseñanza.
+
+教学校后边有图书馆。
+pi: jiāoxuéxiào hòubian yǒu túshūguǎn
+en: There is a library behind the teaching school.
+es: Hay una biblioteca detrás de la escuela de enseñanza.
+
+教学校前边有操场。
+pi: jiāoxuéxiào qiánbian yǒu cāochǎng
+en: There is a playground in front of the school.
+es: Hay un patio de recreo en frente de la escuela.
+
+教学校旁边有医务室。
+pi: jiāoxuéxiào pángbian yǒu yīwùshì
+en: There is an infirmary next to the teaching school.
+es: Hay una enfermería al lado de la escuela de enseñanza.
+
+教学校右边有食堂。
+pi: jiāoxuéxiào yòubian yǒu shítáng
+en: There is a canteen to the right of the school.
+es: Hay una cantina a la derecha de la escuela.
+
+* Text
+:PROPERTIES:
+:CREATED: [2022-03-08 12:22:28 -05]
+:END:
+
+** 1. 在房间 In the room
+:PROPERTIES:
+:CREATED: [2022-03-08 12:23:04 -05]
+:ID: 530a7a69-8458-49e2-ba8a-6fe1d0ab7bb8
+:END:
+
+Ａ：这块手表是你的吗？
+pi: zhè kuài shǒubiǎo shì nǐ de ma
+en: Is this watch yours?
+es: ¿Este reloj es suyo?
+
+Ｂ：不是我的。是我爸爸的。
+pi: bú shì wǒ de. shì wǒ bàba de
+en: It's not mine. It's my father's.
+es: No es mío. Era de mi padre.
+
+Ａ：多少钱买的？
+pi: duōshao qián mǎi de
+en: How much did you pay for it?
+es: ¿Cuánto pagaste por él?
+
+Ｂ：三千多块。
+pi: sānqiān duō kuài
+en: More than three thousand dollars.
+es: Más de tres mil dólares.
+
+New words
+
+手表
+pi: shǒubiǎo
+en: wrist watch
+es: reloj de mano
+
+千 | qiān | thousand | mil ;
+
+** 2. 在家里 At home
+:PROPERTIES:
+:CREATED: [2022-03-08 12:23:08 -05]
+:ID: b869e91b-9013-4629-9ccd-05d58c7c0d04
+:END:
+
+Ａ：这是今天早上的报纸吗？
+pi: zhè shì jīntiān zǎoshang de bàozhǐ ma
+en: Is this this morning's paper?
+es: ¿Es el periódico de esta mañana?
+
+Ｂ：不是，是昨天的。
+pi: bú shì, shì zuótiān de
+en: No, it's yesterday's.
+es: No, es de ayer.
+
+Ａ：你听，是不是送报纸的来了？
+pi: nǐ tīng, shì bú shì sòng bàozhǐ de lái le
+en: Listen, is that the man who delivers newspapers?
+es: Escucha ¿es ese el hombre que entrega los periódicos?
+
+
+Ｂ：我看一下。不是，是送牛奶的。
+pi: wǒ kàn yíxià. bú shì, shì sòng niúnǎi de
+en: Let me see. No, it's the milkman.
+es: Déjame ver. No, es el lechero.
+
+New words
+
+报纸 | bàozhǐ | newspaper | periódico | noun ;
+
+送 | sòng | send, deliver | entregar | verb ;
+
+
+一下
+pi: yíxià
+en: (used after a verb, indicating an act or an attempt)
+es: (usado después de un verbo, indicando un acto o un intento)
+
+牛奶
+pi: niúnǎi
+en: milk
+es: leche
+lexical category: noun
+
+** 3. 在家里 At home
+:PROPERTIES:
+:CREATED: [2022-03-08 12:23:13 -05]
+:ID: 3eb4d729-68bd-4a9b-a68f-e1adafa12e05
+:END:
+
+Ａ：这是谁的房间？
+pi: zhè shì shéi de fángjiān
+en: Whose room is this?
+es: ¿De quién es esta habitación?
+
+Ｂ：这是我和我丈夫的，旁边那个小的房间是我女儿的。
+pi: zhè shì wǒ hé wǒ zhàngfu de, pángbiān nǎgè xiǎo de fángjiān shì wǒ nǚ'ér de
+en: This is mine and my husband's. The small room next to it is my daughter's.
+es: Esta es la mía y la de mi marido, y la habitación más pequeña de al lado es la de mi hija.
+
+Ａ：你女儿的房间真漂亮！都是粉色的。
+pi: nǐ nǚ'ér de fángjiān zhēn piàoliang! dōu shì fěnsè de
+en: Your daughter's room is so beautiful! It's all pink.
+es: ¡La habitación de tu hija es preciosa! Todo es rosa.
+
+Ｂ：是啊，粉色是我女儿最喜欢的颜色。
+pi: shì a, fěnsè shì wǒ nǚ'ér zuì xǐhuan de yánsè
+en: Yes, pink is my daughter's favorite color.
+es: Sí, el rosa es el color favorito de mi hija.
+
+
+房间 | fángjiān | room | cuarto, habitación | noun ;
+
+丈夫 | zhàngfu | husband | esposo | noun ;
+
+
+旁边 | pángbiān | beside | al frente de | noun ;
+
+真 | zhēn | really, indeed | muy | adverb ;
+
+粉色 | fěnsè | pink | rosado | noun ;
+
+粉 | fěn | pink | rosado | adjective ;
+
+颜色 | yánsè | color | color | noun ;
+
+** 4. 在办公室 In the office
+:PROPERTIES:
+:CREATED: [2022-03-08 12:23:14 -05]
+:ID: 243599fc-5877-44c2-8a17-255d82b38729
+:END:
+
+Ａ：你看见我的杯子了吗？
+pi: nǐ kànjiàn wǒ de bēizi le ma
+en: Have you seen my cup?
+es: ¿Has visto mi taza?
+
+Ｂ：这里有几个杯子，哪个是你的？
+pi: zhèli yǒu jǐ ge bēizi, nǎge shì nǐ de
+en: There are several cups here, which one is yours?
+es: Aquí hay varias tazas, ¿cuál es la tuya?
+
+Ａ：左边那个红色的是我的。
+pi: zuǒbian nǎge hóngsè de shì wǒ de
+en: The red one on the left is mine.
+es: El rojo de la izquierda es el mío.
+
+Ｂ：给你。
+pi: gěi nǐ
+en: Here you are.
+es: Aquí tienes.
+
+New words
+
+左边
+pi: zuǒbian
+en: left side
+es: lado izquierdo
+lexical category: noun
+
+红色
+pi: hóngsè
+en: red
+es: rojo
+lexical category: noun
+
+红
+pi: hóng
+en: red
+es: rojo
+lexical category: adjective
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-03-12 23:30:02 -05]
+:END:
+
+** The 的 phrase
+:PROPERTIES:
+:CREATED: [2022-03-12 23:36:44 -05]
+:END:
+
+的 can be used after a pronoun, an adjective or a verb to form a phrase which is equivalent to a nominal phrase with its headword omitted. For example:
+
+The following pair of sentences are equivalent.
+
+这本书不是我的。
+pi: zhè běn shū bú shì wǒ de
+en: This book is not mine.
+es: Este libro no es mío.
+
+这本书不是我的书。
+pi: zhè běn shū bú shì wǒ de shū
+en: This book is not my book.
+es: Este libro no es mi libro.
+
+这个杯子是昨天买的。
+pi: zhè gè beizi shì zuótiān mǎi de
+en: This mug was bought yesterday.
+es: Esta taza fue comprada ayer.
+
+这个杯子是昨天买的杯子。
+pi: zhè gè bēizi shì zuótiān mǎi de bēizi
+en: This mug is the mug I bought yesterday.
+es: Esta taza fue la taza comprada ayer.
+
+这块手表是你的吗？
+pi: zhè kuài shǒubiǎo shì nǐ de ma
+en: Is this watch yours?
+es: ¿Este reloj es tuyo?
+
+这块手表是你的手表吗？
+pi: zhè kuài shǒubiǎo shì nǐ de shǒubiǎo ma
+en: Is this watch your watch?
+es: ¿Este reloj es tu reloj?
+
+** The numeral classifier 一下w
+:PROPERTIES:
+:CREATED: [2022-03-12 23:36:47 -05]
+:ID: bc495f15-7491-4c38-ab7b-4427f0191f27
+:END:
+
+ "一下" is used after a verb to indicate a short action, similar to the reduplicative form (AA) of a verb (see Lesson 8). The object of the verb can be ommited.
+
+我看一下。
+pi: wǒ kàn yīxià
+en: Let me take a look
+es: Dejame ver
+
+我休息一下吧。
+pi: wǒ xiūxi yīxià bā
+en: I'll take a break
+es: Tomaré un descanso
+
+我问一下老师。
+pi: wǒ wèn yīxià lǎoshī
+en: I'll ask the teacher
+es: Le preguntaré al profesor
+
+id:e0cac64a-c618-4016-be25-254851e01c25 mentioned that we use this for casual actions.
+
+宾语 | bīnyǔ | object (grammar) | objeto (gramática) | noun ;
+
+** The modal adverb 真
+:PROPERTIES:
+:CREATED: [2022-03-14 09:00:52 -05]
+:END:
+
+真 | zhēn
+
+真 | zhēn | really, indeed | realmente, muy | adverb ;
+
+The structure "真 + adjective" expresses an exclamatory mood, meaning "really, indeed". For example,
+
+你真好！
+pi: nǐ zhēn hǎo
+en: You are so nice!
+es: Usted es muy amable.
+
+今天天气真好！
+pi: jīntiān tiānqì zhēn hǎo
+en: It's a beautiful day!
+es: Hace un día precioso.
+
+你女儿的房间真漂亮！
+pi: nǐ nǚ'ér de fángjiān zhēn piàoliang
+en: Your daughter's room is beautiful!
+es: ¡La habitación de tu hija es precisa!
+
+* Application
+:PROPERTIES:
+:CREATED: [2022-03-14 09:08:20 -05]
+:END:
+
+** Group Work
+:PROPERTIES:
+:CREATED: [2022-03-14 09:08:25 -05]
+:END:
+
+Examples
+
+左边的房间是我爸爸妈妈的，他们的房间很大。
+pi: zuǒbian de fángjiān shì wǒ bàba māma de, tāmen de fángjiān hěn dà
+en: The room on the left is my mom and dad's, and their room is huge.
+es: La habitación de la izquierda es la de mis padres y tienen una habitación grande.
+
+旁边的是我的，我的房间是粉色的。
+pi: pángbian de shì wǒ de, wǒ de fángjiān shì fěnsè de
+en: The one next to it is mine, and my room is pink.
+es: El de al lado es el mío, y mi habitación es rosa.
+
+电脑在桌子上，桌子在床旁边。
+pi: diànnǎi zài zhuōzi shang, zhuōzi zài chuáng pángbiān
+en: The computer is on the table and the table is next to the bed.
+es: El ordenador está sobre la mesa y la mesa está al lado de la cama.
+
+My own sentences
+
+旁边的我房间是我哥哥的。他的房间比我的大。
+pi: pángbian de wǒ fángjiān shì wǒ gēge de. tā de fángjiān bǐ wǒ de dà
+en: The room next to mine is my brother's. His room is bigger than mine.
+es: La habitación al lado de la mía es la de mi hermano. Su habitación es más grande que la mía.
+
+我的房间和我哥哥的是白色的。
+pi: wǒ de fángjiān hě wǒ gēge de shì báisè
+en: My room and my brother's room are white.
+es: Mi habitación y la de mi hermano son blancas.
+
+我的桌子是棕色的，我的椅子是黑色的。
+pi: wǒ de zhuōzi shì zōngsè de, wǒ de yǐzi shì hēisè de
+en: My table is brown and my chair is black.
+es: Mi mesa es marrón y mi silla es negra.
+
+电脑在桌子上，桌子在床旁边。
+pi: diànnǎo zài zhuōzi shang, zhuōzi zài chuáng pángbiān
+en: The computer is on the desk and the desk is next to the bed.
+es: La computadora está sobre la mesa y la mesa está al lado de la cama.
+
+
+Corrections
+
+我房间的旁边是我哥哥的。
+pi: wǒ fángjiān de pángbian shì wǒ gēge
+en: Next to my room is my brother
+es: Al lado de mi habitación está mi hermano
+
+我爸妈的浴室在他们房间的旁边。
+pi: wǒ bā mā de yùshì zài tāmen fángjiān de pángbian
+en: My parents' bathroom is next to their room.
+es: El baño de mis padres está al lado de su habitación.
+
+我爸妈房间的旁边是他们的浴室。
+pi: wǒ bā mā fángjiān de pángbian shì tāmen de yùshì
+en: Next to my parents' room is their bathroom.
+es: Al lado de la habitación de mis padres está su baño.
+

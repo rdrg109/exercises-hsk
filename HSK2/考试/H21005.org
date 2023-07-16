@@ -1,0 +1,652 @@
+:PROPERTIES:
+:CREATED: [2022-04-14 15:36:43 -05]
+:END:
+
+* Listening
+:PROPERTIES:
+:CREATED: [2022-04-14 15:36:47 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-04-14 16:27:15 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-04-14 16:08:52 -05]
+:ID: e7c47abc-8552-4b04-ab0f-cbdfc27f44ab
+:END:
+
+我给女儿准备了牛奶和鸡蛋。
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-04-14 16:09:38 -05]
+:ID: c119d71c-3795-449f-bc9f-9fd5b951e6f3
+:END:
+
+她快要做妈妈了。
+pi: tā kuài yào zuò māma le
+en: she's about to be a mom
+en: she's going to be a mom soon
+es: está a punto de ser madre
+
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-04-14 16:13:26 -05]
+:ID: c204110b-0ad9-4c01-9814-741ec597a679
+:END:
+
+你的歌唱得真不错！
+pi: nǐ de gē chàng de zhēn bú cuò
+en: you sing really well
+es: ¡cantas muy bien!
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-04-14 16:14:06 -05]
+:ID: 1b720d76-10ce-4e4e-9f92-dfac65d13c19
+:END:
+
+你没笑，再来一张。
+pi: nǐ méi xiào, zài lái yī zhāng
+en: you're not smiling, take another one
+es: no estas sonriendo, toma otra
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-04-14 16:15:54 -05]
+:ID: db41ad9f-f6ba-4a1a-ac7f-441ce9daa5a0
+:END:
+
+中午我们吃羊肉吧。
+
+*** 6
+:PROPERTIES:
+:CREATED: [2022-04-14 16:18:10 -05]
+:ID: 56a700b9-8473-45d4-929d-5b89011be3cf
+:END:
+
+给您，这是今天的报纸。
+pi: gěi nín, zhè shì jīntiān de bàozhǐ
+en: here you go, this is today's paper
+es: aquí tienes, el periódico de hoy
+
+*** 7
+:PROPERTIES:
+:CREATED: [2022-04-14 16:20:04 -05]
+:ID: 4eb645b2-decc-40c5-8dbe-e2b24bdbbdb5
+:END:
+
+学跳舞要慢慢来。
+pi: xué tiàowǔ yào màn màn lái
+en: learn to dance slowly
+es: tómate tu tiempo para aprender a bailar
+
+*** 8
+:PROPERTIES:
+:CREATED: [2022-04-14 16:22:44 -05]
+:ID: 5a90d801-f3a2-488c-9285-d4832bcf40b0
+:END:
+
+这是你新买的手表？
+
+*** 9
+:PROPERTIES:
+:CREATED: [2022-04-14 16:23:34 -05]
+:ID: 878f893d-5c5f-4fc9-ab10-624d8facf938
+:END:
+
+你来开车，我坐右边。
+pi: nǐ lái kāi chē, wǒ zuò yòubian
+en: you drive, I'll sit on the right
+es: tú conduces, yo me siento a la derecha
+
+*** 10
+:PROPERTIES:
+:CREATED: [2022-04-14 16:25:12 -05]
+:ID: 1ad925c2-7716-49ef-9a3b-00d34457a559
+:END:
+
+下雪了，但不是很冷。
+pi: xià xuě le, dàn bú shì hěn lěng
+en: it's snowing, but it is not very cold
+es: está nevando, pero no hace mucho frío
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-04-15 13:16:08 -05]
+:END:
+
+
+*** 11
+:PROPERTIES:
+:CREATED: [2022-04-15 13:21:35 -05]
+:ID: 555f4d37-1bb2-471b-a85e-739ffc764c75
+:END:
+
+女：谢谢你今天来帮我。
+男：不客气，今天我休息。
+
+*** 12
+:PROPERTIES:
+:CREATED: [2022-04-15 13:22:33 -05]
+:ID: ae3f2662-4452-4806-b080-86353ebb2adb
+:END:
+
+男：你准备好了没有？
+pi: nǐ zhǔnbèi hǎo le méiyǒu?
+en: are you ready?
+es: ¿estás listo?
+
+女：我准备好了。
+pi: wǒ zhǔnbèi hǎo le
+en: I'm ready
+es: estoy listo
+
+*** 13
+:PROPERTIES:
+:CREATED: [2022-04-15 13:28:38 -05]
+:ID: 9f521b04-15e9-48ca-838a-8d4e1bee9c8c
+:END:
+
+女：爸爸，生日快乐！
+pi: bàba, shēngrì kuàilè
+en: happy birthday, dad!
+es: ¡feliz cumpleaños, papá!
+
+男：谢谢你，这是你写的吗？真漂亮。
+pi: xièxie nǐ, zhè shì nǐ xiě de ma? zhen piàoliang
+en: thank you, did you write this? it's beauitful
+es: gracias ¿lo has escrito tú? es precioso
+
+*** 14
+:PROPERTIES:
+:CREATED: [2022-04-15 13:33:12 -05]
+:ID: 557dcbab-200f-4a8a-bf55-d0c9731b44d0
+:END:
+
+男： 天气太热了，吃块儿西瓜吧。
+pi: tiānqì tài rè le, chī kuàir xīguā ba
+en: it's too hot, have a piece of watermelon
+es: hace mucho frío , toma un trozo de sandía
+
+女：好的，谢谢。
+pi: hǎo de, xièxie
+en: yes, thanks
+es: sí, gracias
+
+*** 15
+:PROPERTIES:
+:CREATED: [2022-04-15 13:39:20 -05]
+:ID: 925e8ebe-b66f-4834-ac3d-a704567f45e2
+:END:
+
+女：我穿这件怎么样？
+pi: wǒ chuān zhè jiàn zěnmeyàng?
+en: how about I wear this one?
+es: ¿cómo me veo con esta?
+
+男：我觉得那件红的比这件好。
+pi: wǒ juéde nǎ jiàn hóng de bǐ zhè jiàn hǎo
+en: I think the red one is better than this one
+es: creo que ese rojo es mejor que este
+
+*** 16
+:PROPERTIES:
+:CREATED: [2022-04-15 13:43:06 -05]
+:ID: 2272daac-d730-4846-846a-b8e64db279b3
+:END:
+
+男：这个手机多少钱？
+pi: zhè ge shǒujī duō shǎo qián
+en: how much is this phone?
+es: ¿cuánto cuesta este teléfono?
+
+女：一千零九十，现在买还送您一个茶杯。
+pi: yī qiān líng jiǔ shí, xiànzài mǎi hái sòng nín yī ge chá bēi
+en: one thousand and ninety, buy now and also get a teacup
+es: mil noventa, cómpralo ahora y llévate una taza de té gratis
+
+*** 17
+:PROPERTIES:
+:CREATED: [2022-04-15 13:48:50 -05]
+:ID: 281fdd8c-4111-413f-8efb-482f58c60225
+:END:
+
+女：这个题你不会做吗？
+pi: zhè ge tí nǐ bú huì zuò ma?
+en: you can't do this question?
+es: ¿no puedes hacer esta pregunta?
+
+男：是，我不知道怎么做，我没听懂。
+pi: shì, wo bù zhīdào zěnme zuò, wǒ méi tīngdǒng
+en: yes, I don't know how to do it, I didn't understand it
+es: sí, no sé como hacerlo, no lo he entendido
+
+*** 18
+:PROPERTIES:
+:CREATED: [2022-04-15 13:52:18 -05]
+:ID: 5fe0e9b7-57e4-45a7-a8bf-c7838486e12f
+:END:
+
+男：哪个是你弟弟？
+pi: nǎ ge shì nǐ dìdi
+en: which one is your brother?
+es: ¿cuál es tu hermano?
+
+女：左边的那个，九号，看见了吗？
+pi: zuǒbian de nǎ ge, jiǔ hào, kànjiàn le ma?
+en: the one on the left, number nine, see?
+es: el de la izquierda, el número nuevo ¿ves?
+
+*** 19
+:PROPERTIES:
+:CREATED: [2022-04-15 13:57:25 -05]
+:ID: beace288-d09e-4a0a-b061-c90af947b6c3
+:END:
+
+男：先生，您对这件事情怎么看？
+pi: xiānshēng, nín duì zhè jiàn shìqíng zěnme kàn?
+en: sir, what do you think about this matter?
+es: señor ¿qué opina de este asunto?
+
+女：我现在不想回答。
+pi: wǒ xiànzài bù xiǎng huí dá
+en: I don't want to answer right now
+es: no quiero responder ahora mismo
+
+*** 20
+:PROPERTIES:
+:CREATED: [2022-04-15 14:02:22 -05]
+:ID: 5643b45d-c0b0-4b97-9370-c807422e9578
+:END:
+
+男：狗今天怎么不吃东西？
+pi: gǒu jīntiān zěnme bù chī dōngxi?
+en: why won't the dog eat today?
+es: ¿por qué el perro no come hoy?
+
+女：它可能生病了。
+pi: tā kěnéng shēngbìng le
+en: it may be sick
+es: probablemente esté enfermo
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-04-15 14:07:44 -05]
+:END:
+
+*** 21
+:PROPERTIES:
+:CREATED: [2022-04-15 14:07:46 -05]
+:ID: 5ac71d05-f898-4e84-a64f-1f440dcf7cd6
+:END:
+
+女：喂，你到电影院了没？
+pi: wèi, nǐ dào diànyǐng yuàn le méi?
+en: hey, have you arrived at the cinema yet?
+es: oye ¿ya has llegado al cine?
+
+男：我在路上，很快就到。你等我几分钟。
+pi: wǒ zài lùshàng, de kuài jiù dào. nǐ děng wǒ jǐ fēnzhōng
+en: I'm on my way. I'll be there soon. You wait for me a few minutes
+es: estoy en camino, llegaré pronto. espérame unos minutos
+
+问：男的现在在哪儿？
+pi: nán ed xiànzài zài nǎr?
+en: where is the man now?
+es: ¿dónde está el hombre ahora?
+
+*** 22
+:PROPERTIES:
+:CREATED: [2022-04-15 14:34:59 -05]
+:ID: 1676c438-cb0a-4d4c-9722-3ad00a294460
+:END:
+
+男：明天你去不去打球？
+pi: míngtiān nǐ qù bú qù dǎ qiú?
+en: are you going to play ball tomorrow?
+es: ¿vas a jugar a la pelota mañana?
+
+女：这两天有点儿忙，不去了。
+pi: zhě liǎng tiān yǒu diǎnr máng, bù qù le
+en: I've been a little busy recently, I'm not going
+es: estoy un poco ocupada estos dos días, así que no voy a ir
+
+问：女的这两天怎么样？
+pi: nǚ de zhè liǎng tiān zěnmeyàng?
+en: how has been the woman recently?
+es: ¿como está la mujer en estos días?
+
+*** 23
+:PROPERTIES:
+:CREATED: [2022-04-15 14:52:21 -05]
+:ID: d66bd6f1-700f-43cd-900f-8a91da605262
+:END:
+
+女：您看这个房间怎么样？
+pi: nín kàn zhè ge fāngjián zěnmeyàng?
+en: what do you think of this room?
+es: ¿qué te parece está habitación?
+
+男：还可以，有没有大一点儿的？
+pi: hái kěyǐ, yǒu méi yǒu dà yī diǎnr de?
+en: it's okay, is there a bigger one?
+es: está bien ¿tiene una habitación más grande?
+
+问：男的想要什么样的房间？
+pi: nán de xiǎng yào shénme shénme yàng de fāngjián?
+en: what kind of room does the man want?
+es: ¿qué tipo de habitación quiere el hombre?
+
+*** 24
+:PROPERTIES:
+:CREATED: [2022-04-15 14:59:57 -05]
+:ID: b47ee5dd-41f6-4ecf-a477-255a01d0c4b7
+:END:
+
+男：桌子上的那本书是你的？
+pi: zhuōzi shàng de nǎ běn shū shì nǐ de
+en: is that book on the table yours?
+es: ¿ese libro de la mesa es tuyo?
+
+女：不是，那是我哥的。
+pi: bú shì, nǎ shì wǒ gē de
+en: no, that's my brother's
+es: no, es de mi hermano
+
+问：那本书是谁的？
+pi: nǎ běn shū shì shéi de?
+en: whose book is that?
+es: ¿de quién es ese libro?
+
+*** 25
+:PROPERTIES:
+:CREATED: [2022-04-15 15:05:22 -05]
+:ID: c5cad5f6-39c7-4d27-b694-e2f630c59a6c
+:END:
+
+女：儿子，多吃菜。
+pi: érzi, duō chī cài
+en: son, eat more vegetables
+es: hijo, come más verduras
+
+男：好，您做的菜比饭店的还好吃。
+pi: hǎo, nín zuò de cài bǐ fàndiàn de hái hǎochī
+en: good, your cooking is better than the restaurant's
+es: bien, tu cocina es mejor que la del restaurante
+
+问：他们最可能在哪儿？
+pi: tāmen zuì kěnéng zài nǎr?
+en: where are they most likely to be?
+es: ¿dónde es más probable que estén?
+
+*** 26
+:PROPERTIES:
+:CREATED: [2022-04-15 15:12:19 -05]
+:ID: be7dc25a-e0d4-41d0-a531-62578d37089b
+:END:
+
+男：这个月我天天去游泳，我现在七十公斤。
+pi: zhè ge yuè wǒ tiān tiān qù yóu yǒng, wǒ xiànzài qī shí gōngjīn
+en: I went swimming every day this month, and I'm now seventy kilos
+es: este mes he ido a nadar todos los días y ahora peso setenta kilos
+
+女：真的吗？少了五公斤？
+pi: zhēndema? shǎo le wǔ gōng jīn?
+en: really? five kilograms less?
+es: ¿de veradd? ¿cinco kilos menos?
+
+问：男的现在多少公斤？
+pi: nán de xiànzài duō shǎo gōngjīn?
+en: how many kilograms is the man now?
+es: ¿cuántos kilos tiene ahora el hombre?
+
+*** 27
+:PROPERTIES:
+:CREATED: [2022-04-15 15:18:56 -05]
+:ID: 23d783d5-868f-43cb-ae4f-c931f350abf6
+:END:
+
+女：走了这么长时间，谁有点儿累了？
+pi: zǒu le zhè me chuán shìjiān? shéi yǒu diǎnr lèi le?
+en: we have walked for a very long time, who's a little tired?
+es: hemos caminado por un largo tiempo ¿quién está un poco cansado?
+
+男：我们去那边的椅子上坐坐吧。
+pi: wǒmen qù nǎbian de yǐzi shàng zuò zuò ba
+en: let's go sit on the chairs over there
+es: vamos a sentarnos en las sillas de ahí
+
+问：女的怎么了？
+pi: nǚ de zěn me le?
+en: how is the woman?
+es: ¿cómo está la mujer?
+
+*** 28
+:PROPERTIES:
+:CREATED: [2022-04-15 15:26:17 -05]
+:ID: 05b2099e-b0af-427d-9ce5-d6b9cff550c4
+:END:
+
+男：王老师，您女儿已经这么大了？
+pi: wáng lǎoshī, nín nǚ'ér yǐjīng zhè me dà le?
+en: Ms. Wang, your daughter is already so old?
+es: señora wang ¿su hija ya es tan mayor?
+
+女：这是我的学生，我女儿在那儿。
+pi: zhè shì wǒ de xuéshēng, wǒ nǚ'ér zài nǎr?
+en: this is my student, where is my daughter?
+es: esta es mi alumna ¿donde está mi hija?
+
+问：女的是什么意思？
+pi: nǚ de shì shénme yìsi?
+en: what does the woman mean?
+es: ¿que quiere decir la mujer?
+
+*** 29
+:PROPERTIES:
+:CREATED: [2022-04-15 15:30:59 -05]
+:ID: 95e8cc61-d20f-4136-bce3-f8bde7481054
+:END:
+
+女：别看电脑了，喝杯咖啡吧。
+pi: bié kàn diànnǎo le, hē bēi kāfēi ba
+en: stop looking at the computer and have a cup of coffee
+es: deja de mirar el ordenador y tómate un café
+
+男：谢谢，你真好。
+pi: xièxie, nǐ zhēn hǎo
+en: thanks, you're very kind
+es: gracias, es muy amable
+
+问：女的让男的做什么？
+pi: nǚ de ràng nán de zuò shénme?
+en: what does the woman ask the man to do?
+es: ¿qué le pide el hombre a la mujer?
+
+*** 30
+:PROPERTIES:
+:CREATED: [2022-04-15 15:34:23 -05]
+:ID: eaefd56e-905a-4176-bb0c-cf5925c54d5f
+:END:
+
+男：你怎么知道小王来了？
+pi: ní zěnme zhīdào xiǎo wáng lái le?
+en: how did you know Xiao Wang was coming?
+es: ¿cómo sabías que Xiao Wang iba a venir?
+
+女：我在门外看到他的自行车了。
+pi: wǒ zài mén wài kàn dào tā de zìxíngchē le
+en: I saw his bike outside the door
+es: vi su bicicleta fuera de la puerta
+
+问：女的怎么知到小王来了？
+pi: nǚ de zěnme zhīdào xiǎo wáng lái le?
+en: how did the woman know that Xiao Wang was coming?
+es: ¿cómo sabía la mujer que Xiao Wang ib aa venir?
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-04-15 15:39:02 -05]
+:ID: 4d1d3056-8525-4070-af52-1d3541d43211
+:END:
+
+*** 31
+:PROPERTIES:
+:CREATED: [2022-04-15 15:43:11 -05]
+:ID: 2d708579-31eb-47cf-bbea-8de2e1de98b6
+:END:
+
+男：小姐，这个篮球多少钱？
+pi: xiǎo jiě, zhè ge lánqiú duō shǎo qián?
+en: miss, how much is this basketball?
+es: señorita ¿cuánto cuesta esta pelota de baloncesto?
+
+女：三百。
+pi: sān bǎi
+en: three hundred
+es: trescientos
+
+男：有便宜一些的吗？
+pi: yǒu piányi yì xiē de ma?
+en: is there a chepaer one?
+es: ¿hay alguno más barato?
+
+女：没有了，这就是最便宜的。
+pi: méi yǒu le, zhè jiù shì zuì piányi de
+en: no more, this is the cheapest one
+es: no más, este es el más barato
+
+问：这个篮球卖多少钱？
+pi: zhè ge lánqiú mài duō shǎo qián?
+en: how much does this basketball sell for?
+es: ¿a qué precio se vende este balón de baloncesto?
+
+*** 32
+:PROPERTIES:
+:CREATED: [2022-04-15 15:54:05 -05]
+:ID: 9050acca-cad9-47d9-a721-26e65676ae9b
+:END:
+
+女：请问，第十中学怎么走？
+pi: qǐng wèn, dì shí zhōng xué zěnme zǒu?
+en: excuse me, how do I get to the 10th Middle School?
+es: disculpe ¿cómo llego a la 10ma escuela secundaria?
+
+男：您向前走，就在路的右边。
+pi: nín xiàng qián zǒu, jiù zài lù de yòubian
+en: you go forward and it's on the right side of the road
+es: avance y está en el lado derecho de la carretera
+
+女：谢谢你，再见。
+pi: xièxie nǐ, zàijiàn
+en: thank you, goodbye
+es: gracias, adiós
+
+男：不客气。
+pi: bùkèqi
+en: you're welcome
+es: de nada
+
+问：女的要去哪儿？
+pi: nǚ de yào qù nǎr?
+en: where's the woman going?
+es: ¿a dónde quiere ir la mujer?
+
+*** 33
+:PROPERTIES:
+:CREATED: [2022-04-15 16:03:24 -05]
+:ID: c3dbbee0-6048-459f-bea1-bb89be760836
+:END:
+
+男：妈妈，你睡觉了吗？
+pi: māma, nǐ shuìjiào le ma?
+en: mom, are you asleep?
+es: mamá ¿estás dormida?
+
+女：不要说话了，快睡觉吧。
+pi: bù yào shuōhuà le, kuài shuìjiào ba
+en: stop talking and go to sleep
+es: no hables, vete a dormir
+
+男：我想吃个苹果再睡。
+pi: wǒ xiǎng chī ge píngguǒ zài shuì
+en: I want to eat an apple before I go to sleep
+es: quiero comer una manzana antes de dormir
+
+女：苹果已经睡觉了。
+pi: píngguǒ yǐjīng shuìjiào le
+en: the apple has gone to sleep
+es: la manzana se ha dormido
+
+问：男的为什么不睡觉？
+pi: nán de wèi shénme bù shuìjiào?
+en: why doesn't the man sleep?
+es: ¿por qué el hombre no se duerme?
+
+*** 34
+:PROPERTIES:
+:CREATED: [2022-04-15 16:10:03 -05]
+:ID: a2b4229f-6506-4072-a11e-afc179ee8a79
+:END:
+
+女：我们希望你下个星期就能来公司上班。
+pi: wǒmen xīwàng nǐ xiàge xīngqī jiù néng lái gōngsī shàngbān
+en: we'd like you to come to work next week
+es: nos gustaría que vinieras a trabajar la semana que viene
+
+男：好的，没问题。
+pi: hǎode, méi wèntí
+en: yes, no problem
+es: sí, no hay problema
+
+女：上班时间是上午九点到下午五点。
+pi: shàngbān shíjiān shì shàngwǔ jiǔ diǎn dào xiàwǔ wǔ diǎn
+en: the working hours are from 9:00 am to 5:00 pm
+es: el horario de trabajo ees de 9 a 17 horas
+
+男：谢谢，那星期一见。
+pi: xièxie, nǎ xīngqī yí jiàn
+en: Thanks, I'll see you on Monday then
+es: gracias, nos vemos el lunes entonces
+
+问：他们在说什么？
+pi: tāmen zài shuō shénme?
+en: what are they talking about?
+es: ¿de qué están hablando?
+
+*** 35
+:PROPERTIES:
+:CREATED: [2022-04-15 16:35:00 -05]
+:ID: 28b2e3e0-eb12-4b08-8bd9-9744e07684b6
+:END:
+
+男：今天的票还有吗？
+pi: jīntiān de piào hái yǒu ma
+en: are there any tickets left for today?
+es: ¿quedan entradas para hoy?
+
+女：对不起，没有了。
+pi: duìbuqǐ, méiyǒu le
+en: sorry, there are no more
+es: lo siento, no queda ninguno
+
+男：那我要两张明天的吧。
+pi: nǎ wǒ yào liǎng zhāng míngtiān de ba
+en: then I'll take two for tomorrow
+es: entonces me llevaré dos para mañana
+
+女：好，给您，四月十七日的，两张。
+pi: hǎo, gěi nín, sì yuè shíqī rì de, liǎng zhāng
+en: okay, here you go, two tickets for April 17
+es: bien, aquí tienes, dos entradas para el 17 de abril
+
+问：今天是几号？
+pi: jīntiān shì jǐ hào?
+en: what day is today?
+es: ¿qué dia es hoy?
+

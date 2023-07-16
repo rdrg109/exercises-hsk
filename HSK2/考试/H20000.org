@@ -1,0 +1,874 @@
+:PROPERTIES:
+:CREATED: [2022-04-15 19:37:46 -05]
+:END:
+
+* Listening
+:PROPERTIES:
+:CREATED: [2022-04-15 19:37:48 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-04-15 19:37:51 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-04-15 19:38:41 -05]
+:ID: f719beea-bba1-4179-a7a7-86715bab6205
+:END:
+
+他正在打电话呢。
+pi: tā zhèngzài dǎ diànhuà ne
+en: he's on the phone right now
+es: está haciendo una llamada ahora mismo
+
+answer
+
+1
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-04-15 19:40:33 -05]
+:ID: 29ce84e1-46ee-486b-beed-ea2607df0ce6
+:END:
+
+上午我买了一些鸡蛋。
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-04-15 19:41:33 -05]
+:ID: ab70808a-6763-489c-bfa1-8af3196a7819
+:END:
+
+生日快乐！
+pi: shēngrì kuàilè
+en: happy birthday!
+es: ¡feliz cumpleaños!
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-04-15 19:42:02 -05]
+:ID: 3191e419-1a47-46c5-bb91-8aa500bec3bf
+:END:
+
+我在门外等你们。
+pi: wǒ zài mén wài děng nǐmen
+en: I'm outside waiting for you
+es: estoy afuera esperándolos
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-04-15 19:45:40 -05]
+:ID: fd550e49-cffe-4ef8-9126-34ca15283d58
+:END:
+
+他们开车去北京。
+pi: tāmen kāi chē qù běijīng
+en: they drove to Beijing
+es: condujeron hasta Pekín
+
+*** 6
+:PROPERTIES:
+:CREATED: [2022-04-15 19:46:46 -05]
+:ID: bb12547f-c985-45fd-87d3-cf5b0a668da6
+:END:
+
+这是他的新手机。
+
+*** 7
+:PROPERTIES:
+:CREATED: [2022-04-15 19:47:34 -05]
+:ID: c447bd90-2e9d-461c-b0b8-182cfcfb724e
+:END:
+
+我想送妻子一件漂亮的衣服。
+pi: wǒ xiǎng sòng qīzi yī jiàn  piàoliang de yīfu
+en: I want to give my wife a nice dress
+es: me gustaría regalarle a mi esposa un hermoso vestido
+
+*** 8
+:PROPERTIES:
+:CREATED: [2022-04-15 19:49:52 -05]
+:ID: 33487b18-2c47-454c-9c1e-b9b1e83d7135
+:END:
+
+我来介绍一下，这是王先生。
+pi: wǒ lái jiěshào yíxià, zhè shì wáng xiānshēng
+en: let me introduce, this is Mr. Wang
+es: permítame presentarle, este es el Sr. Wang
+
+*** 9
+:PROPERTIES:
+:CREATED: [2022-04-15 19:52:14 -05]
+:ID: 8c414db1-4cd6-42a7-88f3-dcbaeb3e6de3
+:END:
+
+他每天都要去跑步。
+pi: tā měitiān dōu yào qù pǎobù
+en: he goes running every day
+es: sale a correr todos los días
+
+*** 10
+:PROPERTIES:
+:CREATED: [2022-04-15 19:53:42 -05]
+:ID: 008b3827-f0b3-4fad-9fe6-f531227d6ada
+:END:
+
+已经很晚了，他们还在工作。
+pi: yǐjīng hěn wǎn le, tāmen hái zài gōngzuò
+en: it's late and they're still working
+es: es tarde y todavía están trabajando
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-04-15 19:56:33 -05]
+:END:
+
+*** 11
+:PROPERTIES:
+:CREATED: [2022-04-15 19:56:35 -05]
+:ID: 1279613c-d9db-4aa5-a516-2c9185a9d063
+:END:
+
+男：你累了吧？
+pi: nǐ lèi le ba?
+en: you are tired, right?
+es: estás cansada ¿verdad?
+
+女：是，我要休息休息。
+pi: shì, wǒ yào xiūxi xiūxi
+en: yes, I need to rest a short time
+es: sí, necesito descansar un poco
+
+The structure of 休息休息 is explained in [[id:f67eea95-77bc-4ad0-b76b-dbf380728f7f][this section in the textbook]].
+
+*** 12
+:PROPERTIES:
+:CREATED: [2022-04-15 19:57:59 -05]
+:ID: 0bdedb9b-8537-4cd3-9e46-998bc48a33de
+:END:
+
+男：你孩子多大了？
+pi: nǐ háizi duō dà le
+en: how old are your children?
+es: ¿qué edad tiene su hijo?
+
+女：他快五岁了。
+pi: tā kuài wǔ suì le
+en: he's almost five years old
+es: tiene casi cinco años
+
+*** 13
+:PROPERTIES:
+:CREATED: [2022-04-15 20:04:45 -05]
+:ID: 54eeb872-c86c-47a6-88d0-48021c42416a
+:END:
+
+女：这本书看完了吗？
+pi: zhè běn shū kàn wán le ma?
+en: have you finished the book?
+es: ¿ya has terminado el libro?
+
+男：看完了，这本书很不错。b
+pi: kàn wán le, zhè běn shū hěn búcuò
+en: finished reading it, it's a great book
+es: lo he terminado, es un gran libro
+
+*** 14
+:PROPERTIES:
+:CREATED: [2022-04-15 20:07:32 -05]
+:ID: 68bdb176-1788-4853-b93b-cfaa76021766
+:END:
+
+男：今天天气怎么样？
+女：下雪了，很冷。
+
+*** 15
+:PROPERTIES:
+:CREATED: [2022-04-15 20:08:14 -05]
+:ID: 0c8d9a15-7efa-4dbd-863d-1591750b1f69
+:END:
+
+女：你每天几点起床？
+男：我每天六点起床。
+
+*** 16
+:PROPERTIES:
+:CREATED: [2022-04-15 20:09:04 -05]
+:ID: 3b797e81-87d0-4147-b6bd-f6551d7de76d
+:END:
+
+男：这里的咖啡好喝吗？
+女：我觉得很好喝。
+
+*** 17
+:PROPERTIES:
+:CREATED: [2022-04-15 20:10:11 -05]
+:ID: bda519c1-c33f-42c8-a304-252aa2d016b3
+:END:
+
+女：你怎么了？
+男：我可能生病了。
+
+*** 18
+:PROPERTIES:
+:CREATED: [2022-04-15 20:13:19 -05]
+:ID: 4677518f-a9c1-4022-93ee-2cbc0a9db592
+:END:
+
+女：昨天他们两个跳得最好。
+pi: zuótiān tāmen liǎng ge tiào de zuì hǎo
+en: they both danced the best yesterday
+es: ambos bailaron lo mejor ayer
+
+男：我知道。
+pi: wǒ zhīdào
+en: I know
+es: lo sé
+
+*** 19
+:PROPERTIES:
+:CREATED: [2022-04-15 20:16:30 -05]
+:ID: a2e1b03d-14ae-421d-9bd5-676ffafcd020
+:END:
+
+男：这个商店的东西很便宜_。
+pi: zhè ge shāngdiàn de dōngxi hěn piányi
+en: things are cheap in this store
+es: las cosas son baratas en esta tienda
+
+女：是吗？我们要不要买几个新的椅子？
+pi: shì ma? wǒmen yào bú yào mǎi jǐ ge xīn de yǐzi
+en: is it? shall we buy some new chairs?
+es: ¿lo es? ¿compramos sillas nuevas?
+
+*** 20
+:PROPERTIES:
+:CREATED: [2022-04-15 20:20:17 -05]
+:ID: 4a8d14c6-481d-437d-87d0-35a83a002acf
+:END:
+
+女：你喜欢吃什么水果？
+pi: nǐ xǐhuan chī shénme shuǐguǒ?
+en: what kind of fruit do you like to eat?
+es: ¿qué tipo de fruta te gusta comer?
+
+男：我喜欢吃西瓜。
+pi: wǒ xǐhuan chī xīguā
+en: I like to eat watermelon
+es: me gusta comer sandía
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-04-15 20:29:32 -05]
+:END:
+
+*** 21
+:PROPERTIES:
+:CREATED: [2022-04-15 20:23:53 -05]
+:ID: f507e4d4-9a91-4b24-a7dc-ca70a3fb6c90
+:END:
+
+女：下星期我们要去上海旅游，你去吗？
+男：太好了，我也去。
+问：男的是什么意思？
+
+*** 22
+:PROPERTIES:
+:CREATED: [2022-04-15 20:29:29 -05]
+:ID: 7d00d7ea-a979-413d-b3d9-6cf57d11fec5
+:END:
+
+女：早上你女朋友没来？
+男：没来，她下午要考试。
+问：小张的女朋友为什么没来？
+
+*** 23
+:PROPERTIES:
+:CREATED: [2022-04-15 22:41:47 -05]
+:ID: 1329e35d-8633-4742-9375-fb1426693524
+:END:
+
+女：你认识王老师旁边那个人吗？
+pi: nǐ rènshi wáng lǎoshī pángbian nǎ ge rén ma?
+
+男：认识，她就是王老师的丈夫。
+pi: rènshi, tā jiù shì wáng lǎoshī de zhàngfu
+
+问：王老师旁边的人是谁？
+pi: wáng lǎoshī pángbian de rén shì shéi?
+
+*** 24
+:PROPERTIES:
+:CREATED: [2022-04-15 22:48:20 -05]
+:ID: 172d256d-e9b5-49ef-81a8-cbaad6f57b27
+:END:
+
+女：明天是你的生日吗？
+男：不是，我的生日是七月十五号。
+问：哪天是他的生日？
+
+*** 25
+:PROPERTIES:
+:CREATED: [2022-04-15 22:51:01 -05]
+:ID: 6404bcbd-c3a1-4449-a90c-5bfc93ba6e46
+:END:
+
+男：快八点了，我要去上班了。
+pi: kuài bā diǎn le, wǒ yào qù shàngbān le
+en: it's almost eight o'clock, I have to go to work
+es: son casi la ocho, tengo que ir a trabajar
+
+女：吃了早饭再去吧。
+pi: chīle zǎofàn zài qù ba
+en: have breakfast and then go
+es: desayunemos y luego vayamos
+
+问：女的想让男的做什么？
+pi: nǚ de xiǎng ràng nán de zuò shénme?
+en: what does the woman want the man to do?
+es: ¿qué quiere la mujer que haga el hombre?
+
+*** 26
+:PROPERTIES:
+:CREATED: [2022-04-15 22:55:27 -05]
+:ID: 796bfc72-6d80-432c-9a12-307ec2006711
+:END:
+
+女：到了，你看，这就是我们学校。
+男：你们学校真大！
+问：男的觉得这个学校怎么样？
+
+*** 27
+:PROPERTIES:
+:CREATED: [2022-04-15 22:58:36 -05]
+:ID: f692be7d-1164-4c60-af33-1e59a9fad3fa
+:END:
+
+男：我住在三零四，你住在哪个房间？
+pi: wǒ zhù zài sān líng sì. nǐ zhù zài nǎge fángjiān?
+en: I live in three zero four, which room do you live in?
+es: yo vivo en el tres cero cuatro ¿en qué habitación vives tú?
+
+女：我住三零七。
+pi: wǒ zhù sān líng qī
+en: I live in three zero seven
+es: vivo en el tres cero siete
+
+问：女的住在哪个房间？
+pi: nǚ de zhù zài nǎge fángjiān?
+en: which room does the woman live in?
+es: ¿en qué habitación vive la mujer?
+
+*** 28
+:PROPERTIES:
+:CREATED: [2022-04-15 23:03:45 -05]
+:ID: c6bfd465-c475-48cb-bcbe-ec1c5fd55ebb
+:END:
+
+男：医生说什么了？
+pi: yīshēng shuō shénme le?
+en: what did the doctor say?
+es: ¿qué ha dicho el médico?
+
+女：不是大问题，吃两天药就会好。
+pi: bú shì dà wèntí, chī liǎng tiān yào jiù huì hǎo
+en: it's not a big problem, I take two days of medicine and I'll be fine
+es: no es un gran problema, tengo que tomar la medicina durante dos días y estaré bien
+
+问：女的怎么了？
+pi: nǚ de zěnme le?
+en: what's wrong with the woman?
+es: ¿qué le pasa a la mujer?
+
+*** 29
+:PROPERTIES:
+:CREATED: [2022-04-15 23:23:17 -05]
+:ID: 232b7d24-4b2c-494a-b1f8-f74d4b20b3ad
+:END:
+
+男：您好，请问您去那儿？
+pi: nínhǎo, qǐngwèn nín qù nǎr?
+en: hello, may I ask where you are going?
+es: hola ¿a dónde vas?
+
+女：我去机场，三十分钟能到吗？
+pi: wǒ qù jīchǎng, sānshí fēnzhōng néng dào ma?
+en: I'm going to the airport, can I get there in thirty minutes?
+es: voy al aeropuerto ¿puedo llegar en 30 minutos?
+
+问： 他们最可能在哪儿？
+pi: tāmen zuì kěnéng zài nǎr?
+en: where are they most likely to be?
+es: ¿dónde es más probable que estén?
+
+*** 30
+:PROPERTIES:
+:CREATED: [2022-04-15 23:30:45 -05]
+:ID: 188f56c8-785c-43c2-97fb-1f46c9aba5bf
+:END:
+
+女：已经七点了，电影怎么还没开始？
+pi: yǐjīng qī diǎn le, diànyǐng zěnme hái méi kāishǐ
+en: it's seven o'clock, how come the movie hasn't started yet?
+es: son las siete ¿por qué no ha empezado aún la película?
+
+男：还有十分钟呢。
+pi: háiyǒu shí fēnzhōng ne
+en: there are still ten minutes left
+es: todavía quedan diez minutos
+
+问：电影什么时候开始？
+pi: diànyǐng shénme shíhou kāishǐ
+en: when does the movie start?
+es: ¿cuándo empieza la película?
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-04-15 23:36:22 -05]
+:END:
+
+*** 31
+:PROPERTIES:
+:CREATED: [2022-04-15 23:36:35 -05]
+:ID: 850ee9d2-37a9-4d84-b8a2-69327d04775c
+:END:
+
+女：苹果怎么卖？
+pi: píngguǒ zěnme mài?
+en: how much are the apples?
+es: ¿a cómo se venden las manzanas?
+
+男：四块钱一斤。
+pi: sì kuài qián yì jīn
+en: four dollars a pound
+es: cuatro dolares por libra
+
+女：我想买十斤，你能帮我送到家里吗？
+pi: wǒ xiǎng mǎi shí jīn, nǐ néng bāng wǒ sòng dào jiā li ma?
+en: I waant to buy ten pounds, can you help me send home?
+es: quiero comprar 10 libras ¿me los puedes entregar en mi casa?
+
+男：没问题。
+pi: méi wèntí
+en: no problem
+es: no hay problema
+
+问：女的要买几斤苹果？
+pi: nǚ de yào mǎi jǐ jīn píngguǒ?
+en: how many pounds of apples does the woman want to buy?
+es: ¿cuántas libras de manzanas quiere comprar la mujer?
+
+*** 32
+:PROPERTIES:
+:CREATED: [2022-04-15 23:45:54 -05]
+:ID: 1d5b84b3-cbe3-494a-a780-ae409d047abd
+:END:
+
+男：晚上我们去饭馆儿吃饭，怎么样？
+pi: wǎnshang wǒmen qù fànguǎnr chī fàn, zěnmeyàng?
+en: let's go to a restaurant for dinner tonight, how about it?
+es: ¿qué tal si vamos a cenar a un restaurante esta noche?
+
+女：我不想去外面吃，我想在家吃。
+pi: wǒ bù xiǎng qù wàimiàn chī. wǒ xiǎng zài jiā chī
+en: I don't want to go out to eat, I want to eat at home
+es: no quiero salir a comer afuera, quiero comer en casa
+
+男：那你准备做什么好吃的？
+pi: nà nǐ zhǔnbèi zuò shénme hǎochī de
+en: then what are you going to cook?
+es: ¿entonces qué vas a cocinar?
+
+女：你想吃什么，我就做什么。
+pi: nǐ xiǎng chī shénme, wǒ jiù zuò shénme
+en: I'll make whatever you want to eat
+es: prepararé lo que quieras comer
+
+男：好的。
+pi: hǎo de
+en: okay
+es: de acuerdo
+
+问：他们晚上在哪儿吃饭？
+pi: tāmen wǎnshang zài nǎr chī fàn?
+en: where do they eat in the evening?
+es: ¿dónde comerán por la noche?
+
+*** 33
+:PROPERTIES:
+:CREATED: [2022-04-16 00:04:07 -05]
+:ID: a97f01e9-424c-4e7c-885d-63d45339f762
+:END:
+
+女：一个朋友让我帮他找个房子。
+男：他工作了吗？
+女：工作了。
+男：那要找离公司近一些的。
+问：女的要帮朋友找什么？
+
+*** 34
+:PROPERTIES:
+:CREATED: [2022-04-16 00:09:58 -05]
+:ID: 938529c8-99f7-407f-b97a-b2ea57d24567
+:END:
+
+男：这是你的手表？
+女：我买的，我想送给我哥哥。
+男：很漂亮，多少钱买的？
+女：三千多。
+问：手表多少钱买的？
+
+*** 35
+:PROPERTIES:
+:CREATED: [2022-04-16 00:13:25 -05]
+:ID: 5a04f790-1c28-4c2a-b98e-2fe54fbe8c8e
+:END:
+
+
+女：你听懂老师说什么了吗？
+pi: nǐ tīng dǒng lǎoshī shuō shénme le ma?
+en: did you understand what the teacher said?
+es: ¿has entendido lo que ha dicho el profesor?
+
+男：没有，他说得太快。
+pi: méiyǒu, tā shuō de tài kuài
+en: no, he said it too fast
+es: no, lo dijo demasiado rápido
+
+女：我也没听懂，他慢慢说，我可以听懂。
+pi: wǒ yě méi tīng dǒng, tā mànmàn shuō, wǒ kěyǐ tīng dǒng
+en: I didn't understand it either, If he had said it slowly, I could have understood it
+es: yo tamopco entendí, si lo hubiese dicho lo suficientemente despacio lo hubiese entendido
+
+男：我们一起去问问他，好吗？
+pi: wǒmen yìqǐ qù wènwen tā, hǎo ma?
+en: let's go ask him together, okay?
+es: vamos a preguntarle juntos ¿quieres?
+
+问：男的是什么意思？
+pi: nán de shì shénme yìsi?
+en: what does the man mean?
+es: ¿qué quiere decir el hombre?
+
+* Reading
+:PROPERTIES:
+:CREATED: [2022-06-16 00:03:59 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-06-16 00:04:00 -05]
+:ID: 7d62760a-cf3b-4db4-a421-d30a9a3ec715
+:END:
+
+*** 36
+:PROPERTIES:
+:CREATED: [2022-06-16 00:04:01 -05]
+:ID: 42c731a3-f4dc-4492-b511-a155e0d67601
+:END:
+
+小狗生病了，它今天什么东西也没吃。
+
+*** 37
+:PROPERTIES:
+:CREATED: [2022-06-16 00:06:10 -05]
+:ID: 14a768c9-3ea6-4add-89fe-aaf1af853f84
+:END:
+
+你唱得真好，在唱一个吧。
+
+*** 38
+:PROPERTIES:
+:CREATED: [2022-06-16 00:07:13 -05]
+:ID: 41377695-6629-4877-86a5-0e0bbfd25c3a
+:END:
+
+别走路的时候看报纸，对眼睛不好。
+
+*** 39
+:PROPERTIES:
+:CREATED: [2022-06-16 00:07:55 -05]
+:ID: 7dc47e55-b49a-42b7-835b-c3b04dbd7693
+:END:
+
+我到家的时候，她正在洗衣服呢。
+
+*** 40
+:PROPERTIES:
+:CREATED: [2022-06-16 00:08:20 -05]
+:ID: 23790c66-9c31-496b-8cd1-56a6d93f7069
+:END:
+
+服务员问：“您想吃什么？”
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-06-16 00:18:51 -05]
+:END:
+
+*** 41
+:PROPERTIES:
+:CREATED: [2022-06-16 00:18:57 -05]
+:ID: 432e2ccf-5652-4a6c-b862-afe16bcd8bab
+:END:
+
+
+请进，你找我有什么//。？
+
+answer
+
+f
+
+*** 42
+:PROPERTIES:
+:CREATED: [2022-06-16 09:05:55 -05]
+:ID: b93ea795-36ec-45af-8032-687eac3370c1
+:END:
+
+这件衣服她//穿过一次。
+
+answer
+
+a
+
+*** 43
+:PROPERTIES:
+:CREATED: [2022-06-16 09:08:24 -05]
+:ID: d782de71-e0f5-45b0-9107-9cb32a232569
+:END:
+
+女儿笑着说，//明天是个晴天。
+
+answer
+
+c
+
+*** 44
+:PROPERTIES:
+:CREATED: [2022-06-16 09:09:35 -05]
+:ID: 26a584c0-eeda-4898-b98d-4847be60dbc1
+:END:
+
+喂？你//右边看，看见了吗？我就在商店旁边。
+
+answer
+
+d
+
+*** 45
+:PROPERTIES:
+:CREATED: [2022-06-16 09:10:16 -05]
+:ID: 315da830-31f6-49b3-8cc2-a8b3ca9b4b11
+:END:
+
+女：你今天身体怎么样？
+男：//昨天好。
+
+answer
+
+b
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-06-16 09:24:55 -05]
+:END:
+
+*** 46
+:PROPERTIES:
+:CREATED: [2022-06-16 09:25:43 -05]
+:ID: cf6f478e-c4ab-4a5b-aea6-d547cdaad28d
+:END:
+
+你去过我家吧？他家就在我家后面，不远，很好找。
+
+他家里我家很近。
+
+answer
+
+1
+
+**** ANSWERED “很好找”是什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-19 20:18:49 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-06-19 Sun 20:19]
+- State "QUESTION"   from              [2022-06-19 Sun 20:19]
+:END:
+
+easy to find
+
+*** 47
+:PROPERTIES:
+:CREATED: [2022-06-16 09:27:47 -05]
+:END:
+
+妹妹现在上班了，每天都很忙，所以玩儿的时间很少。
+
+妹妹工作很忙。
+
+answer
+
+1
+
+*** 48
+:PROPERTIES:
+:CREATED: [2022-06-16 09:28:27 -05]
+:ID: 4659417d-fef5-4c55-8c71-49c7a825fca8
+:END:
+
+我是张红，你们的汉语老师，学习时有什么问题，可以来问我。
+
+张老师让学生回答问题。
+
+answer
+
+0
+
+*** 49
+:PROPERTIES:
+:CREATED: [2022-06-16 09:30:09 -05]
+:ID: 4a4f527e-ea69-4c32-b7bd-9820a6cb7bfd
+:END:
+
+今年天有些阴，可能要下雨，等天气好的时候再去买自行车吧。
+
+外面在下雨吧。
+
+answer
+
+0
+
+*** 50
+:PROPERTIES:
+:CREATED: [2022-06-16 09:31:30 -05]
+:ID: 5029d9c0-537b-4f20-bee4-ae93ae8bd53c
+:END:
+
+这些书是我生日那天朋友们送的，我喜欢这些书，我爸爸妈妈也很喜欢。
+
+这些书是爸爸妈妈送的。
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-06-16 09:44:40 -05]
+:END:
+
+他们两个人在问路
+上班的时候，他觉得很累。
+太好了，我们明天就去买。
+你看，她叫王小雨。
+他在那儿呢？你看见他了吗？
+她很高，也很漂亮，我非常喜欢她。
+
+*** 51
+:PROPERTIES:
+:CREATED: [2022-06-16 09:44:41 -05]
+:END:
+
+中国人的姓在名字的前面。
+
+answer
+
+d
+
+*** 52
+:PROPERTIES:
+:CREATED: [2022-06-16 09:45:36 -05]
+:END:
+
+他昨天睡得很晚。
+
+answer
+
+b
+
+*** 53
+:PROPERTIES:
+:CREATED: [2022-06-16 09:46:12 -05]
+:END:
+
+你觉得她怎么样？
+
+answer
+
+f
+
+*** 54
+:PROPERTIES:
+:CREATED: [2022-06-16 09:46:36 -05]
+:END:
+
+没问题，我告诉你，钱不是问题。
+
+answer
+
+c
+
+*** 55
+:PROPERTIES:
+:CREATED: [2022-06-16 09:47:20 -05]
+:END:
+
+我们要去北京大学，请问怎么走？
+
+answer
+
+a
+
+*** 56
+:PROPERTIES:
+:CREATED: [2022-06-16 09:47:54 -05]
+:END:
+
+欢迎您来我们学校！
+
+answer
+
+c
+
+*** 57
+:PROPERTIES:
+:CREATED: [2022-06-16 09:48:35 -05]
+:END:
+
+你怎么知道我要去中国？
+
+answer
+
+b
+
+*** 58
+:PROPERTIES:
+:CREATED: [2022-06-16 09:49:09 -05]
+:END:
+
+这药一天吃三次。
+
+answer
+
+e
+
+*** 59
+:PROPERTIES:
+:CREATED: [2022-06-16 09:49:27 -05]
+:END:
+
+我做过很多工作，但做的时间都不长。
+
+answer
+
+a
+
+*** 60
+:PROPERTIES:
+:CREATED: [2022-06-16 09:49:57 -05]
+:END:
+
+谢谢你送我回来，我们明天见。
+
+answer
+
+d

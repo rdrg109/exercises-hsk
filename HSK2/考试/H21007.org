@@ -1,0 +1,572 @@
+:PROPERTIES:
+:CREATED: [2022-04-26 13:53:28 -05]
+:END:
+
+* Listening
+
+** 1
+
+*** 1
+:PROPERTIES:
+:ID: bd837c4d-9ed3-40b3-b079-0502019b739b
+:END:
+
+她正在打电话呢。
+
+ans
+
+0
+
+*** 2
+:PROPERTIES:
+:ID: cd7ede80-77aa-4bc1-8059-750ad0f6e6f4
+:END:
+
+你听我说，我告诉你。
+pi: nǐ tīng wǒ shuō, wǒ gàosu nǐ
+en: listen to me, I'll tell you
+es: escúchame, te lo diré
+
+ans
+
+1
+
+*** 3
+:PROPERTIES:
+:ID: 829c9551-3997-4314-9c40-f274ee08c304
+:END:
+
+他们在商店买东西。
+
+ans
+
+0
+
+*** 4
+:PROPERTIES:
+:ID: 4a5d2f02-6a07-4a84-9ff4-a22df7ba0557
+:END:
+
+儿子最爱吃牛肉。
+pi: érzi zuì ài chī niúròu
+en: my son's favourite food is beef
+es: la carne favorita de mi hijo es la carne de vacuno
+
+ans
+
+0
+
+*** 5
+:PROPERTIES:
+:ID: e7f627a2-73b4-4acf-87a6-d5753f7c6293
+:END:
+
+那儿有很多船。
+pi: nàr yǒu hěn duō chuán
+en: there are a lot of boats there
+es: hay muchos barcos ahí
+
+ans
+
+0
+
+*** 6
+:PROPERTIES:
+:ID: ed9e7d27-7f19-4554-9e18-cd5cef1aa979
+:END:
+
+笑什么？什么事情这么高兴？
+pi: xiào shénme? shénme shìqíng zhè me gāoxìng?
+en: what are you laughing at? what's the think you are so happy about?
+es: ¿de qué te ries? ¿que es la cosa que te hace tan feliz?
+
+ans
+
+1
+
+*** 7
+:PROPERTIES:
+:ID: 728abfc8-494a-4cb1-967b-59eb099b38bb
+:END:
+
+看书时间长了，眼睛有些累。
+pi: kàn shū shíjiān cháng le, yǎnjīng yǒu xiē lèi
+en: after reading for a long time, my eyes are a little tired
+es: mis ojos están un poco cansados después de leer durante mucho tiempo
+
+ans
+
+1
+
+*** 8
+:PROPERTIES:
+:ID: f097a16b-85d5-4c15-8730-afc765b151c6
+:END:
+
+你们两个谁是哥哥，谁是弟弟？
+pi: nǐmen liǎng ge shéi shì gēge, shéi shì dìdi?
+en: which of you is the younger brother and the older brother?
+es: ¿quién de ustedes dos es el hermano mayor? ¿quién es el hermano menor?
+
+ans
+
+0
+
+*** 9
+:PROPERTIES:
+:ID: 3ad46fbd-ae12-4d1c-bb6b-5294ebbac9b3
+:END:
+
+她还没起床呢。
+
+ans
+
+1
+
+*** 10
+:PROPERTIES:
+:ID: 42bc3bdf-7d75-408e-9b98-4fd5f6a68be1
+:END:
+
+不知道这个西瓜好不好吃？
+pi: bù zhīdào zhè ge xīguā hǎo bù hǎo chī?
+en: I wonder if this watermelon is good to eat
+es: ¿me pregunto si esta sandía es buena?
+
+ans
+
+1
+
+** 2
+
+*** 11
+:PROPERTIES:
+:ID: 07ae700f-85b6-4c01-a474-c77e2cf5c7e0
+:END:
+
+女：小李是新来的，大家欢迎。
+男：谢谢，很高兴认识大家。
+
+ans
+
+b
+
+*** 12
+:PROPERTIES:
+:ID: 396dec23-116c-4326-b1de-49ff356bed04
+:END:
+
+男：想好了吗？准备写什么？
+pi: xiǎng hǎo le ma? zhǔnbèi xiě shénme?
+en: have you thought about it? what are you going to write?
+es: ¿has pensado en ello? ¿qué vas a escribir?
+
+女：还没呢，让我再想想。
+pi: hái méi ne, ràng wǒ zài xiǎng xiǎng
+en: not yet, let me think about it again
+es: todavía no, dejame pensarlo de nuevo
+
+ans
+
+a
+
+*** 13
+:PROPERTIES:
+:ID: 07d197e4-5680-4628-b254-b03e756e6ecd
+:END:
+
+女：喂，我现在已经到道咖啡馆儿了。
+男：我也快到了，等我两分钟。
+
+ans
+
+f
+
+*** 14
+:PROPERTIES:
+:ID: 9ae41705-149f-41a1-be97-29b4994ade5c
+:END:
+
+男：你好，鸡蛋怎么卖？
+女：午块钱一斤。
+
+ans
+
+c
+
+*** 15
+:PROPERTIES:
+:ID: 103616d8-b8d4-4a51-82b3-03436b1df427
+:END:
+
+女：这件衣服怎么样？
+男：颜色还不错，但是我觉的有点儿贵。
+
+ans
+
+e
+
+*** 16
+:PROPERTIES:
+:ID: 4716a61f-69a8-482c-a403-f76e842cf47a
+:END:
+
+男：你看，这是我的新手机。
+女：黑色的，真好看。
+
+ans
+
+c
+
+*** 17
+:PROPERTIES:
+:ID: f89f7092-63f0-430f-b3c1-6ddc9af3f2f2
+:END:
+
+女：我现在是四十五公斤。
+pi: wǒ xiànzài shì sì shí wǔ gōngjīn
+en: I'm at forty-five kilos
+es: ahora peso cuarenta y cinco kilos
+
+男：非常好，我也和你一起去跑步。
+pi: fēicháng hǎo, wǒ yě hé nǐ yiqǐ qù pǎobù
+en: very good, I'll go running with you too
+es: muy bien, yo también saldré a correr contigo
+
+ans
+
+a
+
+*** 18
+:PROPERTIES:
+:ID: 0c5c2da7-1b17-4b25-bb3f-ca7fc0806a9c
+:END:
+
+男：那我回家了，明天下午见。
+pi: nà wǒ huí jiā le, míngtiān xiàwǔ jiàn
+en: I'm going home then, see you tomorrow afternoon
+es: me voy a casa entonces, nos vemos mañana por la tarde
+
+女：再见，外面冷，穿上衣服吧。
+pi: zàijiàn, wàimian lěng, chuān shàng yīfu ba
+en: bye, it's cold outside, put some clothes on
+es: adiós, hace frío afuera, ponte algo de ropa
+
+ans
+
+b
+
+*** 19
+:PROPERTIES:
+:ID: a278aaca-9642-4438-bac6-f6cfddc14163
+:END:
+
+女：您妻子在哪儿工作？
+男：医院，她是医生。
+
+ans
+
+e
+
+*** 20
+:PROPERTIES:
+:ID: a2629aa5-943f-4753-bbe4-2e12dbc51940
+:END:
+
+男：我买苹果了，在桌子上呢。
+pi: wǒ mǎi píngguǒ le, zài zhuōzi shàng ne
+en: I bought apples, they're on the table
+es: he comprado manzanas, están en la mesa
+
+女：看见了，洗了吗？
+pi: kànjiàn le, xǐ le ma?
+en: I see them, did you wash it?
+es: las veo ¿las has lavado?
+
+ans
+
+d
+
+** 3
+
+*** 21
+:PROPERTIES:
+:ID: a59ce079-7efb-4ef5-ace4-9f47e621c0e0
+:END:
+
+女：你家离公司远不远？
+男：不远，很近，所以我每天走路上下班。
+
+问：男的最可能在哪儿上班？
+
+ans
+
+a
+
+*** 22
+:PROPERTIES:
+:ID: 01088b0f-9b2d-475b-99d9-30b1ebc39bd6
+:END:
+
+男：小姐，我房间里这个电视不能看。
+女：对不起，先生，您住哪个房间？
+
+问：女的最可能是做什么的？
+
+ans
+
+c
+
+*** 23
+:PROPERTIES:
+:ID: ff741cc6-d26e-4924-97d3-f2695927072e
+:END:
+
+女：下午去踢足球了？进了几个球？
+en: did you play soccer this afternoon? how many goals did you score?
+es: ¿fue a jugar al fútbol esta tarde? ¿cuántos goles has marcado?
+
+男：一个也没进。
+en: not a single goal
+es: ni un solo gol
+
+问：男的踢进几个球？
+en: how many goals did the man score?
+es: ¿cuántos goles ha marcado el hombre?
+
+ans
+
+c
+
+*** 24
+:PROPERTIES:
+:ID: 7079f18c-5a06-446d-8cbe-13abb60d59c7
+:END:
+
+男：是不是快到你的生日了？
+en: is it your birthday soon?
+es: ¿no es pronto tu cumpleaños?
+
+女：明天就是我的生日，你准备送我什么？
+en: tomorrow is my birthday, what are going to give me?
+es: mañana es mi cumpleaños ¿qué me vas a regalar?
+
+
+问：哪天是她的生日？
+en: which day is her birthday?
+es: ¿qué día es su cumpleaños?
+
+
+ans
+
+b
+
+*** 25
+:PROPERTIES:
+:ID: 8abb73b6-63b1-4c05-be40-58da73dd7fee
+:END:
+
+女：你找什么呢？
+男：我的飞机票找不到了，你看见没？
+
+问：男的怎么了？
+
+ans
+
+b
+
+*** 26
+:PROPERTIES:
+:ID: 41bcdc1e-7945-4f18-9754-ad7d852fd1f8
+:END:
+
+男：你那个同学喜欢游泳吗？叫他一起去？
+女：好，我打电话问问。
+
+问：女的要给谁打电话？
+
+ans
+
+a
+
+*** 27
+:PROPERTIES:
+:ID: 0e47f394-4f11-4164-82d4-401c97893a71
+:END:
+
+女：你去过中国吗？
+en: have you ever been to China?
+es: ¿has estado alguna vez en China?
+
+男：去过，我去年七月，在北京旅游了一个星期。
+en: yes, I have, I traveled in Beijing for a week last July
+es: sí, he viajado a Pekín durante una semana el pasado mes de julio
+
+问：男的什么时候去过北京？
+en: when has the man been to Beijing?
+es: ¿cuándo fue el hombre a Pekín?
+
+
+ans
+
+b
+
+*** 28
+:PROPERTIES:
+:ID: f9f5d725-e8ca-48ca-b841-ae83d19cfb77
+:END:
+
+男：你的车开得真好！
+en: you drive a great car
+es: ¡conduces un gran coche!
+
+女：谢谢，我从十八岁开始开车，开了十年了。
+en: thank you, I started driving when I was eighteen and have been driving for ten years
+es: gracias, conduzco desde los dieciocho años y desde hace diez años
+
+问：女的现在多大了？
+en: how old is the woman now?
+es: ¿qué edad tiene la mujer ahora?
+
+ans
+
+c
+
+*** 29
+:PROPERTIES:
+:ID: 31dc815a-1108-44c7-85ee-e5e70b3b6c2e
+:END:
+
+女：今天晚上想吃什么？
+en: what do you want to eat tonight?
+es: ¿qué quieres comer esta noche?
+
+男：都可以，你做什么，我就吃什么。
+en: everything is fine, whatever you make, I'll eat
+es: lo que sea, me comeré todo lo que hagas
+
+问：男的是什么意思？
+
+ans
+
+c
+
+*** 30
+:PROPERTIES:
+:ID: 26c932b4-f4c6-4775-ab98-314203614b37
+:END:
+
+男：别在公共汽车上看报纸，对眼睛不好。
+女：好吧，不看了。
+
+问：女的看什么了？
+
+ans
+
+a
+
+** 4
+
+*** 31
+:PROPERTIES:
+:ID: 221b0886-f247-4da5-8de3-f79a2d8e430a
+:END:
+
+男：这个孩子真漂亮，几岁了？
+女：三岁了。
+男：是你的小孩儿吗？
+女：不是，是我姐的。
+
+问：孩子是谁的？
+
+ans
+
+a
+
+*** 32
+:PROPERTIES:
+:ID: def0ce2b-cd72-4869-9954-e9317dc18bcd
+:END:
+
+女：你明天有课吗？
+男：明天我们考试，有事？
+女：我想去买电脑。
+男：没问题，下午考完试我和你一起去。
+
+问：女的明天要买什么？
+
+ans
+
+b
+
+*** 33
+:PROPERTIES:
+:ID: 3ad17e0d-64fc-4931-9348-36f2170a3847
+:END:
+
+男：你们是怎么认识的？
+pi: nǐmen shì zěnme rènshi de?
+en: how did you meet?
+es: ¿cómo se conocieron?
+
+女：你说的是谁？
+pi: nǐ shuō de shì shéi?
+en: who are you talking about?
+es: ¿de quién estás hablando?
+
+男：你和你男朋友。
+女：他是我一个大学同学介绍的。
+pi: tā shì wǒ yì dàxué tóngxué jièshào de
+en: he was introduced by one of my college friends
+es: me lo presento un amigo de la universidad
+
+问：她和男朋友是怎么认识的？
+
+ans
+
+c
+
+*** 34
+:PROPERTIES:
+:ID: b7748d0c-b8d4-472c-876a-16bc334c9cd8
+:END:
+
+女：你的球打得不错。
+pi: nǐ de qiú dǎ de bù cuò
+en: you're hitting the ball well
+es: le estás pegando bien a la pelota
+
+男：哪里，你打得比我好。
+pi: nǎlǐ, nǐ dǎ de bǐ wǒ hǎo
+en: where? you played better than me
+es: ¿por dónde? has jugado mejor que yo
+
+女：天气太热，休息一下再打吧。
+男：好，我们去喝点儿水。
+
+问：现在天气怎么样？
+
+ans
+
+b
+
+*** 35
+:PROPERTIES:
+:ID: 155f1ea0-4805-47fa-86a9-80d1af057c11
+:END:
+
+男：我还有不少事情，不能送你了。
+pi: wǒ hái yǒu ge bù shǎo shìqíng, bù néng sòng nǐ le
+en: I have quite a few things to do, I can't see you off
+es: tengo bastantes cosas que hacer, no puedo despedirte
+
+女：没关系，我坐出租车去就可以。
+男：到了机场，给我来个电话。
+女：好的，爸爸。
+
+问：他为什么不去送女儿？
+
+ans
+
+a
+

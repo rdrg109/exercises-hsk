@@ -1,0 +1,580 @@
+:PROPERTIES:
+:CREATED: [2022-03-23 20:39:40 -05]
+:END:
+
+题太多，我没做完。
+pi: tí tài duō, wǒ méi zuòwán
+en: there were too many questions; I didn't finish all of them
+es: habían muchas preguntas, no terminé de hacerlas todas
+
+* Warm-up
+:PROPERTIES:
+:CREATED: [2022-03-23 20:40:43 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-23 20:42:20 -05]
+:END:
+
+1. c
+
+上班 | shàng bān | go to work | ir al trabajo | ;
+
+2. a
+
+唱歌 | chàng gē | sing | cantar | ver b;
+
+3. f
+
+
+对 | duì | correct | correcto | ;
+
+错 | cuò | wrong | incorrecto | ;
+
+对错 | duì cuò | right and wrong | ;
+
+4. e
+
+问题 | wèntí | question | pregunta | noun ;
+
+5. d
+
+第一 | dì yī | number one | número uno | noun ;
+
+6. b
+
+跳舞 | tiào wǔ | to dance | bailar | verb ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-23 20:46:04 -05]
+:END:
+
+Using 看
+
+看书
+
+看报纸
+
+Using 写
+
+写汉字
+pi: xiě hànzì
+en: write chiense character
+es: escribir character chinos
+
+写书
+pi: xiě hsū
+en: read book
+es: leer libro
+
+Using 吃
+
+吃饭
+pi: chī fàn
+en: comer
+es: comer
+
+吃早饭
+pi: chī zǎofàn
+en: have breakfast
+es: desayunar
+
+吃中饭
+pi: chī zhōngfàn
+en: have lunch
+es: comer
+
+吃晚饭
+pi: chī wǎnfàn
+en: have dinner
+es: cenar
+
+吃药
+pi: chī yào
+en: take medicine
+es: tomar medicina
+
+吃面包
+pi: chī miànbāo
+en: eat bread
+es: comer pan
+
+吃汉堡
+pi: chī hàn bǎo
+en: eat hamburguer
+es: comer hamburguesa
+
+吃水果
+pi: chī shuǐguǒ
+en: eat fruit
+es: comer fruta
+
+
+Using 喝
+
+喝一杯水
+pi: hē yī běi shuǐ
+en: drink a glass of water
+es: tomar un vaso de agua
+
+喝一杯橙汁
+pi: hē yī běi chéngzhī
+en: drink a glass of orange juice
+es: tomar un vaso de jugode naranja
+
+Using 打
+
+打电话
+pi: dǎ diànhuà
+en: make a phone call
+es: llamar a alguien
+
+Using 做
+
+做饭
+pi: zuò fàn
+en: cook the food
+es: preparar la comida
+
+做作业
+pi: zuò zuò yè
+en: do homework
+es: hacer tarea
+
+note
+
+Can these lists be generated with Wikidata?
+
+* Text
+:PROPERTIES:
+:CREATED: [2022-03-23 20:59:36 -05]
+:END:
+
+** 1. 打电话 | On the phone
+:PROPERTIES:
+:CREATED: [2022-03-23 20:59:40 -05]
+:ID: ef0419da-3411-4a62-ab50-dcf51c14700c
+:END:
+
+Ａ：你好！请问张欢在吗？
+pi: nǐ hǎo! qǐngwèn zhāng huān zài ma
+en: Hello! Is Zhang Huan there?
+es: ¡Hola! ¿está Zhang Huan ahí?
+
+Ｂ：你打错了，我们这儿没有叫张欢的。
+pi: nǐ dǎ cuò le, wǒmen zhèr méiyǒu jiào zhāng huān de
+en: you've got the wrong number, there isn't a person called Zhang Huan here
+es: tienes el número incorrecto, no hay nadie acá llamado Zhang Huan
+
+Ａ：对不起。
+pi: duìbuqǐ
+en: I'm sorry
+es: lo siento
+
+New words
+
+错 | cuò | wrong, incorrect | incorrecto | adjective ;
+
+Notes
+
+张 | zhāng | Zhang (surname) | Zhang (apellido) ;
+
+欢 | huān | Huan (given name) | Huan (primer nombre) ;
+
+** 2. 在学校 | In the school
+:PROPERTIES:
+:CREATED: [2022-03-23 20:59:42 -05]
+:ID: fb81db5d-9c86-4e7e-a369-2d4a13ef98ba
+:END:
+
+
+dialogue
+
+Ａ：您从几岁开始学习跳舞？
+pi: níng cóng jǐ suì kāishǐ xuéxí tiào wǔ
+en: at what age did you start dancing?
+es: ¿a qué edad empezaste a bailar?
+
+Ｂ：我第一次跳舞是在七岁的时候。
+pi: wǒ dì yī cì tiào wǔ shì zài qī duì de shíhou
+en: I was seven when I danced for the first time
+es: Tenía 7 cuand empecé a bailar por primera vez.
+
+Ａ：我女儿今年也七岁了。我希望她能跟您学跳舞，坷以吗？
+pi: wǒ nǚ'ér jīnnián yě qī suì le. wǒ xīwàng tā néng gēn nín xué tiào wǔ, kěyǐ ma
+en: my daughter is seven now. I hope she can learn to dance from you, can she?
+es: mi hija tiene siete años. Espero que pueda aprender a bailar de ti ¿puede?
+
+Ｂ：没问题，非常欢迎。
+pi: méi wèntí, fēicháng huānyíng
+en: sure, it's my pleasure
+es: seguro, es mi placer
+
+new words
+
+从 |  cóng | from | de | preposition ;
+
+跳舞 | tiào wǔ | to dance | bailar | verb ;
+
+第一 | dì yī | number one | número uno | number ;
+
+希望 | xīwàng | to hope, to wish | esperar, desear | verb ;
+
+问题 | wèntí | question, problem | pregunta | noun ;
+
+欢迎 | huānyíng | to welcome | bienvenido | verb ;
+
+** 3. 在家里 | At home
+:PROPERTIES:
+:CREATED: [2022-03-23 20:59:47 -05]
+:ID: 23791e58-946e-4dad-9831-21f044a2a946
+:END:
+
+dialogue
+
+Ａ：你知道吗？大卫找到工作了。
+pi: nǐ zhīdào ma? dàwèi zhǎodào gōngzuò le
+en: You know what? David has got a job
+es: ¿Sabes algo? David tiene un nuevo trabajo
+
+Ｂ：太好了！他从什么时候开始上班？
+pi: tài hǎo le! tā cóng shénme shíhou kāishǐ shàng bān
+en: That's great! When will he start to work?
+es: Eso es genial! ¿Cúando empezará a trabajar?
+
+Ａ：从下个星期一开始。
+pi: cóng xià ge xīngqī yī kāishǐ
+en: next monday
+es: el siguiente lunes
+
+Ｂ：这是他的第一个工作，希望他能喜欢。
+pi: zhè shì tā de dì yī ge gōngzuò, xīwàng tā néng xǐhuan
+en: this is his first job. I hope he will like it.
+es: este es su primer trabajo. espero que le pueda gustar
+
+new words
+
+上班 | shàng bān | to work, to do a job | verb ;
+
+** 4. 在教室 | In the classroom
+:PROPERTIES:
+:CREATED: [2022-03-23 20:59:53 -05]
+:ID: fb078689-95ed-4952-842c-4db1505031f1
+:END:
+
+dialogues
+
+Ａ：昨天的考试怎么样？你都听懂了吗？
+pi: zuótiān de kǎoshì zěnmeyàng? nǐ dōu tīngdǒng le ma
+en: How was the test yesterday? Did you understand everything you heard?
+es: ¿Cómo estuvo el examen ayer? ¿entendiste todo lo que escuchaste?
+
+Ｂ：听懂了。
+pi: tīngdǒng le
+en: Yes, I did
+es: Sí
+
+Ａ：你都做完了没有？
+pi: nǐ dōu zuòwán le méiyǒu
+en: Did you finish the test paper?
+es: ¿terminaste el examen?
+
+Ｂ：题太多，我没做完。
+pi: tí tài duō, wǒ méi zuòwán
+en: There were too many questions, I didn't finish all of them.
+es: habían muchas personas, no acabé todo
+
+new words
+
+懂 | dǒng | to understand, to know | entender, saber | verb ;
+
+完 | wán | to finish, to end | terminar | verb ;
+
+题 | tí | question, problem | pregunta | noun ;
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-03-23 21:54:34 -05]
+:END:
+
+** Complements of results
+:PROPERTIES:
+:CREATED: [2022-03-23 21:53:26 -05]
+:END:
+
+Some verbs or adjectives can be used after a verb to add remarks about the result of an action. They are called complements of results. For example:
+
+
+|---------+--------------------------+------------------|
+| Subject | Predicate                | Predicate        |
+| Subject | V + Complement of result | Object           |
+|---------+--------------------------+------------------|
+| 我      | 看见                     | 你的女朋友了。   |
+| 我      | 听懂                     | 今天的汉语课了。 |
+| 我      | 做好                     | 饭了。           |
+| 大卫    | 找到                     | 工作了。         |
+|---------+--------------------------+------------------|
+
+我看见你的女朋友了。
+pi: wǒ kànjiàn nǐ de nǚpéngyǒu le
+en: I saw your girlfriend
+es: vi a tu novia
+
+我听懂今天的汉语课了。
+pi: wǒ tīngdǒng jīntiān de hànyǔ kè le
+en: I understood today's chinese lesson
+es: entendí la clase de chino de hoy
+
+我做好饭了。
+pi: wǒ zuò hǎo fàn le
+en: I made the meal
+es: yo hice la comida
+
+大卫找到工作了。
+pi: dàwèi zhǎo dào gōngzuò le
+en: David found a job
+es: David encontró trabajo
+
+
+"没（有）" is added before the verb to form the negative form of a complement of result, in which case "了" cannot appear at the end of the sentence. For example:
+
+|---------+-----------------------------------+--------------|
+| Subject | Predicate                         |              |
+| Subject | 没（有）+ V +Complement of result | Object       |
+|---------+-----------------------------------+--------------|
+| 我      | 没有看见                          | 你的女朋有。 |
+| 我      | 没听懂                            | 他说的话。   |
+| 我      | 没做完                            | 考试题。     |
+|---------+-----------------------------------+--------------|
+
+我没有看见你的女朋有。
+pi: wǒ méiyǒu kànjiàn nǐ de nǚ péngyǒu
+en: I didn't see your girlfriend
+es: no vi a tu novia
+
+我没听懂他说的话。
+pi: wǒ méi tīngdǒng tā shuō de huà
+en: I didn't understand what he said
+es: no entendí lo que dijo
+
+我没做完考试题。
+pi: wǒ méi zuò wán kǎoshì tí
+en: I didn't finish the exam questions.
+es: No termine las preguntas del examen
+
+To form a question, "（了）没有" is often added at the end of the sentence. For example:
+
+|---------+--------------------------+--------------------|
+| Subject | Predicate                | Predicate          |
+| Subject | V + Complement of result | Object + (了)没有  |
+|---------+--------------------------+--------------------|
+| 你      | 看见                     | 我的女朋友了没有？ |
+| 你      | 听懂                     | 他说的话没有？     |
+| 你      | （都）做完               | （考试题）了没有？ |
+|---------+--------------------------+--------------------|
+
+
+你看见我的女朋友了没有？
+pi: nǐ kànjiàn wǒ de nǚ péngyǒu le méiyǒu
+en: did you see my girlfriend?
+es: has visto a mi novia?
+
+你听懂他说的话没有？
+pi: nǐ tīngdǒng tā shuō de huà méiyǒu
+en: did you understand what he said?
+es: ¿entendiste lo que dijo?
+
+你都做完考试了没有？
+pi: nǐ dōu zuò wán kǎoshì le méiyǒu
+en: have you done all the exams?
+es: ¿has hecho todos los examenes?
+
+** 2. The preposition "从"
+:PROPERTIES:
+:CREATED: [2022-03-23 22:35:12 -05]
+:ID: 5bcbb22f-d88c-42cc-95f5-4da05a8f5d3f
+:END:
+
+The preposition "从" introduces the starting point of a period of time, a distance, a process or a sequence, often used together with "到". For example,
+
+|----+------------+----+------+----------------------|
+| 从 | A          | 到 | B    | …                    |
+|----+------------+----+------+----------------------|
+| 从 | 北京       | 到 | 上海 | 要坐几个小时的飞机？ |
+| 从 | 老人       | 到 | 孩子 | 都喜欢吃苹果         |
+| 从 | 下个星期一 |    |      | 开始（上班）         |
+|----+------------+----+------+----------------------|
+
+从北京到上海要坐几个小时的飞机？
+pi: cóng běijng dào shànghǎi yào zuò jǐ ge xiǎoshí de fēijī
+en: how many hours do I have to fly from Beijing to Shanghai?
+es: ¿cuántas horas tengo que volar de Beijing a Shanghai?
+
+从老人到孩子都喜欢吃苹果。
+pi: cóng lǎorén dài háizi dōu xǐhuan chī píngguǒ
+en: everyone from elderly to children love eating apples
+es: todos desde ancianos hasta los niños aman comer manzanas
+
+从下个星期一开始上班。
+pi: cóng xiàge xīngqī yī kāishǐ shàngbān
+en: work starts from next monday
+es: el trabajo es partir del próximo lunes
+
+
+** 3. "第…" indicating order
+:PROPERTIES:
+:CREATED: [2022-03-23 22:54:01 -05]
+:END:
+
+"第" is often used before a numeral-measure-word phrase to indicate order. For example:
+
+|----+------+----------+------|
+| 第 | 数词 | 量词 (M) | 名词 |
+|----+------+----------+------|
+| 第 | 一   | 本       | 书   |
+| 第 | 二   | 个       | 工作 |
+| 第 | 一   | 次       | 跳舞 |
+|----+------+----------+------|
+
+第一本书
+pi: dì yī běn shū
+en: first book
+es: primer libro
+
+第二个工作
+pi: dì èr ge gōngzuò
+en: second job
+es: segundo trabajo
+
+第一次跳舞
+pi: dì yī cì tiào wǔ
+en: first dance
+es: primer baile
+
+notes
+
+数词 | shù cí | numeral | numeral | ;
+
+量词 | liàng cí | measure word | palabra de medida | ;
+
+名词 | míng cí | noun | sustantivo | noun ;
+
+跳舞 | tiào wǔ | to dance | bailar | verb ;
+
+* Exercises
+:PROPERTIES:
+:CREATED: [2022-03-23 23:10:20 -05]
+:END:
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-24 05:17:47 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-03-24 05:17:52 -05]
+:END:
+
+**** 1
+:PROPERTIES:
+:CREATED: [2022-03-24 05:48:23 -05]
+:END:
+
+问：老师从几岁开始学跳舞？
+pi: lǎoshī cóng jǐ suì kāishǐ xué tiào wǔ
+
+Ａ：老师七岁的时候开始学跳舞。
+pi: lǎoshì qī suì de shíhou kāishǐ xué tiào wǔ
+
+Ａ：老师第一次跳舞是在七岁的时候。
+pi: lǎoshì dì yī cì tiào wǔ shì zài qī suì de shíhou
+
+**** 2
+:PROPERTIES:
+:CREATED: [2022-03-24 05:48:26 -05]
+:END:
+
+问：老师想教她女儿跳舞吗？
+问：lǎoshī xiǎng jiāo tā de nǚ'ér tiào wǔ ma
+
+Ａ：想，他说了她非常欢迎。
+pi: xiǎng, tā shuō le fēicháng huānyíng
+
+**** 3
+:PROPERTIES:
+:CREATED: [2022-03-24 05:48:29 -05]
+:END:
+
+问：大卫什么时候去工作？
+pi: dàwèi shénme shíhou qù gōngzuò
+
+Ａ：他的工作开始从下个星期一。
+pi: tā de gōngzuò kāishǐ còng xiàge xīngqī yī
+
+**** 4
+:PROPERTIES:
+:CREATED: [2022-03-24 05:48:31 -05]
+:END:
+
+问：这次考试她都听懂了吗？
+pi: zhè cì kǎoshì tā dōu tīngdǒng le ma
+
+Ａ：她都听懂了，但是她没做完。
+pi: tā dōu tīngdǒng le, dànshì tā méi zuòwán
+
+**** 5
+:PROPERTIES:
+:CREATED: [2022-03-24 05:48:34 -05]
+:END:
+
+问：她考试为什么没做完？
+pi: tā kǎoshì wèi shénme méi zuòwán
+
+Ａ：她觉得考试有很多题。
+pi: tā juéde kǎoshì yǒu hěn duō tí
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-03-24 05:36:28 -05]
+:END:
+
+**** 1
+:PROPERTIES:
+:CREATED: [2022-03-24 05:43:26 -05]
+:END:
+
+衣服你（洗完）了没有？
+pi: yīfu nǐ xǐwán le méiyǒu
+
+**** 2
+:PROPERTIES:
+:CREATED: [2022-03-24 05:43:29 -05]
+:END:
+
+作业太多了，我还（做）。
+pi: zuòyè tài duō le, wǒ hái zuò
+
+作业太多了，我还（不完）。
+pi: zuòyè tài duō le, wǒ hái bù wán
+
+**** 3
+:PROPERTIES:
+:CREATED: [2022-03-24 05:43:31 -05]
+:END:
+
+从八点到十二点她们都在（工作）。
+pi: cóng bā diǎn dào shí'èr diǎn tāmen dōu zài gōngzuò
+
+
+**** 4
+:PROPERTIES:
+:CREATED: [2022-03-24 05:43:33 -05]
+:END:
+
+我第一次（旅游）。
+pi: wǒ dì yī cì lǚyóu
+en: my first tour
+es: my primer viaje

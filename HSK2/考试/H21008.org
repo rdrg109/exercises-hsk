@@ -1,0 +1,547 @@
+:PROPERTIES:
+:CREATED: [2022-04-26 18:23:53 -05]
+:END:
+
+* Listening
+
+** 1
+
+*** 1
+:PROPERTIES:
+:ID: e9199197-71ef-44ce-869d-79d80bd3db5f
+:END:
+
+他唱歌很好听。
+
+ans
+
+0
+
+*** 2
+:PROPERTIES:
+:ID: cae6003f-1d2d-4904-a65d-f587a3a7433b
+:END:
+
+你们谁会回答这个问题？
+
+ans
+
+1
+
+*** 3
+:PROPERTIES:
+:ID: b702341e-b4cb-46d7-bce5-9ec2996c98cd
+:END:
+
+下雪了，他们在外面玩儿。
+pi: xià xuě le, tāmen zài wàimian wánr
+en: it was snowing and they're playing outside
+es: estaba nevando y ellos están jugando afuera
+
+ans
+
+0
+
+*** 4
+:PROPERTIES:
+:ID: 04b08ae1-3896-4f39-9ae3-4e71e95400e1
+:END:
+
+你想吃哪个苹果？
+
+ans
+
+1
+
+*** 5
+:PROPERTIES:
+:ID: 11cbb947-e8ca-4137-8b1e-566db4d22b63
+:END:
+
+她在教室里，她在看书。
+
+ans
+
+0
+
+*** 6
+:PROPERTIES:
+:ID: ff22da13-b5b2-4668-bdd1-ab0c13c7976d
+:END:
+
+我们今天有篮球课。
+
+ans
+
+0
+
+*** 7
+:PROPERTIES:
+:ID: a49d32b7-c01d-4bf0-acc9-b302ac22a26e
+:END:
+
+你们两个听我说。
+
+ans
+
+1
+
+*** 8
+:PROPERTIES:
+:ID: 601fb5f2-48bf-47bd-b3c8-5cb4f7abb211
+:END:
+
+他的狗坐在椅子上。
+
+ans
+
+1
+
+*** 9
+:PROPERTIES:
+:ID: 4904baab-6b76-4a4d-bc38-fcfc5fa6095b
+:END:
+
+要不要喝杯牛奶？
+
+ans
+
+0
+
+*** 10
+:PROPERTIES:
+:ID: 50c29cf9-10e2-4087-8ad0-f1a7c61656c6
+:END:
+
+丈夫开始学习做饭，他很高兴。
+
+ans
+
+1
+
+** 2
+
+*** 11
+:PROPERTIES:
+:ID: a501bd5b-cef2-4e9f-86e1-0f5e975aeedf
+:END:
+
+女：洗洗手准备吃饭。
+en: wash your hands and get ready for dinner
+es: lávate las manos y prepárate para cenar
+
+男：我正在洗呢，怎么没水了？
+en: I'm washing my hands, why is there no water?
+es: me estoy lavando ¿por qué no hay agua?
+
+ans
+
+c
+
+*** 12
+:PROPERTIES:
+:ID: db001a14-9903-4a0e-b72a-ae1bace8ad68
+:END:
+
+男：你怎么了？生病了？
+女：没关系，我就是有点儿累了。
+
+ans
+
+e
+
+*** 13
+:PROPERTIES:
+:ID: 2f393c2f-8e4c-4d57-83f9-cca89b0154b5
+:END:
+
+女：谢谢你，多少钱？
+en: thank you, how much is it?
+es: gracias ¿cuánto es?
+
+男：我看一下，是五十三元。
+en: let me see, it's fifty-three dollars
+es: a ver, son cincuenta y tres dólares
+
+ans
+
+b
+
+*** 14
+:PROPERTIES:
+:ID: 4c53a7f2-043b-45dc-938b-c64dfc8b8dd4
+:END:
+
+男：你们两个离电视太近了。
+en: you two are very close to the TV
+es: ustedes dos están muy cerca del televisor
+
+女：知道了，知道了。
+en: we know it, wew know it
+es: lo sabemos, lo sabemos
+
+ans
+
+f
+
+*** 15
+:PROPERTIES:
+:ID: fde07e8c-cf79-40af-945e-2fa9b628600e
+:END:
+
+女：是不是不下雨了？
+en: it is not raining anymore?
+es: ¿ya no llueve?
+
+男：不下了，天晴了。
+en: no, it's not raining anymore, the sky is clear
+es: no, no llueve, el cielo está despejado
+
+ans
+
+a
+
+*** 16
+
+男：你来看看，现在怎么样？
+女：右边有点儿高。
+
+ans
+
+d
+
+*** 17
+:PROPERTIES:
+:ID: 1bd70473-b1a8-4aa8-be79-d747773d091f
+:END:
+
+女：是你的手机吗？
+男：是，我找到它了。
+
+ans
+
+b
+
+*** 18
+:PROPERTIES:
+:ID: cb9d5380-30b6-4197-998b-18d4ae13a066
+:END:
+
+男：要不要我帮助你？
+en: do you want me to help you?
+es: ¿quieres que te ayude?
+
+女：好吧，这个路真不好走。
+en: wewll, this is a really bad road
+es: bueno, este es un camino realmente malo
+
+ans
+
+e
+
+*** 19
+:PROPERTIES:
+:ID: 1c25f260-c41d-47fe-aaad-3d3f1b3e3d07
+:END:
+
+女：你让我再睡十分钟吧。
+男：再睡十分钟，你看看几点了？
+
+ans
+
+c
+
+*** 20
+:PROPERTIES:
+:ID: ccfcdc17-ba0b-4396-95d1-a06aa94040ec
+:END:
+
+男：这是您女儿？已经六岁了！
+en: is this your daughter? six years old already!
+es: ¿esta es tu hija? ¡ya tiene seis años!
+
+女：是，时间过得真快。
+en: yes, time flies
+es: sí, el tiempo vuela
+
+ans
+
+a
+
+** 3
+
+*** 21
+:PROPERTIES:
+:ID: 376ed919-9580-44f1-a3a8-1161d272b5f7
+:END:
+
+女：你那个朋友开出租车很多年了？
+男：是，他从七年前就开始开出租了。
+
+问：他们在说谁？
+
+ans
+
+c
+
+*** 22
+:PROPERTIES:
+:ID: 32652636-5a8a-4b81-95d9-5b31dd3c1225
+:END:
+
+男：我们的电影票是下午几点的？
+女：我看看，是四点的。
+
+问：他们下午四点去做什么？
+
+ans
+
+a
+
+
+*** 23
+:PROPERTIES:
+:ID: 7f065912-7b79-46cb-9973-fe714facd870
+:END:
+
+女：今天的报纸看了吗？
+男：我忙了一上午，没时间看。
+pi: wǒ máng le yí shàngwǔ, méi shíjiān kàn
+en: I've been busy all morning, I didn't have time to read it
+es: he estado ocupado toda la mañana y no he tenido tiempo de leerlo
+
+问：男的是什么意思？
+
+ans
+
+c
+
+*** 24
+:PROPERTIES:
+:ID: a254f9d8-b15c-431b-af6c-a81ffcee294d
+:END:
+
+男：我那件白色运动服呢，你看见没？
+pi: wǒ nà jiàn báisè yùndòng fù ne, nǐ kànjiàn méi?
+en: where is my white sweatshirt, have you seen it?
+es: ¿dónde está mi ropa deportiva blanca? ¿lo has visto?
+
+女：昨天晚上我洗了，穿别的可以吗？。
+pi: zuótiān wǎnshàng wǒ xǐ le, chuān bié de kěyǐ ma?
+en: I washed it last night, you wear other clothing, ok?
+es: la lavé anoche, ponte otra ropa ¿está bien?
+
+问：男的在找什么？
+pi: nán de zài zhǎo shénme?
+en: what is the man looking for?
+es: ¿qué busca el hombre?
+
+ans
+
+b
+
+*** 25
+:PROPERTIES:
+:ID: 6d43b444-d6f7-4353-a824-018c64fd7429
+:END:
+
+女：我在路上买了些水果，你去洗几个？
+en: I bought some fruit on the road, you go wash a few?
+es: he comprado fruta por el camino ¿quieres ir a lavarla?
+
+男：我不想吃，我给你洗一个吧。
+en: I don't want to eat, I'll wash one for you
+es: no quiero comerlas, deja que te lave uno
+
+问：男的怎么了？
+
+ans
+
+c
+
+*** 26
+:PROPERTIES:
+:ID: 79c41630-5545-4b8c-8125-32a392bb0b62
+:END:
+
+男：你男朋友是你的同学？
+女：不是，他和我是在中国旅游的时候认识的。
+
+问：女的和男朋友是什么时候认识的？
+
+ans
+
+b
+
+*** 27
+:PROPERTIES:
+:ID: 9b19e725-6da4-4e9f-86e0-d55aef7eaabc
+:END:
+
+女：今天你考的怎么样？
+男：没考好，后面的几个题我都不会做。
+
+问：男的今天考的怎么样？
+
+ans
+
+a
+
+*** 28
+:PROPERTIES:
+:ID: 8a5ada17-db78-42c3-b101-1c8dcdd96f47
+:END:
+
+男：再买些鸡蛋吧，家里可能没有了。
+en: buy some more eggs, we may not have any at home
+es: compra más huevos, puede que no tengamos ninguno en casa
+
+女：别买了，我中午已经买了五斤。
+en: don't buy any more, I already bought five pounds at noon
+es: no compres más, ya compré cinco libras al mediodía
+
+问：女的为什么不买鸡蛋？
+
+ans
+
+c
+
+*** 29
+:PROPERTIES:
+:ID: 80f3547a-b154-4d44-ac97-e279ecc7fbb6
+:END:
+
+女：张先生，你说的是哪本书？
+en: Mr. Zhang, which book are you talking about?
+es: Sr. Zhang ¿de qué libro están hablando?
+
+男：那本，不是左边，是右边那本。
+en: that book, not the left one, the one on the right
+es: ese libro, no el de la izquierda, el de la derecha
+
+问：他们说的是哪本书？
+en: which book are they talking about?
+es: ¿de qué libro hablan?
+
+ans
+
+b
+
+*** 30
+:PROPERTIES:
+:ID: b36901a5-29fa-4147-b351-3a6dd528135a
+:END:
+
+男：医生这个药怎么吃？
+女：每天晚上睡觉前吃一次就可以了。
+en: just take it once a day at night before you go to bed
+es: sólo tómelo una vez al día por la noche antes de acostarse
+
+问：女的在哪儿工作？
+
+ans
+
+c
+
+** 4
+
+*** 31
+:PROPERTIES:
+:ID: d6a633f1-85f7-4434-aa59-42b78a09e4e0
+:END:
+
+男：你们学校有多少老师？
+女：两百多。
+男：那学生呢？
+女：学生有三千多。
+
+问：这个学校有多少老师？
+
+ans
+
+a
+
+*** 32
+:PROPERTIES:
+:ID: 8088917f-5188-4286-a29b-a1f6e8160bd6
+:END:
+
+女：还没到吗？离公司太远了。
+男：没呢，是很远。
+女：你每天坐公共汽车去公司要多长时间？
+男：四十分钟吧。
+
+问：他们最可能在哪儿？
+
+ans
+
+a
+
+*** 33
+:PROPERTIES:
+:ID: 94eb6e66-dca4-4629-9fa2-579570c74dd6
+:END:
+
+
+
+男：喂，您好，刘先生在家吗？
+女：他不在家，他还没下班。
+男：他几点下班？
+女：他五点下班。
+男：那，好吧，我今天晚上再打电话。
+
+问：刘先生几点下班？
+
+ans
+
+b
+
+*** 34
+:PROPERTIES:
+:ID: 5224f8cf-2262-4d6b-8946-aa93c6226942
+:END:
+
+女：你妈妈现在身体怎么样？
+男：比去年好多了，她让我来谢谢您。
+pi: bǐ qù nián hǎo duō le, tā ràng wǒ lái xièxie nǐ
+en: better than last year, she asked me to come and thank you
+es: mejor que el año pasado, me pidió que viniera a darle las gracias
+
+女：不客气，你也帮我向她问好。
+pi: bùkèqi, nǐ yě bāng wǒ xiàng tā wèn hǎo
+en: you're welcome, you say hello to her for me too
+es: de nada, salúdala tú también de mi parte
+
+男：好的，谢谢您。
+
+问：他妈妈现在怎么样？
+
+ans
+
+b
+
+*** 35
+:PROPERTIES:
+:ID: 66f7e7c3-ec73-494b-8a53-d322420e635a
+:END:
+
+男：一大桌子菜，我们吃得完吗？
+en: a large table of food, we can eat all?
+es: una gran mesa de comida ¿podremos comerla toda?
+
+女：没问题，晚上我爸我妈来。
+en: no problem, my parents are coming tonight
+es: no hay problema, mis padres vienen esta noche
+
+男：我说呢，你买了鱼还买羊肉。
+
+女：快准备米饭吧。
+en: prepara el arroz rápidamente
+es: prepare the rice quickly
+
+问：女的为什么做了很多菜？
+
+ans
+
+a
+

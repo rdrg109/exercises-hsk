@@ -1,0 +1,992 @@
+:PROPERTIES:
+:CREATED: [2022-03-22 23:45:36 -05]
+:END:
+
+* Listening
+:PROPERTIES:
+:CREATED: [2022-03-24 19:03:47 -05]
+:ID: 0f3f210a-44af-4a4c-9f30-a8d3f1e445d0
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-22 23:45:41 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-03-22 23:45:42 -05]
+:ID: ca20f4ef-1e40-49ce-af30-d1c0df670cdb
+:END:
+
+我喜欢黑色的。
+pi: wǒ xǐhuan hēisè de
+en: I like the black one
+es: Me gusta el negro
+
+answer: 1
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-03-22 23:48:46 -05]
+:ID: 114f5d5a-315e-4a5d-9346-f96dbb37a172
+:END:
+
+这个商店的衣服很多。
+pi: zhège shāngdiàn de yīfu hěn duō
+en: this shop has a lot of clothes
+es: esta tienda tiene mucha ropa
+
+answer: 1
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-03-22 23:48:49 -05]
+:ID: 490ad86d-c627-462c-b4c9-c7da6196b244
+:END:
+
+公司的大门每天早上六点开。
+pi: gōngsī de dàmén měitiān zǎoshàng liù diǎn kāi
+en: the doors of the office open at 6 o'clock every day
+es: las puertas de la empresa abren a las 6:00 todos los días
+
+
+answer: 1
+
+note
+
+开 | kāi | to open | abrir | verb ;
+
+e: I didn't remember that the meaning of 开 was open.
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-03-22 23:50:11 -05]
+:ID: 8dd0843e-6c47-40ff-b5e8-5abb2e14bfd8
+:END:
+
+小张昨天告诉我一件事。
+pi: xiǎo zhāng zuótiān gàosu wǒ yī jiàn shì
+en: Xiao Zhang told me something yesterday.
+es: Chang me dijo algo ayer
+
+answer: 1
+
+note
+
+
+件事 | jiànshì | thing | cosa | noun ;
+
+e: I didn't know the meaning of 件事
+
+e: I confused 事 with 吃
+
+jiànshì
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-03-22 23:52:23 -05]
+:ID: 20250153-9795-4f90-92f7-ba663f59e24c
+:END:
+
+你的衣服太长了，不好看。
+pi: nǐ de yīfu tài cháng le, bù hǎo kàn
+es: your dress is too long to look good
+en: tu vestido es muy largo para verse bien
+
+answer: 0
+
+e: I couldn't recognize 长 (cháng).
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-23 00:18:26 -05]
+:END:
+
+*** 6
+:PROPERTIES:
+:CREATED: [2022-03-23 00:21:10 -05]
+:ID: e7ff81bb-457d-4fa0-b921-4147438688c9
+:END:
+
+女：中午我们一起吃饭吧。
+pi: zhōngwǔ wǒmen yīqǐ chīfàn ba
+en: let's eat together at noon
+es: comamos juntos al mediodia
+
+男：我现在很忙。你五分钟后再给我打电话，好吗？
+pi: wǒ xiànzài hěn máng. nǐ wǔ fēnzhōng hòu zài gěi wǒ dǎ diànhuà, hǎo ma
+en: I'm busy right now. call me again in give minutes, is it ok?
+es: estoy ocupado ahora, llamame de nuevo en 5 minutos ¿está bien?
+
+answer
+
+a
+
+note
+
+e: I confused 在 with 再
+
+e: I confused 给 with 个
+
+*** 7
+:PROPERTIES:
+:CREATED: [2022-03-23 00:21:12 -05]
+:ID: 0d283af9-ba95-4c00-9a8a-6fc24ea000dd
+:END:
+
+女：这件衣服太贵了。
+pi: zhè jiàn yīfu tài guì le
+en: this dress is too expensive
+es: este vestido es demasiado caro
+
+男：那你再看看那件红的吧。
+pi: nǎ nǐ zài kànkan nǎ jiàn hóng de ba
+en: echa un vistazo al otro vestido rojo
+es: then take another look at the red one.
+
+answer
+
+e
+
+e: I couldn't identify 红
+
+e: I didn't now that sentences could start with 那
+
+*** 8
+:PROPERTIES:
+:CREATED: [2022-03-23 00:22:32 -05]
+:ID: df4b5540-df1d-4365-8090-89403e6f9ac9
+:END:
+
+男：大卫病了。我想去医院看看他。
+pi: dàwèi bìng le, wǒ xiǎng qù yīyuàn kànkan tā
+en: David is sick, I want to go to the hospital to see him
+es: David está enfermo, quiero ir al hospital a visitarlo
+
+女：我跟你一起去吧。
+pi: wǒ gēn nǐ yīqǐ qù ba
+en: I'll go with you
+es: iré contigo
+
+answer
+
+f
+
+note
+
+跟 | gēn | and | y | ;
+
+*** 9
+:PROPERTIES:
+:CREATED: [2022-03-23 00:24:40 -05]
+:ID: efc6fbb2-26ac-4b5a-8865-215218d09026
+:END:
+
+女：房间的门打不开了。
+pi: fángjiān de měn dǎ bù kāi le
+en: the door to the room wouldn't open
+es: la puerta del cuarto no se abría
+
+男：我叫人去看看。
+pi: wǒ jiào rén qù kànkan
+en: I'll call someone to take a look
+es: llamaré a alguien para que vaya
+
+answer: b
+
+note
+
+e: I confused 他 with 打
+
+e: I couldn't identify 叫人
+
+*** 10
+:PROPERTIES:
+:CREATED: [2022-03-23 00:26:10 -05]
+:ID: 356c2540-ae0a-42c1-8f6d-964223c44316
+:END:
+
+女：这是王小姐的报纸，你能帮我给他吗？
+pi: zhè shì wáng xiǎojiě de bàozhǐ, nǐ néng bāng wǒ gěi tā ma
+en: This is the Miss Wang's newspaper, can you give it to him for me?
+es: este es el periódico de la señorita Wang, puedes darselo de mi parte?
+
+男：好的。
+pi: hǎode
+en: ok
+es: ok
+
+answer: c
+
+e: I couldn't identify 帮我 ("bāng wǒ"). I forgot about 帮 (bāng) and I thought 我 (wǒ) was another word.
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-03-23 05:59:17 -05]
+:END:
+
+*** 11
+:PROPERTIES:
+:CREATED: [2022-03-23 05:59:50 -05]
+:ID: 1edb8423-fbf7-4659-83ab-e0faa6d69b5d
+:END:
+
+alternatives
+
+a
+
+手机 | shǒujī | phone | celular | noun ;
+
+b
+
+手表 | shǒubiǎo | wristwatch, handwatch | reloj de mano | noun ;
+
+c
+
+自行车 | zìxíngchē | bike, bicycle | bicicleta | noun ;
+
+dialogue
+
+男：你看见我的手机了吗？
+pi: nǐ kànjiàn wǒ de shǒujī le ma
+en: have you watched my phone?
+es: ¿has visto mi celular?
+
+女：让我想想，你看是不是在床上？
+pi: ràng wǒ xiǎng xiang, nǐ kàn shì bú shì zài chuáng shàng
+en: let me think, have you looked if it is on the bed?
+es: dejame pensar, has visto si está sobre la cama?
+
+问：男的在找什么？
+pi: nán de zài zhào shénme
+en: what is the man looking for?
+es: ¿qué está buscando el hombre?
+
+answer
+
+a
+
+*** 12
+:PROPERTIES:
+:CREATED: [2022-03-23 06:02:38 -05]
+:ID: 574b78bb-c299-4974-a56c-c54e1de7ae88
+:END:
+
+alternatives
+
+想唱歌。
+pi: xiǎng chànggē
+en: want to sing
+es: querer cantar
+
+想看电影
+pi: xiǎng kàn diànyǐng
+en: want to watch a movie
+es: quiere ver una película
+
+想看电视
+pi: xiǎng kàn diànshì
+en: want to watch TV
+es: quiere ver televisión
+
+dialogue
+
+男：你给我打电话了，有什么事情吗？
+pi: nǐ gěi wǒ dǎ diànhuà le, yǒu shénme shìqing ma
+en: you called me, what happened?
+es: me llamaste ¿qué pasó?
+
+女：我想问问你晚上去不去看电影。
+pi: wǒ xiǎng wènwèn nǐ, wǎnshang qù bú qù kàn diànyǐng
+en: I wanted to ask if you were going to the movies tonight.
+es: quería preguntar si irías a ver películas hoy
+
+问：女的为什么给男的打电话？
+pi: nǚ de wèi shénme gěi nán de dǎ diànhuà
+en: why did the woman called to the man?
+es: ¿por qué la mujer llamó al hombre?
+
+answer
+
+b
+
+note
+
+e: I couldn't recognize 有, because I didn't know that a question could start with that character.
+
+e: I couldn't recognize 事情
+
+唱歌 | chànggē | sing | cantar | verb ;
+
+
+
+*** 13
+:PROPERTIES:
+:CREATED: [2022-03-23 06:02:39 -05]
+:ID: ec5e3ed6-be5e-41a7-bcd5-f7de7bed7772
+:END:
+
+alternatives
+
+踢足球
+pi: tī zúqiú
+en: play football
+es: jugar fútbol
+
+跑步 | pǎobù | run | correr
+
+打篮球
+pi: dǎ lánqiú
+en: play basketball
+es: jugar baloncesto
+
+dialogue
+
+女：外面天气很好，我们出去运动运动吧。
+pi: wàimian tiānqì hěn hǎo, wǒmen chū qù yùndòng yùndòng ba
+en: today's weather is very good, let's go out do some exercise!
+es: el clima de hoy está bueno, vayamos a hacer ejercicio
+
+男：好，打篮球怎么样？
+pi: hǎo, dǎlánqiú zěnmeyàng
+en: ok, how about playing basketball?
+es: ok ¿qué tal un partido de baloncesto?
+
+问：男的想做什么？
+pi: nàn de xiǎng zuò shénme
+en: what does the man want to do?
+es: ¿qué quiere hacer el señor?
+
+answer
+
+c
+
+*** 14
+:PROPERTIES:
+:CREATED: [2022-03-23 06:02:40 -05]
+:ID: bfb29ceb-f40b-4c2b-a49c-9b49d97be583
+:END:
+
+alternatives
+
+a
+
+老师 | lǎoshī | teacher | profesor | noun ;
+
+b
+
+医生 | yīshēng | doctor | doctor | noun ;
+
+c
+
+服务员 | fúwùyuán | waiter, waitress | mozo, moza | noun ;
+
+dialogue
+
+男：你好，我房间的门打不开了。
+pi: nǐ hǎo, wǒ fángjiān de měn dǎ bù kāi le
+en: hello, the door of my door doesn't open
+es: hola, la puerta de mi cuarto no abre
+
+女：好的，先生。我叫人去看看。
+pi: hǎode, xiānshēng. wǒ jiào rèn qù kànkan
+en: ok, sir. I'll call someone to go to take a look
+es: ok, señor. llamaré a alguien para que lo vea
+
+问：女的可能是做什么工作的？
+pi: nǚ de kè néng shì zuò shénme gōngzuó de
+en: What work could the woman be doing?
+es: ¿Qué trabajo podría estar haciendo la mujer?
+
+answer
+
+c
+
+note
+
+e: couldn't identify 可, because I think I've never seen it after 的
+
+e: I confused 打 with 的 at the end of a sentenec.
+
+*** 15
+:PROPERTIES:
+:CREATED: [2022-03-23 06:02:40 -05]
+:ID: 533cc88c-e661-4db5-92ca-6d8cf8bb6c05
+:END:
+
+alternatives
+
+都不好
+pi: dōu bù hǎo
+en: both aren't good
+es: ninguno está bien
+
+黑的
+pi: hēi de
+es: the black one
+es: la negra
+
+白的
+pi: bái de
+en: the white one
+es: la blanca
+
+dialogue
+
+男：我想给妈妈买件衣服。你看，这两件怎么样？
+pi: wǒ xiǎng gěi māma mǎi jiàn yīfu. nǐ kàn zhè liǎng jiàn zěnmeyàng
+en: I want to buy clothes to my mom. look, how do these clothes look?
+es: Quiero comprarle ropa a mi mamá. Mira ¿cómo se ven estas?
+
+女：这件白的有点儿长，那件黑的有点儿贵。
+pi: zhè jiàn bài de yǒudiǎr chán, nà jiàn hēi de yǒudiǎr guì
+en: the white one is a bit large, the black one is a bit expensive
+es: la blanca está un poco larga, la negra está un poco cara.
+
+问：女的觉得哪件衣服不错？
+pi: nǚ de juéde nà jiàn yīfu búcuò
+en: Which cloth does the woman think is good?
+es: ¿Qué ropa cree la mujer que está bien?
+
+answer
+
+a
+
+notes
+
+e: I used 那 in a sentence. The correct is to use 哪 because this character is used in questions.
+
+e: I couldn't recognize 件 because the pronunciation of "j" sounded to me like a "t".
+
+e: I couldn't recognize 买件衣服, but it think it was because I was doing it fast.
+
+* Reading
+:PROPERTIES:
+:CREATED: [2022-03-24 19:03:51 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-24 19:03:54 -05]
+:END:
+
+*** 16
+:PROPERTIES:
+:CREATED: [2022-03-24 19:03:59 -05]
+:END:
+
+我今天很忙，没时间看电影。
+pi: wǒ jīntiān hěn màng, méi shíjiān kàn diànyǐng
+en: I'm really busy today, I don't have time to watch movies
+es: Estoy ocupado ahora, no tengo timepo para ver películas
+
+answer
+
+e
+
+*** 17
+:PROPERTIES:
+:CREATED: [2022-03-24 19:04:02 -05]
+:END:
+
+外面天气很好，我们一起去运动运动吧。
+pi: wàimian tiānqì hěn hǎo, wǒmen yìqǐ yùndòng yùnòng ba
+en: the weather is very good, let's go do sports
+es: el clima está muy bueno, vayamos a hacer deporte
+
+answer
+
+a
+
+*** 18
+:PROPERTIES:
+:CREATED: [2022-03-24 19:04:03 -05]
+:END:
+
+王老师让我给张朋打个电话。
+pi: wáng lǎoshī ràng wǒ gěi zhāng pēng dǎ ge diànhuà
+en: Sr. Wang asked me to give Zhang Peng a call
+es: El Sr. Wang me pidió que llamara a Zhang Peng
+
+answer
+
+f
+
+*** 19
+:PROPERTIES:
+:CREATED: [2022-03-24 19:04:04 -05]
+:END:
+
+妈妈生病了，我们去医院看看她吧。
+pi: māma shēngbìng le, wǒmen qù yīyuàn kànkan tā ba
+en: mom is sick, let's go to the hospital to see her
+es: mama se enfermó, vayamos al hospital a verla
+
+answer
+
+c
+
+*** 20
+:PROPERTIES:
+:CREATED: [2022-03-24 19:04:05 -05]
+:END:
+
+东 | dōng :
+
+西 | xī :
+
+小王告诉我，这个商店的东西有点儿贵。
+pi: xiǎo wáng gàosu wǒ, zhège shāngdiàn de dōngxi yǒudiǎnr guì
+en: Xiao Wang told me that the things in this store are a bit expensive
+es: Xiao Wang me dijo que las cosas en esta tienda son un poco caras
+
+answer
+
+b
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-24 19:47:37 -05]
+:ID: 6a93ea2f-6eb7-4aa2-a79d-51ead8ed6960
+:END:
+
+等
+让
+再
+事情
+贵
+找
+
+*** 21
+:PROPERTIES:
+:CREATED: [2022-03-24 19:55:08 -05]
+:END:
+
+我这个星期太忙了，下个星期再//时间一起去看电影吧。
+找
+pi: wǒ zhège xīngqī tài máng le, xià ge xīngqī zài zhǎo shíjiān yīqǐ qù kàn diànyǐng ba
+en: this week I'm very busy, I'll find time to go to the movies together next week
+es: esta semana estoy muy ocupado, la siguiente semana buscaré tiempo para ir a ver una película juntos
+
+answer
+
+f
+
+*** 22
+:PROPERTIES:
+:CREATED: [2022-03-24 19:55:11 -05]
+:END:
+
+张老师在上课呢，他让你//一会儿。
+等
+pi: zhāng lǎoshī zài shàng kè ne, tā ràng nǐ děng yíhuìr
+en: Sr. Zhang is in class, he asked you to wait for a while
+es: El Sr. Zhang está en clase, te ha pedido que esperes un rato
+
+answer
+
+a
+
+*** 23
+:PROPERTIES:
+:CREATED: [2022-03-24 19:58:55 -05]
+:END:
+
+王老师//我告诉你，明天他有事，不能来上课了。
+让
+pi: wáng lǎoshī ráng wǒ gàosu nǐ, míngtiān tā yǒu shì, bù néng lái shàng kè le
+en: Sr. Wang asked me to tell you that he has something to do tomorrow and can't come to class
+es: Sr Wang me pidió que te dijera que mañana tiene cosas que hacer y no podrá venir a la clase
+
+answer
+
+b
+
+*** 24
+:PROPERTIES:
+:CREATED: [2022-03-24 19:49:01 -05]
+:END:
+
+大卫今天不在家，你明天//给他打电话吧。
+再
+pi: dàwèi jīntiān bú zài jiā, nǐ míngtiān zài gěi tā dǎ diànhuà ba
+en: David is not at home today, so you can call him tomorrow
+es: David no está en casa ahora, lo puedes llamar mañana
+
+answer
+
+c
+
+*** 25
+:PROPERTIES:
+:CREATED: [2022-03-24 20:04:00 -05]
+:END:
+
+请问，你找服务员有什么//？
+事情
+pi: qǐngwèn, nǐ zhǎo fúwùyuán yǒu shénme shìqing
+en: excuse me, what do you want from the waiter
+es: ¿puedo preguntar que busca que haga el camarero?
+
+answer
+
+d
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-03-24 20:06:06 -05]
+:END:
+
+*** 26
+:PROPERTIES:
+:CREATED: [2022-03-24 20:21:06 -05]
+:END:
+
+王老师让我给大卫打个电话。
+pi: wáng lǎoshī ràng wǒ gěi dàwèi dǎ ge diànhuà
+en: Sr. Wang told me to give David a call
+es: Sr. Wang me dijo que llamara a David
+
+王老师给大卫打电话。
+pi: wáng lǎoshī gěi dàwèi dǎ diànhuà
+en: Mr. Wang calls David
+es: El Sr. Wang llama a David
+
+answer
+
+0
+
+*** 27
+:PROPERTIES:
+:CREATED: [2022-03-24 20:37:29 -05]
+:END:
+
+今天下午我没时间，明天再去看电影吧。
+pi: jīntiān xiàwǔ wǒ méi shíjiān, míngtiān zài qù kàn diànyǐng ba
+en: I don't have time this afternoon, let's go to the movies tomorrow
+es: no tengo tiempo esta tarde, vayamos mañana a ver una película
+
+今天不能去看电影。
+pi: jīntiān bù néng qù kàn diànyǐng
+en: I can't go to the movies today
+es: No puedo ir a ver películas hoy
+
+answer
+
+1
+
+*** 28
+:PROPERTIES:
+:CREATED: [2022-03-24 20:39:18 -05]
+:END:
+
+这件白的有点儿长，那件黑的有点儿贵。
+pi: zhè jiàn bái de yǒudiǎnr cháng, nà jiàn hēi de yǒudiǎnr guì
+en: this white one is a bit long, the black one is a bit expensive
+es: la blanca es un poco larga, la negra es un poco cara
+
+两件衣服，我都不喜欢。
+pi: liǎng jiàn yīfu, wǒ dōu bù xǐhuan
+en: I don't like neither of the two clothes
+es: No me gusta ninguna de las prendas
+
+answer
+
+1
+
+*** 29
+:PROPERTIES:
+:CREATED: [2022-03-24 20:44:18 -05]
+:END:
+
+
+今天天气不太好，等天气好的时候再去给你买自行车吧。
+pi: jīntiān tiānqì bú tài hǎo, děng tiānqì hǎo de shíhou zài qù gěi nǐ mǎi zìxíngchē ba
+en: today's weather is not so good bad, let's wait for the weather to be better to go buy a bicycle
+es: el clima de hoy no está muy bien, esperemos que el clima mejore para ir a comprar la bicicleta
+
+外面正在下雨
+pi: wàimian zhèngzài xiàyǔ
+en: it's raining outside
+es: está lloviendo afuera
+
+answer
+
+1
+
+*** 30
+:PROPERTIES:
+:CREATED: [2022-03-24 20:49:42 -05]
+:END:
+
+
+你看，这是我们家的猫，眼睛漂亮吧？是我姐姐送给我的。
+pi: nǐ kàn, zhè shì wǒmen jiā de māo, yǎnjing piàoliang ba? shì wǒ jiějie sòng gěi wǒ de
+en: look, this is our home's cat, its eyes are beautiful, aren't they? it was a gift from my sister
+es: mira, este es el gato de mi casa, sus ojos son hermosos, no? fue un regalo de mi hermana
+
+猫不是我家的。
+pi: māo bú shì wǒ jiā de
+en: the cat is not from my house
+es: el gato no es de mi casa
+
+answer
+
+0
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-03-24 21:50:51 -05]
+:ID: d65ac70a-e0b0-4d69-8b02-d576301876dc
+:END:
+
+a
+
+这件白的有点儿长，这件黑的我也不太喜欢，我在看看吧。
+pi: zhè jiàn bái de yǒudiǎnr cháng, zhè jiàn hēi de wǒ yě bú tài xǐhuan, wǒ zài kànkan ba
+en: this white one is a bit long, this black one I don't really like, I'll look again
+es: esta blanca es un poco grande, esa negra realmente no me gusta, veré de nuevo
+
+b
+
+服务员，我想要点儿热水。
+pi: fúwùyuán, wǒ xiǎng yào diǎnr rèshuǐ
+en: waiter, I'd like some hot water
+es: mozo, quiero un poco de agua caliente
+
+c
+
+明天要考试，考试后再去看吧。
+pi: míngtiān yào kǎoshì, kǎoshì hòu zài qù kàn ba
+en: tomorrow I have an exam, let's go to the movies after the exam
+es: tengo un examen mañana, vayamos a ver películas luego del examen
+
+d
+
+让我想想再告诉你
+pi: ràng wǒ xiǎngxiang zài gàosu nǐ
+en: let me think, then I'll tell you
+es: dejame pensar, luego te diré
+
+e
+
+他在哪儿呢？你看见了吗？
+pi: tā zài nǎr ne? nǐ kànjiàn tā le ma?
+en: where is he? have you seen him?
+es: ¿dónde está? ¿lo has visto?
+
+f
+
+听说他生病了, 我想去医院看看他。
+pi: tīngshuō tā shēng bìng le, wǒ xiǎng qù yīyuàn kànkan tā
+en: I heard he fell ill, I want to go to the hospital to see him
+es: escuché que se enfermo, quiero ir al hospital para verlo
+
+notes
+
+热水 | rè shuǐ | hot water | agua caliente | noun ;
+
+*** 31
+:PROPERTIES:
+:CREATED: [2022-03-24 22:01:50 -05]
+:END:
+
+你想看什么电影？
+pi: nǐ xiǎng kàn shénme diànyǐng?
+en: Which movie do you want to watch?
+es: ¿qué película quieres ver?
+
+answer
+
+d
+
+*** 32
+:PROPERTIES:
+:CREATED: [2022-03-24 22:01:58 -05]
+:END:
+
+你找大卫有什么事情吗？
+pi: nǐ zhǎo dàwèi yǒu shénme shìqing ma
+en: what do you want with david?
+es: ¿qué necesitas de david?
+
+answer
+
+f
+
+*** 33
+:PROPERTIES:
+:CREATED: [2022-03-24 22:01:59 -05]
+:END:
+
+这些都是今天薪来的衣服。
+pi: zhèxiē dōu shì jīntiān xīn lái de yīfu
+en: all these clothes just came today
+es: todas estas prendas llegaron hoy
+
+answer
+
+a
+
+*** 34
+:PROPERTIES:
+:CREATED: [2022-03-24 22:02:00 -05]
+:END:
+
+好的，请问您住哪个房间？
+pi: hǎode, qǐngwén nín zhù nǎ ge fángjiān
+en: ok, which room are you staying, please?
+es: ok ¿en qué cuarto te estás quedando?
+
+answer
+
+b
+
+*** 35
+:PROPERTIES:
+:CREATED: [2022-03-24 22:02:00 -05]
+:END:
+
+晚上去看电影，好吗？
+pi: wǎnshang qù kàn diànyǐng, hǎo ma?
+en: let's go to the movies tonight, ok?
+es: vayamos a ver peliculas en la noche ¿está bien?
+
+answer
+
+c
+
+* Pronunciation
+:PROPERTIES:
+:CREATED: [2022-03-24 22:19:20 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-24 22:19:34 -05]
+:END:
+
+Listen to the recordings and pay attention to the intonation at the end of each sentence.
+
+我是留学生。
+pi: wǒ shì liúxuéshēng
+en: I'm a foreign student
+es: soy un estudiante extranjero
+
+
+听说大卫病了。
+pi: tīngshuō dàwèi bìng le
+en: I heard David is sick
+es: escuché que David está enfermo
+
+我想找时间去看看老师。
+pi: wǒ xiǎng zhǎo shíjiān qù kànkan lǎoshī
+en: I want to find some time to visit the teacher
+es: quiero encontrar tiempo para visitar al profesor
+
+那件黑的有点儿贵。
+pi: nà jiàn hēi de yǒudiǎnr guì
+en: that black one is a bit expensive
+es: la negra está un poco cara
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-24 22:23:16 -05]
+:END:
+
+Listen to the recording and repeat the following sentences, paying attention to the intonation at the end of each sentence.
+
+明天我们有考试
+pi: míngtiān wǒmen yǒu kǎoshì
+en: tomorrow we have an exam
+es: mañana tenemos examen
+
+我想出去运动运动
+pi: wǒ xiǎng chūqu yùndòng yùndòng
+en: I want to go out to do sports
+es: quiero salir a hacer deporte
+
+今天外面的天气真好
+pi: jīntiān wàimian de tiānqì zhēn hǎo
+en: the weather outside is really good
+es: el clima afuera es muy bueno
+
+今天下午我没时间去看电影
+pi: jīntiān xiàwǔ wǒ méi shíjiān qù kàn diànyǐng
+en: I don't have time to watch movies this afternoon
+es: No tengo tiempo para ver películas esta tarde
+
+* Characters
+:PROPERTIES:
+:CREATED: [2022-03-24 22:27:26 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-24 22:34:31 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-03-24 22:34:41 -05]
+:END:
+
+a
+
+对 | duì :
+
+c
+
+圣 | shèng :
+
+e
+
+欢 | huān :
+
+h
+
+取 | qǔ :
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-03-24 22:34:49 -05]
+:END:
+
+b
+
+帐 | zhàng :
+
+d
+
+帮 | bāng :
+
+f
+
+帘 | lián :
+
+g
+
+帽 | mào :
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-24 22:35:01 -05]
+:END:
+
+d
+
+驾驶员 | jià shǐ yuán | driver | conductor | noun ;
+
+a
+
+服务员 | fú wù yuán | waiter, waitress | mozo, moza | noun ;
+
+c
+
+售货员 | shòu huò yuán | salesperson | vendedor | noun ;
+
+b
+
+飞行员 | fēi xíng yuán | aviator | aviador | noun ;
+

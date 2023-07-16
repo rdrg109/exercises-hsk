@@ -1,0 +1,385 @@
+:PROPERTIES:
+:CREATED: [2022-03-27 19:13:51 -05]
+:END:
+
+别找了，手机在桌子上呢。
+pi: bié zhǎo le, shǒujī zài zhuōzi shang ne
+en: stop looking for your cell phone; it's on the desk
+
+
+* Warm-up
+:PROPERTIES:
+:CREATED: [2022-03-27 19:24:17 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-27 19:33:13 -05]
+:END:
+
+
+1. b
+
+西瓜 | xīguā | watermelon | sandía | noun ;
+
+2. a
+
+鸡蛋 | jīdàn | egg | huevo | noun ;
+
+3. c
+
+休息 | xiūxi | rest | descansar | verb ;
+
+4. f
+
+吃药 | chī yào | take medicine | tomar medicina | verb ;
+
+5. d
+
+手机 | shǒujī | phone | teléfono | noun ;
+
+6.
+
+准备午饭 | zhǔnbèi wǔfàn | prepare lunch |
+
+ntoe
+
+早饭 | zǎofàn | breakfast | desayuno | noun ;
+
+午饭 | wǔfàn | lunch | almuerzo | noun ;
+
+晚饭 | wǎnfàn | dinner | cena | noun ;
+
+准备 | zhǔnbèi | prepare | preparar | verb ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-27 19:33:15 -05]
+:END:
+
+*** Using 听 (tīng)
+:PROPERTIES:
+:CREATED: [2022-03-27 23:44:32 -05]
+:END:
+
+我没有听你的（问题）。
+pi: wǒ méiyǒu tīng nǐ de wèntí
+en: I hear your question
+
+我听（手机）。
+pi: wǒ tīng shǒujī
+en: I hear a cell phone ringing
+
+我听（电话）。
+pi: wǒ tīng diànhuà
+en: I hear a phone ringing
+
+*** Using 踢 (tī)
+:PROPERTIES:
+:CREATED: [2022-03-27 23:44:36 -05]
+:END:
+
+我不喜欢踢（足球）。
+pi: wǒ bù xǐhuan tī zú qiú
+en: I don't like playing soccer
+
+*** Using 玩儿 (wánr)
+:PROPERTIES:
+:CREATED: [2022-03-27 23:44:39 -05]
+:END:
+
+
+
+
+*** Using 写 (xiě)
+:PROPERTIES:
+:CREATED: [2022-03-27 23:44:41 -05]
+:END:
+
+我正在学习写（汉字）。
+pi: wǒ zhèng zài xuéxi xiě hànzì
+en: I can write some chinese characters
+
+我不知道怎么写我的（名字）。
+pi: wǒ bú zhīdào zěnme xiě wǒ de míngzi
+en: I don't know how to write my name
+
+
+
+*** Using 下 (xià)
+:PROPERTIES:
+:CREATED: [2022-03-27 23:44:43 -05]
+:END:
+
+下
+
+我不知道怎么ti
+
+*** Using 开 (kāi)
+:PROPERTIES:
+:CREATED: [2022-03-27 23:44:44 -05]
+:END:
+
+我不知道怎么开（车）。
+pi: wǒ bù zhīdào zěnme kāi chē
+en: I don't know how to drive
+
+我不知道怎么开（公共汽车）。
+pi: wǒ bù zhīdào zěnme kāi gōnggòngqìchē
+en: I don't know how to drive a bus
+
+* Text
+:PROPERTIES:
+:CREATED: [2022-03-27 19:13:53 -05]
+:END:
+
+** 1. 在家里 | At home
+:PROPERTIES:
+:CREATED: [2022-03-27 23:47:11 -05]
+:ID: 0b840aae-fc1e-4c48-af9e-b5e7e622b8ce
+:END:
+
+Ａ：不要看电视了，明天上午还有汉语课呢。
+pi: búyào kàn diànshì le, míngtiān shàngwǔ hái yǒu hànyǔ kè ne
+en: stop watching TV. You'll have a chinese class tomorrow morning
+es: deja de ver la televisión, tienes clase de chino mañana por la mañana
+
+Ｂ：看电视对学汉语有帮助。
+pi: kàn diànshì duì xué hànyǔ yǒu bāngzhù
+en: watching TV is good for chinese learning
+es: ver la televisión es útil para aprender chino
+
+Ａ：明天的课你都准备好了吗？
+pi: míngtiān de kè nǐ dōu zhǔnbèi hǎo le ma?
+en: are you well prepared for the lessons tomorrow?
+es: ¿estás listo para la clase de mañana?
+
+Ｂ：都准备好了。
+pi: dōu zhǔnbèi hǎo le
+en: yes, I am
+es: estoy listo
+
+new words
+
+课 | kè | class, lesson | clase | noun ;
+
+帮助 | bāngzhù | to help, to assist, to aid | ayudar, asistir | ;
+
+** 2. 在医院 | In the hospital
+:PROPERTIES:
+:CREATED: [2022-03-27 23:53:13 -05]
+:ID: d2c93411-514c-4531-b9de-5be98cba7033
+:END:
+
+Ａ：别看报纸了，医生说你要多休息。
+Ｂ：好，不看了。给我一杯茶吧。
+Ａ：医生说吃要后两个小时不要喝茶。
+Ｂ：医生还说什么了？
+Ａ：医生让你听我的。
+
+new word
+
+别 | bié | stop doing that, don't do that | deja de hacer eso, no hagas eso | adverb ;
+
+** 3. 在家里 | At home
+:PROPERTIES:
+:CREATED: [2022-03-28 07:07:46 -05]
+:ID: b34c50f4-ddf2-4952-8b1a-3c9654c33606
+:END:
+
+Ａ：你怎么买了这么多东西啊？
+Ｂ：哥哥今天中午回来吃饭。
+Ａ：我看看买什么了。羊肉，鸡蛋，面条，西瓜……真不少！妈妈呢？
+Ｂ：正在准备午饭呢！
+
+new word
+
+哥哥 | gēge | elder brother | hermano mayor ;
+
+鸡蛋 | jīdàn | egg | huevo | noun ;
+
+西瓜 | xīguā | watermelon | sandía | ;
+
+正在 | zhèngzài | in the process of | en el proceso de | ;
+
+** 4. 在家里 | At home
+:PROPERTIES:
+:CREATED: [2022-03-28 07:39:43 -05]
+:ID: 68e150c4-8667-4987-addf-f868cff34675
+:END:
+
+Ａ：你在找什么？
+Ｂ：你看见我的手机了吗？白色的。
+Ａ：别找了，手机在桌子上呢，电脑旁边。
+Ｂ：你看见我的衣服了妈？红色的那件。
+Ａ：那件衣服我帮你洗了，在外边呢。
+
+new words
+
+手机 | cell phone | celular |  noun ;
+
+洗 | xǐ | to wash, to bathe | lavar | verb ;
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-03-28 07:42:59 -05]
+:END:
+
+** The imperative sentence "不要……了"/"别……了"
+:PROPERTIES:
+:CREATED: [2022-03-28 07:49:25 -05]
+:END:
+
+This sentence structure is used to dissuade or forbid somebody from doing something. For example
+
+不要玩手机了。
+en: don't play with your phone.
+en: stop playing with your phone
+
+不要做饭了。
+en: don't cook
+en: stop cooking
+
+不要看电视了。
+en: don't watch TV
+en: stop watching TV
+
+别睡觉了。
+en: don't sleep
+en: stop sleeping
+
+别看书了。
+en: don't read books
+en: stop reading the book
+
+别看报纸了。
+en: don't read the newspaper
+en: stop reading the newspaper
+
+** The preposition "对
+:PROPERTIES:
+:CREATED: [2022-03-28 07:43:04 -05]
+:END:
+
+The preposition 对 can indicate a subject-target relation between people or things. For example:
+
+|---------+----+--------+----------------|
+| Subject | 对 | Object | Verb/Adjective |
+|---------+----+--------+----------------|
+| 跑步    | 对 | 身体   | 很好。         |
+| 老师    | 对 | 学生   | 非常好。       |
+| 看电视  | 对 | 学汉语 | 有帮助         |
+|---------+----+--------+----------------|
+
+跑步对身体很好。
+en: running is good for your body
+
+老师对学生非常好。
+en: the teacher is very good to the students
+
+看电视对学汉语有帮助。
+en: watching TV is helpful for learning chinese.
+
+* Exercises
+:PROPERTIES:
+:CREATED: [2022-03-28 06:34:28 -05]
+:END:
+
+** Answer the questions based on the dialogues
+:PROPERTIES:
+:CREATED: [2022-03-28 06:34:32 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-03-28 16:44:11 -05]
+:END:
+
+问：孩子们正在做什么？
+en: what are the kids doing?
+
+他们正在看电视。
+他们在看电视。
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-03-28 16:44:21 -05]
+:END:
+
+问：妈妈为什么不让他们看电视了？
+en: why doesn't the mom let them watch TV?
+
+因为妈妈觉得他们不汉语课准备好了。
+pi: yīnwèi juéde
+en: because she thinks that they are not well prepared for their chinese class of tomorrow
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-03-28 16:44:23 -05]
+:END:
+
+问：吃药以后可以喝茶吗？
+en: 
+不能，医生说他吃药后他要等两个小时。
+pi: bù néng, yīshēng shuō tā chī yào hòu tā yào děng liǎng ge xiǎoshí
+en: he can't, the doctor said he have to wait two hours after taking the medicine
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-03-28 16:44:27 -05]
+:END:
+
+问：他今天都买了什么东西？为什么要这么多？
+en: what did he buy today? why did he need to buy a lot?
+
+他买了羊肉，鸡蛋，面条和西瓜。他买了这么多因为他哥哥今天中午回来吃饭。
+en: He bought lamp, eggs, noddles and watermelon. He bought a lot because his brother will come for lunch today
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-03-28 16:48:53 -05]
+:END:
+
+问：你知道男的正在找什么吗？
+en: do you know what the man is looking for?
+
+他在找他的手机和他的一件衣服。
+en: he is looking for his cell phone and one of his clothes
+
+** Describe the pictures using the nwely-learned language points and words
+:PROPERTIES:
+:CREATED: [2022-03-28 16:57:25 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-03-28 17:14:12 -05]
+:END:
+
+你的病已经好了，别（吃药）了。
+你的病已经好了，别（去医院）了。
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-03-28 17:14:15 -05]
+:END:
+
+别（用电）脑了，明天还要上学呢。
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-03-28 17:14:51 -05]
+:END:
+
+（游泳）对身体很好。
+pi: yóu yǒng
+en: swimming is good for your body
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-03-28 17:15:20 -05]
+:END:
+
+（看报纸）对学习英语酉帮助。
+en: reading newspapers helps you to learn English.
+

@@ -1,0 +1,543 @@
+:PROPERTIES:
+:CREATED: [2022-04-15 16:42:17 -05]
+:END:
+
+* Listening
+:PROPERTIES:
+:CREATED: [2022-04-15 16:42:32 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-04-15 16:42:36 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-04-23 22:51:21 -05]
+:ID: 1b277bb0-8a3f-4f40-8d1e-56250611bb17
+:END:
+
+他在看报纸呢。
+
+ans
+
+0
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-04-23 22:52:25 -05]
+:ID: f41acc99-9775-42db-9f76-93c8b24dd0fa
+:END:
+
+给你牛奶，你要鸡蛋吗？
+
+ans
+
+0
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-04-23 22:53:55 -05]
+:ID: 673175c2-b618-409c-975e-771e2916cd7f
+:END:
+
+你慢点儿，别喝那么快。
+pi: nǐ màn diǎnr, bié hē nà me kuài
+en: you slow down, don't drink so fast
+es: tómatelo con calma, no bebas tan rápido
+
+ans
+
+1
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-04-23 22:55:38 -05]
+:ID: 42551e98-cb35-418f-ab21-b53b726133dd
+:END:
+
+这件衣服我穿有点儿大。
+
+ans
+
+0
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-04-23 22:56:20 -05]
+:ID: acabdd0e-4d17-4822-acbd-460cbd6093ec
+:END:
+
+生日快乐，这个送给你。
+
+ans
+
+0
+
+*** 6
+:PROPERTIES:
+:CREATED: [2022-04-23 23:00:32 -05]
+:ID: 1357febe-224f-413f-881d-2aaa390582ee
+:END:
+
+他的车出问题了。
+
+ans
+
+1
+
+*** 7
+:PROPERTIES:
+:CREATED: [2022-04-23 23:02:30 -05]
+:ID: 8af7ab2b-069c-4047-bbbb-aabfc81771c1
+:END:
+
+他今天跑了个第一。
+pi: tā jīntiān pǎo le ge dì yī
+en: today, he ran first today
+es: hoy, él fue primer puesto en una carrera
+
+ans
+
+1
+
+*** 8
+:PROPERTIES:
+:CREATED: [2022-04-23 23:07:32 -05]
+:ID: 808b5884-4a9f-4514-acad-5d6abf5c7c3a
+:END:
+
+
+你做的米饭很好吃。
+
+ans
+
+0
+
+*** 9
+:PROPERTIES:
+:CREATED: [2022-04-23 23:12:40 -05]
+:ID: 69ad0042-f530-4244-b46a-541769f20c78
+:END:
+
+这个手机三千多，太贵了。
+
+ans
+
+1
+
+*** 10
+:PROPERTIES:
+:CREATED: [2022-04-23 23:13:42 -05]
+:ID: 8cec7096-c752-4f84-a2e9-b435cd5f971d
+:END:
+
+我看看，现在还不到七点。
+
+ans
+
+1
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-04-23 23:00:15 -05]
+:END:
+
+*** 11
+:PROPERTIES:
+:CREATED: [2022-04-23 23:00:17 -05]
+:ID: 2ee98525-1e30-4b46-abd6-d10005b4b6cb
+:END:
+
+女：我告诉你一件事。
+pi: wǒ gàosu nǐ yī jiàn shì
+en: I'll tell you something
+es: te diré algo
+
+男：什么事？你快说。
+pi: shénme shì? nǐ kuài shuō
+en: what is it? you tell me quickly
+es: ¿qué es? dímelo rápido
+
+ans
+
+f
+
+*** 12
+:PROPERTIES:
+:CREATED: [2022-04-23 23:00:17 -05]
+:ID: 178eda28-40a0-4aba-a876-1223b117da00
+:END:
+
+
+男：水是热的吗？
+en: is the water hot?
+es: ¿está el agua caliente?
+
+女：是热的，你也来洗一下手吧。
+en: it's hot, you come and wash your hands too
+es: está caliente, ven y lávate las manos también
+
+ans
+
+c
+
+*** 13
+:PROPERTIES:
+:CREATED: [2022-04-23 23:00:17 -05]
+:ID: 79310238-4289-49dc-83a2-cbb0531dbd67
+:END:
+
+
+女：在哪儿呢？我没看到。
+男：右边，那本汉语书是右边。
+
+ans
+
+a
+
+*** 14
+:PROPERTIES:
+:CREATED: [2022-04-23 23:00:17 -05]
+:ID: 5781de24-ddab-4383-87d9-55666d2ee8a1
+:END:
+
+男：你今天买的东西真不少。
+女：是，我还买了一些菜。
+
+ans
+
+b
+
+*** 15
+:PROPERTIES:
+:CREATED: [2022-04-23 23:00:17 -05]
+:ID: dfd48d47-d1f2-4774-8786-1d64acb52bd1
+:END:
+
+
+女：七十元？错了吧？
+pi: qīshí yuán? cuò le ba?
+en: seventy yuans? wrong, right?
+es: ¿setenta yuanes? se equivoca ¿verdad?
+
+男：没错，您看看，在这儿写着呢。
+pi: méi cuò, nín kànkan, zài zhèr xiě zhe ne
+en: that's right, look, it's written here
+es: es correcto, mire, está escrito aquí
+
+ans
+
+e
+
+*** 16
+:PROPERTIES:
+:CREATED: [2022-04-23 23:30:38 -05]
+:ID: fff5c2cc-f852-4e2b-8f8d-fd29303daa1d
+:END:
+
+
+男：喂，今天你玩儿得怎么样？
+女：很好，很高兴。
+
+ans
+
+b
+
+*** 17
+:PROPERTIES:
+:CREATED: [2022-04-23 23:33:36 -05]
+:ID: 6903b1ab-8a36-490d-9869-558d73779298
+:END:
+
+女：你们谁会回打这个问题？
+男：老师，我会。
+
+ans
+
+a
+
+*** 18
+:PROPERTIES:
+:CREATED: [2022-04-23 23:35:38 -05]
+:ID: 77a661ed-5055-409f-96a5-9d163151077d
+:END:
+
+男：你的介绍对我们帮助很大，谢谢你。
+pi: nǐ de jièshào duì wǒmen bāngzhù hěn dà, xièxie nǐ
+en: your presentation helped us a lot, thank you
+es: su presentación nos ha ayudado mucho, gracias
+
+女：不客气。
+pi: bùkèqi
+en: you're welcome
+es: de nada
+
+ans
+
+e
+
+*** 19
+:PROPERTIES:
+:CREATED: [2022-04-23 23:39:36 -05]
+:ID: fd102d84-dd8f-44db-879b-c5844de73fd1
+:END:
+
+女：这两个门真大。
+pi: zhè liǎng ge mén zhēn dà
+en: those are two really big doors
+es: estas dos son puertas realmente grandes
+
+男：是，我们进去看看吧。
+pi: shì, wǒmen jìn qù kànkan ba
+en: yes, let's go and take a look
+es: sí, entremos y echemos un vistazo
+
+ans
+
+d
+
+*** 20
+:PROPERTIES:
+:CREATED: [2022-04-23 23:42:00 -05]
+:ID: 840d56c2-6d8b-4d42-a2b0-ff953870ebf9
+:END:
+
+男：你好，苹果怎么卖？
+女：六块钱一公斤。
+
+ans
+
+c
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-04-23 23:43:52 -05]
+:END:
+
+*** 21
+:PROPERTIES:
+:CREATED: [2022-04-23 23:43:55 -05]
+:ID: 032a3707-398a-47f7-86d0-ab1c5f9d97b4
+:END:
+
+女：都七点了，你怎么还不起床？
+男：我不吃早饭了，让我再睡十分钟。
+问：现在是什么时候？
+
+ans
+
+c
+
+*** 22
+:PROPERTIES:
+:CREATED: [2022-04-23 23:48:13 -05]
+:ID: 3df92478-c5bd-4d18-8bb4-597aca8d6e88
+:END:
+
+男：这件衣服是新买的，真漂亮。
+女：谢谢，昨天是我的生日，这件衣服是儿子送我的。
+问：那件衣服是谁送的？
+
+ans
+
+a
+
+*** 23
+:PROPERTIES:
+:CREATED: [2022-04-23 23:53:14 -05]
+:ID: a5a0c820-0fd9-413a-9168-7a0ec1900972
+:END:
+
+女：小高说什么你听懂了吗？
+男：没听懂，他说的太快了。
+问：小高说话怎么样？
+
+ans
+
+a
+
+*** 24
+:PROPERTIES:
+:CREATED: [2022-04-23 23:56:38 -05]
+:ID: e535ca8c-7668-46be-b910-9d1e7f90a490
+:END:
+
+男：外面下雨了，我开车送你回去吧。
+女：好的，谢谢你。
+问：男的为什么要送女的？
+
+ans
+
+b
+
+*** 25
+:PROPERTIES:
+:CREATED: [2022-04-23 23:59:30 -05]
+:ID: 679dc26d-a10e-4d60-a1e7-d3f24cc313c1
+:END:
+
+女：爸，你的手表找到了吗？
+男：找到了，就在桌子上。
+问：他们在说什么？
+
+ans
+
+c
+
+*** 26
+:PROPERTIES:
+:CREATED: [2022-04-24 00:01:22 -05]
+:ID: 48f99e14-4aa2-4b27-a712-d15a45aa0d00
+:END:
+
+男：我要的是茶，不是咖啡。
+女：对不起，先生，可能是我送错了。
+问：说话人最可能在哪儿？
+
+ans
+
+c
+
+*** 27
+:PROPERTIES:
+:CREATED: [2022-04-24 00:04:56 -05]
+:ID: 9beb2d20-f1ba-4563-97c0-c585d377f174
+:END:
+
+女：你给我打电话了？什么事？
+男：没什么，我想问你晚上有没有时间去看电影。
+问：男的晚上想去做什么？
+
+ans
+
+b
+
+*** 28
+:PROPERTIES:
+:CREATED: [2022-04-24 00:07:31 -05]
+:ID: 6bd1d968-c4ab-4082-8bc6-b65e5b4d83c1
+:END:
+
+男：这本书看完了吗？写的怎么样？
+女：还可以。
+问：女的觉得那本书怎么样？
+
+ans
+
+c
+
+*** 29
+:PROPERTIES:
+:CREATED: [2022-04-24 00:10:23 -05]
+:ID: 075d6e25-a629-4c40-a7f9-c4ff7612e713
+:END:
+
+女：你们准备什么时候去北京玩儿？
+男：九月，那是天气不冷也不热。
+问：男的准备什么时候去北京？
+
+ans
+
+b
+
+*** 30
+:PROPERTIES:
+:CREATED: [2022-04-24 00:12:45 -05]
+:ID: ad76dce7-43d4-49a1-b3dd-6791b52c148a
+:END:
+
+男：买两上明天上午的机票，这次你和我一起去。
+女：好的，我现在就去买。
+问：女的要去买什么？
+
+ans
+
+a
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-04-24 00:15:21 -05]
+:END:
+
+*** 31
+:PROPERTIES:
+:CREATED: [2022-04-24 00:15:22 -05]
+:ID: 85dfbc4b-3731-42bd-9af0-4f79f46ff954
+:END:
+
+男：怎么还没睡觉？
+女：明天有考试，我想再看看。
+男：别太晚了，早点儿休息吧。
+女：我知道了，你去睡吧。
+问：男的是什么意思？
+
+ans
+
+c
+
+*** 32
+:PROPERTIES:
+:CREATED: [2022-04-24 00:18:47 -05]
+:ID: eab48cbb-5d39-4cd8-82ae-98c7d5747b21
+:END:
+
+女：这个电视多少钱？
+男：现在卖三千四百五十块钱，比上个月便宜了很多。
+女：能给我们送到家里吗？
+男：可以，没问题。
+问：他们最可能在哪儿？
+
+ans
+
+b
+
+*** 33
+:PROPERTIES:
+:CREATED: [2022-04-24 00:24:08 -05]
+:ID: f2ae1c2f-5135-4464-880b-453185564c0c
+:END:
+
+男：喂，你到家了吗？
+女：到了，我正洗鱼呢，晚上吃鱼。
+男：好，女儿打电话说，晚上回来吃饭。
+女：那我在多做几个菜。
+问：谁要回来吃饭？
+
+ans
+
+a
+
+*** 34
+:PROPERTIES:
+:CREATED: [2022-04-24 00:29:51 -05]
+:ID: bbfa3390-6830-47bc-ba7e-99a13dcddd74
+:END:
+
+女：你帮我看看这个汉字题怎么做？
+男：哪个？
+女：第十二题。
+男："昨天是阴天"，你在这儿写"阴天"的"阴"。
+问：第十二题考哪个字？
+
+ans
+
+a
+
+*** 35
+:PROPERTIES:
+:CREATED: [2022-04-24 00:44:46 -05]
+:ID: 7f90f74e-341e-4f85-a8af-bcc8878758b5
+:END:
+
+男：你们饭店还要服务员吗？
+女：要。
+男：我有个朋友正在找工作。
+女：那你让他星期四来找我吧。
+问：女的让那个人星期几来找她？
+
+ans
+
+b
+

@@ -1,0 +1,537 @@
+:PROPERTIES:
+:CREATED: [2022-04-21 16:54:59 -05]
+:END:
+
+* Listening
+:PROPERTIES:
+:CREATED: [2022-04-21 16:55:01 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-04-21 16:59:32 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-04-21 16:59:35 -05]
+:ID: b45fbe2e-530b-4efd-83c1-3356609497df
+:END:
+
+大卫开着车出去了。
+pi: dàwèi kāi zhe chē chū qù le
+en: David drove out in his car
+es: david salió en su coche
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-04-21 17:00:08 -05]
+:ID: 9847a22d-e655-4dfc-96c9-755cafb8557d
+:END:
+
+那个笑着说话的女孩儿是谁？
+pi: nà ge xiào zhe shuōhuà de nǚháir shì shéi?
+en: who is the girl who is smiling and talking?
+es: ¿quién es la chica que sonríe y habla?
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-04-21 17:01:39 -05]
+:ID: e3bd0c05-b227-405e-98c2-c3b8b9cec87d
+:END:
+
+那个手里拿着铅笔的人是我朋友。
+pi: nà ge shǒu lǐ ná zhe qiānbǐ de rén shì wǒ péngyou
+en: the man with the pencil in his hand is my friend
+es: el hombre con el lapíz en la mano es mi amigo
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-04-21 17:05:26 -05]
+:ID: e0248e84-2009-4c36-b70c-bfd9cf6777ee
+:END:
+
+我的女朋友长着两个大眼睛，非常爱笑。
+pi: wǒ de nǚ péngyou cháng zhe liǎng ge dà yǎnjīng, fēicháng ài xiào
+en: my girlfriend has two big eyes and is very smiley
+es: mi novia tiene dos ojos grandes y es muy sonriente
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-04-21 17:07:57 -05]
+:ID: 0ba4f793-cfc2-4f11-a46c-4178cf9aa9c9
+:END:
+
+这儿离新京宾馆不太远，到前面的路口再往右。
+pi: zhèr lí xīn jīng bīn guǎn bú tài yuǎn, dào qiánmiàn de lù kǒu zài wǎng yòu
+en: it's not too far from the Shinjyo Hotel, just go to the intersection in front and turn right
+es: no está muy lejos del Hotel Shinkin, vaya al cruce de enfernte y gire a la derecha
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-04-21 17:13:24 -05]
+:END:
+
+*** 6
+:PROPERTIES:
+:CREATED: [2022-04-21 17:13:26 -05]
+:ID: e4375bc4-4610-45d3-ab6c-30c23879c667
+:END:
+
+男：那个非常爱笑的女孩儿是谁？
+女：你不认识她吗？她叫笑笑，是王老师的女儿。
+
+answer
+
+a
+
+*** 7
+:PROPERTIES:
+:CREATED: [2022-04-21 17:17:04 -05]
+:ID: 5b86e313-8d80-4226-9f07-7935957f5723
+:END:
+
+女：请问，这儿离商店远吗？
+男：不远，往前走，下一个路口就是。
+
+answer
+
+e
+
+*** 8
+:PROPERTIES:
+:CREATED: [2022-04-21 17:19:21 -05]
+:ID: cc7222f1-3ae7-4214-8752-b7aade7b7b8b
+:END:
+
+男：那个手里拿着铅笔的孩子是你妹妹吗？
+女：不是，她是我同学的妹妹。
+
+answer
+
+f
+
+*** 9
+:PROPERTIES:
+:CREATED: [2022-04-21 17:21:00 -05]
+:ID: 7f906a51-47a7-422f-b5ed-0861b7ce1eb5
+:END:
+
+女：椅子上坐着的那个人是谁？
+男：是我爸爸，他有点儿累，正休息呢。
+
+answer
+
+b
+
+*** 10
+:PROPERTIES:
+:CREATED: [2022-04-21 17:23:13 -05]
+:ID: 15cf0823-5e40-42b2-9bb0-f5b027814fc2
+:END:
+
+男：现在八点十分呢，你到机场了吗？
+女：没有，我还在出租车上呢，很快就到。
+
+answer
+
+c
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-04-21 17:25:09 -05]
+:END:
+
+*** 11
+:PROPERTIES:
+:CREATED: [2022-04-21 17:26:02 -05]
+:ID: 07955957-72eb-4f42-a89a-3409b7132fc0
+:END:
+
+男：请问，李先生在公司吗？
+女：他开着车出去了，你下午再来吧。
+问：李先生在哪儿？
+
+*** 12
+:PROPERTIES:
+:CREATED: [2022-04-21 17:27:27 -05]
+:ID: baf18e93-5037-4bfc-a8d6-7f4b450ca663
+:END:
+
+女：大卫是杨笑笑的男朋友吗？
+男：是杨笑笑的前男友。
+问：大卫现在是杨笑笑的男朋友吗？
+
+*** 13
+:PROPERTIES:
+:CREATED: [2022-04-21 17:29:50 -05]
+:ID: 52b8086c-925e-46b8-a180-cdbc1f7a722a
+:END:
+
+男：你的书太多了，我帮你拿着吧。
+女：不用了，我一个人就可以了。
+问：男的为什么要帮女的拿书？
+
+*** 14
+:PROPERTIES:
+:CREATED: [2022-04-21 17:31:56 -05]
+:ID: a41dec1f-cf20-41b1-9ec9-67c037365e21
+:END:
+
+男：为什么你每天都穿着红色的衣服？
+女：因为别人都说我穿红色的衣服好看。
+问：女的为什么每天都穿着红色的衣服？
+
+*** 15
+:PROPERTIES:
+:CREATED: [2022-04-21 17:34:27 -05]
+:ID: 35f768d5-5740-4aab-afe3-951211b529c9
+:END:
+
+男：那个笑着说话的女孩儿是谁？
+女：那个？是穿红衣服的那个吗？
+男：对，就是她。
+女：她是新来的学生，我也不认识。
+问：谁认识那个女孩儿？
+
+answer
+
+c
+
+* Reading
+:PROPERTIES:
+:CREATED: [2022-04-21 17:38:43 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-04-21 17:46:40 -05]
+:END:
+
+*** 16
+:PROPERTIES:
+:CREATED: [2022-04-21 17:38:45 -05]
+:ID: 8efcc6c0-5b50-4e99-aaff-c0125a20c373
+:END:
+
+晚上十点了，咖啡店还开着门呢。
+
+answer
+
+f
+
+*** 17
+:PROPERTIES:
+:CREATED: [2022-04-21 17:40:29 -05]
+:ID: 4e22f942-047c-4707-9ff4-01496951a27a
+:END:
+
+老师每天都坐着给学生们上课。
+
+answer
+
+c
+
+*** 18
+:PROPERTIES:
+:CREATED: [2022-04-21 17:41:18 -05]
+:ID: feb16d14-7c04-4c5f-9ab2-b9f4611f7255
+:END:
+
+妈妈笑着说：“今天给你们做了很多好吃的东西”
+
+answer
+
+a
+
+*** 19
+:PROPERTIES:
+:CREATED: [2022-04-21 17:42:41 -05]
+:END:
+
+学校离我家很近，我每天走着去上课。
+
+answer
+
+b
+
+*** 20
+:PROPERTIES:
+:CREATED: [2022-04-21 17:43:13 -05]
+:ID: 6075d5c9-a45c-4f86-b3cd-8c2189c6ed5f
+:END:
+
+拿着这么多东西，我们还是坐出租车回家吧。
+pi: názhe zhème duō dōngxi, wǒmen háishi zuò chūzūchē huí jiā ba
+en: with so much stuff, we'd better take a cab home
+es: con tantas cosas, será mejor que tomemos un taxi a casa
+
+answer
+
+e
+
+*** 21
+:PROPERTIES:
+:CREATED: [2022-04-21 17:46:10 -05]
+:END:
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-04-21 17:46:44 -05]
+:ID: f2d65d33-efe7-44b9-805d-1103a23f5bb0
+:END:
+
+拿
+笑
+长
+往
+贵
+一直
+
+*** 21
+:PROPERTIES:
+:CREATED: [2022-04-21 17:46:55 -05]
+:END:
+
+妹妹是一个非常爱//的女孩儿。
+笑
+pi: 
+en: my sister is a very smiley girl
+es: mi hermana es una chica muy sonriente
+
+answer
+
+b
+
+*** 22
+:PROPERTIES:
+:CREATED: [2022-04-21 17:50:14 -05]
+:END:
+
+
+你手里//着的是什么东西，我能看看吗？
+拿
+
+answer
+
+a
+
+*** 23
+:PROPERTIES:
+:CREATED: [2022-04-21 17:51:42 -05]
+:END:
+
+从这儿//右走，过一个路口，就是北京医院。
+往
+
+answer
+
+d
+
+*** 24
+:PROPERTIES:
+:CREATED: [2022-04-21 17:53:45 -05]
+:END:
+
+你们班有没有一个//着大眼睛，爱穿红衣服的学生？
+长
+
+answer
+
+c
+
+*** 25
+:PROPERTIES:
+:CREATED: [2022-04-21 17:55:00 -05]
+:END:
+
+从这个路口//走，就能看到你们学校了。
+一直
+pi: cóng zhège lùkǒu yìzhí zǒu, jiù néng kàndào nǐmen xuéxiào le
+en: keep going from this intersection and you will see your school
+es: siga avanzando desde este cruce y verá su escuela
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-04-21 17:56:46 -05]
+:END:
+
+*** 26
+:PROPERTIES:
+:CREATED: [2022-04-21 17:57:41 -05]
+:END:
+
+大卫不是找到新工作了吗？
+
+大卫每天工作。
+
+answer
+
+0
+
+*** 27
+:PROPERTIES:
+:CREATED: [2022-04-21 17:58:09 -05]
+:END:
+
+我的一个朋友正在找房子，他希望住得离公司近一些。
+
+他家离公司很远。
+
+answer
+
+1
+
+*** 28
+:PROPERTIES:
+:CREATED: [2022-04-21 17:58:23 -05]
+:ID: ae7e102e-aca2-49d9-a188-ee867af969d8
+:END:
+
+妈妈告诉我说，不要开着车听音乐。
+pi: māma gàosu wǒ shuō, bú yào kāizhe chē tīng yīnyuè
+en: my mom told me that I should not listen music with the car on
+es: máma me dijo que no escuchara música con el coche encendido
+
+开着车听音乐不好。
+pi: kāizhe chē tīng yīnyuè bù hǎo
+en: it's not good to listen to music with the car on
+es: no es bueno escuchar música mientras se conduce
+
+answer
+
+1
+
+*** 29
+:PROPERTIES:
+:CREATED: [2022-04-21 17:59:21 -05]
+:END:
+
+从我家到北京，坐火车就5个小时，比坐飞机便宜多了。所以我明天准备坐火车去北京。
+
+我正在坐火车去北京。
+
+answer
+
+1
+
+*** 30
+:PROPERTIES:
+:CREATED: [2022-04-21 18:00:22 -05]
+:END:
+
+李哥，你手里拿着的是电影票吗？我也想跟你一起去看电影。
+
+李哥可能有电影票。
+
+answer
+
+1
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-04-21 18:00:53 -05]
+:ID: 073ce59e-a5d1-4eeb-821c-5879ea6c8434
+:END:
+
+是给我妈妈买的新衣服，明天是她的生日。
+pi: shì gěi wǒ māmā mǎi de xīn yīfu, míngtiān shì tā de shēngrì
+en: it's a new dress for my mom, it's her birthday tomorrow
+es: es un vestido nuevo para mi madre, mañana es su cumpleaños
+
+他开着车出去了。下午可能回来。
+pi: tā kāizhe chē chūqu le. xiàwǔ kěnéng huílai
+en: he went out in his car. He may come back in the afternoon
+es: salió en su coche. puede que vuelva por la tarde
+
+大卫也想跟我们一起去。
+pi: dàwèi yě xiǎng gēn wǒmen yìqǐ qù
+en: david wants to go with us, too
+es: david también quiere venir con nosotros
+
+不是两年，是一年半。
+pi: bú shì liǎng nián, shì yì nián bàn
+en: not two years, but a year and a half
+es: no dos años, sino un año y medio
+
+他在哪儿呢？你看见他了吗？
+
+教室前面还有一位老师，他正在给学生们上课呢。
+pi: jiàoshì qiánmian hái yǒu yí wèi lǎoshī, tā zhèngzài gěi xuéshengmen shàng kè ne
+en: there is another teacher in front of the classroom, he is teaching the students
+es: hay un profesor al frente del aula y está dando una lección a los alumnos
+
+
+
+
+*** 31
+:PROPERTIES:
+:CREATED: [2022-04-21 18:00:55 -05]
+:END:
+
+我看见在教室里坐着很多学生。
+pi: wǒ kànjiàn zài jiàoshì li zuòzhe hěn duō xuésheng
+en: I saw a lot of students sitting in the classroom
+es: vi a muchos estudiantes sentados en el aula
+
+answer
+
+f
+
+*** 32
+:PROPERTIES:
+:CREATED: [2022-04-21 18:01:33 -05]
+:END:
+
+你手里拿着什么？
+pi: nǐ shǒu li názhe shénme?
+en: what are you holding in your hand?
+es: ¿qué tienes en la mano?
+
+answer
+
+a
+
+*** 33
+:PROPERTIES:
+:CREATED: [2022-04-21 18:02:24 -05]
+:END:
+
+张先生呢？我今天怎么没看见他？
+pi: zhāng xiānsheng ne? wǒ jīntiān zěnme méi kànjiàn tā?
+en: where is Mr. Zhang? How come I haven't seen him today?
+es: ¿dónde está el Sr. Zhang? ¿por qué no lo he visto hoy?
+
+answer
+
+b
+
+*** 34
+:PROPERTIES:
+:CREATED: [2022-04-21 18:02:50 -05]
+:END:
+
+下午三点，你在学校门口等着我。我们一起去打篮球。
+pi: xiàwǔ sān diǎn, nǐ zài xuéxiào ménkǒu děngzhe wǒ, wǒmen yìqǐ qù dǎ lánqiú
+en: at 3 p.m., you wait for me in front of the school. We'll go to play basketball together.
+es: A las 3 de la tarde, nos encontraremos frente a la escuela. iremos a jugar al baloncesto juntos
+
+answer
+
+c
+
+*** 35
+:PROPERTIES:
+:CREATED: [2022-04-21 18:02:51 -05]
+:END:
+
+
+你不是学过两年汉语吗？
+pi: nǐ bú shì xuéguo liǎng nián hànyǔ ma?
+en: didn't you study chinese for two years?
+es: ¿no estudiaste chino durante dos años?
+
+answer
+
+d
+

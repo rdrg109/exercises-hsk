@@ -1,0 +1,672 @@
+:PROPERTIES:
+:CREATED: [2022-03-10 14:49:45 -05]
+:END:
+
+* Listening
+:PROPERTIES:
+:CREATED: [2022-03-10 14:50:32 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-10 14:50:34 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-06-24 14:17:50 -05]
+:ID: 1d103c89-c3c0-45b3-94eb-9a70f18d8c18
+:END:
+
+下午他要踢足球。
+pi: xiàwǔ tā yào tī zúqiú
+en: He's playing soccer this afternoon.
+es: Va a jugar al fútbol esta tarde.
+
+Answer: ✅
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-06-24 14:17:52 -05]
+:ID: 1465842c-0566-4a00-9670-8e7938d1480b
+:END:
+
+妈妈买了几件新衣服。
+pi: māma mǎi le jǐ jiàn xīn yīfu
+en: Mom bought some new one pieces of clothing.
+es: Mamá ha comprado algunas prendas nuevas.
+
+Answer: ✅
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-06-24 14:17:54 -05]
+:ID: b8c04036-cfda-4f86-9ebb-47f36d81b243
+:END:
+
+他的眼睛很漂亮。
+pi: tā de yǎnjīng hěn piàoliang
+en: He has beautiful eyes.
+es: Tiene unos ojos preciosos.
+
+Answer: ✅
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-06-24 14:17:56 -05]
+:ID: baa236bf-be5d-4b61-97f8-d9081ba80a39
+:END:
+
+我们去买一个新的桌子吧。
+pi: wǒmen qù mǎi yī gè xīn de zhuōzi bā
+en: Let's go buy a new table.
+es: Vamos a comprar una mesa nueva.
+
+Answer: ❌
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-06-24 14:17:58 -05]
+:ID: 18a9cff9-7ab3-4ddb-9896-d1abb857b87c
+:END:
+
+王小姐最喜欢运动。
+pi: wáng xiǎojiě zuì xǐhuan yùndòng
+en: Miss Wang likes sports most.
+es: A la señorita Wang le gustan más los deportes.
+
+
+Answer: ❌
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-10 17:58:03 -05]
+:END:
+
+*** 6
+:PROPERTIES:
+:CREATED: [2022-03-10 18:28:53 -05]
+:ID: a8e91d22-d665-4679-8d6d-ff3392393525
+:END:
+
+男：你想喝点儿什么？
+pi: nǐ xiǎng hē diǎn ér shénme
+en: What would you like to drink?
+es: ¿Qué te gustaría beber?
+
+女：我想喝茶。
+pi: wǒ xiǎng hē chá
+en: I'd like to have tea.
+es: Me gustaría tomar un té.
+
+Answer: B
+
+*** 7
+:PROPERTIES:
+:CREATED: [2022-03-10 18:28:50 -05]
+:ID: 6a3c57c4-d95a-45f4-a113-c0c90d0060fd
+:END:
+
+男：我们下午一起去运动吧。
+pi: wǒmen xiàwǔ yìqī qù yùndòng bā
+en: Let's go exercise this afternoon.
+es: Vamos a hacer ejercicio esta tarde.
+
+女：好啊，我最喜欢跑步了。
+pi: hǎo ā, wǒ zuì xǐhuan pǎobù le
+en: Sure, I like running the most.
+es: Ok, lo que más me gusta es correr.
+
+Answer: F
+
+*** 8
+:PROPERTIES:
+:CREATED: [2022-03-10 18:28:47 -05]
+:ID: db95f6dd-6445-4190-8c4c-5ffdb05b2325
+:END:
+
+女：你几点能回来？
+pi: nǐ jǐ diǎn néng huí lái
+en: What time will you be back?
+es: ¿A qué hora volverá?
+
+男：七点多，不会太晚。
+pi: qī diǎn duō, bú huì tàiwǎn
+en: After 7:00, not too late.
+es: Después de las siete, no demasiado tarde.
+
+Answer: C
+
+*** 9
+:PROPERTIES:
+:CREATED: [2022-03-10 18:28:45 -05]
+:ID: 30512b5c-76ca-468d-a8d8-429b267406d9
+:END:
+
+女：你的猫多大了？
+pi: ní de māo duō dà le
+en: How old is your cat?
+es: ¿Qué edad tiene su gato?
+
+男：一岁多。
+pi: yī suì duō
+en: A little over a year old.
+es: Más de un año.
+
+Answer: A
+
+*** 10
+:PROPERTIES:
+:CREATED: [2022-03-10 18:28:42 -05]
+:ID: 70305d40-a11a-4580-85fd-51831bd86e51
+:END:
+
+女：什么时候去北京旅游最好？
+pi: shénme shíhou qù běijīng lǚyóu zuì hǎo
+en: When is the best time to visit Beijing?
+es: ¿Cuál es la mejor época para visitar Pekín?
+
+男：九月和十月北京天气最好，你九月去吧。
+pi: jiǔ yuè hé shí yuè běijīng tiānqì zuì hǎo, nǐ jiǔ yuè qū bā
+en: The weather is best in Beijing in September and October, so go in September.
+es: El tiempo es mejor en Pekín en septiembre y octubre, deberías ir en septiembre.
+
+Answer: E
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-03-10 18:19:41 -05]
+:END:
+
+*** 11
+:PROPERTIES:
+:CREATED: [2022-03-10 18:28:36 -05]
+:ID: 25d53479-895b-4cc9-b551-665a553edf6e
+:END:
+
+Alternatives
+
+A. 八月
+pi: bā yuè
+en: august
+es: agosto
+
+B. 几个月
+pi: jǐ gè yuè
+en: what month
+es: que mes
+
+C. 九月
+pi: jiǔ yuè
+en: october
+es: octubre
+
+Dialogue
+
+女：你觉得什么时候去北京旅游最好？
+pi: nǐ juěde shénme shíhou qù běijīng lǚyóu zuì hǎo
+en: When do you think is the best time to visit Beijing?
+es: ¿Cuándo cree que es el mejor momento para visitar Pekín?
+
+男：我觉得九月去最好。
+pi: wǒ juěde jiǔ yuè qù zuì hǎo
+en: I think it's best to go in September.
+es: Creo que es mejor ir en septiembre.
+
+问：几月去北京旅游最好？
+pi: jǐ yuè qù běijīng lǚyòu zuì hǎo
+en: What is the best month to visit Beijing?
+es: ¿Cuál es el mejor mes para visitar Pekín?
+
+Answer
+
+A
+
+*** 12
+:PROPERTIES:
+:CREATED: [2022-03-10 18:30:51 -05]
+:ID: d2e063fb-514c-42c9-9e26-bde9a526cb5e
+:END:
+
+女：你喜欢上海吗？
+pi: nǐ xǐhuan shànghǎi ma
+en: Do you like Shanghai?
+es: ¿Te gusta Shanghai?
+
+男：上海冬天太冷了，我不喜欢。
+pi: shànghǎi dōngtiān tài lěng le, wǒ bù xǐhuan
+en: Shanghai is too cold in winter, I don't like it.
+es: Shanghái es demasiado frío en invierno, no me gusta.
+
+问：男的为什么不喜欢上海？
+pi: nán de wèi shénme bú xǐhuan shànghǎi
+en: Why don't men like Shanghai?
+es: ¿Por qué a los hombres no les gusta Shanghai?
+
+Answer
+
+B
+
+*** 13
+:PROPERTIES:
+:CREATED: [2022-03-10 18:45:45 -05]
+:ID: ccf71778-cd3b-4ccc-9bde-9ab0ca0ce1dc
+:END:
+
+女：我要去商店，你去吗？
+pi: wǒ yào qù shāngdiàn? nǐ qù ma
+en: I'm going to the store? Are you going?
+es: ¿Voy a la tienda? ¿Vas a ir?
+
+男：我也去，我要买一个新椅子。
+pi: wǒ yě qù, wǒ yào mǎi yī gè xīn yǐzi
+en: I'm going too, I want to buy a new chair.
+es: Yo también, voy a comprar una silla nueva.
+
+问：男的要买什么？
+pi: nán de yào mǎi shénme
+en: What is the man going to buy?
+es: ¿Qué va a comprar el hombre?
+
+Answer
+
+B
+
+*** 14
+:PROPERTIES:
+:CREATED: [2022-03-10 19:03:26 -05]
+:ID: b48aad7b-2671-45db-ab39-f0cd9806894c
+:END:
+
+今年 | jīn nián | this year | este año ;
+
+女：王医生的女儿今年多大了？
+pi: wáng yīsheng de nǚ'ér jīnnián duō dà le
+en: How old is Dr. Wang's daughter?
+es: ¿Qué edad tiene la hija del Dr. Wang?
+
+男：四十岁了。
+pi: síshì suì le
+en: Forty years old.
+es: Cuarenta años.
+
+问：王医生的女儿今年多大了？
+pi: wáng yīsheng de nǚ'ér jīnnián duō dà le
+en: How old is Dr. Wang's daughter?
+es: ¿Qué edad tiene la hija del Dr. Wang?
+
+Answer: B
+
+*** 15
+:PROPERTIES:
+:CREATED: [2022-03-10 19:06:12 -05]
+:ID: ad2d553d-923d-4102-8274-b32605bd827f
+:END:
+
+女：我觉得这个杯子很漂亮。
+pi: wǒ juéde zhè gè běizi hěn piàoliang
+en: I think this cup is beautiful.
+es: Creo que es una taza preciosa.
+
+男：你也很喜欢？这是我在北京买的。
+pi: nǐ yě hěn xǐhuan? zhè shì wǒ zài běijīng mǎi de
+en: Do you like it too? I bought this in Beijing.
+es: ¿A ti también te gusta? Lo compré en Pekín.
+
+问：女的觉得什么很漂亮？
+pi: nǚ de juéde shénme hěn piàoliang
+en: What do women think is beautiful?
+es: ¿Qué es lo que la mujer considera bello?
+
+Answer: A
+
+* Reading
+:PROPERTIES:
+:CREATED: [2022-03-10 19:46:29 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-10 21:05:53 -05]
+:END:
+
+*** 16
+:PROPERTIES:
+:CREATED: [2022-03-10 21:05:25 -05]
+:END:
+
+一月的北京天气最冷。
+pi: yī yuè de běijīng tiānqì zuì lěng
+en: Beijing has the coldest weather in January
+es: En Enero hace el mayor frío en Pekín
+
+Answer
+
+E
+
+*** 17
+:PROPERTIES:
+:CREATED: [2022-03-10 21:05:27 -05]
+:END:
+
+爸爸现在不能回来，他在工作呢。
+pi: bàba xiànzài bù néng huí lái, tā zài gōngzuò ne
+en: Dad can't come home now, he's working
+es: Papa no puedo venir ahora, él está trabajando
+
+Answer
+
+A
+
+*** 18
+:PROPERTIES:
+:CREATED: [2022-03-10 21:05:30 -05]
+:END:
+
+星期六我们一起去剔足球吧。
+pi: xīngqī liù wǒmen yìqǐ qù tī zúqiú ba
+en: Let's go play football on Saturday
+es: Vamos a jugar futbol el sábado
+
+Answer
+
+C
+
+*** 19
+:PROPERTIES:
+:CREATED: [2022-03-10 21:05:33 -05]
+:END:
+
+你的小猫最漂亮。
+pi: nǐ de xiǎo māo zuì piàoliang
+en: Your cat is the most beautiful
+es: Tu gato es el mas hermoso
+
+Answer
+
+F
+
+*** 20
+:PROPERTIES:
+:CREATED: [2022-03-10 21:05:35 -05]
+:END:
+
+我最喜欢旅游。
+pi: wǒ zuì xǐhuan lǚyóu
+en: I like travelling the most
+es: Lo que más me gusta es viajar
+
+Answer
+
+B
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-10 21:05:55 -05]
+:ID: bfc9f149-3d25-46b2-a347-c868184e0a1b
+:END:
+
+为什么 | wèi shénme | why | porque ;
+
+要 | yào | TODO | TODO ;
+
+最 | zuì | greater extent | mayor extensión ;
+
+觉得 | juéde | to think, to feel | pensar, sentir ;
+
+贵 | guì | expensive | caro | adjective ;
+
+也 | yě | also | también ;
+
+
+
+*** 21
+:PROPERTIES:
+:CREATED: [2022-03-10 21:06:04 -05]
+:END:
+
+王方//买一个新杯子。
+要
+pi: wáng fāng yào mǎi yī fè xīn běizi
+en: Wang Fang wants to buy a new cup.
+es: Wang Fang quiere comprar una nueva taza.
+
+*** 22
+:PROPERTIES:
+:CREATED: [2022-03-10 21:36:50 -05]
+:END:
+昨天你//没来我家吃饭？
+为什么
+pi: zuótiān nǐ wèi shénme méi lái wǒ jīa chī fàn
+en: Why didn't you come to my house for dinner yesterday?
+es: ¿Por qué no viniste a cenar a mi casa ayer?
+
+*** 23
+:PROPERTIES:
+:CREATED: [2022-03-10 21:36:54 -05]
+:END:
+
+我//这个衣服太大了，你看看那个吧。
+觉得
+pi: wǒ juéde zhège yīfu tài dà le, nǐ kànkàn nàge ba
+en: I think this cloth is very big, look at that one.
+es: Creo que esta ropa es grande, mira esa.
+
+*** 24
+:PROPERTIES:
+:CREATED: [2022-03-10 21:36:57 -05]
+:END:
+
+我的小猫两岁多了，大卫的小猫//两岁多了。
+也
+pi: wǒ de xiǎo māo liǎng suì duō le, dàwèi de xiǎo māo yě liǎng suì duō le
+en: My little cat is over 2 years old, David's little cat is also over 2 years old.
+en: Mi gatita tiene más de dos años y la de David también.
+
+*** 25
+:PROPERTIES:
+:CREATED: [2022-03-10 21:37:00 -05]
+:END:
+
+王老师//喜欢吃苹果。
+最
+pi: wáng lǎoshī zuì xǐhuan chī píngguǒ
+en: Teacher Wang likes eating apples the most.
+es: La comida favorita del Sr. Wang son las manzanas.
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-03-10 21:38:14 -05]
+:END:
+
+
+*** 26
+:PROPERTIES:
+:CREATED: [2022-03-10 21:56:12 -05]
+:END:
+
+他喜欢在家看电影，也喜欢睡觉，不喜欢出去。
+pi: tā xǐhuan zài jiā kàn diānyǐng, tā xǐhuan shuìjiào, bú xǐhuan chūqu
+en: He likes to stay home and watch movies and sleep, and doesn't like to go out.
+es: Le gusta ver películas en casa y dormir hasta tarde, no le gusta salir.
+
+他最喜欢运动。
+pi: tā zuì xǐhuan yùndòng
+en: He likes sports the most.
+es: Lo que más le gusta es hacer ejercicio.
+
+*** 27
+:PROPERTIES:
+:CREATED: [2022-03-10 21:56:22 -05]
+:END:
+
+✅
+
+王小姐的小猫在我家，我的小猫在我妈妈家。
+pi: wáng xiǎojiě de xiǎo māo zài wǒ jīa, wǒ de xiǎo māo zài wǒ māma jiā
+en: Miss Wang's kitten is at my house and my kitten is at my mom's house.
+es: El gatito de la señorita Wang está en mi casa y el mío en la de mi madre.
+
+我有一个小猫。
+pi: wǒ yǒu yī gè xiǎo māo
+en: I have a kitten.
+es: Tengo un gatito.
+
+*** 28
+:PROPERTIES:
+:CREATED: [2022-03-10 21:56:28 -05]
+:END:
+
+❌
+
+我不想买桌子，我要买几个新椅子。
+pi: wǒ bù xiǎng mǎi zhuōzi, wǒ yào mǎi jǐ gè xīn yǐzi
+en: I don't want to buy a table, I want to buy some new chairs.
+es: No quiero comprar una mesa, quiero comprar unas sillas nuevas.
+
+我要去商店买桌子。
+pi: wǒ yào qū shāngdiàn zhuōzi
+en: I'm going to the store to buy a table.
+es: Voy a la tienda a comprar una mesa.
+
+*** 29
+:PROPERTIES:
+:CREATED: [2022-03-10 21:56:35 -05]
+:ID: 6af7234c-32ca-4cb6-9764-514e9daeb353
+:END:
+
+听说你在学做中国菜呢，我们一起做吧。
+pi: tīngshuō nǐ zài xué zuò zhōngguí cài ne, wǒmen yìqǐ zuò ba
+en: I heard you're learning to cook Chinese food, let's do it together.
+es: He oído que estás aprendiendo a cocinar comida china, hagámoslo juntos.
+
+他们要一起做中国菜。
+pi: tāmen yào yìqǐ zuò zhōngguó cài
+en: They are going to cook Chinese food together.
+es: Van a cocinar juntos comida china.
+
+Answer
+
+yes
+
+Note
+
+听说 | tīng shuō | to hear | escuchar | verb ;
+
+
+*** 30
+:PROPERTIES:
+:CREATED: [2022-03-10 21:56:41 -05]
+:END:
+
+❌
+
+八月北京很热，九月天气好，你来吧。
+pi: bā yuè běijīng hěn rè, jiǔ yuè tiānqì hǎo, nǐ lái ba
+en: August is very hot in Beijing, September is good weather, you should come.
+es: En agosto hace calor en Pekín, venga en septiembre cuando haga buen tiempo.
+
+八月去北京旅游最好。
+pi: jiǔ yuè qù běijīng lǚyóu zuì hǎo
+en: It's best to travel to Beijing in August.
+es: Lo mejor es visitar Pekín en agosto.
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-03-10 23:39:38 -05]
+:ID: f6266f7e-8b23-4fe1-8736-583177d9b59f
+:END:
+
+A. 桌子上有一本新书。那是你的书吗？
+pi: zhuōzi shàng yǒu yī běn xīn shū. nǎ shì nǐ de shū ma
+en: there's a book on the table, is it yours?
+es: hay un libro sobre la mesa, es tuyo?
+
+B. 王老师什么时候能到？
+pi: wáng lǎoshī shénme shíhòu néng dào
+en: What time will teacher Wang arrive?
+en: When will teacher Wang arrive?
+en: When will teacher Wang be here?
+es: ¿A qué hora llegará el profesor Wang?
+
+C. 他们都去踢足球了，你去不去？
+pi: tāmen dōu qù tī zúqiú le, nǐ qù bu qù
+en: They are all going to play soccer, are you going?
+es: todos van a jugar futbol ¿vas a ir?
+
+
+D. 这个小猫很漂亮。它多大了？
+pi: zhège xiǎo māo hěn piàoliang. tā duō dà le
+en: this cat is very beautiful, how old is it?
+es: este gato es muy hermoso ¿cuántos años tiene?
+
+E. 他在哪儿呢？你看见他了吗？
+pi: tā zài nǎr ne. nǐ kànjiàn tā le ma
+en: where is he? have you seen him?
+es: ¿dónde está él? ¿lo has visto?
+
+F. 你为什么不开车去学校？
+pi: nǐ wèi shénme bù kāichē qù xuéxiào
+en: why don't you drive to the school?
+es: ¿Por qué no vas en coche a la escuela?
+
+*** 31
+:PROPERTIES:
+:CREATED: [2022-06-24 12:00:58 -05]
+:END:
+
+不是我的，我没买书。
+pi: bú shì wǒ de, wǒ méi mǎi shū
+en: it's not mine, I didn't buy a book
+es: no es mío, yo no compré un libro
+
+Answer: A
+
+*** 32
+:PROPERTIES:
+:CREATED: [2022-06-24 12:01:05 -05]
+:END:
+
+三岁多。
+pi: sān suì duō
+en: over three years
+es: más de 3 años
+
+Answer: D
+
+*** 33
+:PROPERTIES:
+:CREATED: [2022-06-24 12:01:08 -05]
+:END:
+
+他已经走了，十分钟后能到。
+pi: tā yǐjīng zǒu le, shí fēnzhōng hòu néng dào
+en: He's already gone and will be there in ten minutes.
+es: Ya se ha ido y estará allí en diez minutos.
+
+Answer: B
+
+*** 34
+:PROPERTIES:
+:CREATED: [2022-06-24 12:01:10 -05]
+:END:
+
+我没时间，明天吧。
+pi: wǒ méi shíjiān, míngtiān ba
+en: I don't have time, let's do it tomorrow
+es: No tengo tiempo, hagámoslo mañana
+
+Answer: C
+
+*** 35
+:PROPERTIES:
+:CREATED: [2022-06-24 12:01:11 -05]
+:END:
+
+我不想开，我觉得坐出租车很好。
+pi: wǒ bù xiǎng kāi, wǒ juéde zuò chūzūchē hěn hǎo
+en: I don't want to drive, I think it's good to take a taxi
+es: No quiero manejar, creo que es bueno tomar taxi
+
+Answer: F
+

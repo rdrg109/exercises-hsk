@@ -1,0 +1,795 @@
+:PROPERTIES:
+:CREATED: [2022-03-20 18:09:09 -05]
+:END:
+
+* Listening
+:PROPERTIES:
+:CREATED: [2022-03-20 18:09:24 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-21 06:16:44 -05]
+:END:
+
+**** 1
+:PROPERTIES:
+:CREATED: [2022-03-24 22:44:10 -05]
+:ID: 3afcaf3a-a5e9-4132-acaf-7693773ed896
+:END:
+
+这是我们的新教室。
+pi: zhè shì wǒmen de xīn jiàoshì
+en: This is our new classroom
+es: Este es nuestro nuevo salón
+
+answer
+
+1
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-03-24 22:44:17 -05]
+:ID: a3506571-7f3f-4a89-9d71-494760b8d9df
+:END:
+
+我现在去机场的路上呢。
+pi: wǒ xiànzài qù jīchǎng de lùshang ne
+en: I'm on my way to the airport now
+es: Estoy camino al aeropuerto ahora
+
+answer
+
+0
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-03-24 22:44:20 -05]
+:ID: decd3fc4-a003-4c3d-9b44-e43851b1febe
+:END:
+
+我每天早上六点就去跑步了。
+pi: wǒ měitiān zǎoshàng liù diǎn jiù qù pǎobù le
+en: I go for a run every morning at six o'clock
+es: Salgo a carrer todos los días a las seis
+
+answer
+
+1
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-03-24 22:44:23 -05]
+:ID: 8c127892-7442-4f02-a414-27541ba8167c
+:END:
+
+我家离公司很远，所以要坐公共汽车去公司。
+pi: wǒ jiā lí gōngsī hěn yuǎn, suǒyǐ yào zuò gōnggòngqìchē qù gōngsī
+en: My house is very far from the office, so I need to take a bus to get there
+es: Mi casa está lejos de la oficina, así que necesito tomar un bus para llegar
+
+answer
+
+0
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-03-24 22:44:27 -05]
+:ID: 3d98f0c5-e2c5-480f-a0ed-9b1ceaef68c7
+:END:
+
+大夫正给他看病呢。
+pi: dàifū zhèng gěi tā kànbìng ne
+en: The doctor is treating him
+es: El doctor lo está atendien
+
+answer
+
+1
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-21 06:17:54 -05]
+:END:
+
+*** 6
+:PROPERTIES:
+:CREATED: [2022-03-21 15:06:36 -05]
+:ID: b0969b54-ce10-4b24-b3c4-80d055a8c6ae
+:END:
+
+男：大卫回来了吗？
+pi: dàwèi huílái le ma
+en: Did David come back?
+es: ¿David regresó?
+
+女：没有，他还在教室学习呢。
+pi: méiyǒu, tā hái zài jiàoshì xuéxí ne
+en: no, he's still studying in the classroom
+es: no, sigue estudiando en el salón
+
+answer: c
+
+*** 7
+:PROPERTIES:
+:CREATED: [2022-03-21 15:06:39 -05]
+:ID: 32eef99a-a9dc-48ca-90c9-cb978a093e54
+:END:
+
+男：你家离学校远吗？
+pi: nǐ jiā lí xuéxiào yuǎn ma
+en: is your house far from school?
+es: ¿tu casa está lejos de la escuela?
+
+女：很远，坐公共汽车要一个多小时呢。
+pi: hěnyuǎn, zuò gōnggòngqìchē yào yī ge duō xiǎoshí ne
+en: too far, it takes more than one hour by bus
+es: muy lejos, toma más de una hora ir en bus
+
+answer: a
+
+*** 8
+:PROPERTIES:
+:CREATED: [2022-03-21 15:06:42 -05]
+:ID: 1384ec24-7494-44af-a0ea-7e086edcc242
+:END:
+
+男：今天晚上一起吃饭吧，给你过生日。
+pi: jīntiān wǎnshang yīqǐ chī fàn ba, gěi nǐ guò shēngrì
+en: this night let's go to eat to celebrate your birthday
+es: Esta noche vayamos a comer para celebrar tu cumpleaños
+
+女：好吧，七点半怎么样？
+pi: hǎoba, qī diǎn bàn zěnmeyàng
+en: ok, how about 7:30?
+es: ok ¿qué te parece a las 7:30?
+
+answer: e
+
+note
+
+I confused the pronunciation of 过 with the pronunciation of 我.
+
+*** 9
+:PROPERTIES:
+:CREATED: [2022-03-21 15:06:45 -05]
+:ID: f21af550-c229-439c-a136-a8fc85992545
+:END:
+
+女：在床上看书对眼睛不好。
+pi: zài chuáng shàng kàn shū duì yǎnjing bù hǎo
+en: reading in bed is bad for your eyes
+es: leer sobre la cama no es bueno para los ojos
+
+
+男：知道了，再看一会儿就睡觉。
+pi: zhīdào le, zài kàn yí huìr jiù shuìjiào
+en: I know, I'll read a little more and then go to sleep
+es: Lo sé, leeré un rato más y me ire a dormir
+
+answer: b
+
+notes
+
+一会儿 | yí huìr | a short moment, a little while | corto tiempo, un momento | ;
+
+眼睛 | yǎnjing | eye | ojo | noun ;
+
+知道 | zhīdào | to know | saber | verb ;
+
+Don't confuse 睛 and 腈.
+
+**** rat sound
+:PROPERTIES:
+:CREATED: [2022-06-24 15:48:28 -05]
+:END:
+
+*** 10
+:PROPERTIES:
+:CREATED: [2022-03-21 15:07:51 -05]
+:ID: f0d86196-5aa5-4597-b517-48856f1940b3
+:END:
+
+
+男：快起床吧，八点了。
+pi: kuài qǐchuáng ba, bā diǎn le
+en: get up, it's eight o'clock
+es: despierta, son las 8
+
+女：没关系，我再休息十分钟。
+pi: méiguānxi, wǒ zài xiūxi shí fēnzhōng
+en: it's okay, I'll take another ten minutes
+es: está bien, descansaré otros 10 minutos
+
+answer: f
+
+note
+
+I confused 起 with 吃
+
+I couldn't identify 床
+
+I didn't feel familiar with the pronunciation of "zh" in 钟, it sounds like "r" to me.
+
+I confused the pronunciation of zài that corresponded to 再 with 在.
+
+I confused the pronunciation "shí" that corresponds to 十 with the pronunciation "chī" that coresponds to 吃.
+
+I couldn't identify 休息
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-03-21 15:39:28 -05]
+:END:
+
+
+*** 11
+:PROPERTIES:
+:CREATED: [2022-03-21 15:43:34 -05]
+:ID: 3d3e9489-6346-4915-8c5a-a972c111737d
+:END:
+
+alternatives
+
+a
+
+睡觉 | shuìjiào | sleep | dormir ;
+
+b
+
+考试 | kǎoshì | test, exam | examen | noun ;
+
+c
+
+学习 | xuéxí | study | estudiar | verb ;
+
+dialogue
+
+男：大卫睡觉了吗？
+pi: dàwèi shuìjiào le ma
+en: Has david slept?
+es: ¿David ha dormido?
+
+女：他还没睡觉呢，他明天有考试。
+pi: tā hái méi shuìjiào ne, tā míngtiān yǒu kǎoshì
+en: He hasn't slept yet, he has an exam tomorrow
+es: No ha dormido aún, tiene un examen mañana
+
+问：大卫在做什么？
+pi: dàwèi zài zuò shénme
+en: What is David doing?
+es: ¿Qué está haciendo david?
+
+answer
+
+c
+
+*** 12
+:PROPERTIES:
+:CREATED: [2022-03-21 15:43:37 -05]
+:ID: 72a2b3d5-bfdc-4b66-b798-fe0141cee7a2
+:END:
+
+alternatives
+
+a
+
+路上 | lùshang | on the road | en camino | l
+
+b
+
+机场 | jīchǎng | airport | aeropuerto | noun ;
+
+c
+
+飞机上 | fēijī shang | on the plane | en el avión | noun ;
+
+dialogue
+
+男：你到机场了没有？
+pi: nǐ dào jīchǎng le méiyǒu
+en: have you arrived at the airport yet?
+es: ¿has llegado al aeropuerto?
+
+女：我现在在去机场的路上呢，二十分钟后就到。
+pi: wǒ xiànzài zài qù jīchǎng de lùshang ne, èrshí fēnzhōng hòu jiù dào
+en: I'm on my way to the airport, I'll be there in 20 minutes
+es: estoy de camino al aeropuerto, estaré allí en 20 minutos
+
+问：女的想去那儿？
+pi: nǚ de xiǎng qù nǎr
+en: where does the woman want to go?
+es: ¿a dónde quiere ir la mujer?
+
+answer
+
+b
+
+note
+
+e: I couldn't recognize 去 (qù)
+
+*** 13
+:PROPERTIES:
+:CREATED: [2022-03-21 15:43:37 -05]
+:ID: e123eede-ee24-46df-9d0a-6344c969d44a
+:END:
+
+alternatives
+
+a
+
+坐公共汽车
+pi: zuò qōngqòng qìchē
+en: public bus
+es: bus de transporte público
+lexical category: noun
+
+b
+
+自行车 | zìxíngchē | bike, bicycle | bicicleta | noun ;
+
+c
+
+出租车 | chūzūchē | taxi | taxi | noun ;
+
+dialogue
+
+男：你家离公司远吗？
+pi: nǐ jiā lí gōngsī yuǎn ma
+en: is your house far from the company?
+es: ¿tu casa está lejos de la compañia?
+
+女：我家离公司很远，我每天坐公共汽车去，要一个多小时呢。
+pi: wǒ jiā lí gōngsī hěn yuǎn, wǒ měitiān zuò gōnggòngqìchē qù, yào yī ge duō xiǎoshí ne
+en: my house is very far from the company, I take the bus to go every day, it takes more than an hour
+es: mi casa está muy lejos de la compañia, tomo el bus todos los días, toma más de una hora
+
+问：女的每天怎么去公司？
+pi: nǚ de měitiān zěnme qù gōngsī
+en: how does the woman get to the office every day?
+es: ¿cómo la mujer llega a la oficina todos los días
+
+answer
+
+a
+
+*** 14
+:PROPERTIES:
+:CREATED: [2022-03-21 15:43:37 -05]
+:ID: f1aaf2fe-0c62-4e59-b8bb-1ce3ec1cbed6
+:END:
+
+alternatives
+
+二月一号
+pi: èr yuè yī hào
+en: February 1st
+es: 1 de febrero
+
+二月七号
+pi: èr yuè qī hào
+en: February 7th
+es: 7 de febrero
+
+二月十四号
+pi: èr yuè shísì hào
+en: February 14th
+es: 14 de febrero
+
+dialogue
+
+男：今天是你的生日吧？
+pi: jīntiān shì nǐ de shēngrì ba
+en: today is your birthday, right?
+es: es tu cumpleaños ¿no?
+
+女：今天是二月七号，离我的生日还有一个星期呢。
+pi: jīntiān shì èr yuè qī hào, lí wǒ de shēngrì háiyǒu yī gè xīngqī ne
+es: today is February 7th, a week before my birthday
+en: hoy es 7 de febrero, una semana antes de mi cumpleaños
+
+
+问：女的的生日是几号？
+pi: nǚ de de shēngrì shì jǐ hào
+en: when is the birthday of the women?
+es: ¿cuándo es el cumpleaños de la mujer?
+
+answer
+
+c
+
+note
+
+I confused 七 with 十
+
+*** 15
+:PROPERTIES:
+:CREATED: [2022-03-21 15:43:37 -05]
+:ID: c72df934-e322-4534-9282-2131c3c0eac9
+:END:
+
+alternatives
+
+不远
+pi: bù yuǎn
+en: not far
+es: no lejos
+
+很远
+pi: hěn yuǎn
+en: very far
+es: muy lejos
+
+不太远
+pi: bú tài yuǎn
+en: not very far
+es: no muy lejos
+
+dialogue
+
+男：中午我们一起吃饭吧。
+pi: zhōngwǔ wǒmen yīqǐ chī fàn ba
+en: Let's eat together at lunch
+es: comamos juntos en la noche
+
+女：好，我家前面有一个饭馆，走几分钟就到了。
+pi: hǎo, wǒ jiā qiánmian yǒu yī gè fànguǎn, zǒu jǐ fēnzhōng jiù dào le
+en: ok, there's is a restaurant in front of my house, just a few minutes walk away
+es: ok, hay un restaurante al frente de mi casa, a pocos minutos a pie
+
+问：女的家离饭馆远吗？
+pi: nǚ de jiā lí fànguǎn yuǎn ma
+en: Is the woman's house far from the restaurant?
+es: ¿La casa de la mujer está lejos del restaurante?
+
+answer
+
+a
+
+notes
+
+I confused 所 (suǒ) with 走 (zǒu).
+
+I confused 十 with 几
+
+I confused 去 with 就
+
+I confused 中国 with 中午
+
+中午 | zhōngwǔ | noon | noche | noun ;
+
+* Reading
+:PROPERTIES:
+:CREATED: [2022-03-21 16:43:42 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-21 16:43:46 -05]
+:END:
+
+*** 16
+:PROPERTIES:
+:CREATED: [2022-03-24 22:42:54 -05]
+:END:
+
+今天的午饭太好吃了，我还想再来点儿呢。
+pi: jīntiān de wǔfàn tài hǎochī le, wǒ hái xiǎng zài diǎr ne
+en: today's lunch was so good, I want more
+es: el almuerzo de hoy fue tan bueno hoy, quiero más
+
+answer
+
+f
+
+*** 17
+:PROPERTIES:
+:CREATED: [2022-03-24 22:43:27 -05]
+:END:
+
+因为下雨，他不能踢足球了，所以有点儿不高兴。
+pi: yīnwèi xiàyǔ, tā bù néng tī zúqiú le, suǒyǐ yǒudiǎnr bù gāoxīng
+en: because it rained, he couldn't play football, so he was a little sad
+es: porque llovió, el no pudo jugar fútbol, el estaba un poco triste
+
+answer
+
+c
+
+*** 18
+:PROPERTIES:
+:CREATED: [2022-03-24 22:43:30 -05]
+:END:
+
+我已经到了，你还有多长时间能到这儿？
+pi: wǒ yǐjīng dào le, nǐ hái yǒu duō cháng shíjiān néng dào zhèr
+en: I already arrived. how long will it take you to get here?
+es: Ya llegué ¿en cuánto tiempo llegas?
+
+answer
+
+a
+
+*** 19
+:PROPERTIES:
+:CREATED: [2022-03-24 22:43:33 -05]
+:END:
+
+我最喜欢的运动是跑步。
+pi: wǒ zuì xǐhuan de yùndòng shì pǎobù
+en: my favourite sport is running
+es: mi deporte favorito es correr
+
+answer
+
+b
+
+*** 20
+:PROPERTIES:
+:CREATED: [2022-03-24 22:43:35 -05]
+:END:
+
+公司离我家很远，我每天出租车去公司。
+pi: gōngsī lí wǒ jiā hěn yuǎn, wǒ měitiān chūzūchē qù gōngsī
+en: the company is very far from my house, every day I take a taxi
+es: la empresa está muy lejos de mi casa, todos los días tomo taxi para ir
+
+answer
+
+e
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-21 16:43:49 -05]
+:ID: 8138d068-8683-4fdd-a68e-d15aa3e8640c
+:END:
+
+离
+教室
+就
+过
+贵
+公司
+
+*** 21
+:PROPERTIES:
+:CREATED: [2022-03-21 18:21:07 -05]
+:END:
+
+我家//学校不太远。
+离
+pi: wǒ jiā lí xuéxiào bú tài yuǎn
+en: My house is not far from the school
+es: Mi casa no está lejos de la escuela
+
+*** 22
+:PROPERTIES:
+:CREATED: [2022-03-21 18:21:17 -05]
+:END:
+
+北京到上海坐飞机一个多小时//到了。
+就
+pi: běijīng dào shànghǎi zuò fēijī yí ge duō xiǎoshí jiù dào le
+en: Beijing to Shanghai is just over an hour away by plane
+es: De Pekín a Shanghái hay poco más de una hora de distancia en avión
+
+*** 23
+:PROPERTIES:
+:CREATED: [2022-03-21 18:21:20 -05]
+:END:
+
+晚上十点多了，爸爸还在//工作呢。
+公司
+pi: wǎnshang shí diǎn duō le, bàba hái zài gōngsī gōngzuò ne
+en: it's more than 10 o'clock, my father is still in the office working
+es: son más de las 10 y mi papá sigue en la oficina trabajando
+
+*** 24
+:PROPERTIES:
+:CREATED: [2022-03-21 18:21:22 -05]
+:END:
+
+明天有考试，大为还在//学习呢。
+教室
+pi: míngtiān yǒu kǎoshì, dàwèi hái zài jiàoshì xuéxí ne
+en: tomorrow there's exam, David is still in the classroom studying
+es: mañana hay examen, David está en el salón estudiando
+
+*** 25
+:PROPERTIES:
+:CREATED: [2022-03-21 18:21:31 -05]
+:END:
+
+今天是你的生日，你想怎么//？
+过
+pi: jīntiān shì nǐ de shēngrì, nǐ xiǎng zěnme guó
+en: tomorrow is your birthday, how do you want to celebrate it?
+es: mañana es tu cumpleaños ¿cómo lo quieres celebrar?
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-03-21 16:43:50 -05]
+:END:
+
+*** 26
+:PROPERTIES:
+:CREATED: [2022-03-21 18:29:06 -05]
+:END:
+
+大卫明天有考试，所以还在教室学习呢。
+pi: dàwèi míngtiān yǒu kǎoshì, suǒyǐ hái zài jiàoshì xuéxí ne
+en: David has an exam tomorrow, so he's still in the classroom studying
+es: David tiene un examen mañana, entonces sigue en el salón estudiando
+
+大卫不在家。
+pi: dàwèi bú zài jiā
+en: David is not at home
+es: David no está en casa
+
+answer: 1
+
+*** 27
+:PROPERTIES:
+:CREATED: [2022-03-21 18:29:08 -05]
+:END:
+
+我在去机场的路上呢，还有十分钟就到了。
+pi: wǒ zài qù jīchǎng de lúshang ne, háiyǒu shí fēnzhōng jiù dào le
+en: I'm on my my way to the aiport, ten minutes away
+es: Estoy camino al aeropuerto, a diez minutos
+
+我到机场十分钟了。
+pi: wǒ dào jīchǎng shí fēnzhōng le
+en: I arrived to the airport ten minutes ago
+es: Llegué al aeropuerto hace 10 minutos
+
+answer: 0
+
+*** 28
+:PROPERTIES:
+:CREATED: [2022-03-21 18:30:37 -05]
+:END:
+
+离我家不远有一个饭馆，走几分钟就到了。
+pi: lí wǒ jiā bù yuǎn yǒu yī ge fànguǎn, zǒu jǐ fēnzhōng jiù dào le
+en: there's a restaurant not far from my home, just a few minutes walk away
+es: hay un restaurante no tan lejos de mi casa, a pocos minutos a pie
+
+饭馆离我家不远。
+pi: fànguǎn lí wǒ jiā bù yuǎn
+en: the restaurant is not far from my house
+es: el restaurante no está lejos de mi casa
+
+answer: 1
+
+*** 29
+:PROPERTIES:
+:CREATED: [2022-03-21 18:32:13 -05]
+:END:
+
+坐公共汽车太慢了，我们还是坐出租车吧。
+pi: zuò gōnggòngqìchē tài màn le, wǒmen háishì zuò chūzūchē ba
+en: the bus is very slow, let's take a taxi
+es: el bus es muy lento, tomemos un taxi
+
+坐出租车也很慢。
+pi: zuò chūzūchē yě hěn màn
+en: taking a taxi is also very slow
+es: tomar taxi es también lento
+
+answer: 0
+
+*** 30
+:PROPERTIES:
+:CREATED: [2022-03-21 18:35:36 -05]
+:END:
+
+从学校到机场，坐出租车要一个小时，我们八点走，可以吗？
+pi: cóng xuéxiào jīchǎng, zuò chūzūchē yào yì ge xiǎoshí, wǒmen bā diǎn zǒu, kěyǐ ma
+en: from school to the airport, taking a taxi takes one hour, we go out at eight o'clock, ok?
+es: del colegio al aeropuerto, el taxi se demora una hora, saldremos a las ocho, ok?
+
+他们要坐八点的飞机。
+pi: tāmen yào zuò bā diǎn de fēijī
+en: they're taking the eight o'clock plane
+es: ellos tomarán el avión de las ocho
+
+answer: 0
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-03-21 19:31:09 -05]
+:ID: 9ca80d5f-95f5-4aec-bbba-3ece916d47ed
+:END:
+
+还没有呢。
+pi: hái méiyǒu ne
+en: not yet
+es: aún no
+
+坐公共汽车太慢了。
+pi: zuò gōnggòngqìchē tài màn le
+en: taking the bus is too slow
+es: tomar bus es muy lento
+
+不远，我每天走路去学校。
+pi: bù yuǎn, wǒ měitiān zǒu lù qù xuéxiào
+en: not far, I walk to school every day
+es: no tan lejos, todos los días camino hacia la escuela
+
+我们家前面有一个小饭馆，走几分钟就到了，去那儿吃吧。
+pi: wǒmen jiā qiánmian yǒu yí ge xiǎo fànguǎn, zǒu jǐ fēnzhōng jiù dào le, qù nǎr chī ba
+en: there's a small restaurant in front of our hose, just a few minutes walk away, let's go there to eat
+es: hay un restaurante pequeño al frente de mi casa, a solo unos minutos a pie, vayamos ahí a comer
+
+他在哪儿呢？你看见他了吗？
+
+我在去机场的路上。
+pi: wǒ zài qù jīchǎng de lùshang
+en: I'm on my way to the airport
+es: estoy camino al aeropuerto
+
+
+
+*** 31
+:PROPERTIES:
+:CREATED: [2022-03-21 19:31:17 -05]
+:END:
+
+大卫回来了吗？
+pi: dàwèi huílai le ma?
+en: has david came back?
+es: ¿ya regresó David?
+
+answer: a
+
+*** 32
+:PROPERTIES:
+:CREATED: [2022-03-21 19:31:17 -05]
+:END:
+
+你现在在哪儿呢？
+pi: nǐ xiànzài zài nǎr ne
+en: where are you now?
+es: ¿dónde estás ahora?
+
+
+answer: f
+
+*** 33
+:PROPERTIES:
+:CREATED: [2022-03-21 19:31:18 -05]
+:END:
+
+你为什么不坐公共汽车去公司？
+pi: nǐ wèi shénme bú zuò gōnggòng qìchē qù gōngsī
+en: Why don't you take a bus to go to the company?
+es: ¿Por qué no tomas un bus para ir a la compañia?
+
+answer: b
+
+*** 34
+:PROPERTIES:
+:CREATED: [2022-03-21 19:31:19 -05]
+:END:
+
+我今天很累，不想做饭了，我们出去吃吧。
+pi: wǒ jīntiān hěn lèi, bù xiǎng zuò fàn le, wǒmen chūqu chī ba
+en: I'm very tired today, I don't want to cook food, let's go eat outside
+es: hoy estoy muy cansado, no quiero cocinar, salgamos a comer
+
+answer: d
+
+*** 35
+:PROPERTIES:
+:CREATED: [2022-03-21 19:31:20 -05]
+:END:
+
+你家离学校远不远？
+pi: nǐ jiā lí xuéxiào yuǎn bù yuǎn?
+es: is your home far from the school?
+es: ¿tu casa está lejos de la escuela?
+
+answer: c
+

@@ -1,0 +1,622 @@
+:PROPERTIES:
+:CREATED: [2022-03-20 18:09:05 -05]
+:END:
+
+* Warm-up
+:PROPERTIES:
+:CREATED: [2022-03-20 13:15:49 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-03-20 13:15:59 -05]
+:END:
+
+1. c
+
+考试 | kǎoshì | test, exam | examen | noun ;
+
+2. e
+
+商店 | shāngdiàn | shop, store | tienda | noun ;
+
+3. b
+
+机场 | jīchǎng | airport | aeropuerto | noun ;
+
+4. d
+
+路 | lù | road, path, way | ruta | noun ;
+
+5. e
+
+教室 | jiàoshì | classroom | salón de clase | noun ;
+
+6. f
+
+时间 | shíjiān | time | tiempo | noun ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-20 13:16:00 -05]
+:END:
+
+1
+
+自行车 | zìxíngchē | bike, bicycle | bicicleta | noun ;
+
+2
+
+公共汽车 | gōng gòng qì chē | public bus | bus de transporte público ;
+
+3
+
+出租车 | chūzūchē | taxi | taxi | noun ;
+
+4
+
+飞机 | fēijī | plane | avión | noun ;
+
+notes
+
+汽车
+
+* Text
+:PROPERTIES:
+:CREATED: [2022-03-20 13:23:12 -05]
+:END:
+
+** 1. 在家里 At home
+:PROPERTIES:
+:CREATED: [2022-03-20 13:23:48 -05]
+:ID: b908ee89-3dff-4dee-ad45-0e388edcdef6
+:END:
+
+Dialogue
+
+Ａ：大卫回来了吗？
+pi: dàwèi huílai le ma
+en: Is David back yet?
+es: ¿Ha vuelto ya David?
+
+Ｂ：没有，他还在教室学习呢？
+pi: méiyǒu, tā hái zài jiàoshì xuéxí ne
+en: No, he is still studying in the classroom?
+es: No, sigue estudiando en el aula...
+
+Ａ：已经九点多了，他怎么还在学习？
+pi: yǐjīng jiǔ diǎn duō le, tā zhěnme hái zài xuéxí
+en: It's after nine o'clock, why is he still studying?
+es: Son más de las nueve, ¿por qué sigue estudiando?
+
+Ｂ：明天有考试，他说今天要好好准备。
+pi: míngtiān yǒu kǎoshì, tā shuō jīntiān yào hǎohāo zhǔnbèi
+en: There is an exam tomorrow, he said he has to prepare well today.
+es: Mañana hay un examen y dijo que tenía que prepararse bien hoy.
+
+New words
+
+教室 | jiàoshì | classroom | salón de clase | noun ;
+
+** 2. 在机场的路上 | On the way to the airport
+:PROPERTIES:
+:CREATED: [2022-03-20 13:26:43 -05]
+:ID: 2979affd-1ced-42a2-8b72-bb3f98d8c14c
+:END:
+
+Dialogue
+
+Ａ：你现在哪儿呢？
+pi: nǐ xiànzài nǎr ne
+en: Where are you now?
+es: ¿Dónde estás ahora?
+
+Ｂ：在去机场的路上。你已经到了吗？
+pi: zài qù jīchǎng de lùshang. nǐ yǐjīng dàole ma
+en: On my way to the airport. Are you already there?
+es: De camino al aeropuerto. ¿Ya has llegado?
+
+Ａ：我下飞机了。你还有多长时间能到这儿？
+pi: wǒ xià fēijī le. nǐ háiyǒu duō cháng shíjiān
+en: I got off the plane. How long will it take you to get here?
+es: Voy a bajar del avión. ¿Cuánto tiempo tardarás en llegar?
+
+Ｂ：二十分钟就到。
+pi: èrshí fēnzhōng jiù dào
+en: Twenty minutes.
+es: Veinte minutos.
+
+New words
+
+机场 | jīchǎng | airport | aeropuerto | noun ;
+
+路 | lù | road, path, way | ruta | noun ;
+
+** 3. 在健身房 | In the gym
+:PROPERTIES:
+:CREATED: [2022-03-20 13:30:39 -05]
+:ID: 1c9517f8-1c39-4b01-a504-2f4845c4c2ff
+:END:
+
+Dialogue
+
+Ａ：你家离公司远吗？
+pi: nǐ jiā lí gōngsī yuǎn ma
+en: Is your home far from the company?
+es: ¿Su casa está lejos de la oficina?
+
+Ｂ：很远，坐公共汽车要一个多小时呢！
+pi: hěn yuǎn, zuò gōnggòngqìchē yào yī gè duō xiǎoshí ne
+en: It's very far, it takes more than an hour by bus!
+es: ¡Está muy lejos, se tarda más de una hora en autobús!
+
+Ａ：坐公共汽车太慢了，你怎么不开车？
+pi: zuò gōnggòngqìchē tài màn le, nǐ zěnme bù kāichē
+en: Take the bus is too slow, why don't you drive?
+es: El autobús es demasiado lento, ¿por qué no conduces?
+
+Ｂ：开车也不快，路上车太多了！
+pi: kāichē yě bú kuài, lùshang chē tài duō le
+en: Driving is not fast either, there are too many cars on the road!
+es: La conducción tampoco es rápida, ¡hay demasiados coches en la carretera!
+
+New  words
+
+离 | lí | to be away from | estar lejos de | verb ;
+
+公司 | gōngsī | company, firm | empresa, compañia | noun ;
+
+远 | yuǎn | far, distant | lejos | adjective ;
+
+公共汽车 | qōngqòng qìchē | public bus | bus de transporte público | noun ;
+
+小时 | xiǎoshí | hour | hora | noun ;
+
+慢 | màn | slow | lento | adjective ;
+
+快 | kuài | quick, fast | rápido | adjetive ;
+
+** 4. 在路上 | On the way
+:PROPERTIES:
+:CREATED: [2022-03-20 13:37:50 -05]
+:ID: 10b5bf96-6cc2-4e2a-b420-f23cc3b57d65
+:END:
+
+Dialogue
+
+Ａ：今天晚上我们一起吃饭吧，给你过生日。
+pi: jīntiān wanshàng wǒmen yīqǐ chī fàn ba, gěi nǐ guò shěnrì
+en: Vamos a cenar esta noche, por tu cumpleaños.
+es: Let's have dinner tonight, for your birthday.
+
+Ｂ：今天？离我的生日还有一个多星期呢！
+pi: jīntiān? lí wǒ de shēngrì háiyǒu yī gè duō xīngqī ne
+en: ¿Hoy? Todavía falta más de una semana para mi cumpleaños.
+es: Today? It's still more than a week before my birthday!
+
+Ａ：下个星期我要去北京，今天过吧。
+pi: xiàge xīngqī wǒ yào qù běijīng, jīntiān guò ba
+en: Me voy a Pekín la semana que viene, así que hagámoslo hoy.
+es: I'm going to Beijing next week, let's spend it today.
+
+Ｂ：好吧，离这儿不远有一个中国饭馆，走几分钟就到了。
+pi: hǎo ba, lí zhèr bù yuǎn yǒu yí ge zhōngguó fànguǎn, zǒu jǐ fēnzhōng jiù dào le
+en: Vale, hay un restaurante chino no muy lejos de aquí, está a unos minutos andando.
+es: Okay, there is a Chinese restaurant not far from here, just a few minutes' walk away.
+
+New words
+
+过 | guò | to pass (time), to spend (time), celebrate | pasar tiempo, celebrar | verb ;
+
+走 | zǒu | to walk | caminar | verb ;
+
+到 | dào | to arrive, to reach | llegar | verb ;
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-03-20 13:52:53 -05]
+:END:
+
+** The modal verb "还"
+:PROPERTIES:
+:CREATED: [2022-03-20 13:52:56 -05]
+:ID: 0fe867d5-c4d6-4311-8f04-6cfcd5f39556
+:END:
+
+It indicates the continuation of an action or state. Its negative form is "还没". For example:
+
+
+1. 八点了，他还在睡觉。
+pi: bā diǎn le, tā hái zài shuìjiào
+en: it's eight o'clock and he's still sleeping
+es: son las ocho de la tarde y todavía está durmiendo
+
+2. 你怎么还没吃饭？
+pi: nǐ zěnme hái méi chī fàn
+en: why haven't you eaten yet?
+es: ¿por qué no has comido todavía?
+
+3. 他还在教室学习呢。
+pi: tā hái zài jiàoshì xuéxí ne
+en: he's still studying in the classroom.
+es: él sigue estudiando en el aula.
+
+** The adverb of time "就"
+:PROPERTIES:
+:CREATED: [2022-03-20 14:18:10 -05]
+:END:
+
+It is used for emphasis, indicating that the speaker thinks something happened early or went fast and well. For example,
+
+|---------+------------------------------|
+| Subject | 就…了"                       |
+|---------+------------------------------|
+| 同学们  | 八点半就来教室了。           |
+| 我      | 坐飞机一个半小时就到北京了。 |
+| 我      | 二十分钟就到。               |
+|---------+------------------------------|
+
+同学们八点半就来教室了。
+pi: tóngxuémen bā diǎn bàn jiù lái jiàoshì le
+en: The students came to class at 8:30.
+es: Los alumnos llegaron a clase a las 8:30.
+
+我坐飞机一个半小时就到北京了。
+pi: wǒ zuò fēijī yī gè bàn xiǎoshí jiù dào běijīng le
+en: I arrived in Beijing in an hour and a half by plane.
+es: Llegué a Pekín en una hora y media de avión.
+
+我二十分钟就到。
+pi: wǒ èrshí fēnzhōng jiù dào
+en: I'll be there in twenty minutes.
+es: Llego en veinte minutos.
+
+When we use 到, we mean that he's earlier than we expected.
+
+他明天就到了。
+
+id:e0cac64a-c618-4016-be25-254851e01c25 mentioned that this 了 is used because of the past tense. The first example and the second example are in past tense.
+
+** The verb 离
+:PROPERTIES:
+:CREATED: [2022-03-20 14:26:09 -05]
+:END:
+
+It indicates the distance from a place, moment or purpose. For example:
+
+
+|------+----+----------+--------------------|
+| A    | 离 | B        | …                  |
+|------+----+----------+--------------------|
+| 我家 | 离 | 学校     | 很远。              |
+| 学校 | 离 | 机场     | 有20多公里。       |
+|      | 离 | 我的生日 | 还有一个多星期呢！ |
+|------+----+----------+--------------------|
+
+我家离学校很远。
+pi: wǒ jiā lí xuéxiào hěn yuǎn
+en: My home is far from the school.
+es: Mi casa está muy lejos de la escuela.
+
+学校离机场有20多公里。
+pi: xuéxiào lí jīchǎng yǒu 20 duō gōnglǐ
+en: The school is more than 20 km from the airport.
+es: La escuela está a más de 20 km del aeropuerto.
+
+离我的生日还有一个多星期呢！
+pi: jí wǒ de shēngrì hái yǒu yī gè duō xīngqī ne
+en: It's still more than a week before my birthday!
+es: Todavía falta más de una semana para mi cumpleaños.
+
+** The modal particle "呢"
+:PROPERTIES:
+:CREATED: [2022-03-20 14:33:16 -05]
+:END:
+
+It is used at the end of a declarative sentence or after a sentence with an adjectival or verbal predicate to confirm a fact and convince someone in an exaggerative mood. For example:
+
+八点上课，时间还早呢。
+pi: bā diǎn shàngkè, shíjiān hái zuǒ ne
+en: Classes start at 8:00. It's still early.
+es: Las clases comienzan a las ocho, todavía es temprano.
+
+医院离我们这儿还远呢。
+pi: yīyuàn lí wǒmen zhèr hái yuǎn ne
+en: The hospital is still far away from us.
+es: El hospital está muy lejos de aquí.
+
+坐公共汽车要一个多小时呢！
+pi: zuò gōnggòngqìchē yào yī gè duō xiǎoshí ne
+en: It's over an hour by bus!
+es: ¡Está a más de una hora en autobús!
+
+** The modal particlee "呢"
+:PROPERTIES:
+:CREATED: [2022-03-20 14:25:59 -05]
+:END:
+
+* Exercises
+:PROPERTIES:
+:CREATED: [2022-03-20 14:56:34 -05]
+:END:
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-03-20 15:06:54 -05]
+:END:
+
+1
+
+大卫在哪儿学习呢？
+pi: dàwèi zài nǎr xuéxí ne
+en: Where is David studying?
+es: ¿Dónde está estudiando David?
+
+大卫在教室学习。
+pi: dàwèi zài jiàoshì xuéxí
+en: David is in the classroom studying
+es: David está en el salón estudiando
+
+2
+
+九点多了，大卫为什么还不休息？
+pi: jiǔ diǎn duō le, dàwèi wèi shénme hái bù xiūxi
+en: It's after nine o'clock, why isn't David resting?
+es: Son mas de las 9 ¿por qué David no está descansando?
+
+明天他有考试。
+pi: míngtiān tā yǒu kǎoshì
+en: he has an exam tomorrow
+es: tiene un examen mañana
+
+3
+
+坐公共汽车一个小时能到公司吗？
+pi: zuò gōnggòng qìchē yí ge xiǎoshí néng dào gōngsī ma
+en: can I get to the office in an hour by bus?
+es: ¿puedo llegar a la oficina en una hora en bus?
+
+
+不能，坐公共汽车要一个多小时呢！
+pi: bù néng, zuō gōnggòngqìchē yào yí ge duō xiǎoshí ne
+en: No, it takes over an hour by bus!
+es: No, toma más de una hora
+
+4
+
+公司离家很远，她为什么不开车？
+pi: gōngsī lí jiā hě yuǎn, tā wèi shénme bù kāi chē?
+en: The office is far from home, why doesn't she drive?
+es: La oficina está lejos de casa ¿por qué no conduce?
+
+她觉得路有车太多了，所以开车不是快。
+pi: tā juéde lù yǒu kāi tài duō le, suǒyǐ kāichē bú shì kuài
+en: She thinks the road has too many cars, so driving is not fast.
+es: Cree que hay muchos carros en la ruta, entonces manejar no es rápido
+
+5
+
+今天不是她的生日，为什么她朋友要今天给她过生日？
+pi: jīntiān bú shì tā de shēngrì, wèi shénme tā péngyǒu yào jīntiān gěi tā guò shēngrì
+en: today is not her birthday, why her friend wants to celebrate her birthday today?
+es: hoy no es su cumpleaños ¿por qué su amigo quiere celebrar su cumpleaños hoy?
+
+因为她朋友下个星期要去北京。
+pi: yīnwèi tā péngyǒu xiàge xīngqī yào qù běijīng
+en: because her friend is going to Beijing next week
+es: porque su amigo irá a Beijing la siguiente semana
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-03-20 17:55:46 -05]
+:END:
+
+Describe the pictuers using the newly-learned language points and words.
+
+两点多了，她还（在睡觉）。
+两点多了，她还在睡觉。
+pi: liǎng diǎn duō le, tā hái zài shuìjiào
+en: It's over 2:00 and she's still sleeping
+es: Son más  de las 2:00 y ella sigue durmiendo
+
+下课了，同学们还在（准备）。
+下课了，同学们还在准备。
+pi: xiàkè le, tóngxuémen hái zài zhǔnbèi
+en: the class is over, they are still preparing
+es: la clase termino, pero ellos se siguen preparando
+
+离（我的生日）还有一个多星期呢。
+离我的生日还有一个多星期呢。
+pi: lí wǒ de shēngrì hái yǒu yí ge duō xīngqī ne
+en: my birthday is just over a week away
+es: todavía falta más de 1 semana para mi cumpleaños
+
+我家（离）学校不太远。
+我家离学校不太远。
+pi: wǒ jiā lí xuéxiào bú tài yuǎn
+en: my house is not too far from the company
+es: mi casa no está muy lejos de la oficina
+
+* Pronunciation
+:PROPERTIES:
+:CREATED: [2022-03-20 21:14:26 -05]
+:END:
+
+** Basic Intonations of Chinese Sentences
+:PROPERTIES:
+:CREATED: [2022-03-20 21:18:38 -05]
+:END:
+
+There are two kinds of basic intonations in Chinese - the rising and the faling. Generally speaking, interrogative sentences have a rising intonation and declarative sentences have a falling intonation. For example:
+
+他姓张？
+pi: tā xìng zhāng
+en: His surname is Zhang?
+es: Su apellido es Zhang?
+
+他姓张。
+pi: tā xìng zhāng
+en: His surname is Zhang.
+es: Su apellido es Zhang.
+
+他不喜欢喝啤酒？
+pi: tā bù xǐhuan hē píjiǔ
+en: He doesn't like to drink beer?
+es: ¿no le gusta tomar cerveza?
+
+他不喜欢喝啤酒。
+pi: tā bù xǐhuan hē píjiǔ
+en: He doesn't like to drink beer.
+es: No le gusta tomar cerveza.
+
+* Characters
+:PROPERTIES:
+:CREATED: [2022-03-20 21:16:52 -05]
+:END:
+
+** 汉字偏旁 Chinese radicals
+:PROPERTIES:
+:CREATED: [2022-03-20 21:18:50 -05]
+:END:
+
+偏旁 | piān páng | chinese character component | componente de caracter chino | noun ;
+
+
+The radical "TODO", called the "double-person" radical, is usually related to the act of walking.
+
+行 | xíng | to walk | caminar | verb ;
+
+往 | wǎng | to go | ir | verb ;
+
+The radical "TODO" is usually related to the act of whipping or beating.
+
+放 | fàng | to let go, to set free | dejar ir | verb ;
+
+收 | shōu | to receive, to accept | recibir, aceptar | verb ;
+
+* Application
+:PROPERTIES:
+:CREATED: [2022-03-20 21:24:21 -05]
+:END:
+
+** Pair Work
+:PROPERTIES:
+:CREATED: [2022-03-20 21:24:40 -05]
+:END:
+
+Work in pairs. Talk about the places where you often go and how you go there.
+
+Example
+
+机场离我家非常远，我坐出租车去机场。
+
+
+学孝 | xuéxiào | school | escuela | noun ;
+
+我学校离我家很远，骑车要五十个多分钟。
+pi: wǒ xuéxiào lí wǒ jiā hěn yuǎn, qíchē yào wǔshí gè duō fēnzhōng
+es: My school is very far from my house, it takes more than 50 minutes by bike.
+en: Mi escuela está muy lejos de mi casa, me demoro más de 50 minutos en bicicleta.
+
+我坐公共汽车要一个多小时去我的学校。
+pi: wǒ zuò gōnggòngqìchē yào yī gè duō xiǎoshí qù wǒ de xuéxiào
+en: It takes me over an hour to get to my school by bus.
+es: Tardo más de una hora en llegar a mi colegio en autobús.
+
+我坐公共骑车去学校要一个多小时。
+pi: wǒ zuò gōnggòngqíchē qù xuéxiào yào yí ge duō xiǎoshí
+en: It takes me more than an hour to go to school by public bicycle
+es: Tardo más de una hora en llegar a la escuela en una bicicleta pública
+
+饭馆 | fànguǎn | restaurant | restaurante | noun ;
+
+farther first, mother second.
+
+我爸妈坐出租车去他们最喜欢的饭馆。
+pi: wǒ bàmā zuò chūzūchē qù tāmen de zuì xǐhuan fànguǎn
+en: My mom and dad take a cab to their favorite restaurant.
+es: Mi madre y mi padre toman un taxi para ir a su restaurante favorito.
+
+晚
+
+商店 | shāngdiàn | shop, store | tienda | noun ;
+
+我家旁边有一个商店，所以我不用走很多路。
+pi: wǒ jiā pángbian yǒu yī gè shāngdiàn, suǒyǐ wǒ bù yòng zǒu hěnduō lù
+en: There is a store next to my house, so I don't have to walk a lot.
+es: Hay una tienda al lado de mi casa, así que no tengo que caminar mucho.
+
+医院 | yīyuàn | hospital | hospital | noun ;
+
+According to id:e0cac64a-c618-4016-be25-254851e01c25, 个 is not needed for 分钟。
+
+我家离医院不远，我要走三分钟去医院。
+pi: wǒ jiā lí yīyuàn bù yuǎn, wǒ yào zǒu sān gè fēnzhōng qù yīyuàn
+en: My house is not far from the hospital, I have to walk three minutes to the hospital.
+es: Mi casa no está lejos del hospital y tengo que caminar tres minutos para llegar.
+wwwwww
+公司 | gōngsī | company, firm | empresa, compañia | noun ;
+
+我爸爸坐公共汽车去公司要90分钟。
+pi: wǒ bàba zuò gōnggòngqìchē qù gōngsī yào 90 fēnzhōng
+en: It takes my dad 90 minutes to get to the office by bus.
+es: Mi padre tarda 90 minutos en llegar a la oficina en autobús.
+
+我家离我妈妈的商店有一点儿远，她每天要坐出租车。
+pi: wǒ jiā lí wǒ māma shàngdian yǒu yīdiǎr yuǎn, tā měitiān yào zuò chūzūchē
+en: My house is a little bit far from my mom's store, she has to take a cab every day.
+es: Mi casa está un poco lejos de la tienda de mi madre, ella tiene que coger un taxi todos los días.
+
+机场 | jī chǎng | airport | aeropuerto | ;
+
+我家离机场非常远，坐出租车要三十多分钟。
+pi: wǒ jiā lí jīchǎng fēicháng yuǎn, zuò chūzūchē yào sànshí gè duō fēnzhōng
+en: My home is very far from the airport, it takes more than 30 minutes by cab.
+es: Mi casa está muy lejos del aeropuerto, toma más de treinta minutos en taxi.
+
+飞机 | fēijī | plane | avión | noun ;
+
+我觉得秘鲁离中国很远，坐飞机要十多个小时
+pi: wǒ juéde bìlǔ lí zhōngguó hěn yuǎn, zuò fēijī yào shí duō gè xiǎoshí
+en: I think Peru and China are very far, it takes more than 10 hours by plane.
+es: Creo que Perú y China están muy lejos, viajar en avión toma más de 10 horas
+
+自行车 | zìxíngchē | bike, bicycle | bicicleta | noun ;
+
+people in that place do something
+
+我家离公园有一点儿远，晚上有些人在那个公园骑自行车。
+pi: wǒ jiā lí gōngyuán yǒu yīdiǎr yuǎn, wǎnshàng yǒu xiē rén zài nǎgè gōngyuán qǐ zìxíngchē
+en: My house is a little far from the park, some people ride bicycles in that park.
+es: Mi casa está un poco lejos del parque y algunas personas van en bicicleta por ese parque.
+
+你说了你总是骑自行车去公司。
+pi: nǐ shuō le nǐ zǒngshì qízìxíngchē qù gōngsī
+en: You said you always ride your bike to the office.
+es: Dijiste que siempre vas en bicicleta a la oficina.
+
+出租车 | chūzūchē | taxi | taxi | noun ;
+
+我有时候坐出租车上学。
+pi: wǒ yǒushíhou zuò chūzūchē shàngxué
+en: I sometimes take a taxi to go to a school
+es: A veces tomo taxi para ir a la escuela.
+
+公共汽车 | qōngqòng qìchē | public bus | bus de transporte público | noun ;
+
+我朋友每天要坐公共汽车去大学。
+pi: wǒ péngyǒu měitiān zuò gōnggòngqìchē zuò qù dàxué
+en: My friend has to take the bus to the university every day.
+es: Mi amigo tiene que coger el autobús para ir a la universidad todos los días.
+
+走路 | zǒulù | to go on foot, to walk | caminar | verb ;
+
+我家离商店不远，我每天走路去商店买面包。
+pi: wǒ jiā lí shāngdiàn bù yuǎn, wǒ měitiān zǒulù qù shāngdiàn mǎi miànbāo
+en: My house is not far from the store I walk to the store every day to buy bread.
+es: Mi casa no está lejos de la tienda, todos los días voy caminando a comprar pan.
+
+我妈妈不喜欢走路，但是我觉得走路对身体好。
+pi: wǒ māma bù xǐhuan zǒulù, dànshì wǒ juéde zǒulù duì shēntǐ hǎo
+en: My mom doesn't like to walk, but I think it's good for your health.
+es: A mi madre no le gusta caminar, pero creo que es bueno para la salud.
