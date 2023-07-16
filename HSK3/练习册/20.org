@@ -1,0 +1,1441 @@
+:PROPERTIES:
+:CREATED: [2022-06-10 21:09:20 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: 3d21dee8-b020-41d5-b42e-77c310a9ee4e
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: 126d0ce5-d2ad-42fd-83b2-6549284746b9
+:END:
+
+女：奶奶喜欢那个新买的照相机吗？
+男：喜欢，她说很好用，她很满意。
+
+answer
+
+f
+
+notes
+
+
+
+*** 2
+:PROPERTIES:
+:ID: 586635a2-61a2-45a3-9ef7-a9e1d3ae6300
+:END:
+
+男：我来洗碗筷，你去看电视吧。
+女：不用，你把桌子上的鱼放冰箱里就可以了。
+
+answer
+
+c
+
+notes
+
+筷（子） | kuai4 (zi) | chopsticks ;
+
+*** 3
+:PROPERTIES:
+:ID: 323b34ef-6e9f-4523-a8a2-9d22d19b7101
+:END:
+
+女：北方人是不是都像你一样这么喜欢吃面？
+男：不一定，东北人就更爱吃米饭。
+
+answer
+
+b
+
+notes
+
+
+
+*** 4
+:PROPERTIES:
+:ID: 05ae0e02-2085-4bda-9a2a-7b23104ba866
+:END:
+
+女：今天风太大了，伞都要被刮走了。
+男：真希望明天天气能好点儿。
+
+answer
+
+e
+
+notes
+
+
+
+*** 5
+:PROPERTIES:
+:ID: b659c45f-b8ee-41b3-996b-fab71d0e39cc
+:END:
+
+女：你怎么这么难过啊？怎么了？
+男：你昨天给我买的蛋糕被弟弟和妹妹吃了。
+
+answer
+
+a
+
+notes
+
+
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: 1d806872-0394-4091-9571-637d88985629
+:END:
+
+春天来了，公园里的花儿都开了，多么漂亮啊，如果带上照相机就好了。
+
+他没带照相机。
+
+answer
+
+1
+
+notes
+
+**** ANSWERED [#B]
+:PROPERTIES:
+:CREATED: [2022-12-16 19:53:27 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 20:32]
+- State "UNANSWERED" from              [2022-12-16 Fri 19:53]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 20:31:26 -05]
+:END:
+
+春天来了，公园里的花儿都开了，多么漂亮啊，➡️如果带上照相机就好了⬅️。
+
+Does the sentence "如果带上照相机就好了" mean "If I had brought my camera, it would have been better".
+
+Is this the general form "如果<<动词>>就好了"?
+
+***** Answer                                         :come:bak:come_back:
+:PROPERTIES:
+:CREATED: [2022-12-16 20:31:31 -05]
+:END:
+
+Yes
+
+*** 7
+:PROPERTIES:
+:ID: ed229ee3-0881-4169-8008-07dddf313961
+:END:
+
+今天中午在商店买东西时，服务员说我这张信用卡不能用了，我打算下午去银行问问是怎么回事。
+
+那家店不能用信用卡。
+
+answer
+
+0
+
+notes
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-06-10 21:16:51 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 19:16]
+- State "UNANSWERED"   from              [2022-06-10 Fri 21:18]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 19:08:33 -05]
+:END:
+
+Does this question have to answers?
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 19:08:35 -05]
+:END:
+
+The answer to this question can be "correct" or "incorrect" under different perspectives. However, the answer "correct" has more relevance.
+
+Under the perspective of the man, the shop can't use credit cards because it didn't accept his card. He might incorrectly think that the shop is having problems so it won't accept no cards.
+
+Under the perspective that the man's card has a problem, the statement that the shop can't use cards is incorrect.
+
+In the dialogue, the man mentions that he will go to the bank to check what has happened. This indicates us that he has assumed that he believes that his card has a problem and not the store, so we can conclude that the statement is correct.
+
+*** 8
+:PROPERTIES:
+:ID: fd174086-9470-4eb2-bc71-c4c72967a3e2
+:END:
+
+难过的时候我们应该做一些真正能使自己快乐的事，像听音乐，玩儿游戏或者去运动，这些都是不错的选择。
+
+不高兴时做什么都不好。
+
+answer
+
+0
+
+notes
+
+
+
+*** 9
+:PROPERTIES:
+:ID: afaf65ea-ff3b-4fdd-a279-f6174c71ea99
+:END:
+
+爱可以是爸爸妈妈对孩子的照顾，可以时丈夫对妻子的关心，也可以时你的对朋友的帮助。
+
+爱有很多种。
+
+answer
+
+1
+
+notes
+
+关心 | guan1 xin1 | to be concerned about, to care for, to care about ;
+
+*** 10
+:PROPERTIES:
+:ID: f92335d2-1dbd-4ddf-b4c4-818970a21e13
+:END:
+
+你别难过了，我们一起帮你想办法。先把这个最难的问题解决了，其他问题就容易多了。
+
+问题已经被他们解决了。
+
+answer
+
+0
+
+notes
+
+
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: 5fef9c4e-0c2a-4e5c-ae70-fdaefd0c1766
+:END:
+
+男：妹妹，明天是你的生日，我给你买了本汉语词典。
+女：你怎么知道我在学汉语？我还一直觉得你不关心我的学习呢。
+
+关于女的，可以知道什么？
+
+alternatives
+
+今天过生日
+买了本字典
+正在学汉语
+
+answer
+
+c
+
+notes
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-06-10 21:25:14 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 20:14]
+- State "UNANSWERED"   from              [2022-06-10 Fri 21:25]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 20:13:48 -05]
+:END:
+I'm aware that the translation of 字典 and 词典 is character dictionary and words dictionary, respectively. However, I would like to know what makes those dictionaries unique?
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 20:13:50 -05]
+:END:
+
+字典 is centered about the characters: it shows words that contain characters. The emphasis is different.
+
+英汉字典
+
+*** 12
+:PROPERTIES:
+:ID: 0695d024-57ba-4094-abbc-8023076a1f0d
+:END:
+
+男：放心，你就听我的吧，只有往东走才能到国家公园。
+女：但是从地图上看，走南边那条路才对。我们还是去年站问问那些等车的人吧。
+
+男的觉得到国家公园怎么走？
+
+alternatives
+
+往东走
+往南走
+往车站那边走
+
+answer
+
+a
+
+notes
+
+
+
+*** 13
+:PROPERTIES:
+:ID: 40044709-a75e-4d91-b2e5-f825cfb6fbd3
+:END:
+
+男：快点儿，拿上帽子走吧，明天你再找书。
+女：我没找书，出去玩儿还是得带上地图啊，被你放哪儿了？
+
+女的在找什么？
+
+alternatives
+
+帽子
+书
+地图
+
+answer
+
+c
+
+notes
+
+
+
+*** 14
+:PROPERTIES:
+:ID: 5e655808-e1ff-4fcb-a051-14ff28ac771e
+:END:
+
+**** 对话
+
+女：看见我的运动服了吗？怎么找不到了？
+男：是不是被笑笑穿走了？她刚才说要出去跑步。
+
+**** 问题
+
+关于女的，可以知道什么？
+
+**** 选择
+
+***** a
+
+在找运动服
+
+***** b
+
+准备去跑步
+
+***** c
+
+穿好了运动服
+
+****** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-16 19:19:26 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 20:12]
+- State "UNANSWERED" from              [2022-12-16 Fri 19:19]
+:END:
+
+******* Question
+:PROPERTIES:
+:CREATED: [2022-12-16 19:19:43 -05]
+:END:
+
+Is "She put on clothes (past tense)" the translation of the sentence "穿好了运动服"?
+
+#+begin_src org
+对话
+女：看见我的运动服了吗？怎么找不到了？
+男：是不是被笑笑穿走了？她刚才说要出去跑步。
+问题：关于女的，可以知道什么？
+选择Ａ：在找运动服
+选择Ｂ：准备去跑步
+选择Ｃ：➡️穿好了运动服⬅️
+#+end_src
+
+******* Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 19:22:28 -05]
+:END:
+
+No, it refers to the current state.
+
+**** 答案
+a
+
+***** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-06-10 21:35:55 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 19:32]
+- State "UNANSWERED"   from              [2022-06-10 Fri 21:36]
+:END:
+
+****** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 19:17:12 -05]
+:END:
+
+Can A and B be both acceptable answers for this exercise?
+
+****** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 19:17:14 -05]
+:END:
+
+We can conclude from the dialogue that alternative A is correct. We can't do the same for alternative B because the dialogue doesn't mention which sport the woman is going to practice, so it is not a valid answer.
+*** 15
+:PROPERTIES:
+:ID: 643a40da-9850-4c0d-9ee2-f21f72e3eeb0
+:END:
+
+**** 对话
+
+男：我的房卡找不到了，你怎么进去啊？
+女：你给服务员打个电话，他们会帮你想办法解决的。
+
+***** 对我生词
+
+房卡 / fang2 ka3 / room card (in a hotel) ;
+
+**** 问题
+
+男的要做什么？
+
+**** 选择
+
+去找服务员
+去拿房卡
+回房间去
+
+**** 答案
+
+c
+
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: c1d4eda1-6005-43fa-a175-f1bc1e6162cc
+:END:
+
+男：你这么着急，是要去哪儿啊？
+女：我去银行，我的信用卡该还钱了。你去哪儿？
+男：我去教室上课。
+女：这个照相机是小晴的，请你帮我还给她吧。
+
+男的要去做什么？
+
+alternatives
+
+去银行还钱
+去教室上课
+去借照相机
+
+answer
+
+b
+
+notes
+
+借 | jie4 | to borrow, to lend ;
+
+**** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-06-10 21:39:25 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 20:18]
+- State "UNANSWERED"   from              [2022-06-10 Fri 21:39]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 19:16:08 -05]
+:END:
+
+"我的信用卡该还钱了？"是什么意思？
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 19:16:04 -05]
+:END:
+
+The translation is "I need to pay the money I used from my credit card."
+
+借记卡 debit
+信用卡 credit
+
+*** 17
+:PROPERTIES:
+:ID: 3a557172-920e-417e-b934-517e2c862750
+:END:
+
+男：小云，这个照相机是你要找的吗？
+女：是啊，太谢谢你了。刚才我觉得找不到了，还很难过，你在哪儿找到的？
+男：我是在教室找到的，一定是被你忘在教室里了。
+女：真奇怪，教室我也找过了，怎么没发现呢？
+
+女的为什么难过？
+
+alternatives
+
+找不到照相机
+忘了去教室
+男的不帮她找
+
+answer
+
+a
+
+notes
+
+
+*** 18
+:PROPERTIES:
+:ID: ed4005d2-5604-484f-bbb3-3667d6d368e8
+:END:
+
+女：我觉得这样做，客人是不会满意的。
+男：那你有更好的办法来解决这个问题吗？
+女：我觉得可以给客人还一个房间，她离开时，我们还可以找车送他去机场。
+男：行，那你去帮他换张房卡吧。
+
+根据这段话，可以知道什么？
+
+alternatives
+
+客人已经离开了
+客人对房间很满意
+客人可以换个房间
+
+answer
+
+c
+
+notes
+
+机场 | ji1 chang3 | airport ;
+根据 | gen1 ju4 | according to, based on ;
+段话 | duan4 hua4 ;
+
+N**** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-12-16 19:33:12 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 20:21]
+- State "UNANSWERED" from              [2022-12-16 Fri 19:33]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 19:33:14 -05]
+:END:
+
+“房子”和“房间”有什么不一样？
+
+房子
+房间
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 19:33:31 -05]
+:END:
+
+房子 house (bigger) 屋子 house (smaller)
+房间 room
+
+To visitors to my home: 快进屋坐
+
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-06-10 21:46:23 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 20:27]
+- State "UNANSWERED"   from              [2022-06-10 Fri 21:46]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 19:34:20 -05]
+:END:
+
+What's the meaning of “段话”? If it means "dialogue", what's the difference with “对话”? "对话" also means "dialogue".
+
+
+女：我觉得这样做，客人是不会满意的。
+男：那你有更好的办法来解决这个问题吗？
+女：我觉得可以给客人还一个房间，她离开时，我们还可以找车送他去机场。
+男：行，那你去帮他换张房卡吧。
+
+问题：根据这➡️段话⬅️，可以知道什么？
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 19:34:23 -05]
+:END:
+
+The range of 段话 is wider than 对话。段话 can mean paragraph, article or dialogue, while 对话 is just dialogue
+
+*** 19
+:PROPERTIES:
+:ID: 34af8ae4-03ff-4cdc-89f7-706fbb4f8411
+:END:
+
+男：电梯来了，您小心点儿。您的脚怎么样了？
+女：谢谢你送我回来。脚好一些了，只要再休息几天，就能跟你们出去跳舞了。
+男：那太好了，只有您来了，我们才能跳得更快了。
+女：跟你们一起玩儿我也更快乐，我多么希望早点儿好啊。
+
+关于女的，可以知道什么？
+
+alternatives
+
+不能再跳舞了
+脚就快好了
+坐电梯不小心
+
+answer
+
+b
+
+notes
+
+
+
+*** 20
+:PROPERTIES:
+:ID: ba177790-50e8-476e-83a6-5cec2994dcd1
+:END:
+
+男：小姐，这双黑色的皮鞋多少钱？有43号的吗？
+女：六百八，帮您找双43号的试试？
+男：这么贵，是真牛皮的吗？
+女：当然了，只有真的好牛皮做出来的鞋，穿着才舒服。
+
+他们最可能在哪儿？
+
+alternatives
+
+饭馆
+商店
+动物园
+
+answer
+
+b
+
+notes
+
+牛皮 | niu2 pi2 | leather | cuero ;
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: 0817bc80-76e2-41b8-b1c7-be71f8385381
+:END:
+
+*** 选择
+
+**** a
+
+真为你高兴！希望你以后能有更好的成绩。
+
+***** 对我生词
+
+真 / zhen1 / really ;
+为 / wei4 / for ;
+成绩 / cheng2 ji4 / grade, achievement, performance records ;
+
+**** b
+
+在中国，北方的冬天非常冷，特别是东北。
+
+**** c
+
+只有想办法让客人满意，才能解决这个问题。
+
+***** 对我生词
+
+解决 / jie3 jue2 / to solve ;
+
+**** d
+
+先生，等等，您把照相机忘再车上了。
+
+**** e
+
+当然。我们先坐公共汽车，然后换地铁。
+
+**** f
+
+我的照相机被弟弟借走了。
+
+*** 21
+:PROPERTIES:
+:ID: 16bf5957-adc9-4227-88cb-07d9dcf1fdf4
+:END:
+
+**** 内容
+
+谢谢老师，我一定会努力的。
+
+**** 答案
+
+a
+
+*** 22
+:PROPERTIES:
+:ID: 1462aa98-3fc6-4b76-96bc-8ea4aa139f03
+:END:
+
+*** 内容
+
+你的照相机借给我用几天吧？
+
+*** 答案
+
+f
+
+*** 23
+:PROPERTIES:
+:ID: 64abd883-1119-4792-aa56-9b19b3ac91c2
+:END:
+
+**** 内容
+
+刚才太着急了，真是谢谢你。
+
+**** 答案
+
+c
+
+*** 24
+:PROPERTIES:
+:ID: ff8390ae-c91d-472f-80f5-d758aacdb588
+:END:
+
+**** 内容
+
+我们的客人越来越少，这真是一个问题啊。
+
+**** 答案
+
+c
+
+*** 25
+:PROPERTIES:
+:ID: 91ead853-f6db-4d2f-853a-91363f09feb7
+:END:
+
+**** 内容
+
+去年冬天我刚到那儿就感冒了。
+
+**** 答案
+
+b
+
+**** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-10-03 05:37:12 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 20:28]
+- State "UNANSWERED"   from              [2022-10-03 Mon 05:37]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-10-03 05:37:50 -05]
+:END:
+
+Ａ：去年冬天我刚到那儿就感冒了。
+Ｂ：在中国，北方的冬天非常冷，➡️特别是东北⬅️。
+
+在这个对话，小括号内容的英语翻译是"A"?
+In this dialogue, the translation of "特别是东北" is "especially in the northeast". Is it correct?
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 19:39:03 -05]
+:END:
+
+Yes, 特别 means "specially'.
+
+我很喜欢水果，特别是苹果。
+
+
+
+** 2
+:PROPERTIES:
+:ID: c1d9ef92-99a3-4704-a63d-603f84eda857
+:END:
+
+alternatives
+
+试
+碗
+只有
+信用卡
+声音
+房卡
+
+notes
+
+只有 | zhi3 you3 | only ;
+
+*** 26
+:PROPERTIES:
+:ID: 4c92b201-cbdb-4186-aa93-54d20cbc94db
+:END:
+
+content
+
+我不知道把//忘在哪儿了，现在只能叫务员帮我开门了。
+
+answer
+
+f
+
+*** 27
+:PROPERTIES:
+:ID: a208283e-679e-4390-bcf8-c408c2d379e3
+:END:
+
+content
+
+//被我姐姐拿走了。
+
+answer
+
+d
+
+*** 28
+:PROPERTIES:
+:ID: e451df1a-8fa6-464b-9e6a-a64d5054c45d
+:END:
+
+content
+
+请一个同学来听写生词，谁来//一下？
+
+answer
+
+a
+
+notes
+
+听写 | ting1 xie3 | to transcribe by ear, to write down ;
+生词 | sheng1 ci2 | word that is unfamiliar and not yet studied ;
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-06-27 13:14:12 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 19:48]
+- State "UNANSWERED"   from              [2022-06-27 Mon 13:14]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 19:47:37 -05]
+:END:
+
+ 这个句子是什么意思？
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 19:47:40 -05]
+:END:
+
+Please, a student come to the front to write the new words. Who wants to make an attempt?
+
+*** 29
+:PROPERTIES:
+:ID: fb8af388-a5bc-4f28-b26f-1b507d954964
+:END:
+
+content
+
+Ａ：今天晚上谁洗//？
+Ｂ：昨天是我，今天应爱是你了。
+
+answer
+
+b
+
+*** 30
+:PROPERTIES:
+:ID: 46af1ffc-a2b1-41d7-a48d-e89c21db45d1
+:END:
+
+content
+
+Ａ：我的历史老师让我回家多复习。
+Ｂ：对啊，//多复习才能提高成绩。
+
+answer
+
+c
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: 4ea1b54a-1188-4463-a1cf-f31a2d1dd077
+:END:
+
+content
+
+去年我跟同事一起去南方的一个城市旅行，有一次我和同事找人问路，他们总是回答“向左走”或者“向右走”。我们才发现那里的人不习惯说“东南西北”，只说“左”或者“右”，只有在看地图的时候，才会说“东南西北”。
+
+inference with missing information
+
+那个城市的人，什么时候说“东南西北”？
+
+alternatives
+
+问路的时候
+看地图的时候
+去旅行的时候
+
+answer
+
+b
+
+*** 32
+:PROPERTIES:
+:ID: 426575a1-23fc-492e-a553-f4a29d0fa408
+:END:
+
+content
+
+“笑一笑，十年少”，这是中国人常说的一句话，意思是笑的作用很大，笑一笑会让人年轻很多。只有常常笑，才能使自己年轻，不容易变老。所以我们每天都应该在工作和学习中，多想想高兴的事，试着让自己更快乐。
+
+inference with missing information
+
+根据这段话，可以知道
+
+alternatives
+
+现在的人不快乐
+笑能使人变年轻
+工作中没有高兴事
+
+answer
+
+b
+
+notes
+
+作用 | zuo4 yong4 | action, effect, function, impact ;
+
+*** 33
+:PROPERTIES:
+:ID: ab7a10c2-1829-4f9e-bd4e-b8f30dff9d68
+:END:
+
+content
+
+不要总觉得别人的事情跟自己没有关系，认真地做好自己的事情就可以了。关心别人，自己也会觉得很快乐。所以要多跟朋友在一起，帮助朋友就是帮助自己。只有经常帮助别人，当你需要帮助的时候，别人才会愿意帮助你。
+
+inference with missing information
+
+根据这段话，可以知道
+
+alternatives
+
+自己的是最重要
+要学会帮助别人
+多让朋友帮自己
+
+answer
+
+b
+
+notes
+
+关心 | guan1 xin1 | to be concerned about, to care for, to care about ;
+
+*** 34
+:PROPERTIES:
+:ID: f32e4543-85ab-4c7f-bddd-f12d0420b725
+:END:
+
+content
+
+笑米给我们写信了，她在信里说了很多谢谢你们的话，说我们不但很关心她，而且还帮她女儿解决了工作的问题。在信里，她还说跟我们在一起的那段时间是多么让人难忘啊。她说如果民年有机会，她还会回来看我们的。
+
+inference with missing information
+
+根据这段话，可以知道
+
+alternatives
+
+小米的工作问题被解决了
+小米明年一定回来看我们
+小米写信谢谢我们
+
+answer
+
+c
+
+notes
+
+写信 | xie3 xin4 | to write a letter ;
+
+*** 35
+:PROPERTIES:
+:ID: 3265407f-e167-4ddc-9cdb-0e7192d2aaa3
+:END:
+
+content
+
+你知道吗，动物虽然不会说话，但是其实很聪明。你看我家的小猫，总是能看出来我是高兴还是难过。我高兴的时候，它会在我身边跟我玩儿，高兴地叫着。要是它觉得我难过，它就会很安静地看着我。最让我觉得奇怪的是，它一般不会生气，但是只要我去动物园玩儿，它就会变得非常不高兴。
+
+inference with missing information
+
+我家的小猫
+
+alternatives
+
+非常聪明
+经常不高兴
+喜欢去动物园
+
+answer
+
+a
+
+notes
+
+身边 | shen1 bian1 | at one's side
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: bdcf20bb-f273-4693-a913-7ea3906d53de
+:END:
+
+**** 词语
+
+冬天的时候
+看看
+我决定
+去东北
+
+**** 答案
+
+我决定冬天的时候去东北看看。
+
+***** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-16 19:31:12 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 20:25]
+- State "UNANSWERED" from              [2022-12-16 Fri 19:31]
+:END:
+
+****** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 20:23:50 -05]
+:END:
+
+The answer mentioned in the solution's book is:
+
+我决定冬天的时候去东北看看。
+
+However, I was wondering if the following sentence is also correct.
+
+冬天的时候我决定去东北看看。
+
+****** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 20:23:47 -05]
+:END:
+
+Qi teacher mentioned that both are correct, but then she restated that the first one looks better.
+
+冬天的时候 is part after a decision so it should be used after 决定.
+
+*** 37
+:PROPERTIES:
+:ID: 927d34a5-6e18-42cf-85a6-7a10caa1cfde
+:END:
+
+words
+
+洗干净了
+被
+都
+妈妈
+碗筷
+
+answer
+
+碗筷都被妈妈洗干净了。
+
+*** 38
+:PROPERTIES:
+:ID: e3bbf678-ca08-4a6c-885d-d08165919677
+:END:
+
+words
+
+对中文
+只有
+你才能
+感兴趣
+学好
+
+answer
+
+只有对中文感兴趣你才能学好。
+
+*** 39
+:PROPERTIES:
+:ID: 861e4fe4-583f-4fe6-807a-250dc2b74584
+:END:
+
+words
+
+帮你解决
+试着
+我
+电脑的问题
+
+answer
+
+我试着帮你解决电脑的问题。
+
+**** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-12-16 19:01:38 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 20:23]
+- State "UNANSWERED" from              [2022-12-16 Fri 19:01]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 19:01:42 -05]
+:END:
+
+What would be the trnaslation of this sentence?
+
+1) (past) I helped you solve the problem in your computer
+2) (present) I'm helping you to solve the problem in your computer
+2) (present) I try to help you
+3) (future) I'll try to help you solve the proble in your computer
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 20:22:08 -05]
+:END:
+
+(2)
+
+*** 40
+:PROPERTIES:
+:ID: 67a9c38e-6536-494d-a1ce-f268e1f0bc1d
+:END:
+
+words
+
+小皮鞋
+多么可爱啊
+你看
+这双
+
+answer
+
+你看这双小皮鞋多么可爱啊。
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: 667d67ab-b5f1-480f-bc71-2226758cd7f4
+:END:
+
+sentence
+
+别难//了，下次你一定能考好的。
+
+pinyin
+
+guo4
+
+answer
+
+过
+
+*** 42
+:PROPERTIES:
+:ID: fa28ca2d-7598-4f5d-acf6-7bc43bc7ef57
+:END:
+
+sentence
+
+谢谢你的//心，我现在很好。
+
+pinyin
+
+guan1
+
+answer
+
+关
+
+*** 43
+:PROPERTIES:
+:ID: 3c2ac3c2-ff29-42d8-8132-49617aa0b497
+:END:
+
+sentence
+
+这次考试，我的数学//绩最好。
+
+pinyin
+
+cheng2
+
+answer
+
+成
+
+*** 44
+:PROPERTIES:
+:ID: f5d01aa8-a97f-4c85-a4b7-4e9f99bd1a1b
+:END:
+
+sentence
+
+妈妈说只有写完作业，//能玩儿游戏。
+
+pinyin
+
+cai2
+
+answer
+
+才
+
+*** 45
+:PROPERTIES:
+:ID: d3992c66-73c3-4e25-94e9-60d88182bfe2
+:END:
+
+sentence
+
+你是什么时候有信用//的？
+
+pinyin
+
+ka3
+
+answer
+
+卡
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: 00df4348-526a-4ace-bc3a-a738f3f823da
+:END:
+
+content
+
+你可以去//门做公共汽//。
+
+answer
+
+东
+车
+
+*** 47
+:PROPERTIES:
+:ID: 02b202d0-dc6b-424e-8292-5738b3e8ac1d
+:END:
+
+content
+
+这件事怎么解//，你//帮我想想办法吧。
+
+answer
+
+决
+快
+
+*** 48
+:PROPERTIES:
+:ID: 013d197e-987f-45b7-9e11-806e52072e80
+:END:
+
+content
+
+//园里的花多//漂亮啊！
+
+answer
+
+公
+么
+
+*** 49
+:PROPERTIES:
+:ID: 602c03a9-1213-4e38-a5f6-df5e2d15a4e9
+:END:
+
+content
+
+你别//过了，下次我帮你//备，一定会没问题的。
+
+answer
+
+难
+准
+
+*** 50
+:PROPERTIES:
+:ID: 2def7673-d9bd-4f6f-a92f-7e807482e214
+:END:
+
+**** 内容
+
+
+这个电🟦节目很有意思，我很想看，但是电视怎么🟦爸爸关上了？
+
+***** 对我生词
+
+关上 [guan1 shang4] /to close (a door)/to turn off (light, electrical equipment etc)/
+
+***** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-12-18 17:43:13 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-18 Sun 18:04]
+- State "UNANSWERED" from              [2022-12-18 Sun 17:43]
+:END:
+
+****** Question
+:PROPERTIES:
+:CREATED: [2022-12-18 17:43:34 -05]
+:END:
+
+What's the difference between 关上 and 关? This is mentioned in this exercise.
+
+这个电视节目很有意思，我很想看，但是电视怎么被爸爸➡️关上⬅️了？
+
+The following dialogue was retrieved from [[id:30e37128-cf39-4a39-8ece-03c84b42a7a7][this heading]] and it mentions 关 (not 关上).
+
+男：吗，我跟同学去打篮球。
+女：你明天不是还要考试吗？
+男：没关系，我已经复习好了，玩儿一会儿就回来。
+女：好吧，你的电脑➡️关⬅️了没有？
+
+Does this happen because Chinese people prefer to say two characters instead of one when speaking?
+
+****** Answer
+:PROPERTIES:
+:CREATED: [2022-12-18 17:46:08 -05]
+:END:
+
+关上 is a verb and 关 is a state.
+
+The second dialogue is a state. It is not about an action.
+
+请你把门打开。 (Chinese people prefer to use 把)
+请你打开门。
+
+门开了(emphasize the change of state)
+门开着 (it is always opened)
+
+**** 答案
+
+视
+被
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: 92015022-e51f-48c8-ba4e-eaac6777ac54
+:END:
+
+content
+
+小丽找不到她的//了，可能//别人拿走了。她有点儿//。同事让她去公司//门外的打商场再买一个，但是这个月她的//里的钱已经花得差不多了。
+
+answer
+
+照相机
+被
+难过
+东
+信用卡
+
+notes
+
+商场 | shang1 chang3 | shopping center, shopping mall, department store ;
+
+** 2
+:PROPERTIES:
+:ID: dde28a90-3950-439f-bdb3-055b8721cf23
+:END:
+
+content
+
+小明的朋友最近突然//其体育来了，因为她的男朋友很喜欢看足球//，她是//男朋友影响的。//足球，她还天天上网玩儿游戏，//差极了。
+
+answer
+
+关心
+比赛
+被
+除了
+成绩
+
+notes
+
+关心 | guan1 xin1 | to be concerned about, to care about ;
+成绩 | cheng2 ji4 | achievement, grades, performance records ;

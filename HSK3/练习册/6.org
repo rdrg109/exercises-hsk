@@ -1,0 +1,1166 @@
+:PROPERTIES:
+:CREATED: [2022-06-02 13:23:09 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: 4fe696c4-181b-4b43-a660-8c14c3499633
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: 0ef59e9c-6531-4c25-92eb-4c0a4763a0d1
+:END:
+
+男：你刚才说什么？我听不清楚。
+女：我让你快点儿过来。
+
+answer
+
+a
+
+notes
+
+_
+
+**** ANSWERED "过来"什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-02 13:23:54 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-01 Fri 21:37]
+- State "QUESTION"   from              [2022-06-02 Thu 13:25]
+:END:
+
+This word is defined in hanzii.net
+
+过来 | guo4 lai2 | to come over ;
+
+*** 2
+:PROPERTIES:
+:ID: 300ef6ad-5432-43cd-81bc-4fc50145961b
+:END:
+
+男：怎么突然不下了？
+女：是啊，刚才还下得那么大。
+
+answer
+
+f
+
+notes
+
+_
+
+*** 3
+:PROPERTIES:
+:ID: fb692f73-b387-48b4-b10b-5d076266aa09
+:END:
+
+男：喂，你今天不出来跟大家一起玩儿了吗？
+女：对不起，我孩子太小，离不开人。
+
+answer
+
+e
+
+notes
+
+_
+
+**** ANSWERED Does the owman meant that he can't let her kids alone?
+:PROPERTIES:
+:CREATED: [2022-06-02 13:26:22 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-01 Fri 22:41]
+- State "QUESTION"   from              [2022-06-02 Thu 13:26]
+:END:
+
+Yes
+
+*** 4
+:PROPERTIES:
+:ID: 1ed11b82-3d16-4e31-b846-7d98430c1a7b
+:END:
+
+女：喂，我的车可能有点儿问题，你能过来帮个忙吗？
+男：我现在就过去，你在哪儿？
+
+answer
+
+c
+
+notes
+
+_
+
+*** 5
+:PROPERTIES:
+:ID: dde49e3e-b96a-47aa-87d5-268bdc5a64b5
+:END:
+
+男：树那么远，你看得清楚吗？
+女：我有眼镜，看得清楚。
+
+answer
+
+b
+
+notes
+
+_
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: 621335c5-9059-4526-8229-e6cbf3812f45
+:END:
+
+外边特别冷，你出去的时候多穿点儿。伞呢？带把伞吧，可能要下雨。
+
+外面下雪了。
+
+answer
+
+0
+
+notes
+
+_
+
+*** 7
+:PROPERTIES:
+:ID: a405fe3b-3795-4753-adba-1734546093f5
+:END:
+
+车上那么多人，我们还有这么多东西，等下一辆吧，5分钟就来车了。
+
+这辆车他们不打算上去。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 8
+:PROPERTIES:
+:ID: d9f46ba1-0d65-4e46-8bc8-cedc7bf42e45
+:END:
+
+小丽，我刚看见你给我打的电话，刚才我去楼下送客人了，没带手机。你找我有事吗？
+
+他正在打电话。
+
+answer
+
+1
+
+notes
+
+_
+
+
+对话  | dui4 hua4 | dialogue ;
+
+**** ANSWERED “打的电话”和“打个电话”有什么区别？
+:PROPERTIES:
+:CREATED: [2022-07-01 13:54:32 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-01 Fri 22:47]
+- State "QUESTION"   from              [2022-07-01 Fri 13:54]
+:END:
+
+打个电话 still doing something
+
+and missing call
+
+
+**** DONE In Chinese, 客人  is used for both (A) the customers in a company and (B) relatives, friends and people that visit your house, right?
+:PROPERTIES:
+:CREATED: [2022-07-01 21:38:36 -05]
+:END:
+:LOGBOOK:
+- State "DONE"       from "QUESTION"   [2022-07-01 Fri 22:47]
+- State "QUESTION"   from              [2022-07-01 Fri 21:39]
+:END:
+
+**** ANSWERED Does the meaning of 客人 in this dialogue is "customer" or "guest"?
+:PROPERTIES:
+:CREATED: [2022-06-13 10:33:10 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-01 Fri 21:38]
+- State "QUESTION"   from              [2022-06-13 Mon 10:33]
+:END:
+
+More context is needed to answer this question. With the available information, it could be either of them.
+
+*** 9
+:PROPERTIES:
+:ID: 2a387d4a-3d71-435f-8983-76b12b1c41fb
+:END:
+
+我每天早上都去公园跑步，锻炼身体。
+
+他每天都运动。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 10
+:PROPERTIES:
+:ID: a4e7f568-03e7-4b39-9102-b9395ecb46d9
+:END:
+
+昨天的作业真容易，我不到一个小时就写完了。小丽，你的作业呢？带了吗？
+
+他想知道小丽觉得作业难不难。
+
+answer
+
+1
+
+notes
+
+_
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: b8fe8ed3-f810-4b9e-8bae-db5172ff24be
+:END:
+
+男：饭桌上的蛋糕怎么没吃完？你们吃饱了吗？
+女：你买得太多了，刚才还吃了很多饭，怎么吃得完啊？
+
+问：女的是什么意思？
+
+alternatives
+
+蛋糕不好吃
+没吃饱
+蛋糕太多了
+
+answer
+
+c
+
+notes
+
+_
+
+*** 12
+:PROPERTIES:
+:ID: 995b8d85-fe01-479b-8321-76dcbec3db26
+:END:
+
+男：这个题我还不太清楚怎么做。
+女：我都讲了三次了，你怎么还听不明白？
+
+问：关于男的，可以知道什么？
+
+alternatives
+
+没听清楚
+没听明白
+进了三次
+
+answer
+
+b
+
+**** ANSWERED What's the verb that is affected by 清楚?
+:PROPERTIES:
+:CREATED: [2022-07-01 14:21:26 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-01 Fri 22:49]
+- State "QUESTION"   from              [2022-07-01 Fri 14:21]
+:END:
+
+I'm not quite clear about this
+
+*** 13
+:PROPERTIES:
+:ID: e54b229d-1321-4a1d-9a9b-ebd9be8ddb8e
+:END:
+
+女：小雨呢？在你们这儿吗？
+男：刚才还在这儿跟我们聊天儿呢，您去旁边的办公室问问？
+
+问：女的在做什么？
+
+alternatives
+
+聊天儿
+找人
+问旁边办公室的人
+
+answer
+
+b
+
+notes
+
+_
+
+*** 14
+:PROPERTIES:
+:ID: 9170b3ca-3001-4250-a4ae-5ddbd28085fd
+:END:
+
+男：你怎么了？突然说要用我的车，你的车呢？
+女：我弟弟去外地，他开走了，这几天回不来。
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+现在没有车
+要去外地
+这几天不在家
+
+answer
+
+a
+
+notes
+
+_
+
+**** ANSWERED "外地"什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-02 13:42:23 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-01 Fri 21:40]
+- State "QUESTION"   from              [2022-06-02 Thu 13:42]
+:END:
+
+外地 | wai4 di4 | parts of the country other tha nwhere one is
+
+*** 15
+:PROPERTIES:
+:ID: 2aa3c8bf-6fbc-48f9-808b-d9bf0b846ea7
+:END:
+
+女：喂，你下飞机了吗？吃饭了没有？
+男：我刚到宾馆，刚才跟朋友在下边的花园聊天儿聊得特别高兴，还没吃饭呢。
+
+问：男的现在在哪儿？
+
+alternatives
+
+在花园
+在饭馆
+在宾馆
+
+answer
+
+c
+
+notes
+
+宾馆 | bin1 guan3 | hotel ;
+花园 | hua1 yuan2 | garden ;
+
+**** ANSWERED What's the differnece between 吗 and 没有?
+:PROPERTIES:
+:CREATED: [2022-06-02 16:52:58 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-01 Fri 22:49]
+- State "QUESTION"   from              [2022-07-01 Fri 14:27]
+:END:
+
+你下飞机了吗？
+你下飞机了没有？
+
+你妻子 找到新工作了吗？
+你妻子 找到新工作了没有？
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: f6300263-a6fb-485b-9678-faba2156cf57
+:END:
+
+
+女：你妻子找到新工作了吗？
+男：还没呢。她刚离开学校，最近一直在家休息。
+女：你问问她想不想来我们公司。
+男：谢谢你，我回家就告诉她。
+
+问：关于男的的妻子，可以知道什么？
+
+alternatives
+
+在学校工作过
+女的的公司工作过
+一直没有工作
+
+answer
+
+a
+
+notes
+
+_
+
+*** 17
+:PROPERTIES:
+:ID: 9fa38843-6b8d-448e-840d-b88ab646c85a
+:END:
+
+男：这些都是你女儿的照片吗？
+女：对，这是今年的，那是她六岁时的。
+男：你女儿越来越漂亮了！
+女：谢谢，她最爱听这些了。
+
+问：关于女儿，可以知道什么？
+
+alternatives
+
+现在更漂亮
+小时候更漂亮
+最爱看照片
+
+answer
+
+a
+
+notes
+
+_
+
+**** ANSWERED "她最爱听这些了"什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-02 17:03:48 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-01 Fri 22:50]
+- State "QUESTION"   from              [2022-06-02 Thu 17:04]
+:END:
+
+I think that this means that the daughter likes being told this.
+
+That the daughter likes to hear to compliments
+
+*** 18
+:PROPERTIES:
+:ID: 2a8bcdf0-af87-406a-b07b-be514c259901
+:END:
+
+
+男：我刚到北京，晚上总是睡不着。
+女：我睡不着的时候喜欢看电视，你也看看吧。
+男：我听不懂汉语，也看不懂汉字，多没意思啊！
+女：那跟我聊聊天儿吧。
+
+问：男的有什么问题？
+
+alternatives
+
+考得不好
+睡不着
+喜欢看电视
+
+answer
+
+b
+
+notes
+
+_
+
+*** 19
+:PROPERTIES:
+:ID: 42091769-ddcf-4509-8532-2ae045262c49
+:END:
+
+
+女：怎么回来这么晚？去哪儿了？
+男：你不是让我给小猫买点儿吃的吗？刚才我去商店了。
+女：商店就在楼下。你还去什么地方了？
+男：刚出商店，有个孩子找不到回家的路了，我过去帮他给他家里打了个电话。
+
+问：男的为什么回来晚了？
+
+alternatives
+
+去商店买东西了
+找不到回家的路了
+帮孩子的忙了
+
+answer
+
+c
+
+notes
+
+_
+
+*** 20
+:PROPERTIES:
+:ID: 840494e7-5401-402d-bf5d-f6d7ddb8fc20
+:END:
+
+
+周明
+
+女：看，前边那个人是不是周朋？
+男：离得太远，我看不清楚。
+女：我们快点儿走过去看看是不是他。
+男：刚才买了这么多东西，你也不帮我拿，我走不快。
+
+问：关于男的，可以知道什么？
+
+alternatives
+
+手里的东西多
+看不见前边那个人
+离周朋很近
+
+answer
+
+a
+
+notes
+
+_
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: 92024593-a2b0-4b39-b6b3-942dbeee5dde
+:END:
+
+alternatives
+
+他刚离开学校，没走太远
+我的手表和裤子呢？
+你刚下飞机，休息一下吧。
+你不是要出去吗？怎么还在这儿？
+当然。我们先坐公共汽车，然后换地铁。
+喂，你听得见我说话吗？
+
+*** 21
+:PROPERTIES:
+:ID: 9e5d63c5-a01a-4f4c-ab3e-329d81b9b80c
+:END:
+
+content
+
+不行，刚才公司来电话，让我过去一下。
+
+answer
+
+c
+
+**** QUESTION If the answer were "d", then how would this sentence start?
+:PROPERTIES:
+:CREATED: [2022-07-01 13:45:34 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-01 Fri 13:45]
+:END:
+
+**** ANSWERED 不行是什么意思？
+:PROPERTIES:
+:CREATED: [2022-07-01 22:53:59 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from              [2022-07-01 Fri 22:54]
+:END:
+
+不行 and 不可以 have the same meaning.
+
+In this context, 不行 means "not workwable".
+
+
+
+*** 22
+:PROPERTIES:
+:ID: 07fc73fa-16ea-4abd-80a4-8d330f736e22
+:END:
+
+content
+
+小方呢？不在校园里吗？
+
+answer
+
+a
+
+notes
+
+校园 | xiao4 yuan2 | campus ;
+
+*** 23
+:PROPERTIES:
+:ID: 8bad81ec-8b17-41a3-8f59-00877d9516b0
+:END:
+
+content
+
+雨下得太大，出不去了。
+
+answer
+
+d
+
+*** 24
+:PROPERTIES:
+:ID: 6b619ede-4bda-4978-bd78-58dabfabe705
+:END:
+
+content
+
+你说什么？我一个字也听不见。
+
+answer
+
+f
+
+*** 25
+:PROPERTIES:
+:ID: 9880fd80-5fe3-412b-9510-8e6366a30a6b
+:END:
+
+content
+
+你怎么总是找不到东西？
+
+answer
+
+b
+
+** 2
+:PROPERTIES:
+:ID: ea956335-0491-4687-b1dd-080be34232d9
+:END:
+
+alternatives
+
+离开
+明白
+特别
+音乐
+声音
+刚才
+
+*** 26
+:PROPERTIES:
+:ID: 8635274f-a1cd-4549-87de-5ba3f01f0589
+:END:
+
+content
+
+我快要//这儿了，我们一起吃个饭吧。
+
+answer
+
+a
+
+*** 27
+:PROPERTIES:
+:ID: 7890f77e-9192-4612-8b23-b8cc861a778e
+:END:
+
+content
+
+这个电影//有意思，我给你讲讲吧。
+
+answer
+
+c
+
+*** 28
+:PROPERTIES:
+:ID: 5c976d3d-8344-4326-9455-2e158837a559
+:END:
+
+content
+
+今天的考试有点儿难，不少提我都不//。
+
+answer
+
+b
+
+*** 29
+:PROPERTIES:
+:ID: 0fa51468-9ae1-457f-89be-77425a79959f
+:END:
+
+content
+
+Ａ：我今天喝了两杯咖啡，现在睡不着了。
+Ｂ：你可以听听//。
+
+answer
+
+d
+
+*** 30
+:PROPERTIES:
+:ID: 3fd8ce48-f4e2-4822-8538-99db6710134e
+:END:
+
+content
+
+Ａ：小方，//经理找你。
+Ｂ：好，我现在就去经理办公室。
+
+answer
+
+f
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: e2ea398a-3ee5-4fc0-bd8c-ff83ca46bfd4
+:END:
+
+content
+
+不少人觉得现在的人都不太会说话了。有时候想得很清楚，但是说不明白。
+
+inference with missing information
+
+现在的人
+
+alternatives
+
+不说话
+说话 说的太快
+有时候说话或不明白
+
+answer
+
+c
+
+*** 32
+:PROPERTIES:
+:ID: 5dca0737-63b1-4583-be7c-c9c2c5ffd778
+:END:
+
+content
+
+考试或者做作业不明白的时候别着急问，其实多读读题，多想想，很快就能看懂问题。
+
+inference with missing information
+
+看不懂问题时
+
+alternatives
+
+不要着急问朋友
+多问问朋友
+问老师
+
+answer
+
+a
+
+*** 33
+:PROPERTIES:
+:ID: 99924b34-fbbf-4c84-96a4-d6ab3395b5b7
+:END:
+
+content
+
+在中国，去朋友家玩儿，离开时朋友可能对你说“慢走”，很多外国人听不明白。其实她们的意思是让你在回去的路上小心点儿，不是让你慢点儿走。
+
+inference with missing information
+
+朋友说“慢走”的意思可能是
+
+alternatives
+
+路上小心
+别走得太快
+听不明白
+
+answer
+
+a
+
+*** 34
+:PROPERTIES:
+:ID: 9dfb26ee-52bc-4be2-940d-2ffbb42fcf1b
+:END:
+
+content
+
+经理，我觉得店里的服务员有点儿少，现在来吃饭的客人越来越多，特别是晚上，这几个人（忙不过来），您看要不要多找几个人来帮忙？
+
+inference with missing information
+
+说话人的意思是
+
+alternatives
+
+客人太少
+想多找几个服务员
+让经理来吃饭
+
+answer
+
+b
+
+**** ANSWERED ”忙不过来“是什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-27 22:53:57 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-01 Fri 22:51]
+- State "QUESTION"   from              [2022-06-27 Mon 22:54]
+:END:
+
+we are very busy and we can't deal with it
+
+*** 35
+:PROPERTIES:
+:ID: 8b523309-8a0d-42e5-8719-3acf5d02b403
+:END:
+
+content
+
+小红，你过来帮爸爸一个忙好不好？爸爸的眼镜找不到了，你看看在哪儿呢？我记得刚才放到椅子上了，是不是妈妈拿走了？
+
+inference with missing information
+
+爸爸让小红
+
+alternatives
+
+找眼镜
+找妈妈
+搬椅子
+
+answer
+
+a
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: 3404c94d-a57e-41b3-a8f8-7ab09109693c
+:END:
+
+words
+
+明白
+电话里
+讲
+不
+
+answer
+
+电话里讲不明白。
+
+*** 37
+:PROPERTIES:
+:ID: 7049f133-582c-4dbd-8f2a-7060cdb5908d
+:END:
+
+words
+
+听
+清楚
+你
+什么
+说
+不
+
+answer
+
+听不清楚你说什么。
+
+**** ANSWERED Is this answer also correct?
+:PROPERTIES:
+:CREATED: [2022-07-01 13:48:48 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-01 Fri 22:52]
+- State "QUESTION"   from              [2022-07-01 Fri 13:48]
+:END:
+
+The following is not correct.
+
+你说什么听不清楚。
+
+The following is correct.
+
+你说什么我听不清楚。
+
+*** 38
+:PROPERTIES:
+:ID: 8ffeb5fb-9ca6-4195-b3fa-f73a75db2fc5
+:END:
+
+words
+
+到
+买
+这儿
+不
+在
+咖啡
+
+answer
+
+在这儿买不到咖啡。
+
+*** 39
+:PROPERTIES:
+:ID: 779534c6-b45b-4862-81a2-5230e121c763
+:END:
+
+words
+
+完
+得
+饭不多
+吃
+我
+
+answer
+
+饭不多，我吃得完。
+
+*** 40
+:PROPERTIES:
+:ID: 61a58649-a1ba-4690-bc12-132d175b7724
+:END:
+
+words
+
+吗
+懂
+看
+汉语报纸
+得
+你
+
+answer
+
+你看得懂汉语报纸吗？
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: 0d644a8c-bb73-4f15-a503-c0cdb2c7a277
+:END:
+
+sentence
+
+我//才一直在玩儿电脑游戏，不要再问我了。
+
+pinyin
+
+gang1
+
+answer
+
+刚
+
+*** 42
+:PROPERTIES:
+:ID: b8c35806-c4da-4cd8-89b1-9a31479a4be4
+:END:
+
+sentence
+
+这个问题我已经//得很明白了，不要再问我了。
+
+pinyin
+
+jiang3
+
+answer
+
+讲
+
+*** 43
+:PROPERTIES:
+:ID: f33bf1b7-cd81-4fe2-95b2-7fdbe2aa5e1a
+:END:
+
+sentence
+
+中午休息的时候，大家都去公司楼下的饭馆吃饭、//天儿。
+
+pinyin
+
+liao2
+
+answer
+
+聊
+
+*** 44
+:PROPERTIES:
+:ID: cae705ac-64a0-45de-a109-96d8dcb952c1
+:END:
+
+sentence
+
+我家旁边有一个小公//，我每天都带我的小狗去那儿走走。
+
+pinyin
+
+yuan2
+
+answer
+
+园
+
+*** 45
+:PROPERTIES:
+:ID: 6a3c8cc3-3e78-4ceb-bd61-28b90d75de9d
+:END:
+
+sentence
+
+他跑得//别快，现在已经看不到他了。
+
+pinyin
+
+te4
+
+answer
+
+特
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: da0d8d54-3c41-4892-ac24-42638465fc77
+:END:
+
+content
+
+这条//裙子一//块钱。
+
+answer
+
+白
+百
+
+*** 47
+:PROPERTIES:
+:ID: 0363b1a3-6901-474a-817e-441097560d05
+:END:
+
+content
+
+今天//乐会很有//思。
+
+answer
+
+音
+意
+
+*** 48
+:PROPERTIES:
+:ID: c8db8b18-e721-480f-8ada-9854bb0225f5
+:END:
+
+content
+
+对不起，我刚才没听//楚，//您再讲一次，可以吗？
+
+answer
+
+清
+请
+
+*** 49
+:PROPERTIES:
+:ID: 7961bf36-0c8d-4f38-8a0d-c1c36d19cd3f
+:END:
+
+content
+
+学校旁边饭馆的菜比学校里边的//宜，也//好吃。
+
+answer
+
+便
+更
+
+*** 50
+:PROPERTIES:
+:ID: 4c3902c5-0187-49c3-9fe0-3f8728e9306b
+:END:
+
+content
+
+明天你跟我一起去公园锻//，再去商店买//西，好吗？
+
+answer
+
+炼
+东
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: 39a53cf0-4ca3-46eb-8a5b-ebab8d38a4db
+:END:
+
+content
+
+周明//找不到眼镜了，周太太也没看见在哪儿。周明//眼镜，没有眼镜，他一个字看不//。周太太觉得他//放在桌子上了，但是周明怎么看得到呢？他请周太太过来//找找。
+
+answer
+
+突然
+离不开
+清楚
+刚才
+帮忙
+
+
+** 2
+:PROPERTIES:
+:ID: dfb150c8-933e-4358-8b8f-e63d29b23bea
+:END:
+
+content
+
+小刚有点儿不高兴，他想请小丽吃饭，但是//好饭馆，他想请小丽听//，但是人太多，//票。跟小丽去//走走，//呢？也不行，小刚觉得太累了。
+
+answer
+
+找不到
+音乐会
+买不到
+公园
+聊聊天儿
+

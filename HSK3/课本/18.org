@@ -1,0 +1,436 @@
+:PROPERTIES:
+:CREATED: [2022-05-22 11:12:37 -05]
+:END:
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-05-22 11:12:41 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-22 11:12:43 -05]
+:ID: 059cb7c3-631c-4a4d-90c8-d3306ee15d27
+:END:
+
+*** 标题
+
+**** 中文
+
+在打电话
+
+**** 英语
+
+On the phone
+
+*** 对话
+
+朋友：老周，我打算买房子了，想向你借点儿钱。
+周明：没问题，只要我有，就一定会借给你的还差多少？
+朋友：还差5万块钱。
+周明：好，钱下午打给你。你打算在哪儿买房？
+朋友：就在我们医院前面。
+周明：那你以后去医院就方便了。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:21:39 -05]
+:END:
+
+打算 | da3 suan4 | to plan ;
+房子 | fang2 zi | apartment, house ;
+借 | jie4 | to borrow, to lend ;
+只 | zhi3 | just, only ;
+一定 | yi2 ding4 | definitely, certainly ;
+差 | cha4 | to fall short of ;
+前面 | qian2 mian4 | ahead, in front ;
+方便 | fang1 bian4 | convenient ;
+
+*** 生词
+
+1. 向  | xiang4 | towards ;
+2. 万 | wan4 | ten thousand ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-22 11:20:42 -05]
+:ID: e9877868-720a-4b44-baa8-c834f7969f97
+:END:
+
+*** 标题
+
+**** 中文
+
+在商店
+
+**** 英语
+
+In a store
+
+*** 对话
+
+小明：妈妈，你看那只狗多可爱，眼腈大大的，嘴小小的，我们买回去吧。
+妈妈：动物和小孩儿一样，都需要人照顾。买回家去，谁照顾它啊？
+小明：我照顾啊。
+妈妈：没段时间你自己衣服都没洗，你能照顾好它吗？
+小明：只要你给我买，我就能照顾好它。
+
+*** 生词
+
+只 | zhi1 | (classifier used for certain animals) ;
+可爱 | ke3 ai4 | lovely, adorable ;
+眼睛 | yan3 jing1 | eyes ;
+嘴 | zui3 | mouth ;
+动物 | dong4 wu4 | animal ;
+需要 | xu1 yao4 | to need ;
+照顾 | zhao4 gu4 | to take care of ;
+段 | duan4 | (used for certain sections or periods) ;
+只 | zhi3 | just, only ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-22 11:28:41 -05]
+:ID: ad08af4e-b7b1-44da-8ff3-1e648a03c86a
+:END:
+
+*** 标题
+
+**** 中文
+
+在公司
+
+**** 英语
+
+In the company
+
+*** 对话
+
+经理：说说你为什么选择来我们公司工作。
+学生：贵公司不但很有名，耳且工作环境好。
+经理：做这个工作有点儿累，需要经常去外地。你家人同意吗？
+学生：只要我愿意，我相信他们就会同意的。
+经理：好，那你明天来上班吧。关于这个工作，还有什么问题吗？
+学生：没有了，谢谢您给我这个机会，我会努力的。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:22:59 -05]
+:END:
+
+选择 | xuan3 ze2 | to choose ;
+环境 | huan2 jing4 | environment ;
+需要 | xu1 yao4 | to need ;
+外地 | wai4 di4 | (parts of the country other than where one is) ;
+只 | zhi3 | only ;
+愿意 | yuan4 yi4 | would like to ;
+努力 | nu3 li4 | hard-working ;
+
+*** 生词
+
+7. 不但……耳且 | bu2 dan4 …… er3 qie3 …… | not only … but also … ;
+8. 有名 | you3 ming2 | famous ;
+9. 同意 | tong2 yi4 | to agree ;
+10. 相信 | xiawng1 xin4 | to believe ;
+11. 关于 | guan1 yu2 | about, regarding ;
+12. 机会 | ji1 hui4 | opportunity ;
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-22 12:08:39 -05]
+:ID: 588a4725-8404-4275-b56b-b2c8873941e6
+:END:
+
+*** 段话
+:PROPERTIES:
+:CREATED: [2022-12-19 13:23:17 -05]
+:END:
+
+不同的国家有不同的文化，每种文化都有自己的特点。到了一个新环境，你会觉得什么都很新鲜，耳且还会觉得有点儿奇怪：有些国家的人名写在姓前面，有些国家的人名写在姓后面，但是只要经过一段时间，就会慢慢地习惯。
+
+**** QUESTION 在这个段话，“新鲜”什么意思？
+:PROPERTIES:
+:CREATED: [2022-10-02 21:29:26 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-02 Sun 21:29]
+:END:
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:24:01 -05]
+:END:
+
+文化 | wen2 hua4 | culture ;
+环境 | huan2 jing4 | environment ;
+新鲜 | xin1 xian1 | fresh ;
+姓 | xing4 | family name, surname ;
+前面 | qian2 mian4 | ahead, in front ;
+后面 | hou4 mian4 | back, behind ;
+只 | zhi3 | just, only ;
+段 | duan4 | (used for certain sections or periods) ;
+习惯 | xi2 guan4 | to be used to, habit ;
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:23:22 -05]
+:END:
+
+13. 国家 | guo2jia1 | n. country, nation ;
+14. 种 | zhong3 | m. kind, type ;
+15. 特点 | te4dian3 | n. feature ;
+16. 奇怪 | qi2guai4 | adj. strange, odd ;
+17. 地 | de | part. (classifier used to connect an adverbial modifier and the verb it modifies) ;
+
+* Exercises
+:PROPERTIES:
+:CREATED: [2022-12-10 15:58:21 -05]
+:END:
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 5265685d-db8b-4b5c-b520-135d9e3488ac
+:END:
+
+**** 选择
+
+***** a
+
+动物
+
+***** b
+
+国家
+
+***** c
+
+地
+
+***** d
+
+向
+
+***** e
+
+而且
+
+**** 题
+
+***** 1
+
+****** 内容
+
+你是从哪个🟨来的？
+
+****** 答案
+
+b
+
+***** 2
+
+****** 内容
+
+坐火车的时候，我喜欢🟨外看。
+
+****** 答案
+
+d
+
+***** 3
+
+****** 内容
+
+你最喜欢什么🟨？
+
+****** 答案
+
+a
+
+***** 4
+
+****** 内容
+
+这家饭馆不但菜很好吃，🟨环境很好。
+
+****** 答案
+
+e
+
+***** 5
+
+****** 内容
+
+小孩子喜欢快乐🟨学习。
+
+****** 答案
+
+c
+
+*** 6-10
+:PROPERTIES:
+:ID: e0d343f7-8f12-4354-be37-182b1d0c586a
+:END:
+
+**** 选择
+
+***** a
+
+机会
+
+***** b
+
+同意
+
+***** c
+
+段
+
+***** d
+
+关于
+
+***** e
+
+奇怪
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：你打算现在实房子吗？
+Ｂ：过一🟨时间以后再说吧。
+
+****** 答案
+
+ c
+
+***** 7
+
+****** 内容
+
+Ａ：你怎么要去北京了？
+Ｂ：那儿的工作🟨比较多。
+
+****** 答案
+
+a
+
+***** 8
+
+****** 内容
+
+Ａ：真🟨，桌子上的词典怎么不见了？
+Ｂ：刚才马可拿走了。
+
+****** 答案
+
+e
+
+***** 9
+
+****** 内容
+
+Ａ：你给我介绍几个🟨中国文化的电影吧。
+Ｂ：好，没问题。
+
+****** 答案
+
+d
+
+***** 10
+
+****** 内容
+
+Ａ：我觉得这儿的房子挺便宜的，我们在这儿买吧。
+Ｂ：我不🟨，虽然很便宜，但是离公司太远了。
+
+****** 答案
+
+b
+
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: 12df8d8e-5be3-46cb-9f91-9a9739f8b7b9
+:END:
+
+**** 内容
+
+Ａ：最近这🟨时间，你总是迟到。
+Ｂ：我也不想迟到，但是家太远了。
+Ａ：你只要早起一点儿，🟨。
+Ｂ：好，我🟨我会🟨习惯的。
+
+**** 答案
+
+段
+就不会迟到
+相信
+慢慢
+
+*** 2
+:PROPERTIES:
+:ID: 3e86d2c5-51c4-42c4-af2d-d90ce7942371
+:END:
+
+**** 内容
+
+Ａ：你喜欢看哪种电影？
+Ｂ：只要是🟨，我就喜欢。
+Ａ：我家有很多关于🟨的电影光盘。
+Ｂ：太好了，那你借给我一些吧。
+
+**** 答案
+
+中国的
+中国文化
+
+*** 3
+:PROPERTIES:
+:ID: 3db561fb-4d06-4ddd-9b1b-5870b4a23c72
+:END:
+
+**** 内容
+
+Ａ：周末我们去哪儿玩儿？
+Ｂ：🟨，我们就去爬山。
+Ａ：好啊，这🟨时间太忙了，忙得没有🟨锻炼。
+Ｂ：经常爬山对身体好。
+
+**** 答案
+
+只要天气好
+段
+机会
+
+*** 4
+:PROPERTIES:
+:ID: a81d1bae-0644-4717-bf30-ff35fcaf8105
+:END:
+
+**** 内容
+
+Ａ：你还没有吃饱啊？
+Ｂ：只要东西好吃，🟨。
+Ａ：你吃得这么多，小心会🟨的。
+Ｂ：🟨这个问题，我不担心，因为我已经有男朋友了。
+
+***** UNANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-18 17:51:36 -05]
+:END:
+:LOGBOOK:
+- State "UNANSWERED" from              [2022-12-18 Sun 17:51]
+:END:
+
+
+
+**** 答案
+
+我就可以吃得特别多
+找不到男朋友
+关于

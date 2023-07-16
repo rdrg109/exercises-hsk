@@ -1,0 +1,1108 @@
+:PROPERTIES:
+:CREATED: [2022-06-02 17:44:50 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: e104218b-26c3-442f-b4d6-d228b834753c
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: ca00cd37-51f6-4229-9cd3-b649bae58b28
+:END:
+
+女：十五层太高了，我都害怕向下看了。
+男：我明白了。那我们看看别的房子。
+
+answer
+
+e
+
+notes
+
+_
+
+**** QUESTION What's the difference betweeen 往 and 向?
+:PROPERTIES:
+:CREATED: [2022-07-14 20:02:46 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-14 Thu 20:03]
+:END:
+
+In id:8a0ee7e3-6b44-402d-bc13-c90541b362fd, 往 (wang) is used, while in id:ca00cd37-51f6-4229-9cd3-b649bae58b28, 向 (xiang) is used.
+
+上午好！我想问你个问题：“往下看”和“向下看”有什么区别？这些句话是课本和练习册来自的。
+
+*** 2
+:PROPERTIES:
+:ID: cfb637be-a5e9-4304-8c98-dece1296ce09
+:END:
+
+女：我是第一次来看大熊猫。
+男：我也是，你看这些大熊猫多可爱啊！
+
+answer
+
+b
+
+notes
+
+_
+
+*** 3
+:PROPERTIES:
+:ID: b56233b8-0dc5-4557-9e6a-a021f212c20a
+:END:
+
+女：都九点一刻了，你怎么还不起床？
+男：星期天又不上班，你也不让我多睡一会儿。
+
+
+星期天
+
+
+answer
+
+a
+
+notes
+
+_
+
+**** QUESTION Why is 又 used in the second sentence? Isn't this used for recurring events?
+:PROPERTIES:
+:CREATED: [2022-06-02 17:49:59 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from "QUESTION"   [2022-07-12 Tue 18:55]
+- State "QUESTION"   from              [2022-06-02 Thu 17:51]
+:END:
+
+*** 4
+:PROPERTIES:
+:ID: 915924e1-66a5-4230-9fb6-d3f4a027f88f
+:END:
+
+女：我们是不是走错了，怎么还没到？
+男：别着急，就在前面，马上就到了。
+
+answer
+
+c
+
+notes
+
+_
+
+*** 5
+:PROPERTIES:
+:ID: 8415f786-dcb3-45d1-839a-60e55b34b19b
+:END:
+
+女：眼镜怎么样？你觉得满意吗？
+男：还不错，你看我的变化很大。
+
+answer
+
+f
+
+notes
+
+_
+
+**** QUESTION What does 变化 refers to?
+:PROPERTIES:
+:CREATED: [2022-06-02 17:53:28 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-02 Thu 17:53]
+:END:
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: cf6bad63-cfc6-49f7-9944-065c67bc1494
+:END:
+
+以前，周经理的办公室在一层，最近他搬到了六层，开始坐电梯了。
+
+周经理换办公室了。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 7
+:PROPERTIES:
+:ID: ff7fc3ab-6714-45c4-b0d9-db3629802f44
+:END:
+
+我明天就回国了，以后不能总跟你见面了，有事请给我电话吧。
+
+他们以前总是见面。
+
+answer
+
+1
+
+notes
+
+_
+
+**** QUESTION Why is 总 used instead of 总是?
+:PROPERTIES:
+:CREATED: [2022-06-02 17:55:19 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-02 Thu 17:55]
+:END:
+
+In the future, we use 总. In the present, we use 总是.
+
+*** 8
+:PROPERTIES:
+:ID: 85c30427-5cf3-49c7-ae43-21a4155b5cd1
+:END:
+
+我喜欢自学。没事的时候，找一个安静的地方，读一本好书，是我最大的快乐。
+
+★ 他喜欢安静的地方。
+
+answer: 0
+
+notes
+
+自学 | zi4 xue2 | self-study ;
+
+**** QUESTION Why does the answer is no? He also likes quiet places
+:PROPERTIES:
+:CREATED: [2022-07-12 18:34:15 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-12 Tue 18:34]
+:END:
+
+You need to focus on the 主要的意思
+
+注意
+
+
+*** 9
+:PROPERTIES:
+:ID: cf76bb09-26ca-4743-9da5-5467787baa93
+:END:
+
+不好意思，小姐，这个电梯只到十层，您去十二层要坐右边那个电梯。
+
+
+那位小姐要去十层。
+
+answer
+
+0
+
+notes
+
+位 | wei4 | classifier for people (honorific) ;
+不好意思 | bu4 hao3 yi4 si | sorry ;
+
+*** 10
+:PROPERTIES:
+:ID: 9afdd4f4-6b90-4925-a89a-ecb8d6ad6cff
+:END:
+
+六零三房间的客人刚才打电话来说洗手间有问题，你去看一下吧。
+
+他现在在洗手间。
+
+answer
+
+0
+
+notes
+
+_
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: 45f42728-cb4b-415e-a0d5-8e777cf22214
+:END:
+
+女：我想再喝一杯可乐。
+男：再喝一杯，你晚上就别想睡觉了。
+
+问：男的是什么意思？
+
+alternatives
+
+不让女的喝可乐
+不让女的睡觉
+不想喝可乐
+
+answer
+
+a
+
+notes
+
+_
+
+*** 12
+:PROPERTIES:
+:ID: b1ca758c-139d-41a2-8de9-f5526d75be04
+:END:
+
+男：别害怕，只是感冒，休息两天就好了。
+女：那我让妈妈来照顾我几天。
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+想休息
+感冒了
+要照顾妈妈
+
+answer
+
+b
+
+notes
+
+_
+
+**** QUESTION Does 两天 mean "two days" or "these days" in this context?
+:PROPERTIES:
+:CREATED: [2022-06-02 18:15:37 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-02 Thu 18:15]
+:END:
+
+*** 13
+:PROPERTIES:
+:ID: ff6b567b-2469-45af-9325-6bbddc181491
+:END:
+
+男：小姐，请问这儿有人吗？我可以坐这儿吗？
+女：不好意思，我朋友去洗手间了，一会儿就回来。
+
+问：女的是什么意思？
+
+alternatives
+
+她要去洗手间
+这儿有人
+男的可以坐这儿
+
+answer
+
+b
+
+notes
+
+_
+
+*** 14
+:PROPERTIES:
+:ID: 29554868-b938-473b-999f-ebf000bb833a
+:END:
+
+女：我儿子又没考好，真着急！
+男：别着急，孩子身体健康是最重要的。
+
+问：女的为什么着急？
+
+alternatives
+
+儿子身体不健康
+儿子学习不好
+儿子没去考试
+
+answer
+
+b
+
+notes
+
+_
+
+*** 15
+:PROPERTIES:
+:ID: 3b2dc5c4-7d37-4ecb-83ae-65b58a2aecae
+:END:
+
+男：明天要去面试，这两条裙子你穿哪条？
+女：哪条好看我就穿哪条，你再帮我拿一下那件白衬衫。
+
+问：女的明天做什么？
+
+alternatives
+
+买裙子
+面试
+买衬衫
+
+answer
+
+b
+
+notes
+
+面试 | mian4 shi4 | interview, to be interviewed ;
+
+**** ANSWERED 面试是什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-02 18:28:19 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-12 Tue 15:48]
+- State "QUESTION"   from              [2022-06-02 Thu 18:28]
+:END:
+
+job interview
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: fee45777-7bf3-4831-95bc-789ffff8c58f
+:END:
+
+
+男：小丽，是你啊，你也来这儿买东西啊？
+女：是啊，这家超市的东西很便宜。
+男：好久不见，我们找个地方坐坐？
+女：好啊，下了电梯有一个咖啡馆，我们去那儿吧。
+
+问：他们要去哪儿？
+
+alternatives
+
+咖啡馆
+电梯那儿
+超市
+
+answer
+
+a
+
+notes
+
+_
+
+*** 17
+:PROPERTIES:
+:ID: 542d1555-3d7c-4f79-a188-ef5ab13b28c7
+:END:
+
+
+男：你吃药了吗？
+女：还没有，我吃完饭再吃。
+男：今天我们吃面条儿？
+女：是，吃鸡蛋面，马上就好。
+
+问：他们今天吃什么？
+
+alternatives
+
+药
+面条
+鸡蛋
+
+
+answer
+
+b
+
+notes
+
+_
+
+**** QUESTION 鸡蛋面什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-02 18:33:26 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-02 Thu 18:33]
+:END:
+
+*** 18
+:PROPERTIES:
+:ID: c41bfd56-277f-4bd2-b3ee-3a4cebb1cfde
+:END:
+
+
+男：您好，我的雨伞可能忘在你们饭店了。
+女：您的雨伞是什么颜色的？
+男：黑色的。
+女：是这个吗？我们在洗手间里看到的。
+
+问：男的为什么去饭店？
+
+alternatives
+
+去洗手间
+找雨伞
+去吃饭
+
+
+answer
+
+b
+
+notes
+
+_
+
+*** 19
+:PROPERTIES:
+:ID: 0e5744c9-34eb-4195-9e4a-8605f8be2e02
+:END:
+
+
+男：我们一起吃个饭吧？
+女：好啊，哪天？
+男：你哪天不忙我们就哪天吃。
+女：那明天中午，老地方见吧。
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+明天中午不忙
+不想跟男的吃饭
+不知道哪天吃饭
+
+answer
+
+a
+
+notes
+
+_
+
+**** ANSWERED "老地方"是什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-02 18:37:04 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-12 Tue 19:17]
+- State "QUESTION"   from              [2022-06-02 Thu 18:37]
+:END:
+
+老地方 means a place that people that are speaking know very well.
+
+
+
+*** 20
+:PROPERTIES:
+:ID: 56010376-9367-46b7-ace2-1a7c3bb2d57e
+:END:
+
+女：你这次汉语考得怎么样？
+男：九十分，你呢？
+女：我考得不太好，我只会做第一题，汉字几乎一个都不会写。
+男：别着急，慢慢来。
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+考得很好
+不会写汉字
+一个题都不会
+
+answer
+
+b
+
+notes
+
+_
+
+**** QUESTION Why does the man mention a period of time when it is asked for its performance in the examen?
+:PROPERTIES:
+:CREATED: [2022-07-14 20:58:28 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-14 Thu 20:58]
+:END:
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: 76f45064-8037-4965-adaa-3f70bb28543b
+:END:
+
+alternatives
+
+你下课以后去哪儿学习？
+周末你有什么打算？
+听说你最近打算买房子了？
+可能吃的东西有问题，不太舒服。
+当然。我们先坐公共汽车，然后换地铁。
+那我们再买几块吧。
+
+*** 21
+:PROPERTIES:
+:ID: 58a51acb-fd30-42a9-a33e-a7f253a4c651
+:END:
+
+content
+
+你怎么又去洗手间啊？
+
+answer
+
+d
+
+*** 22
+:PROPERTIES:
+:ID: 991001e4-3f2a-44e4-aa78-5e19a6f2933d
+:END:
+
+content
+
+这种蛋糕很甜，孩子们很喜欢。
+
+answer
+
+f
+
+*** 23
+:PROPERTIES:
+:ID: bd9b4636-0aee-437a-9439-af7ecdc38459
+:END:
+
+content
+
+是啊，看了很多，但是都不太满意。
+
+answer
+
+c
+
+*** 24
+:PROPERTIES:
+:ID: 6085b0bc-c787-4514-a4b1-504c9c6309d8
+:END:
+
+content
+
+你要去跟几个老朋友见面。
+
+answer
+
+b
+
+*** 25
+:PROPERTIES:
+:ID: 86da8c2d-28da-46ae-adae-a6bb90adb4d9
+:END:
+
+content
+
+哪儿安静我就去哪儿。
+
+answer
+
+a
+
+** 2
+:PROPERTIES:
+:ID: 183b297c-bcc3-4d68-a0e8-ecf5e7abd23d
+:END:
+
+alternatives
+
+电梯
+洗手间
+几乎
+重要
+声音
+又
+
+*** 26
+:PROPERTIES:
+:ID: af2816d6-7dc7-4d13-9908-f331e92f5446
+:END:
+
+content
+
+你等我一会儿，我去一下//，马上回来。
+
+answer
+
+b
+
+*** 27
+:PROPERTIES:
+:ID: 278394fa-60dc-4eca-8ef8-15f9c1a3f7f9
+:END:
+
+content
+
+他//每天都要去公园锻炼一个小时。
+
+answer
+
+c
+
+*** 28
+:PROPERTIES:
+:ID: f85851ab-dc56-4c5d-b4ee-6a785d29a1fe
+:END:
+
+content
+
+//里人太多了，我们别坐了。
+
+answer
+
+a
+
+*** 29
+:PROPERTIES:
+:ID: 31258c25-ac18-474f-961b-bb3302588a72
+:END:
+
+content
+
+Ａ：今天晚上你//要去听音乐会？
+Ｂ：是啊，我现在对音乐非常感兴趣。
+
+answer
+
+f
+
+*** 30
+:PROPERTIES:
+:ID: 34938f30-afb7-4f6a-b2ac-71e20814c89e
+:END:
+
+content
+
+Ａ：我觉得我越来越胖了，以后不吃晚饭了。
+Ｂ：其实胖点儿或者瘦点儿都没关系，健康最//。
+
+answer
+
+d
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: c437c81f-481d-42db-9db6-7185cc39054c
+:END:
+
+content
+
+“再见”是一个很有意思的词，“再见”的意思是“再一次见面”，所以人们离开时说“再见”，是希望以后再见面。
+
+inference with missing information
+
+什么时候说“再见”？
+
+alternatives
+
+离开
+见面
+上课
+
+answer
+
+a
+
+*** 32
+:PROPERTIES:
+:ID: b03621ae-3390-463f-9b5e-9b22ff536345
+:END:
+
+content
+
+我男朋友的家虽然不大，但是住着很舒服，楼里很安静，还有电梯，他很喜欢他现在的家。
+
+inference with missing information
+
+男朋友觉得他的家怎么样？
+
+alternatives
+
+不舒服
+太小了
+很满意
+
+answer
+
+c
+
+*** 33
+:PROPERTIES:
+:ID: b03b6c47-b4f9-406c-bd8a-69804d7e1e69
+:END:
+
+content
+
+女孩子都喜欢穿裙子，爱唱歌，跳舞，但是我哥的女儿不是这样，她对运动很感兴趣，还喜欢玩儿电脑游戏，我几乎没见她穿过裙子。
+
+inference with missing information
+
+哥哥的女儿
+
+alternatives
+
+喜欢唱歌
+很少穿裙子
+不爱运动
+
+answer
+
+b
+
+*** 34
+:PROPERTIES:
+:ID: a788d909-ca8b-4154-be3c-55392a58af3c
+:END:
+
+content
+
+丈夫最近很忙，没有时间去运动，又胖了几斤。他打算忙完这几天，就去跑步和游泳。
+
+inference with missing information
+
+丈夫最近
+
+alternatives
+
+变化不大
+身体不健康
+很少锻炼
+
+answer
+
+c
+
+*** 35
+:PROPERTIES:
+:ID: b0805663-6678-458d-80c7-acb53ac8b46f
+:END:
+
+content
+
+你要明白，想让每个人都喜欢你是几乎不可能的，所以做事情不要害怕别人不满意，是重要的就是你很满意。
+
+inference with missing information
+
+做事情，最重要的是
+
+alternatives
+
+让每个人都喜欢你
+不害怕别人
+你觉得做得很好
+
+answer
+
+c
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: a6ca6552-52c7-442d-afab-785b688df02e
+:END:
+
+words
+
+健康
+就
+吃什么
+我
+什么东西
+
+answer
+
+什么东西健康我就吃什么。
+
+*** 37
+:PROPERTIES:
+:ID: 49b3b504-780c-4a79-91ac-59733313b765
+:END:
+
+words
+
+又
+你
+不满意了
+怎么
+
+answer
+
+你怎么又不满意了？
+
+*** 38
+:PROPERTIES:
+:ID: cac4e3eb-d717-4527-9f33-6a499d81e9db
+:END:
+
+words
+
+熊猫
+再
+看一次
+我想
+去
+
+answer
+
+我想再去看一次熊猫。
+
+*** 39
+:PROPERTIES:
+:ID: 89b93b7f-9028-4362-807e-3382d8eb7524
+:END:
+
+words
+
+离婚
+很多
+瘦了
+以后
+她
+
+answer
+
+她离婚以后瘦了很多。
+
+notes
+
+离婚 | li2 hun1 | to divorce ;
+
+
+*** 40
+:PROPERTIES:
+:ID: 9625a319-963c-44f5-aabb-8eb7b58412b2
+:END:
+
+words
+
+坐电梯
+上去
+我们
+吧
+
+answer
+
+我们坐电梯上去吧。
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: 69ab81cc-28e3-466d-8a7f-4f0f1a8c3fd7
+:END:
+
+sentence
+
+房间里很//静，我很满意。
+
+pinyin
+
+an1
+
+answer
+
+安
+
+*** 42
+:PROPERTIES:
+:ID: 22b3879f-98d4-444f-8e43-902edf2c287f
+:END:
+
+sentence
+
+太晚了，我有点儿害//，你送我回家吧。
+
+pinyin
+
+pa4
+
+answer
+
+怕
+
+*** 43
+:PROPERTIES:
+:ID: da1264b6-c31c-4eb3-a9c7-64fb1baa2636
+:END:
+
+sentence
+
+你住的楼里有//梯吗？
+
+pinyin
+
+dian4
+
+answer
+
+电
+
+*** 44
+:PROPERTIES:
+:ID: 1e7c86c1-f2b0-490d-856e-f2bc7c7f53db
+:END:
+
+sentence
+
+下课以后我//上回家吃饭。
+
+pinyin
+
+ma3
+
+answer
+
+马
+
+*** 45
+:PROPERTIES:
+:ID: 80f87b80-607b-464d-b33e-64d9eba1576d
+:END:
+
+sentence
+
+你觉得工作和健康，哪个更//要？
+
+pinyin
+
+zhong4
+
+answer
+
+重
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: f0a9ccc0-644e-44db-a440-ff490d888d22
+:END:
+
+content
+
+今天下午你//跟我一起去看//猫吗？
+
+answer
+
+能
+熊
+
+*** 47
+:PROPERTIES:
+:ID: df207dd2-b20f-4e69-a498-0355ce6bf36b
+:END:
+
+content
+
+请//，洗手//在哪儿？
+
+answer
+
+问
+间
+
+*** 48
+:PROPERTIES:
+:ID: d293e0c2-ce80-4de8-819c-fae12bb94677
+:END:
+
+content
+
+//试的时候不认真，这是你的//问题了。
+
+answer
+
+考
+老
+
+*** 49
+:PROPERTIES:
+:ID: 99797a54-17d6-4fe9-8f0e-bc7329506607
+:END:
+
+content
+
+你先上去，一//儿我去十//找你。
+
+answer
+
+会
+层
+
+*** 50
+:PROPERTIES:
+:ID: f4e93469-05eb-42d6-bdde-fc9b946eb916
+:END:
+
+content
+
+你离开的这//年变化真大，我//乎不认识你了。
+
+answer
+
+九
+几
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: 274c3d72-f9c1-4ada-92fd-40e460cd0438
+:END:
+
+content
+
+小丽最点打算买房子，今天//去看了看，但是都不//，一个没有//，不方便，一个在二十//，太高了，他觉得住下看太//了。
+
+answer
+
+又
+满意
+电梯
+层
+害怕
+
+** 2
+:PROPERTIES:
+:ID: 0af189aa-07f1-4142-8a7d-e392a8f3a830
+:END:
+
+content
+
+周太太和//同学五年没//了，同学觉得周太太几乎没//，但是周太太说她胖了，现在想吃什么就吃什么，想吃多少就吃多少，因为//最//，胖瘦没关系。
+
+answer
+
+老
+见面
+变化
+健康
+重要
+

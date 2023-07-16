@@ -1,0 +1,429 @@
+:PROPERTIES:
+:CREATED: [2022-05-22 10:17:10 -05]
+:END:
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-05-22 10:17:11 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-22 10:17:13 -05]
+:ID: 01b3343e-7c8a-4e13-8f3e-d7f9e3bce76e
+:END:
+
+*** 标题
+
+**** 中文
+
+在公司
+
+**** 英语
+
+In the company
+
+*** 对话
+
+小丽：周经理，下个星期我可以请几天假吗？
+周明：你有什么事？
+小丽：我的一个老朋友结婚，我跟他两年没见了。
+周明：你一共想请几天假？
+小丽：三天。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:15:44 -05]
+:END:
+
+经理 | jing1 li3 | manager ;
+结婚 | jie2 hun1 | to marry, to get married ;
+跟 | gen1 | with ;
+
+*** 生词
+:PROPERTIES:
+:ID: 0b87c138-613a-4bb9-b2f6-05b35ddf1607
+:END:
+
+1. 请假 | qing3 jia4 | to ask for leave ;
+2. 一共 | yi2gong4 | in total ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-22 10:23:33 -05]
+:ID: 09448003-e73a-45cd-8801-b6ed7793f5aa
+:END:
+
+*** 标题
+
+**** 中文
+
+在公司
+
+**** 英语
+
+In the company
+
+*** 对话
+
+同事：小丽，那个高高的男人是你们公司的吗？你对他了解吗？
+小丽：我们过去是邻居，后来是大学同学，关系一直很不错。
+同事：他一般喜欢做什么？
+小丽：他有很多爱好，唱歌，画画儿，踢足球，什么都会。
+同事：真的？那你介绍我们认识认识吧。
+小丽：不行，现他是我丈夫。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:16:45 -05]
+:END:
+
+了解 | liao3 jie3 | to know ;
+过去 | guo4 qu4 | (in the) past ;
+关系 | guan1 xi4 | relationship ;
+一直 | yi4 zhi2 | all the time ;
+一般 | yi4 ban1 | general, usual ;
+踢足球 | ti1 zu2 qiu2 | play football ;
+介绍 | jie4 shao4 | to introduce, to recommend ;
+丈夫 | zhang4 fu | husband ;
+
+*** 生词
+
+3. 邻居 | lin2 ju1 | neighbor ;
+4. 后来 | hou4 lai2 | later, afterwards ;
+5. 爱好 | ai4 hao4 | hobby, interest ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-22 10:35:47 -05]
+:ID: 41142b29-5e86-4a71-8eb2-e22977189188
+:END:
+
+*** 标题
+
+**** 中文
+
+在家
+
+**** 英语
+
+At home
+
+*** 对话
+
+周太太：最近我觉得哪儿不舒服，你带我去医院检查检查吧。
+周明：不用去医院，谁都有办法有好你的“病”。我问你，你多久没运动了？
+周太太：我三年没运动了。
+周明：谁都知道运动对身体好。但是你吃饱了就睡。
+周太太：为了健康，我真应该多锻炼锻炼了。从明天起，我决定每天去长跑。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:17:39 -05]
+:END:
+
+最近 | zui4 jin4 | lately, recently ;
+舒服 | shu1 fu | comfortable ;
+检查 | jian3 cha2 | to check, to examine ;
+久 | jiu3 | for a long time, long ;
+健康 | jian4 kang1 | healthy ;
+应该 | ying1 gai1 | should ;
+锻炼 | duan4 lian4 | to do physical exercise ;
+长跑 | chang2 pao3 | long-distance running ;
+
+**** QUESTION “谁都有办法有好你的“病””什么意思？
+:PROPERTIES:
+:CREATED: [2022-10-03 03:41:45 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-03 Mon 03:42]
+:END:
+
+*** 生词
+
+6. 办法 / ban4fa3 / n. way, approach ;
+7. 饱 / bao3 / adj. full, having eaten one's fill ;
+8. 为了 / wei4le / prep. for the sake of ;
+9. 决定 / jue2ding4 / v. to decide ;
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-22 10:46:11 -05]
+:ID: da12a76f-0ec2-458e-b10e-d84415fc9655
+:END:
+
+*** 段话
+:PROPERTIES:
+:CREATED: [2022-12-19 13:19:38 -05]
+:END:
+
+“运动很重要”这句话谁都懂。但是你知道怎么运动吗？第一，要选择“对”的时间。一般来说，早上9点是最好的时间，冬天要再晚一些。第二，要选择”对”的地点，公园，山上，游泳馆，这些地方都可以运动。第三，必须要根据自己的健康情况运动。如果你很久没爬山或者游泳了，运动一会儿就一定要休息休息。还要记得刚运动完口渴的时候，不要马上喝水。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:20:43 -05]
+:END:
+
+重要  | zhong4 yao4 | important ;
+句子 | ju4 zi | sentence ;
+句话 | ju4 hua4 | sentence ;
+一般 | yi4 ban1 | general, usual ;
+公园 | gong1 yuan2 | park ;
+山 | shan1 | mountain ;
+游泳馆 | you2 yong3 guan3 | swimming pool ;
+健康 | jian4 kang1 | healthy ;
+久 | jiu3 | for a long time, long ;
+或者 | huo4 zhe3 | or ;
+一定 | yi2 ding4 | definitely, certainly ;
+记得 | ji4 de | to remember ;
+刚 | gang1 | just ;
+马上 | ma3 shang4 | immediately, at once ;
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:19:34 -05]
+:END:
+
+10. 选择 | xuan3 ze2 | to choose ;
+11. 冬（天） | dong1 (tian1) | winter ;
+12. 必须 | bi4 xu1 | must ;
+13. 根据 | gen1 ju4 | according to, based on ;
+14. 情况 | qing2 kuang4 | condition, situation ;
+15. 口 | kou3 | moth ;
+16. 渴 | ke3 | thirsty ;
+
+* Exercises
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 0e70d027-c3c3-4f5c-8a54-a54fee0df12f
+:END:
+
+**** 选择
+
+***** a
+
+为了
+
+***** b
+
+请假
+
+***** c
+
+后来
+
+***** d
+
+爱好
+
+***** e
+
+冬天
+
+**** 题
+
+***** 1
+
+****** 内容
+
+老师，我不舒服，我想跟您🟨。
+
+****** 答案
+
+b
+
+***** 2
+
+****** 内容
+
+🟨了解中国文化，我常常去旅行。
+
+****** 答案
+
+a
+
+***** 3
+
+****** 内容
+
+我以前在美国学习，🟨来中国留学。
+
+****** 答案
+
+c
+
+***** 4
+
+****** 内容
+
+我最喜欢的季节是🟨。
+
+****** 答案
+
+e
+
+***** 5
+
+****** 内容
+
+我的🟨跟你的不一样，我更喜欢游泳。
+
+****** 答案
+
+d
+
+*** 6-10
+:PROPERTIES:
+:ID: af2f0d29-df9f-4d90-a9db-e9f9b80e9b98
+:END:
+
+**** 选择
+
+***** a
+
+一共
+
+***** b
+
+饱
+
+***** c
+
+邻居
+
+***** d
+
+决定
+
+***** e
+
+办法
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：你认识那个人吗？
+Ｂ：认识，他是我的新🟨。
+
+****** 答案
+
+c
+
+***** 7
+
+****** 内容
+
+Ａ：这次HSK你考得怎么样？
+Ｂ：好极了，🟨考了280分。
+
+****** 答案
+
+a
+
+***** 8
+
+****** 内容
+
+Ａ：我的口语不太好，你帮我想想🟨吧。
+Ｂ：你最好多跟中国人聊聊天儿。
+
+****** 答案
+
+e
+
+***** 9
+
+****** 内容
+
+Ａ：吃🟨了吗？
+Ｂ：当然了，你看我们点了这么多菜。
+
+****** 答案
+
+b
+
+***** 10
+
+****** 内容
+
+Ａ：明年你打算回国吗？
+Ｂ：我还没🟨呢。
+
+****** 答案
+
+d
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: 06c07866-a446-4917-8237-cdcfd2a5533e
+:END:
+
+**** 内容
+
+Ａ：老师，您可以帮我🟨口语吗？
+Ｂ：当然可以。从什么时候开始？
+Ａ：🟨都可以。
+Ｂ：那从这个星期开始吧。
+
+**** 答案
+
+练习练习
+什么时候
+
+*** 2
+:PROPERTIES:
+:ID: a6142df7-3296-4086-886b-41af6a70b70c
+:END:
+
+**** 内容
+
+Ａ：快考试了，你🟨吧？
+Ｂ：老师，我应该复习什么啊？
+Ａ：🟨。
+Ｂ：好吧，那我都复习吧。
+
+**** 答案
+
+都复习了
+什么都应该复习
+
+*** 3
+:PROPERTIES:
+:ID: 3046a733-56b0-4e00-9f64-5dbe82cf590a
+:END:
+
+**** 内容
+
+Ａ：今天天气不错，我们出去🟨吧。
+Ｂ：好，我去换衣服。
+Ａ：我们去哪个公园呢？
+Ｂ：🟨。
+
+**** 答案
+
+锻炼锻炼
+哪个公园都可以
+
+*** 4
+:PROPERTIES:
+:ID: e1aeafbf-5532-4e3a-83e3-288ba5bf1ef0
+:END:
+
+**** 内容
+
+Ａ：周末你打算做什么？
+Ｂ：我打算在家里🟨。
+Ａ：你每个周末都打扫房间吗？
+Ｂ：不一定。🟨就打扫一下。
+
+**** 答案
+
+打扫打扫房间
+哪个周末有时间

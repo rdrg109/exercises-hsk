@@ -1,0 +1,1086 @@
+:PROPERTIES:
+:CREATED: [2022-06-02 19:52:10 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: e81d3d75-b59a-4b23-89d1-33063694cde6
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: 176ffe1c-4940-4429-b1f0-50ab131703fa
+:END:
+
+男：妈，你看，给笑笑讲题的那个就是我们班数学老师。
+女：她个子真高，讲得怎么样？
+
+answer
+
+c
+
+notes
+
+_
+
+**** QUESTION 笑笑 is a name in this dialouge?
+:PROPERTIES:
+:CREATED: [2022-06-02 19:54:06 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-02 Thu 19:54]
+:END:
+
+*** 2
+:PROPERTIES:
+:ID: 91087841-4ca2-4bfc-8e8c-eb8dc66d8d32
+:END:
+
+女：喂，你听得见我说话吗？
+男：喂，喂，你等一会儿，我找个安静点儿的地方再跟你说。
+
+answer
+
+e
+
+notes
+
+_
+
+*** 3
+:PROPERTIES:
+:ID: e88b9d8f-1dba-4f4a-8614-63075ee8692d
+:END:
+
+男：谢谢，你们请我们吃饭，这家饭馆的环境真好，菜也很好吃，特别是主菜。
+女：我很高兴你们喜欢这个地方，下次我们再来。
+
+answer
+
+b
+
+notes
+
+_
+
+*** 4
+:PROPERTIES:
+:ID: c3d9f570-20e6-4b70-b017-cefd532e0d10
+:END:
+
+女：听说你们店可以用旧车换新车。
+男：对，这边请，我来给你介绍一下吧。您有旧车吗？
+
+answer
+
+f
+
+notes
+
+_
+
+*** 5
+:PROPERTIES:
+:ID: 306717d0-de34-40c0-9007-4f49096206a3
+:END:
+
+男：看，那么多人踢足球，他们在比赛吗？
+女：不是，他们在上体育课呢。
+
+answer
+
+a
+
+notes
+
+_
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: a772712e-9554-431e-8767-647873a2c933
+:END:
+
+地面上怎么都是雪？昨天我女朋友还穿裙子呢，今天怎么就下雪了？
+
+今天比昨天冷得多。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 7
+:PROPERTIES:
+:ID: 368c5b7d-10c4-4c2e-a72c-1f3b03fe08ef
+:END:
+
+走，找个环境好的地方，我早就想跟你聊聊了。这儿附近有没有安静点儿的咖啡店？
+
+他们要回家了。
+
+answer
+
+0
+
+notes
+
+_
+
+*** 8
+:PROPERTIES:
+:ID: 7d44135e-a548-48fb-b445-018b0559164b
+:END:
+
+我爸爸身体那么好，主要是因为每天锻炼。
+
+爸爸很健康，因为他喜欢运动。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 9
+:PROPERTIES:
+:ID: 0c669456-faf7-48bf-a7b9-3c4681dc1f1c
+:END:
+
+我每天工作八九个小时，中午也不能休息，能不累吗？
+
+他每天工作很累。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 10
+:PROPERTIES:
+:ID: ad9c3bb7-9408-488a-8aae-45c6a574b691
+:END:
+
+我儿子的学习比以前好多了，主要是他有兴趣了。
+
+以前儿子不喜欢学习。
+
+answer
+
+1
+
+notes
+
+_
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: 9214d0f1-6e66-44ac-976d-8fa5d11caff9
+:END:
+
+男：前边有卖水果的，我们买点儿苹果吧？
+女：现在是换季的时候，苹果不一定好吃，别买太多，买两三个就行。
+
+问：女的是什么意思？
+
+alternatives
+
+买两个
+买三个
+少买一点儿
+
+answer
+
+c
+
+notes
+
+换季 | huan4 ji4 | changing seasons ;
+
+*** 12
+:PROPERTIES:
+:ID: 52a20d06-bc98-4e90-9893-e9bbce5d5429
+:END:
+
+男：今天怎么样？还发烧吗？
+女：吃了药比昨天好一些了，但还头疼。
+
+问：女的现在怎么样了？
+
+alternatives
+
+好点儿了
+好多了
+越来越不好
+
+answer
+
+a
+
+notes
+
+_
+
+*** 13
+:PROPERTIES:
+:ID: 8aac905a-a204-4ae9-9cd3-d44fa309635b
+:END:
+
+女：小刚，方明高还是你高？
+男：他个子也不高，只比我高一点儿。
+
+问：小刚和方明谁高？
+
+alternatives
+
+小刚
+方明
+一样高
+
+answer
+
+b
+
+notes
+
+_
+
+*** 14
+:PROPERTIES:
+:ID: 5782b29f-e5ca-47d4-9754-ae7622ca78e5
+:END:
+
+男：怎么还没到？我都看了三四个电影了。
+女：我们是从中国到美国，还要再飞五六个小时。你睡一会儿，或者再看几个电影。
+
+问：他们可能在哪儿？
+
+alternatives
+
+飞机上
+电影院
+火车上
+
+answer
+
+a
+
+notes
+
+_
+
+*** 15
+:PROPERTIES:
+:ID: efb98c70-6cc3-4865-b6e7-f457618de87d
+:END:
+
+女：喂，您好，请找一下王老师。
+男：我们这儿有三四个姓王的老师呢，您找哪一个？
+
+问：这个地方有几个姓王的老师？
+
+alternatives
+
+三个
+三十个
+很多
+
+answer
+
+c
+
+notes
+
+_
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: e2305658-a24e-4907-a7bc-c0b698af1593
+:END:
+
+女：你要出去吗？
+男：小丽，我问你，去中山南路骑自行车快还是坐公共汽车快？
+女：这个时间，骑车比坐公共汽车快很多。你这么着急，要去上课吗？
+男：不，我要去见女朋友。
+
+问：关于男的，可以知道什么？
+
+alternatives
+
+
+可能骑自行车
+可能坐公共汽车
+要去上课
+
+answer
+
+a
+
+notes
+
+_
+
+*** 17
+:PROPERTIES:
+:ID: 9ac1fee9-7c23-4e93-b572-488a6a372fb5
+:END:
+
+女：明天是晴天还时阴天？
+男：上午下雪，下午就晴了。
+女：太好了，明天可以穿我的新裙了。
+男：雪后晴天比下雪时冷很多，你不知道吗？
+
+问：男的是什么意思？
+
+alternatives
+
+明天很冷
+明天事阴天
+下雪时很冷
+
+answer
+
+a
+
+notes
+
+_
+
+*** 18
+:PROPERTIES:
+:ID: 8c2b0f7e-afcc-41f4-8e27-51f92193ce0d
+:END:
+
+男：我昨天换了辆新车，比那旧的舒服多了。
+女：又换了？你已经换了四五辆了吧？多少钱？
+男：不贵，一百多。我那辆旧车送给你吧。
+女：一百多？自行车啊！
+
+问：关于男的，可以知道什么？
+
+alternatives
+
+买了已辆旧车
+买的是自行车
+买了五辆车
+
+
+answer
+
+b
+
+notes
+
+_
+
+**** QUESTION Why does the woman said 自行车 at the end of the sentence?
+:PROPERTIES:
+:CREATED: [2022-06-03 09:06:28 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-03 Fri 09:06]
+:END:
+
+*** 19
+:PROPERTIES:
+:ID: a3e06b9f-79de-4e24-9067-59a70bbf4406
+:END:
+
+男：你女儿个子真高，比你高多了吧？
+女：其实我跟她一样高，只是她比我瘦多了。
+男：她今年多大？十七八岁？在哪儿学习呢？
+女：今年十九了，正在国外学习，学历史和数学。
+
+问：关于女的和她女儿，可以知道什么？
+
+alternatives
+
+妈妈高得多
+一样高
+女儿高得多
+
+answer
+
+b
+
+notes
+
+_
+
+*** 20
+:PROPERTIES:
+:ID: 2aa6f922-aff1-4688-bc00-ebd04a3b70e8
+:END:
+
+男：走了两三个小时了，还买了这么多东西，真累。我们休息一会儿吧。
+女：那就在这儿坐坐，喝点儿水。
+男：楼上有个咖啡店，比这儿安静得多，环境也不错，还有音乐。
+女：也好，我们上去喝点儿饮料。
+
+问：他们要做什么？
+
+alternatives
+
+去咖啡店
+听音乐会
+买东西
+
+answer
+
+a
+
+notes
+
+音乐会 | yin1 yue4 hui4 | concert ;
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: f8b5563f-0d1c-4b66-8bb9-da32ebb66532
+:END:
+
+alternatives
+
+好，你等我一两分钟，我去一下洗手间。
+你怎么还这么远的地方买房子？
+体育比数学容易多了，也有意思多了。
+今天我不上班，我昨天只睡了两三个小时，让我再睡一会儿。
+当然。我们先坐公共汽车，然后换地铁。
+小方，你跟小丽一样大吗？
+
+*** 21
+:PROPERTIES:
+:ID: df951b80-08f2-4427-bec0-3e096d194aab
+:END:
+
+content
+
+九点半了，我迟到了，快起床。
+
+answer
+
+d
+
+*** 22
+:PROPERTIES:
+:ID: d3919545-c393-4773-b811-ee232a51c837
+:END:
+
+content
+
+我们去买点儿吃的吧，我早就饿了。
+
+answer
+
+a
+
+*** 23
+:PROPERTIES:
+:ID: 280235e0-afd0-4924-87c9-21027d565970
+:END:
+
+content
+
+她的生日是五月，我是一月，我比她大一点儿。
+
+answer
+
+f
+
+*** 24
+:PROPERTIES:
+:ID: 2b7dd111-f276-40b2-a019-1f804236d142
+:END:
+
+content
+
+你个子那么高，跑得也快，当然觉得容易。
+
+answer
+
+c
+
+*** 25
+:PROPERTIES:
+:ID: a6bb98e6-61a7-4f1a-a2a3-ab9f6daa4b69
+:END:
+
+content
+
+虽然远，但是附近又三四个车站，很方便。
+
+answer
+
+b
+
+
+** 2
+:PROPERTIES:
+:ID: 061acdf9-b7a2-4009-90ad-c8eaf1912378
+:END:
+
+alternatives
+
+方便
+骑
+换
+地方
+声音
+旧
+
+*** 26
+:PROPERTIES:
+:ID: 70a90f8a-eda2-4ff3-99d1-3ece6ab21504
+:END:
+
+content
+
+这件衣服有点儿//了，我不想穿了。
+
+answer
+
+f
+
+*** 27
+:PROPERTIES:
+:ID: 32af29c4-3b14-4882-9b88-bec6e5b83452
+:END:
+
+content
+
+我还没去过哪个//，漂亮吗？好玩儿吗？
+
+answer
+
+d
+
+*** 28
+:PROPERTIES:
+:ID: ffd0fb9e-36ec-4c0b-802a-99dca4af31bd
+:END:
+
+content
+
+你//得太快了，慢点儿，小心前边的车。
+
+answer
+
+b
+
+*** 29
+:PROPERTIES:
+:ID: 7bfca290-ac40-4f30-9687-763b1b0e18dc
+:END:
+
+content
+
+Ａ：你每天怎么去学校？坐车还是坐地铁？
+Ｂ：坐地铁更快，也更//。
+
+answer
+
+a
+
+*** 30
+:PROPERTIES:
+:ID: 3c933513-8548-4d44-9666-7ef3eff7b96d
+:END:
+
+content
+
+Ａ：这辆车买了十五六年了，总是出问题。
+Ｂ：那//一辆新的吧，车出问题不是件小事儿。
+
+answer
+
+c
+
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: ab3b2baa-4d6e-423a-ba3c-849786f431d4
+:END:
+
+content
+
+每个周末，我们一家人都去公园或者远的地方走走，玩儿玩儿。我们不坐公共汽车，也不坐出租车，我们骑自行车去。很多时候，骑车比开车，坐车方便很多，也快很多。最主要是因为骑车对身体好，对环境也好。
+
+inference with missing information
+
+骑车
+
+alternatives
+
+没有坐车方便
+对环境很好
+不健康
+
+answer
+
+b
+
+*** 32
+:PROPERTIES:
+:ID: 712506b1-e4cd-4ab2-a260-f1a1dad7d3af
+:END:
+
+content
+
+以前中国又很多茶馆，但现在越来越少，咖啡店越来越多了，人们走累了可以去咖啡店坐坐，喝点儿咖啡，当然也有茶，牛奶和水，这样的咖啡店比以前的茶馆安静得多，环境也更好，大家很喜欢去。
+
+inference with missing information
+
+咖啡店
+
+alternatives
+
+没有茶很多
+不太安静
+环境比茶馆好
+
+answer
+
+c
+
+*** 33
+:PROPERTIES:
+:ID: 55a7476e-3c3d-4761-9954-cca0b54e9404
+:END:
+
+content
+
+我家楼下有一家旧车店，卖”三手“自行车。没有那么多钱买新车的人，可以到这儿来米辆旧的骑骑，特别便宜，也方便。
+
+inference with missing information
+
+”三手“车的意思是
+
+alternatives
+
+便宜车
+新车
+旧车
+
+answer
+
+c
+
+*** 34
+:PROPERTIES:
+:ID: 913a98a4-8863-4be0-9ec4-86925cef0357
+:END:
+
+content
+
+我女儿现在每天都要上历史课，体育课和数学课。她说她最喜欢历史课，因为历史课比数学课和体育课有意思多了。体育课比数学课容易一些。但是没有历史课那么好玩儿。
+
+inference with missing information
+
+女儿最不喜欢上什么课？
+
+alternatives
+
+数学课
+历史课
+体育课
+
+answer
+
+a
+
+**** QUESTION “但是没有历史课那么好玩儿”什么意思？
+:PROPERTIES:
+:CREATED: [2022-10-02 23:31:55 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-02 Sun 23:32]
+:END:
+
+What does this sentence exactly mean?
+
+**** QUESTION Why is the answer a?
+:PROPERTIES:
+:CREATED: [2022-10-02 23:32:46 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-02 Sun 23:32]
+:END:
+
+It could also be "c", because she probably likes courses with a certain level of difficulty.
+
+*** 35
+:PROPERTIES:
+:ID: b5c81ad2-6add-4f5b-aa64-e73c5d6912d2
+:END:
+
+content
+
+有时候，我真想回到以前。五年钱这个地方比现在安静很多，这儿只有一条路，房子也没有现在多。现在这儿又四五条路，路上都是车，大楼也饿越来越多，饭馆有二三十个呢！
+
+inference with missing information
+
+这个地方
+
+alternatives
+
+以前没有路
+现在有45条路
+现在的路比以前多
+
+answer
+
+c
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: d5745a36-fc7c-4467-a501-dde819545bed
+:END:
+
+words
+
+这个地方
+安静
+比
+那个地方
+一些
+
+answer
+
+这个地方比那个地方安静一些。
+
+*** 37
+:PROPERTIES:
+:ID: 8dd81f7b-49b3-48f0-a0dd-3e6671d05665
+:END:
+
+words
+
+周经理
+都
+一两杯
+喝
+咖啡
+每天
+
+answer
+
+周经理每天都喝一两杯咖啡。
+
+*** 38
+:PROPERTIES:
+:ID: b77081b0-8c58-44d6-bbd9-4e260d8c9c19
+:END:
+
+words
+
+自行车
+快
+骑
+比
+很多
+走路
+
+answer
+
+骑自行车比走路快很多。
+
+*** 39
+:PROPERTIES:
+:ID: 69668027-aa3e-4be6-8bcb-84d188c74ca4
+:END:
+
+**** wprds
+
+矮
+朋友
+一点儿
+我
+比
+个子
+
+**** answer
+
+朋友比我个子矮一点儿。
+
+***** QUESTION
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-24 Sun 18:05]
+:END:
+
+****** Question
+:PROPERTIES:
+:CREATED: [2022-10-29 18:35:26 -05]
+:END:
+
+
+
+This exercise is from the workbook. I need to put these words in order: "矮, 朋友, 一点儿, 我, 比, 个子". The answer is "朋友比我个子矮一点儿。"
+
+I was wondering if these are also correct answers
+
+1. 我比朋友个子矮一点儿。
+2. 我个子比朋友矮一点儿。
+3. 我的个子比朋友的矮一点儿。
+
+
+*** 40
+:PROPERTIES:
+:ID: 3c1eebdf-65e2-4912-9811-90de2105ee08
+:END:
+
+words
+
+四
+五
+只有
+教室离
+个
+学生
+
+answer
+
+教室里只有四五哥学生。
+
+
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: 14618152-2352-4182-a2b1-3db8fa10c99b
+:END:
+
+sentence
+
+我们坐公共汽车去吧，我不//自行车。
+
+
+
+pinyin
+
+qi2
+
+answer
+
+骑
+
+*** 42
+:PROPERTIES:
+:ID: ad82cbfb-cebc-4fc7-bc30-d2051be77c36
+:END:
+
+sentence
+
+这条裙子有点儿瘦，我可以//一条吗？
+
+pinyin
+
+huan4
+
+answer
+
+换
+
+**** QUESTION What does it mean that a 裙子 is 瘦?
+:PROPERTIES:
+:CREATED: [2022-06-29 09:59:56 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-29 Wed 10:00]
+:END:
+
+*** 43
+:PROPERTIES:
+:ID: c34619c7-7456-4422-a068-fcf55c232af8
+:END:
+
+sentence
+
+我喜欢住在这个地方，因为//境特别好，最重要的是有很多商店。
+
+pinyin
+
+huan2
+
+answer
+
+环
+
+*** 44
+:PROPERTIES:
+:ID: e2a30065-5bef-4c92-80bf-d93eeaebb6de
+:END:
+
+sentence
+
+这人//近有个学校，每天下午都有很多爸爸妈妈接孩子。
+
+pinyin
+
+fu4
+
+answer
+
+附
+
+*** 45
+:PROPERTIES:
+:ID: c3189530-acee-4cbf-b5ce-98e06b3efdb3
+:END:
+
+sentence
+
+在这个学校，我的工作//要是给学生上历史课。
+
+pinyin
+
+zhu3
+
+answer
+
+主
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: 51be14c4-d422-4344-a8bc-bc90d3908b37
+:END:
+
+content
+
+弟弟新买了一辆//色的//行车。
+
+answer
+
+白
+自
+
+*** 47
+:PROPERTIES:
+:ID: 65edaca7-8721-44b0-9a3f-982846bc418f
+:END:
+
+content
+
+//学老师的办公室不在这儿，在//下。
+
+answer
+
+数
+楼
+
+*** 48
+:PROPERTIES:
+:ID: 9f010c02-438e-4389-956c-768c84b20ec5
+:END:
+
+content
+
+音乐课容易吗？我觉得音乐课比历//课//难。
+
+answer
+
+史
+更
+
+*** 49
+:PROPERTIES:
+:ID: a25ff414-edbb-43ff-a48a-f5fe7f56f1f2
+:END:
+
+content
+
+请问，//子旁边那辆车，我可以//一下吗？
+
+answer
+
+椅
+骑
+
+**** QUESTION In which context would this sentence be used?
+:PROPERTIES:
+:CREATED: [2022-06-30 18:58:20 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-30 Thu 18:58]
+:END:
+
+
+
+*** 50
+:PROPERTIES:
+:ID: 714c2574-cc1c-4ac5-813d-5672b7133e15
+:END:
+
+content
+
+我们每个星期都//两次体//课。
+
+answer
+
+有
+育
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: 1895cefa-1723-4df9-8250-4b45e42cf72b
+:END:
+
+content
+
+小丽上个月搬家了，走路去公司二十分钟就到，很//，所以最近比以前来得//。她还打算//一辆//，因为以前那辆太//了。
+
+answer
+
+方便
+早多了
+买
+自行车
+旧
+
+** 2
+:PROPERTIES:
+:ID: c441e1da-9dba-475b-8c56-45f9b8f751b8
+:END:
+
+content
+
+大山在看房子。中介公司的人告诉他，学校里边比学校外边方便一点儿，//有//个车站。学校外边的房子比学校里边的大//，也比学校里边的安静，大山觉得房子大小没关系，最//的是//。
+
+answer
+
+附近
+三四
+一些
+主要
+环境
+
+notes
+
+中介 | zhng1 jie4 | agency ;
+

@@ -1,0 +1,662 @@
+:PROPERTIES:
+:CREATED: [2022-05-21 20:55:48 -05]
+:END:
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-05-21 20:55:50 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-21 20:55:51 -05]
+:ID: 97120488-954e-43fb-9226-41efcd57bdde
+:END:
+
+*** 标题
+
+**** 中文
+
+在家
+
+**** 英语
+
+At home
+
+*** 对话
+
+小丽：你终于回来了！从哪儿买回来者这么多东西啊？
+小刚：都是从那边的商店买回来的。
+小丽：怎么还买红酒回来了？谁喝啊？
+小刚：这是给爷爷的礼物，明天我们一起送过去，看看爷爷奶奶。
+小丽：那我的礼物呢？快拿出来让我看看。
+小刚：我不已经回来了吗？
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:51:48 -05]
+:END:
+
+红酒 | hong2 jiu3 | wine ;
+过去 | guo4 qu4 | (in the) past ;
+
+*** 生词
+
+1. 终于 | zhong1 yu2 | finally ;
+2. 爷爷 / ye2ye / grandfather ;
+3. 礼物 | li3 wu4 / gift, present ;
+4. 奶奶 / nai3nai / grandmother ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-21 21:05:06 -05]
+:ID: 16b83865-2ffb-4f6d-97fc-f0a4f308ed56
+:END:
+
+*** 标题
+
+**** 中文
+
+在家
+
+**** 英语
+
+At home
+
+*** 对话
+
+小丽：我今天看见你和一个女的进了咖啡店，她是谁啊？
+小刚：她是我今天在路上遇到的一个老同学。
+小丽：你们就一起去喝咖啡了？
+小刚：是啊，一边喝咖啡一边说了些过去的事。
+小丽：你回来得这么晚，是说了很多过去的事吗？
+小刚：不是，没有公共汽车了，我是走回来的。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:52:21 -05]
+:END:
+
+咖啡店 | ka1 fei1 dian4 | coffee shop ;
+
+*** 生词
+
+5. 遇到 | yu4 dao4 | to come across, to run into ;
+6. 一边 | yi4 bian1 | (indicating two actions taking place at the same time) ;
+7. 过去 | guo4 qu4 | past ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-21 21:15:04 -05]
+:ID: 5a97007f-1d1e-48f6-800e-80271db1b326
+:END:
+
+*** 标题
+
+**** 中文
+
+在打电话
+
+**** 英语
+
+On the phone
+
+*** 对话
+
+同事：小丽，周末你一般跟小刚出去看电影吗？
+小丽：我很少去电影院看电影，我更愿意在家看电视。
+同事：看电视有什么意思啊？
+小丽：可以一边吃一边看，坐久了还可以站起来休息一会儿。
+同事：你应该多出去走走，这样你们的生活会更有意思。
+小丽：有他在，我的生活已经很有意思了。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:53:51 -05]
+:END:
+
+周末 | zhou1 mo4 | weekend ;
+电影院 | dian4 ying3 yuan4 | cinema ;
+更 | geng4 | more ;
+一边 | yi4 bian1 | (indicating two actions taking place at the same time) ;
+久 | jiu3 | for a long time, long ;
+站 | zhan4 | to stand ;
+更 | geng4 | more, to a greater extent ;
+有意思 | you3 yi4 si | interesting ;
+
+*** 生词
+
+8. 一般 | yi4 ban1 | general, usual ;
+9. 愿意 | yuan4 yi4 | would like to ;
+10. 起来 | qi3 lai | (indicating an upward movement to rise) ;
+11. 应该 | ying1 gai1 | should ;
+12. [X] 生活 | sheng1 huo2 | life ;
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-21 21:25:41 -05]
+:ID: a276e24a-5759-4001-a1c9-6283dbb364b4
+:END:
+
+*** 段话
+:PROPERTIES:
+:CREATED: [2022-12-19 12:54:28 -05]
+:END:
+
+刚结婚的时候，我丈夫是中学老师，他喜欢每天早上起床后，一边吃早饭一边看报纸。十年过去了，现在他已经是校长了，因为太忙，每天早上我起床后都看不到他，晚上很晚他才回到家。我真怕他累坏了。希望他能少一些会议，多一些休息，可以经常和我还有孩子在一起。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:55:21 -05]
+:END:
+
+刚 | gang1 | just ;
+结婚 | jie2 hun1 | to marry, to get married ;
+丈夫 | zhàngfu | husband ;
+中学 | zhong1 xue2 | middle school ;
+一边 | yi4 bian1 | (indicating two actions taking place at the same time) ;
+过去 | guo4 qu4 | past ;
+怕 | pa4 | to be afraid ;
+累坏 | lei4 huai4 | to become exhausted ;
+会议 | hui4 yi4 | meeting, conference ;
+
+**** QUESTION Can 少 also be used as a verb?
+:PROPERTIES:
+:CREATED: [2022-09-24 16:50:03 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-09-24 Sat 16:50]
+:END:
+
+刚结婚的时候， 我丈夫是中学老师， 他喜欢每天早上起床后， 一边吃早饭一边看报纸。 十年过去了， 现在他已经是校长了， 因为太忙， 每天早上我起床后都看不到他， 晚上很晚他才回到家。 我真怕他累坏了。 希望他能（少）一些会议， 多一些休息， 可以经常和我还有孩子在一起。
+
+This is not correct: 你可以（少）一些音乐的音量吗？
+Correct: 你可以降低音量一些吗？
+
+Can you make the music a little less loud?
+
+希望老师（少）一些考试的题。
+I hope that the teacher reduce the number of questions in the exam.
+
+在我们公司，我们无法（降低）产品的质量。
+In our company, there's no way we reduce the quality of our products.
+
+你可以少一些运动。
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:54:41 -05]
+:END:
+
+13. 校长  | xiao4 zhang3 | headmaster ;
+14. 坏 / huai4 / broken, ruined ;
+15. 经常 | jing1 chang2 | often, frequently | adverb ;
+
+* Warm-up
+:PROPERTIES:
+:CREATED: [2022-09-24 16:30:45 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-09-24 16:30:48 -05]
+:END:
+
+1. 上去 - f
+2. 下来 - e
+3. 进去 - d
+4. 出来 - a
+5. 起来 - c
+6. 过来 - b
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-09-24 16:32:23 -05]
+:END:
+
++ 看报纸
+  + 喝茶
++  做作业
+  + 听音乐
++  运动
+  + 聊天
+  + 想
++ 等人
+  + 玩手机
+  + 在手机上看新闻
++ 爬山
+  + 聊天
+  + 想
++ 看电视
+  + 吃饭
+  + 用手机
+  + 写短信
+  + 打扫房间
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-09-24 16:56:00 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-09-24 16:59:44 -05]
+:END:
+
+老师拿（出）一本书（来）。
+小狗从房间跑（出来）。
+我给你拿（过去）吧。
+坐久了还可以站（起来）休息一会儿。
+
+When the object is a place, it should be put before "来/去". For example,
+
+老师走（进）教室（来）。
+周太太走（进）咖啡店（去）。
+
+When the object is a general item, it can be put either before or after "来/去". For example:
+
+哥哥买（回）一个西瓜（来）。
+哥哥买（回来）一个西瓜。
+
+爸爸从国外带（回）一些礼物（来）。
+爸爸从国外带（回来）一些礼物。
+
+if the action has already been completed and realized, the object is usually put after "来/去". For example,
+
+哥哥买（回来）了（一个西瓜）。
+爸爸带（回来）了（一些礼物）。
+
+**** Practise
+:PROPERTIES:
+:CREATED: [2022-09-24 17:08:15 -05]
+:END:
+
+小刚（回）几瓶饮料（来）。
+小刚（回来）了几瓶饮料。
+Xiao Gang brings some drinks.
+
+周明（进）办公室（去）。
+
+Zhou Ming enters the office.
+
+我们（过）一件衣服（去）。
+我们（过去）了一件衣服。
+
+
+
+
+***** QUESTION "过去衣服"什么意思？
+:PROPERTIES:
+:CREATED: [2022-09-24 17:14:04 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-09-24 Sat 17:14]
+:END:
+
+*** ANSWERED What are "general items"?
+:PROPERTIES:
+:CREATED: [2022-09-24 16:59:35 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-09-24 Sat 20:06]
+- State "QUESTION"   from              [2022-09-24 Sat 16:59]
+:END:
+
+any  item
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-09-24 17:14:27 -05]
+:END:
+
+妈妈（一边）唱歌（一边）做饭。
+老师（边）说（边）笑。
+小丽和老同学（边）喝咖啡（边）聊天儿。
+我丈夫喜欢（一边）吃早饭（一边）看报纸。
+
+*** Practise
+:PROPERTIES:
+:CREATED: [2022-09-24 17:15:57 -05]
+:END:
+
+Ａ：周末你和小刚去哪儿了？
+Ｂ：我跟他去饭馆了，我们（一边吃饭一边聊天儿）。
+
+Ａ：你们爬山很累吧？
+Ｂ：我们（边聊）边爬，一点儿也不累。
+
+Ａ：休息的时候你喜欢做什么？
+Ｂ：我一般边（上网）边（听音乐）。
+Ｂ：我一般边（浏览网页）边（听音乐）。
+
+
+
+**** QUESTION "surf the internet"怎么说？
+:PROPERTIES:
+:CREATED: [2022-09-24 17:20:25 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-09-24 Sat 17:20]
+:END:
+
+浏览网页
+
+**** QUESTION What can be used in the second example?
+:PROPERTIES:
+:CREATED: [2022-09-24 17:17:41 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-09-24 Sat 17:17]
+:END:
+
+This doesnt sound natural
+
+（边喝水）
+（边休息）
+
+* Exercises
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 7688a11a-c1c4-429d-856c-ee19c5a421af
+:END:
+
+**** 选择
+
+***** a
+
+一般
+
+***** b
+
+经常
+
+***** c
+
+终于
+
+***** d
+
+应该
+
+***** e
+
+愿意
+
+**** 题
+
+***** 1
+
+****** 内容
+
+周末你们🟨在哪儿吃饭？在家吃饭还是出去吃？
+
+****** 答案
+
+a
+
+***** 2
+
+****** 内容
+
+🟨考完试了，我们去哪儿玩儿玩儿？
+
+****** 答案
+
+c
+
+***** 3
+
+****** 内容
+
+你🟨早睡早起，别睡得那么晚。
+
+****** 答案
+
+d
+
+***** 4
+
+****** 内容
+
+我不🟨去那个公司工作，太远，也太累。
+
+****** 答案
+
+e
+
+***** 5
+
+****** 内容
+
+那个饭馆离我们学校很近，我们🟨去。
+
+****** 答案
+
+b
+
+*** 6-10
+:PROPERTIES:
+:ID: 36f832f2-b60b-475d-9f84-c394de2a3ccd
+:END:
+
+**** 选择
+
+***** a
+
+过去
+
+***** b
+
+起来
+
+***** c
+
+遇到
+
+***** d
+
+校长
+
+***** e
+
+礼物
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：一会儿周经理走进来的时候，请大家站🟨。
+Ｂ：好，我们知道了。
+
+****** 答案
+
+b
+
+***** 7
+
+****** 内容
+
+Ａ：我忘了把这本书还给他了。
+Ｂ：没关系，明天我帮你送🟨吧。
+
+****** 答案
+
+a
+
+***** 8
+
+****** 内容
+
+Ａ：前边那位老人是谁？
+Ｂ：他是我们的🟨。
+
+****** 答案
+
+d
+
+***** 9
+
+****** 内容
+
+Ａ：你怎么回来这么晚？
+Ｂ：回家的路上🟨张老师了，跟他聊了一会儿。
+
+****** 答案
+
+c
+
+***** 10
+
+****** 内容
+
+Ａ：下个月十爷爷的生日，你有什么打算？
+Ｂ：我要送他一件特别的🟨。
+
+****** 答案
+
+e
+
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: 89d96411-384c-4d76-aabf-4187f0c188eb
+:END:
+
+**** 内容
+
+Ａ：你去商店🟨点儿蛋糕和饮料🟨吧。
+Ｂ：一会儿有朋友过来吗？
+Ａ：是的，一会儿我们🟨。
+Ｂ：好，我马上去买。
+
+**** 答案
+
+买
+回来
+一边吃一边聊
+
+*** 2
+:PROPERTIES:
+:ID: 43a28f51-c670-49f3-87b9-2a81a8dadd93
+:END:
+
+**** 内容
+
+Ａ：饭做好了！
+Ｂ：累🟨了吧？
+Ａ：跟你一起边🟨边🟨，一点儿也不累。
+Ｂ：我们给楼下的朋友🟨一些，怎么样？
+Ａ：好，我跟你一起去。
+
+
+**** 答案
+
+坏
+做饭
+聊天儿
+送过去
+
+*** 3
+:PROPERTIES:
+:ID: 43005d2f-7f4f-4436-b15a-44750c73e959
+:END:
+
+**** 内容
+
+Ａ：这么多礼物，都是你丈夫🟨的？
+Ｂ：对，他刚从国外回来。
+Ａ：这是什么？
+Ｂ：是红酒，一会儿我们可以🟨
+
+**** 答案
+
+带回来
+一边喝一边聊
+
+*** 4
+:PROPERTIES:
+:ID: 8cfb3efe-993a-4299-88b2-1569bb8621e4
+:END:
+
+**** 内容
+
+Ａ：太累了，我们别跑了，走🟨吧。
+Ｂ：好，我们可以边🟨边🟨。
+Ａ：你🟨跑步吗？
+Ｂ：对，我🟨每天早上都出来跑一会儿。
+
+**** 答案
+
+回去
+走
+聊
+经常
+一般
+** 4
+
+*** 1
+
+**** 问题
+
+小刚买了什么礼物回来？
+
+**** 答案
+
+小刚买回来了一个瓶红酒。
+
+*** 2
+
+**** 问题
+
+小刚今天做什么了？
+
+**** 答案
+
+小刚遇到一个老同学，他和同学一起进去咖啡店聊聊。
+
+*** 3
+
+**** 问题
+
+小刚为什么很晚才回家？
+
+**** 答案
+
+因为公共汽车不来，所以他只好走回家去。
+
+*** 4
+
+**** 问题
+
+小丽更喜欢看电视还是看电影？为什么？
+
+**** 答案
+
+看电视因为她觉得比在电影院看电影方便。在家他可以一边吃一边看，坐久了可以站起来。
+
+*** 5
+
+**** 问题
+
+刚结婚的时候，丈夫习惯做什么？
+
+**** 答案
+
+一边吃早饭一边看报纸，现在他不能这样，他每天工作更早。
+
+*** 6
+
+**** 问题
+
+现在丈夫的生活什么样？
+
+**** 答案
+
+太忙了，晚上很晚他才回到家。
+

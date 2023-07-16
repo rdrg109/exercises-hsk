@@ -1,0 +1,466 @@
+:PROPERTIES:
+:CREATED: [2022-05-21 23:22:09 -05]
+:END:
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-05-21 23:22:12 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-21 23:22:14 -05]
+:ID: fd07529d-e4fd-4ad6-ac58-98a4473a05da
+:END:
+
+*** 标题
+
+**** 中文
+
+在办公室
+
+**** 英语
+
+In the office
+
+*** 对话
+
+大出：老师，我来中国留学两年了，但是我的汉语水平提高一点儿也不快啊。
+老师：你每天认真学习，做练习，完成作业，一直不错啊。
+大出：这是我昨天的作业，您帮我看看对不对。
+老师：写得不错，除了这个句子意思有些不清楚外，其他都没什么问题。
+大出：谢谢老师！
+老师：以后有什么不明百的地方，可以给我打电话或者发电子邮件。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:02:50 -05]
+:END:
+
+认真 | ren4 zhen1 | serious, earnest ;
+一直 | yi4 zhi2 | all the time ;
+清楚 | qing1 chu | clear, distinct ;
+以后 | yi3 hou4 | after, afterwards ;
+地方 | di4 fang | place ;
+或者 | huo4 zhe3 | or ;
+电子邮件 | dian4 zi3 you2 jian4 | e-mail ;
+
+*** 生词
+
+1. 留学 | liu2 xue2 | to study abroad ;
+2. 水平 | shui3 ping2 | level, standard ;
+3. 提高 | ti2 gao1 | to improve ;
+4. 练习 | lian4 xi2 | exercise ;
+5. 完成 | wan2 cheng2 | to complete ;
+6. 句子 | ju4 zi | sentence ;
+7. 其他 | qi2 ta1 | the rest ;
+8. 发 | fa1 | to send ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-21 23:37:48 -05]
+:ID: 9f4fb15e-06b4-4567-a5e7-8e8a315c838e3
+:END:
+
+*** 标题
+
+**** 中文
+
+在教室
+
+**** 英语
+
+In the classroom
+
+*** 对话
+
+学生：老师，除了小云，其他人都来了。
+老师： 比赛马上就要开始了，小云怎么还没来？
+学生：刚才给她电话了，她在路上呢。
+老师：不等她了，我先给大家讲讲这次比赛的要求和一些需要注意的地方。
+学生：老师，您放心，今天的比赛我们一定能拿第一。
+
+
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:03:32 -05]
+:END:
+
+小云 | xiao3 yun1 | Xiayun, name of a person ;
+除了 | chu2 le | other than, except ;
+其他 | qi2 ta1 | the rest ;
+比赛 | bi3 sai4 | match, competition ;
+马上 | ma3 shang4 | immediately, at once ;
+刚才 | gang1 cai2 | just now ;
+需要 | xu1 yao4 | to need ;
+注意 | zhu4 yi4 | to pay attention to ;
+放心 | fang4 xin1 | to ease one's mind, to rest assured ;
+一定 | yi2 ding4 | definitely, certainly ;
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-10-03 04:13:58 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from              [2022-12-19 Mon 13:03]
+- State "QUESTION"   from              [2022-10-03 Mon 04:14]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-10-03 19:52:07 -05]
+:END:
+
+在这个对话，"注意的地方"什么意思？
+
+学生：老师，除了小云，其他人都来了。
+老师： 比赛马上就要开始了，小云怎么还没来？
+学生：刚才给她电话了，她在路上呢。
+老师：不等她了，我先给大家讲讲这次比赛的要求和一些需要➡️注意的地方⬅️。
+学生：老师，您放心，今天的比赛我们一定能拿第一。
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-10-03 19:52:51 -05]
+:END:
+
+some rules for the competition
+
+*** 生词
+
+9. 要求 | yao1 qiu2 | requirement ;
+10. 注意 | zhu4 yi4 | to pay attention to ;
+
+*** 专有名词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:03:42 -05]
+:END:
+
+小云 / xiao3yun1 / Xiaoyun, name of a person ;
+
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-22 00:01:37 -05]
+:ID: 772f41ea-d2d4-4dd3-8160-afcc848257c8
+:END:
+
+*** 标题
+
+**** 中文
+
+在休息室
+
+**** 英语
+
+In the lounge
+
+*** 对话
+
+同事：现在用电脑上网真方便啊！
+小刚：是啊，除了看新闻，人们还可以在网上听歌，看电影，买东西。
+同事：对了，你从网上买的那件衣服呢？怎么没见你穿？
+小刚：那件衣服我穿有点儿小，给我弟弟了。
+同事：他满意吗？
+小刚：不用花钱，还有新衣服穿，他满意极了。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:06:32 -05]
+:END:
+
+方便 | fang1 bian4 | convenient ;
+网上 | wang3 shang4 | online ;
+满意 | man3 yi4 | to be satisfied ;
+
+*** 生词
+
+11. 上网 | shang4 wang3 | to surf the internet ;.
+12. 除了 | chu2 le | other than ;
+13. 新闻 | xin1 wen2 | news ;
+14. 花 / hua1 / to spend ;
+15. 极（了） | ji2 (le) | extremely ;
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-22 00:10:13 -05]
+:ID: 701adbc4-5b08-4197-bded-fe577eadaee0
+:END:
+
+*** 段话
+:PROPERTIES:
+:CREATED: [2022-12-19 13:06:56 -05]
+:END:
+
+除了春节，中秋节以外，啤酒节也是这里很重要的一个节日。这个地方每年夏天都要举行一次啤酒节。在啤酒节上，你可以喝到世界上不同地方的啤酒。除了喝啤酒，你还可以在街道两边看到世界上不同地方的歌舞。你想不想了解世界各个地方的啤酒文化？来这里的啤酒节看看吧。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:08:25 -05]
+:END:
+
+除了 | chu2 le | other than ;
+春节 | chun1jie2 | Spring Festival ;
+中秋节 | zhong1qiu1jie2 | Mid-Autumn Festival ;
+以外 | yi3 wai4 | apart from, beyond, except for, other than ;
+啤酒节 | pi2 jiu3 jie2 | Beer Festival ;
+重要  | zhong4 yao4 | important ;
+夏（天） | xia4 (tian1) | summer ;
+歌舞 | ge1 wu3 | sing and dance ;
+了解 | liao3 jie3 | to know ;
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:07:00 -05]
+:END:
+
+16. 节日 / jie2ri4 / festival ;
+17. 举行 | ju3xing2 | to hold (a meeting, an event, etc.) ;
+18. 世界 | shi4jie4 | world ;
+19. 街道 / jie1dao4 / street ;
+20. 各 | ge4 | each ;
+21. 文化 | wen2hua4 | culture ;
+* Exercises
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 3ec2e688-5705-451b-838e-59d9a1900fa6
+:END:
+
+**** 选择
+
+***** a
+
+花
+
+***** b
+
+发
+
+***** c
+
+练习
+
+***** d
+
+提高
+
+***** e
+
+完成
+
+**** 题
+
+***** 1
+
+****** 内容
+
+王经理，电子邮件我已经给您🟨过去了。
+
+****** 答案
+
+b
+
+***** 2
+
+****** 内容
+
+你每天跟谁🟨口语？
+
+****** 答案
+
+c
+
+***** 3
+
+****** 内容
+
+已经夜里12点多了，但是今天的作业我还没🟨。
+
+****** 答案
+
+e
+
+***** 4
+
+****** 内容
+
+这个月我的钱都🟨完了，不能再买新衣服了。
+
+****** 答案
+
+a
+
+***** 5
+
+****** 内容
+
+我在这里只学了三个月汉语，但是水平🟨了不少。
+
+****** 答案
+
+d
+
+*** 6-10
+:PROPERTIES:
+:ID: 265cc921-f1f3-4e13-8d91-a5304a40dac6
+:END:
+
+**** 选择
+
+***** a
+
+文化
+
+***** b
+
+句子
+
+***** c
+
+新闻
+
+***** d
+
+节日
+
+***** e
+
+世界
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：今天听写五个🟨，请大家准备好笔和纸。
+Ｂ：五个？老师，太多了！
+
+****** 答案
+
+b
+
+***** 7
+
+****** 内容
+
+Ａ：🟨上有多少个国家？你知道吗？
+Ｂ：这个……，我真不知道。
+
+****** 答案
+
+e
+
+***** 8
+
+****** 内容
+
+Ａ：你为什么想去那个地方旅游？
+Ｂ：我对那儿的🟨很感兴趣。
+
+****** 答案
+
+a
+
+***** 9
+
+****** 内容
+
+Ａ：你们国家最重要的🟨是什么？
+Ｂ：当然是春节！
+
+****** 答案
+
+d
+
+***** 10
+
+****** 内容
+
+Ａ：刚才万视上的那条🟨真有产意思！
+Ｂ：你快说说。
+
+****** 答案
+
+c
+
+
+
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: 750b7237-a890-4c5e-bae8-137091ca9b75
+:END:
+
+**** 内容
+
+Ａ：我们去这家饭馆吧，这儿的服务好🟨。
+Ｂ：我也听说过，🟨服务好🟨，菜🟨。
+Ａ：这儿🟨好吃的菜？
+Ｂ：这儿的鱼做得最好。
+
+**** 答案
+
+极了
+除了
+以外
+也很好吃
+有什么
+
+*** 2
+:PROPERTIES:
+:ID: e3b8bddd-3328-45cd-b0b4-b0e01a510eff
+:END:
+
+**** 内容
+
+Ａ：我想快点儿🟨汉语🟨，应该怎么做呢？
+Ｂ：你要多听、多说、多做🟨。
+Ａ：🟨更容易的吗？
+Ｂ：没有了。
+
+**** 答案
+
+提高
+水平
+才能提高
+除了这些还有什么
+
+*** 3
+:PROPERTIES:
+:ID: a25b275e-8740-45ff-b733-e2320994f32f
+:END:
+
+**** 内容
+
+Ａ：有🟨喝的吗？
+Ｂ：这儿有一些咖啡。
+Ａ：🟨，还有其他的吗？
+Ｂ：那边还有牛奶和茶。
+
+**** 答案
+
+什么
+除了咖啡
+
+*** 4
+:PROPERTIES:
+:ID: 497960b5-fc0a-45f4-b329-9583813346f6
+:END:
+
+**** 内容
+
+Ａ：经理，今天的工作我们已经🟨了。
+Ｂ：好🟨！明天的工作大家有问题吗？
+Ａ：没🟨问题。
+Ｂ：好的，大家一起努力。
+
+**** 答案
+
+完成
+极了
+什么

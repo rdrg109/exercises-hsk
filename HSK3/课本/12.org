@@ -1,0 +1,423 @@
+:PROPERTIES:
+:CREATED: [2022-05-21 00:53:38 -05]
+:END:
+
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-05-21 00:53:40 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-21 00:53:41 -05]
+:ID: c5c621a4-d1c9-4182-9be1-6058b527f536
+:END:
+
+*** 标题
+
+**** 中文
+
+在家
+
+**** 英语
+
+At home
+
+*** 对话
+
+小丽：今天太阳从西边出来了吗？
+小刚：怎么了？
+小丽：你怎么这么早就要睡觉了？以前都要12点以后才睡觉。
+小刚：我明天8点就要到公司。
+小丽：有事吗？
+小刚：经理生气了，他告诉我，明天8点不到，以后就别来了。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:47:13 -05]
+:END:
+
+以前 | yi3 qian2 | previously ;
+以后 | yi3 hou4 | afterwards ;
+
+*** 生词
+
+1. 太阳 | tai4 yang2 | sun ;
+2. 西 | xi1 | west ;
+4. 生气 | sheng1 qi4 | angry ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-21 01:02:49 -05]
+:ID: d298045c-643a-4a41-89e7-cf1832e66a91
+:END:
+
+*** 标题
+
+**** 中文
+
+在家
+
+**** 英语
+
+At home
+
+*** 对话
+
+小刚：我要跟周经理去外地办事，明天的飞机。
+小丽：那我帮你把衣服放到行李箱里吧。什么时候回来？
+小刚：一个星期就回来。
+小丽：啊？一个星期以后才回来？
+小刚：你要自己照顾好自己，我已经给你准备好吃的和喝的了。
+小丽：好吧，我已经把我的照片放在你的包里了。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:47:51 -05]
+:END:
+
+地办事 | de ban4 shi4 | to work ;
+放 | fang4 | to put, to place ;
+以后 | yi3 hou4 | afterwards ;
+才 | cai2 | only ;
+照顾 | zhao4 gu4 | to take care of ;
+照片 | zhao4 pian4 | photos ;
+放 | fang4 | to put, to place ;
+
+*** 生词
+
+4. 行李箱 | xing2 li xiang1 | luggage, suitcase ;
+5. 自己 | zi4 ji3 | self ;
+6. 包 | bao1 | bag, sack ;
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-21 01:15:55 -05]
+:ID: d0732df3-3d2b-4170-af1a-9e2b26b036c2
+:END:
+
+*** 标题
+
+**** 中文
+
+在机场
+
+**** 英语
+
+At the airport
+
+*** 对话
+
+周明：你怎么才来？
+小刚：对不起，周经理，来机场的路上我才发现忘带护照了。
+周明：快点吧，飞机就要起飞了。
+小刚：您有钱吗？司机把我送到机场的时候，我才发现忘记带钱包了。
+周明：我看你还是把重要的东西放在我这儿吧。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:48:45 -05]
+:END:
+
+才 | cai2 | a moment ago ;
+忘 | wang4 | to forget ;
+记 | ji4 | to remember ;
+钱包 | qian2 bao1 | wallet ;
+重要  | zhong4 yao4 | important ;
+放 | fang4 | to put, to place ;
+
+*** 生词
+
+7. 发现 | fa1 xian4 | to discover ;
+8. 护照 | hu4 zhao4 | passport ;
+9. 起飞 | qi3 fei1 | (of an aircraft) to take off ;
+10. 司机 | si1 ji1 | driver ;
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-21 01:26:10 -05]
+:ID: ef44a566-d6c0-462a-b113-cf2e79c4c0c2
+:END:
+
+*** 段话
+:PROPERTIES:
+:CREATED: [2022-12-19 12:49:27 -05]
+:END:
+
+我是一个中学老师，教学生画画儿。每次下课前，我都会把下次学生需要带的东西写在黑板上，但是每次上课时，总会有学生忘了铅笔，所以我有点儿生气，不是因为他们没带铅笔，是因为他们没有好的学习习惯。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:50:17 -05]
+:END:
+
+中学 | zhong1 xue2 | middle school ;
+忘 | wang4 | to forget ;
+铅笔 | qian1 bi3 | pencil ;
+生气 | sheng1 qi4 | angry ;
+习惯 | xi2 guan4 | to be used to, habit ;
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:49:32 -05]
+:END:
+
+11. 教 | jiao4 | to teach ;
+12. 画 / hua4 / to draw, to paint, drawing, painting ;
+13. 需要 | xu1 yao4 | to need ;
+14. 黑板 | hei1 ban3 | blackboard ;
+
+* Exercises
+:PROPERTIES:
+:CREATED: [2022-10-23 18:12:12 -05]
+:END:
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 10dc4a30-a9dd-4f78-8366-09c9c2b61f8b
+:END:
+
+**** 选择
+
+***** a
+
+黑板
+
+***** b
+
+司机
+
+***** c
+
+画
+
+***** d
+
+包
+
+***** e
+
+护照
+
+**** 题
+
+***** 1
+
+****** 内容
+
+这张🟨真漂亮！是你的吗？
+
+****** 答案
+
+c
+
+***** 2
+
+****** 内容
+
+教室后边的那块🟨上写着几个字，你看得见吗？
+
+****** 答案
+
+a
+
+***** 3
+
+****** 内容
+
+你看，就是那位🟨找到了我的手机。
+
+****** 答案
+
+b
+
+***** 4
+
+****** 内容
+
+桌子上有一本🟨，是谁的？
+
+****** 答案
+
+e
+
+***** 5
+
+****** 内容
+
+请问，这个小🟨能带上飞机吗？
+
+****** 答案
+
+d
+
+*** 6-10
+:PROPERTIES:
+:ID: 4d732193-f5da-45cb-ac49-75a9c34320a7
+:END:
+
+**** 选择
+
+***** a
+
+发现
+
+***** b
+
+生气
+
+***** c
+
+自己
+
+***** d
+
+行李箱
+
+***** e
+
+起飞
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：我现在能去一下洗手间吗？
+Ｂ：对不起，飞机就要🟨了，请你坐好。
+
+****** 答案
+
+e
+
+***** 7
+
+****** 内容
+
+Ａ：你怎么了？
+Ｂ：今天我又迟到了，老师都🟨了。
+
+****** 答案
+
+b
+
+***** 8
+
+****** 内容
+
+Ａ：我🟨公司楼下那家店的蛋糕特别好吃。
+Ｂ：是吗？今天我也去买一块。
+
+****** 答案
+
+a
+
+***** 9
+
+****** 内容
+
+Ａ：我的衣服太多了！
+Ｂ：你把衣服放在我的🟨里吧，我的箱子大。
+
+******* QUESTION
+:PROPERTIES:
+:CREATED: [2022-10-23 18:16:14 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-23 Sun 18:16]
+:END:
+
+******** Question
+:PROPERTIES:
+:CREATED: [2022-10-23 18:16:20 -05]
+:END:
+
+Why is 箱子 used in this sentence? As far as I'm concerned, its English translation is "box", so why does speaker B mentions a box when it is already known that speaker A will store it in the luggage of speaker B?
+
+****** 答案
+
+d
+
+***** 10
+
+****** 内容
+
+Ａ：我出国一个星期，你怎么办？
+Ｂ：不用担心，我可以照顾好🟨。
+
+****** 答案
+
+c
+
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: 470493f8-7484-4466-93a1-7448911efc42
+:END:
+
+**** 内容
+
+Ａ：你怎么不上飞机？
+Ｂ：我🟨发现忘了带护照了。
+Ａ：那怎么办？
+Ｂ：我让妈把🟨。
+
+**** 答案
+
+才
+护照送到机场
+
+*** 2
+:PROPERTIES:
+:ID: 49dbd9a8-e457-4f45-88ea-fe67e30a8e0b
+:END:
+
+**** 内容
+
+Ａ：9点半了，你怎么🟨来？
+Ｂ：起晚了，还等了半天么共汽车。
+Ａ：你的车呢？
+Ｂ：我把🟨。
+
+**** 答案
+
+才
+车借给朋友了
+
+*** 3
+:PROPERTIES:
+:ID: ce884fa5-0698-4888-a681-16df64140eb9
+:END:
+
+**** 内容
+
+Ａ：你带我们去游泳吧。
+Ｂ：行，你是刚学会游泳吗？
+Ａ：不是，我两年前🟨。
+Ｂ：好，我一会儿就把🟨游泳馆。
+
+**** 答案
+
+就会了
+你们送到
+
+*** 4
+:PROPERTIES:
+:ID: 267e6ffe-7d7b-4c8d-bfed-b58ee2438903
+:END:
+
+**** 内容
+
+Ａ：起床吧，已经8点了。
+Ｂ：再让我睡会儿吧，昨晚🟨。
+Ａ：那我先起来了。我的眼镜呢？
+Ｂ：昨天晚上我把🟨。
+
+**** 答案
+
+
+一点才睡
+眼镜放在电脑旁边了

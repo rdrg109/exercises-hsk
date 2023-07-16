@@ -1,0 +1,1066 @@
+:PROPERTIES:
+:CREATED: [2022-05-31 17:30:41 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: b6405169-0885-40e6-a3c6-2e8cf8328687
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: 80663c0e-e85b-4c12-abc3-29f2b2a8b1e3
+:END:
+
+男：这花苶在哪儿买的？真好喝！
+女：我也不知道，一个朋友送的。
+
+answer
+
+b
+
+notes
+
+_
+
+*** 2
+:PROPERTIES:
+:ID: 0894b293-4a8b-4085-833a-4ef6a8cf819f
+:END:
+
+男：小心点儿，到了北京就给我打电话。
+女：好的，我下了飞机就给你打电话。
+
+answer
+
+e
+
+notes
+
+_
+
+*** 3
+:PROPERTIES:
+:ID: 1c05a432-7bf8-4e7d-a819-a9a74bfc6bc7
+:END:
+
+女：这些水果都很新鲜，你想吃什么？
+男：给我一个苹果吧。
+
+answer
+
+c
+
+notes
+
+_
+
+*** 4
+:PROPERTIES:
+:ID: 5b274bb3-a43d-49d2-913d-39e59855ef19
+:END:
+
+女：爸爸的生日快到了，我想送他一条裤子，你看这条怎么样？
+男：颜色不错，但是我觉得大了一点儿。
+
+answer
+
+f
+
+notes
+
+_
+
+*** 5
+:PROPERTIES:
+:ID: 3c99e72e-d0e7-4a7a-93aa-8a6c19f2e79c
+:END:
+
+男：我想买件衬衫。
+女：颜色很多啊，你喜欢红的还是绿的？
+
+answer
+
+a
+
+notes
+
+_
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: 59615679-a996-4782-891a-34c2d882e23b
+:END:
+
+你还记得前边的那个女孩儿吗？去年们去上海玩儿的时候认识的。
+
+他不认识那个女孩儿。
+
+answer
+
+0
+
+notes
+
+_
+
+*** 7
+:PROPERTIES:
+:ID: 8a91711d-73f9-440b-936b-5b17aa7822e2
+:END:
+
+我记得这条裤子上个月是八百元，现在只要四百元，我一次买了两条。
+
+这条裤子现在便宜得多。
+
+answer
+
+1
+
+notes
+
+_
+
+**** QUESTION "我一次买了两条"什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-13 10:18:28 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from "ANSWERED"   [2022-06-13 Mon 18:42]
+- State "ANSWERED"   from "QUESTION"   [2022-06-13 Mon 18:40]
+- State "QUESTION"   from              [2022-06-13 Mon 10:18]
+:END:
+
+
+
+*** 8
+:PROPERTIES:
+:ID: 7cce85ce-ceba-415f-9ed0-8f86a217f875
+:END:
+
+工作很累的时候可以听歌，玩儿游戏或者去运动，这样，你会觉得舒服点儿。
+
+运动时可以听歌。
+
+answer
+
+0
+
+notes
+
+_
+
+**** QUESTION “去运动”什么意思？
+:PROPERTIES:
+:CREATED: [2022-10-02 21:54:34 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-02 Sun 21:54]
+:END:
+
+*** 9
+:PROPERTIES:
+:ID: 92b30bb1-5ed3-4047-8e12-17b45d2b79d5
+:END:
+
+我刚买的鲜奶你放到哪儿了？我现在想喝。
+
+他不知道鲜奶在哪儿。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 10
+:PROPERTIES:
+:ID: 7a5758f9-d3e4-44ab-a13a-bb19f0a40ea7
+:END:
+
+你怎么只吃饭不吃菜啊，来，多吃点儿。
+
+她菜吃得很少。
+
+answer
+
+1
+
+notes
+
+_
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: 2a8c0196-031e-402b-8946-4d9dc43143ac
+:END:
+
+女：我的脚还没好，我们周末别去爬山了。
+男：好，那我们就在家看看电视，玩儿玩儿游戏。
+
+问：女的为什么不去爬山？
+
+alternatives
+
+脚不舒服
+想看电视
+想玩儿游戏
+
+answer
+
+a
+
+notes
+
+_
+
+*** 12
+:PROPERTIES:
+:ID: 689af7c6-1034-46d7-b94c-33afe1f5f109
+:END:
+
+女：今天买的冷饮很甜，你要不要喝点儿？
+男：不喝了，我打算睡觉了。
+
+问：男的为什么不喝泠饮？
+
+alternatives
+
+不太甜
+要睡觉
+太冷了
+
+answer
+
+b
+
+notes
+
+_
+
+*** 13
+:PROPERTIES:
+:ID: 4888da61-1b76-4f77-a4b4-7bd87213028f
+:END:
+
+男：你新给我买的那条裤子放哪儿了？
+女：我洗完衬衫就给你拿。
+
+问：女的在做什么？
+
+alternatives
+
+买裤子
+洗衬衫
+拿裤子
+
+answer
+
+b
+
+notes
+
+_
+
+**** ANSWERED What does 裤子 has to do with the woman washing 衬衫?
+:PROPERTIES:
+:CREATED: [2022-06-11 19:06:20 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-05 Tue 18:36]
+- State "QUESTION"   from              [2022-06-11 Sat 19:06]
+:END:
+
+the woman wants to finish the task first and then help the man
+
+*** 14
+:PROPERTIES:
+:ID: 0371b3cb-cc22-41ba-b54e-26bd07b3d0a9
+:END:
+
+男：你上午给我打电话的时候，我正在上课。有什么事吗？
+女：对不起， 是我不小心打错了。
+
+问：女的为什么给男的打电话？
+
+alternatives
+
+找他去上课
+不小心打错了
+上午有事
+
+answer
+
+b
+
+notes
+
+_
+
+*** 15
+:PROPERTIES:
+:ID: 83bc87fe-8dbd-425e-ae2d-a70920ef1baa
+:END:
+
+女：桌子上面放着一杯咖啡，是你的吗？
+男：小丽放在那儿的。
+
+问：咖啡是谁的？
+
+alternatives
+
+男的的
+女的的
+小丽的
+
+answer
+
+c
+
+notes
+
+_
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: da240337-8f36-4b57-abf6-bf90607f89ed
+:END:
+
+
+男：今天买什么了？
+女：我买了衬衫，还给妈妈买了一条裤子。
+男：那你给我买什么了？
+女：桌子上的饮料给你吧。
+
+ 问：女的给自己买什么了？
+
+alternatives
+
+衬衫
+裤子
+饮料
+
+answer
+
+a
+
+notes
+
+_
+
+*** 17
+:PROPERTIES:
+:ID: 79889e33-3a5f-4185-8957-477957461437
+:END:
+
+
+女：我的手机放哪儿了？我怎么不记得了？
+男：别着急，慢慢想。
+女：你给我打个电话吧。
+男：好，没问题。
+
+问：女的为什么让男的给她打个电话？
+
+alternatives
+
+有问题问他
+找手机
+她很着急
+
+answer
+
+b
+
+notes
+
+_
+
+**** QUESTION What's the meaning of 慢慢想？
+:PROPERTIES:
+:CREATED: [2022-06-02 00:28:27 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-02 Thu 00:28]
+:END:
+
+In with other examples, the expression 慢慢 is used?
+
+*** 18
+:PROPERTIES:
+:ID: 9c05655f-e9f4-4027-9d20-746d81d86ccf
+:END:
+
+
+男：给我来杯绿茶吧。
+女：这儿没有绿茶。
+男：桌子上不是放着绿茶吗？
+女：那不是绿茶，是水果饮料。
+
+问：桌子上放着什么？
+
+alternatives
+
+绿茶
+水果
+饮料
+
+answer
+
+c
+
+notes
+
+_
+
+*** 19
+:PROPERTIES:
+:ID: 82eae8e0-fc5c-4452-8c0a-bfae6d284f21
+:END:
+
+
+女：你送儿子上学吧。
+男：好，你怎么了？不舒服吗？
+女：没有，我觉得有点儿累。
+男：哪你在家休息吧。
+那你在家休息吧。
+
+问：女的怎么了？
+
+alternatives
+
+不想去上学
+觉得累
+不舒服
+
+answer
+
+b
+
+notes
+
+_
+
+**** QUESTION “上学“和”上课“有什么区别？
+:PROPERTIES:
+:CREATED: [2022-07-19 11:57:39 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-19 Tue 11:57]
+:END:
+
+*** 20
+:PROPERTIES:
+:ID: 9643f0ee-7281-4b62-9fbd-dd160b19985a
+:END:
+
+男：你不是要买牛肉吗？怎么买鱼了？
+女：去晚了，牛肉都卖完了。我看这条鱼很新鲜就买了。
+男：是很好。对了，我们吃米饭还是面条？
+女：今天有鱼，我们吃米饭吧。
+
+问：女的为什么没买牛肉？
+
+alternatives
+
+牛肉不新鲜
+没有牛肉了
+要吃米饭
+
+answer
+
+b
+
+notes
+
+_
+
+**** QUESTION What's the meaning of 是很好?
+:PROPERTIES:
+:CREATED: [2022-06-02 00:34:13 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-02 Thu 00:34]
+:END:
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: 72a444c2-d290-4052-8ed3-2f6a99dc2791
+:END:
+
+alternatives
+
+我今天不舒服，觉得很累。
+你还认识我妈？我们在中国见过。
+你喜欢吃红品过还是绿苹果。
+妈妈，我下课回来了。
+当然。我们先坐公共汽车，然后换地铁。
+上面写着二十元一把。
+
+*** 21
+:PROPERTIES:
+:ID: de0e6748-ac96-4a53-b8d6-566acf264301
+:END:
+
+content
+
+今天你怎么了？一直在睡觉。
+
+answer
+
+a
+
+*** 22
+:PROPERTIES:
+:ID: 1c8f085f-52da-46ea-967e-3a95ece72520
+:END:
+
+content
+
+啊，对，我记得你，你瘦了。
+
+answer
+
+b
+
+*** 23
+:PROPERTIES:
+:ID: 41e38cfd-20df-455e-9562-bd46efd506c2
+:END:
+
+content
+
+桌子上放着饮料，你先和点儿吧。
+
+answer
+
+d
+
+*** 24
+:PROPERTIES:
+:ID: b2409af0-3aca-4103-a0ce-b24dee96531e
+:END:
+
+content
+
+我喜欢吃红苹果，我觉得红苹果甜。
+
+answer
+
+c
+
+*** 25
+:PROPERTIES:
+:ID: 40b0ac1e-92be-4163-8f1c-29598bba580d
+:END:
+
+content
+
+这种雨伞多少钱一把？
+
+answer
+
+f
+
+
+** 2
+:PROPERTIES:
+:ID: 1f1008d4-066a-4ad2-8aaf-327575a2faff
+:END:
+
+alternatives
+
+裤子
+或者
+还是
+记得
+声音
+小心
+
+*** 26
+:PROPERTIES:
+:ID: 5fae2e50-ece5-417a-99ce-400c964034b2
+:END:
+
+content
+
+老师，我们今天复习第三课//学习第四课？
+
+answer
+
+c
+
+**** QUESTION 什么时候必须用“或者”和“还是”?
+:PROPERTIES:
+:CREATED: [2022-10-02 10:22:41 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from "QUESTION"   [2022-10-02 Sun 10:23]
+- State "QUESTION"   from              [2022-10-02 Sun 10:22]
+:END:
+
+*** 27
+:PROPERTIES:
+:ID: ccd88d83-c6fa-425c-9024-e30f2e7376e7
+:END:
+
+content
+
+周末你是不是要带学生去爬山？穿这条//吧。
+
+answer
+
+a
+
+*** 28
+:PROPERTIES:
+:ID: ddad51c7-0e5d-4be5-8508-9af9d0f99a7f
+:END:
+
+content
+
+这杯饮料很热，喝的时候//点儿。
+
+answer
+
+f
+
+*** 29
+:PROPERTIES:
+:ID: 9c5f8a2c-66d6-4a6b-9992-5eb6b6d67c9e
+:END:
+
+content
+
+Ａ：你想喝点儿什么茶？
+Ｂ：花茶//绿茶都行。
+
+answer
+
+b
+
+*** 30
+:PROPERTIES:
+:ID: 89e44339-0490-4134-b1d7-8d5b505a77ef
+:END:
+
+content
+
+Ａ：经理旁边坐着一个人，你知道是谁吗？
+Ｂ：你不//了？那是小周啊，去年来过。
+
+answer
+
+d
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: 06a81f11-ff9e-4723-aa41-5dba446cd2e4
+:END:
+
+content
+
+这条裤子失去年过生日时我哥送我的，只穿了一次，就没再穿，一直放在这里。
+
+inference with missing information
+
+这条裤子
+
+alternatives
+
+是绿色的
+没穿过几次
+是我买的
+
+answer
+
+b
+
+*** 32
+:PROPERTIES:
+:ID: 31ecd002-3e46-4012-80a8-1cea2a4480a1
+:END:
+
+content
+
+多吃新鲜的苹果对身体好，早上和上午是吃苹果最好的时间。
+
+inference with missing information
+
+我们应该
+
+alternatives
+
+晚上吃苹果
+上午吃苹果
+身体好的时间吃苹果
+
+answer
+
+b
+
+*** 33
+:PROPERTIES:
+:ID: 88cd689e-2a0a-4443-ad6e-078fd3fcf116
+:END:
+
+content
+
+我先生不爱吃西瓜，你也不爱吃，西瓜那么好吃，又那么甜，为什么你们会不喜欢呢？
+
+inference with missing information
+
+她
+
+alternatives
+
+爱吃西瓜
+不喜欢吃甜的
+没买西瓜
+
+answer
+
+a
+
+*** 34
+:PROPERTIES:
+:ID: c9b05f6c-9a5a-4b0a-8b01-7bfa568335e2
+:END:
+
+content
+
+我们的办公室里放着很多吃得东西，下午工作累了的时候，大家都会吃点儿。
+
+inference with missing information
+
+我们下午
+
+alternatives
+
+去买吃的东西
+只吃东西不工作
+累了就吃点儿东西
+
+answer
+
+c
+
+*** 35
+:PROPERTIES:
+:ID: e104c0f0-4983-4284-8e20-ddb6809f1500
+:END:
+
+content
+
+周末周日我们事情不多，喜欢和学生们去爬爬山，或者打打篮球，有时候也会在家里看书。
+
+inference with missing information
+
+我们
+
+alternatives
+
+周末工作很忙
+周末喜欢去爬山
+每天在家看书
+
+answer
+
+b
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: 483f7331-e6c1-4a9d-9d0c-1c6d2d73ace3
+:END:
+
+words
+
+放着
+裤子
+床上
+一条
+
+answer
+
+床上放着一条裤子。
+
+*** 37
+:PROPERTIES:
+:ID: 2111886d-c9c0-4744-9532-cc737241217e
+:END:
+
+words
+
+的时候
+要
+小心点儿
+爬山
+
+answer
+
+爬山的时候要小心点儿。
+
+*** 38
+:PROPERTIES:
+:ID: 3fe1652a-746b-4440-87e8-07a0be7789d4
+:END:
+
+words
+
+穿了
+一件
+我记得
+白衬衫
+他
+
+answer
+
+我记得他穿了一件白衬衫。
+
+*** 39
+:PROPERTIES:
+:ID: c441d417-3983-4921-84de-328599616087
+:END:
+
+words
+
+红茶
+想喝
+绿茶
+还是
+你
+
+answer
+
+你想喝红茶还是绿茶？
+
+*** 40
+:PROPERTIES:
+:ID: 3a765384-a482-4b4f-bd23-bce06cbaecbd
+:END:
+
+words
+
+还是
+他想买
+裤子
+衬衫
+我不知道
+
+answer
+
+我不知道他小买裤子还是衬衫。
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: ea281030-ea2f-4a47-86f7-61e87f2dc21f
+:END:
+
+sentence
+
+我想喝点儿//料。
+
+pinyin
+
+yin3
+
+answer
+
+饮
+
+*** 42
+:PROPERTIES:
+:ID: 54aa6bef-0855-4074-9fbc-8a57eb473af6
+:END:
+
+sentence
+
+水很热，喝的时候小//点儿。
+
+pinyin
+
+xin1
+
+answer
+
+心
+
+*** 43
+:PROPERTIES:
+:ID: 7b70229a-e4bc-4011-9b69-9c0c53be414e
+:END:
+
+sentence
+
+一//裤子三百元。
+
+pinyin
+
+tiao2
+
+answer
+
+条
+
+*** 44
+:PROPERTIES:
+:ID: 72883c0b-ffa0-4bd6-b2cf-29c21636bc6b
+:END:
+
+sentence
+
+我觉得胖或//瘦没关系。
+
+pinyin
+
+zhe3
+
+answer
+
+者
+
+*** 45
+:PROPERTIES:
+:ID: a233eb38-a373-4a68-b9b5-f232670037be
+:END:
+
+sentence
+
+我不喜欢这个//面包。
+
+pinyin
+
+tian2
+
+answer
+
+甜
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: da0c2cb6-8ff3-4fb2-8f40-3dfe8af44551
+:END:
+
+content
+
+我打算周末跟学生//去，一起爬//。
+
+answer
+
+出
+山
+
+*** 47
+:PROPERTIES:
+:ID: b043ac7b-a0bb-434f-8fb7-3b0c209af4d3
+:END:
+
+content
+
+你现在真瘦！我记//你上学的时候不是//瘦啊。
+
+answer
+
+得
+很
+
+*** 48
+:PROPERTIES:
+:ID: d1dc3283-3d56-423c-972b-061a50859e27
+:END:
+
+content
+
+你送爸爸衬衫或//裤子，他//会喜欢。
+
+answer
+
+者
+都
+
+*** 49
+:PROPERTIES:
+:ID: 92bc5618-10ea-42ec-87c6-4a154f81fe98
+:END:
+
+content
+
+我今天下午去//友家，他身体不舒//。
+
+answer
+
+朋
+服
+
+*** 50
+:PROPERTIES:
+:ID: 3a347dc4-83f4-4ecb-8819-e225de4bb849
+:END:
+
+content
+
+这是什么//料，我一//没喝过。
+
+answer
+
+饮
+次
+
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: 4f1592be-ec4c-49a8-b152-7674488ee5be
+:END:
+
+content
+
+周明不让太太买//，因为他//太太已经有两//这样的裤子了。周明买一件//，这件衬衫三百二十//。
+
+answer
+
+裤子
+记得
+条
+衬衫
+元
+
+** 2
+:PROPERTIES:
+:ID: 1ceba992-8094-4eff-a60f-5879ec93c585
+:END:
+
+content
+
+桌子上//着很多//，小刚想喝茶//咖啡，小丽最喜欢喝茶，花茶、//茶、红茶，她都喜欢，因为工作累了的时候，喝杯茶，她会觉得很//。
+
+answer
+
+放
+饮料
+或者
+绿
+舒服
+

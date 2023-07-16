@@ -1,0 +1,1087 @@
+:PROPERTIES:
+:CREATED: [2022-06-02 19:51:55 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: 3a1f4e36-0234-47e4-8502-c803511f0ec2
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: a2a17cb6-37ff-4fc0-bef2-1243340cf074
+:END:
+
+女：大明，你看我的眼腈是不是跟熊猫一样了？
+男：怎么，昨天又没睡好？别总想工作的事，好好休息。
+
+answer
+
+e
+
+notes
+
+_
+
+*** 2
+:PROPERTIES:
+:ID: 54f3f525-08cb-4610-ad8e-527e7104f2d2
+:END:
+
+男：方老师，这次中文比赛的第一是您班的学生吗？
+女：是，这个小男孩叫天天，他第一次参赛就拿了第一。
+
+answer
+
+a
+
+notes
+
+_
+
+*** 3
+:PROPERTIES:
+:ID: e1cedc0b-c2f0-4c3b-ac7b-ba7508bfa352
+:END:
+
+女１：这山怎么越爬越高啊？还有多远？
+女２：我对这儿比较了解，再爬一个小时就到了。先休息会儿吧。
+
+answer
+
+b
+
+notes
+
+_
+
+*** 4
+:PROPERTIES:
+:ID: 5daee1bc-b1e8-4e39-8e6f-2e474e84db92
+:END:
+
+男：你说得真好，几乎跟中国人一样！
+女：哪里哪里，大家说得都很好。
+
+answer
+
+f
+
+notes
+
+_
+
+*** 5
+:PROPERTIES:
+:ID: 828122e7-791d-4820-a959-e4da5464a518
+:END:
+
+男：方方，这是你们班的照片吗？
+女：对，吧，我来给你介绍一下，中间这个是我们班周老师，周老师旁边这个男孩儿叫山山，他上课总是迟到。
+
+answer
+
+c
+
+notes
+
+_
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: 0ad6940b-4878-4f6d-8032-3288aa5ba5b3
+:END:
+
+十二月的南方，房间里跟房间外一样冷，所以回家了大家也要穿很多衣服。
+
+南方十二月的时候房间里不太冷。
+
+answer
+
+0
+
+notes
+
+_
+
+*** 7
+:PROPERTIES:
+:ID: ed1de58e-cc93-44dd-969d-e48e49f09f8c
+:END:
+
+这本书写得真不错，越看越有意思，你也看看吧。
+
+他觉得这本书很有意思。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 8
+:PROPERTIES:
+:ID: c957d265-cfcc-46a4-afba-84b51dc12ce9
+:END:
+
+雪越下越大，外边得房子，树和路都变白了。
+
+现在不下雪了。
+
+answer
+
+0
+
+notes
+
+_
+
+*** 9
+:PROPERTIES:
+:ID: 101a31c0-28ff-4b1b-bde3-103bbd3aba77
+:END:
+
+我昨天新买的手机跟以前的不太一样，你来帮我看看怎么用，可以吗？
+
+他以前的手机和现在的是一样的。
+
+answer
+
+0
+
+notes
+
+_
+
+*** 10
+:PROPERTIES:
+:ID: 834eed5d-717e-4364-ba12-19d63a5eed61
+:END:
+
+我喜欢手表，周月也跟我一样，但是她更喜欢大一点儿的。
+
+周月喜欢手表。
+
+answer
+
+1
+
+notes
+
+_
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: c314c88b-936c-4f9d-bb3a-ed691b281b9a
+:END:
+
+男：这是什么时候的照片？照片上的你跟现在不太一样。
+女：是去年夏天的，那时候我是长头发，也比较瘦。
+
+问：女的现在怎么样？
+
+alternatives
+
+变胖了
+变瘦了
+头发变长了
+
+answer
+
+a
+
+notes
+
+_
+
+*** 12
+:PROPERTIES:
+:ID: f7b7d6ff-97dd-4072-8888-7b5136a07fb0
+:END:
+
+男：小方，我真为你高兴，希望你越学越好。
+女：谢谢老师，我一定努力，下次考试还拿第一。
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+学得不太好
+不用努力了
+靠了第一
+
+answer
+
+c
+
+notes
+
+_
+
+**** QUESTION “我真为你高兴”是什么意思？
+:PROPERTIES:
+:CREATED: [2022-07-15 20:47:52 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-15 Fri 20:48]
+:END:
+
+do something for somebody, only good things.
+
+
+*** 13
+:PROPERTIES:
+:ID: 751e8fc3-b468-4be3-8d19-a45825cca03d
+:END:
+
+男：妈，你的鱼越做越好，跟饭馆的一样好吃。
+女：那你多吃点儿，以后我每个星期都给你做一次，怎么样？
+
+问：女的做鱼做的怎么样？
+
+alternatives
+
+比饭馆的好吃
+特别好吃
+没有饭馆的好吃
+
+answer
+
+b
+
+notes
+
+_
+
+*** 14
+:PROPERTIES:
+:ID: e9e1c9a0-0ca7-41a6-9958-fa4a0ca136f0
+:END:
+
+女：您好，来一个西瓜，要甜点儿的，不要太大的。
+男：现在西瓜便宜，给您来个大的吧，西瓜越大越甜。
+
+问：什么样的西瓜比较甜？
+
+alternatives
+
+便宜的
+大的
+小的
+
+answer
+
+b
+
+notes
+
+_
+
+*** 15
+:PROPERTIES:
+:ID: c7bb1f82-34d5-47d7-bb06-ff74e7dec7ea
+:END:
+
+男：你汉语只学了不到半年，说得这么好。以前你不是想学吗？
+女：其实汉语跟我以前想的一点儿也不一样，越学越有意思，也不觉得难了。
+
+问：女的以前觉得汉语怎么样？
+
+alternatives
+
+特别有意思
+很容易
+很难
+
+answer
+
+c
+
+notes
+
+_
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: bde06472-cfab-49f7-9b46-51bc58cbd752
+:END:
+
+
+女：老师，上次比赛每个人要讲3分钟，这次呢？
+男：跟上次一样，参赛的同学每人最少讲3分钟。
+女：还要回答老师的问题吗？
+男：对，三个老师每人问一个问题。你一定没问题，不用担心。
+
+问：关于这次比赛，可以知道什么？
+
+alternatives
+
+每人少进3分钟
+只要回答一个问题
+没有问题
+
+answer
+
+a
+
+notes
+
+_
+
+*** 17
+:PROPERTIES:
+:ID: 57653da7-7bcf-4958-8601-d7c333ec3a8d
+:END:
+
+女：你好，我叫周月。你叫什么名字？
+男：我叫解东。
+女：你姓什么？是"谢谢"的"谢"吗？
+男：不是，跟"了解"的"解"一样，但是做姓的时候读"解"。
+
+问：难的姓什么？
+
+alternatives
+
+周
+谢
+解
+
+answer
+
+c
+
+notes
+
+_
+
+*** 18
+:PROPERTIES:
+:ID: 85b14f72-e9f3-4183-a1ab-92e78b4c8b8d
+:END:
+
+男：刚才是大晴天，现在怎么下雨了，还越下越大。
+女：夏天天气变得快，我们坐出租车回家吧。
+男：大家想得都跟你一样，你看，你叫得到车吗？
+女：那先去路边小商店买把伞吧。
+
+问：他们现在要去做什么？
+
+alternatives
+
+买伞
+叫出租车
+找朋友
+
+answer
+
+a
+
+notes
+
+_
+
+*** 19
+:PROPERTIES:
+:ID: e6dbbf20-643c-4a8a-9d8b-6afc78eaaf89
+:END:
+
+男：你们去爬山了？怎么样？一定很累吧？
+女：越高的第方越冷，山路也越难越，但适特别漂亮。虽然已经是春天了，可是山上跟山下一点儿也不一样，还都是白的。
+男：我越听越想去看看，下次你们也带我一起去吧。
+女：好，下次去一定告诉你。
+
+问：关于这次爬山，可以知道什么？
+
+alternatives
+
+山下下雪了
+山上有雪
+山路好走
+
+answer
+
+b
+
+notes
+
+_
+
+**** ANSWERED Which part of the dialogue states that therew is snow at the top?
+:PROPERTIES:
+:CREATED: [2022-07-15 20:20:11 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-20 Wed 18:48]
+- State "QUESTION"   from              [2022-07-15 Fri 20:20]
+:END:
+
+it is the main part because it is mentioned first
+
+*** 20
+:PROPERTIES:
+:ID: 0cf39387-085a-4f82-8dfc-100292522a7e
+:END:
+
+
+男：天气真热，我们喝点儿东西吧，给你饮料。
+女：谢谢，我带了热茶。
+男：夏天喝热茶，那不是越喝越热吗？
+女：中国人跟你们不太一样，天气越热，我们越想喝点儿热的，比较舒服。
+
+问：天气热的时候，女的喝什么？
+
+alternatives
+
+喝热的
+不喝热的
+喝饮料
+
+answer
+
+a
+
+notes
+
+_
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: 7a4a9f72-ce1a-44ce-a242-7ade70563106
+:END:
+
+alternatives
+
+快睡吧，明天还要上班呢。
+请给我一被热咖啡，不要牛奶。你要喝什么？
+我太冷了，想快点儿回家。
+小方，你是南方人还是北方人？
+当然。我们先坐公共汽车，然后换地铁。
+我看你们家孩子很爱咖啡啊。
+
+*** 21
+:PROPERTIES:
+:ID: 47cf204c-bdb8-4c00-a754-6b340894b74a
+:END:
+
+content
+
+跟你一样，也要咖啡，但是我要放一些牛奶。
+
+answer
+
+b
+
+*** 22
+:PROPERTIES:
+:ID: ff365f3d-0b14-4d79-87fe-77a7a4837587
+:END:
+
+content
+
+我跟您一样，都是从南方来的。
+
+answer
+
+d
+
+*** 23
+:PROPERTIES:
+:ID: ba9bfcaa-bcfd-49b2-a770-7653330d2ae1
+:END:
+
+content
+
+你怎么越走越快？等等我。
+
+answer
+
+c
+
+*** 24
+:PROPERTIES:
+:ID: 591e0af2-3646-4fa6-af72-f2d8e91f6d5d
+:END:
+
+content
+
+对，跟她爸爸一样，都对音乐感兴趣。
+
+answer
+
+f
+
+*** 25
+:PROPERTIES:
+:ID: 93f51d01-39b6-4f2f-8c03-f434e30ef5ab
+:END:
+
+content
+
+小月还没回来，我又点儿不放心，再等等，你先睡。
+
+answer
+
+a
+
+
+** 2
+:PROPERTIES:
+:ID: ab2711db-4f81-4601-9d2e-a0b9ead2e6b5
+:END:
+
+alternatives
+
+班
+中间
+了解
+一样
+声音
+比较
+
+notes
+
+中间 | zhong1 jian1 | middle ;
+
+*** 26
+:PROPERTIES:
+:ID: f5ea3ee6-11c6-46a0-8f98-ce70c83238b6
+:END:
+
+content
+
+你看，这两个汉字是不是//的？
+
+answer
+
+d
+
+*** 27
+:PROPERTIES:
+:ID: b6bfe338-08be-4c65-aadf-92f3f1498c54
+:END:
+
+content
+
+站在//的人脚周明，他是我们公司的经理。
+
+answer
+
+b
+
+*** 28
+:PROPERTIES:
+:ID: b42bace6-c1c1-4fc6-a9ee-6e2ee2830090
+:END:
+
+content
+
+外边//冷，你多穿一件衣服吧。
+
+answer
+
+f
+
+*** 29
+:PROPERTIES:
+:ID: 536fc9e9-45d4-4559-930a-f53e7cab1c9c
+:END:
+
+content
+
+Ａ：刚才那个人，你认识吗？
+Ｂ：我知道他的名字，但是不//他。
+
+answer
+
+c
+
+*** 30
+:PROPERTIES:
+:ID: 90834ffd-63f8-48b3-89a6-2dd9f0b55c14
+:END:
+
+content
+
+Ａ：我们//又多少个学生？
+Ｂ：以前是16个，昨天来了个新同学，现在是17个。
+
+answer
+
+a
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: b4963d4d-7c51-4efd-a17f-e875b10b41db
+:END:
+
+content
+
+跟哥哥一样，我也觉得对我影响最大的人是妈妈。从那个我们学说话，学走路时开始，妈妈每天跟我们在一起，最重要的是她告诉我们怎么做人做个好人。
+
+inference with missing information
+
+妈妈
+
+alternatives
+
+是老师
+对我很重要
+跟哥哥一样
+
+answer
+
+b
+
+*** 32
+:PROPERTIES:
+:ID: dbcf632a-6bfb-415a-b3bc-5ce042a9a4a7
+:END:
+
+content
+
+听到“你中文说得真好”“你真漂亮”时，外国人总是说“谢谢”。中国人跟外国人不一样，我们说“哪里哪里”，这不是在问：在哪儿：”，是客气。
+
+inference with missing information
+
+听到“你做的饭几乎跟饭馆一样”时，中国人可能做什么？
+
+alternatives
+
+说“谢谢”
+不说话
+说“哪里哪里”
+
+answer
+
+c
+
+*** 33
+:PROPERTIES:
+:ID: ef5674a3-ee64-4168-99f6-b5d64a2ceb35
+:END:
+
+content
+
+我女儿和白先生的儿子在一个学校上学。他儿子跟我女儿一样，都上三年级，但是不同班。他（家）孩子在一班，我女儿在四班。课间十分钟，他们说是一起玩儿，跟同班同学一样。
+
+inference with missing information
+
+白先生的儿子
+
+alternatives
+
+和我是同学
+和我女儿同班
+课间总和我女儿见面
+
+answer
+
+c
+
+notes
+
+课间 | ke4 jian1 | interval between lessons ;
+
+**** ANSWERED Why is 家 used in this context before 孩子?
+:PROPERTIES:
+:CREATED: [2022-07-19 12:19:27 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-20 Wed 18:44]
+- State "QUESTION"   from              [2022-07-19 Tue 12:19]
+:END:
+
+Is 家 the measure word for 孩子?
+
+The kid that belong to the family.
+
+**** ANSWERED “课间”是什么意思？
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-20 Wed 18:47]
+- State "QUESTION"   from              [2022-07-19 Tue 12:20]
+:END:
+:END:
+
+Is it the break between classes?
+
+the break between classes
+
+*** 34
+:PROPERTIES:
+:ID: 3121ba86-9ca5-4d4a-8ceb-56eba6a6f9a3
+:END:
+
+content
+
+学汉语时要多听，多说。有人害怕说错，所以不爱说。其实月害怕月不想说，越不想说越说不好。说错了没关系，这次错了，下次一定不会再错。
+
+inference with missing information
+
+学汉语时不能
+
+alternatives
+
+说错
+说不好
+怕说错
+
+answer
+
+c
+
+*** 35
+:PROPERTIES:
+:ID: c80b7e6f-03ec-4920-abe9-0f382276dade
+:END:
+
+content
+
+小时候，我女儿说她爸爸不喜欢她，因为爸爸没说过“女儿”，我爱你“，也不说她漂亮。现在，女儿跟以前不一样了，因为她了解：其实爸爸跟妈妈一样爱她，只是爸爸不说，都在心里。
+
+inference with missing information
+
+现在，女儿
+
+alternatives
+
+不爱爸爸
+不了解爸爸
+知道爸爸很爱她
+
+answer
+
+c
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: 5747061e-4d7c-450a-83da-bea8b3e416c4
+:END:
+
+words
+
+快
+越
+那辆车
+开
+越
+
+answer
+
+那辆车越开越快。
+
+*** 37
+:PROPERTIES:
+:ID: 410be779-e529-4d11-9892-e39025fc9f50
+:END:
+
+words
+
+跟
+我弟弟
+妈妈
+离
+一样
+
+answer
+
+我弟弟跟妈妈一样高。
+
+**** QUESTION What are the alternatives answer?
+:PROPERTIES:
+:CREATED: [2022-07-15 19:51:43 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-15 Fri 19:51]
+:END:
+
+我弟弟跟妈妈一样高。
+妈妈跟我弟弟一样高。
+
+*** 38
+:PROPERTIES:
+:ID: 55f22f68-2313-4842-aef9-167ce42e3305
+:END:
+
+words
+
+越
+我和老同学
+高兴
+聊
+越
+
+answer
+
+我和老同学越聊越高兴。
+
+*** 39
+:PROPERTIES:
+:ID: 9825c6fd-59ac-4d2c-90d6-364cc78185b1
+:END:
+
+words
+
+新鲜
+苹果
+西瓜
+跟
+一样
+
+answer
+
+苹果很西瓜一样新鲜。
+
+*** 40
+:PROPERTIES:
+:ID: deb1dc47-b6de-41a8-8eca-015ca77aa236
+:END:
+
+words
+
+吃甜的
+越
+越
+你
+身体
+胖
+
+answer
+
+你越吃甜的身体越胖。
+
+**** Is "吃甜" the adjective for "身体"?
+:PROPERTIES:
+:CREATED: [2022-07-15 20:00:36 -05]
+:END:
+
+In the  expression "吃甜的身体", is "吃甜的" the adjective for "身体"?
+
+It sounds a little weird to me that 身体  is used here because it means "health", so the translation would be "eat sweet health" and this sound natural.
+
+**** QUESTION Is this an acceptable answer?
+:PROPERTIES:
+:CREATED: [2022-07-15 19:44:43 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-15 Fri 19:44]
+:END:
+
+你身体越吃甜的越胖。
+
+a) 吃甜的东西
+b) 胖
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: 439713c4-7d45-4ec4-a77b-1fb8c49183c5
+:END:
+
+
+sentence
+
+妈，给你介绍一下，这是我们//同学白乐。
+
+pinyin
+
+ban1
+
+answer
+
+班
+
+*** 42
+:PROPERTIES:
+:ID: 5596310f-fa79-466d-8c51-68c7a8230ed8
+:END:
+
+sentence
+
+这么小的孩子一个人在家，我能不//心吗？
+
+pinyin
+
+dan1
+
+answer
+
+担
+
+*** 43
+:PROPERTIES:
+:ID: 5d3d9b62-c117-4b8a-a277-ab743828ee99
+:END:
+
+sentence
+
+这个地方环境比//安静，还有那么多车。
+
+pinyin
+
+jiao4
+
+answer
+
+较
+
+*** 44
+:PROPERTIES:
+:ID: c7b61418-63b3-40aa-8697-06d96e06aba7
+:END:
+
+sentence
+
+其实，我只跟这个人见过一两次面，一点儿也不了//她。
+
+pinyin
+
+jie3
+
+answer
+
+解
+
+*** 45
+:PROPERTIES:
+:ID: a5995785-3421-4822-8f19-8e348a45481c
+:END:
+
+sentence
+
+我//加过三次比赛，拿了两次第一，一次第二。
+
+pinyin
+
+can1
+
+answer
+
+参
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: 222722f4-8742-4d01-a836-5f467b056261
+:END:
+
+content
+
+别//心，虽然题很多，//是我一定能做完。
+
+answer
+
+担
+但
+
+*** 47
+:PROPERTIES:
+:ID: eb970aab-cf0e-495d-bf8f-eee295f71162
+:END:
+
+content
+
+这个学//的汉语老师比//好，我们在这儿学吧。
+
+answer
+
+校
+较
+
+*** 48
+:PROPERTIES:
+:ID: 863abb01-1801-4b31-944c-a5fa328d48e5
+:END:
+
+content
+
+请//，这儿有人马？我能坐在你们中//吗？
+
+answer
+
+问
+间
+
+*** 49
+:PROPERTIES:
+:ID: 58e61969-bb37-4d1a-9f75-056de332bf5e
+:END:
+
+content
+
+我去问问我//夫吧，他学过中//，能看懂这个。
+
+answer
+
+丈
+文
+
+*** 50
+:PROPERTIES:
+:ID: 1d31ac67-337f-40e7-bfac-df5c0a4d4405
+:END:
+
+content
+
+给我买被//啡吧，一会儿我要参//一个面试。
+
+answer
+
+咖
+加
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: 1158587a-6758-4f81-a19b-7b13d0de513e
+:END:
+
+content
+
+大山觉得马可的汉语//了，但是马可觉得他们//李静的汉语更好，说得//中国人//。大山没听说过李静这个名字，其实，李静是马可的//老师。
+
+answer
+
+越说越好
+班
+跟
+一样好
+汉语
+
+** 2
+:PROPERTIES:
+:ID: 089004b5-b62a-412f-9d72-a265e9c7a8af
+:END:
+
+content
+
+小丽爬山的时候有点儿害怕，因为山越高，路越难越走，她//。小刚对这儿比较//，他让小丽别//。他们现在//休息一下，一会儿从//那条路上去。
+
+answer
+
+越爬越冷
+了解
+担心
+先
+中国
+

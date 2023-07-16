@@ -1,0 +1,511 @@
+:PROPERTIES:
+:CREATED: [2022-05-19 21:08:25 -05]
+:END:
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-05-19 21:08:29 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-19 21:08:30 -05]
+:ID: eead07a3-c07e-43cc-aec7-2768932c93de
+:END:
+
+*** 标题
+
+**** 中文
+
+在教室
+
+**** 英文
+
+In the classroom
+
+*** 对话
+
+大山：马可，你的中文越说越好了！
+马可：哪里哪里，我们班李静说得更好。
+大山：怎么好？
+马可：她的汉语说得跟中国人一样好。
+大山：李静？我怎么没听说过这个名字。
+马可：她是我们的汉语老师。
+
+**** 对我生词
+
+越 A 越 B | yue4 A yue4 B  | the more A, the more B ;
+越 A 越 B | yue4 A yue4 B | A is more and more B ;
+跟 | gen1 | with ;
+马可 | ma3 ke3 | Marco (name of a person) ;
+
+*** 生词
+
+1. 中文 | zhong1 wen2 | chinese language ;
+2. 班 | ban1 | class ;
+3. 一样 | yi2 yang4 | same, as … as … ;
+
+*** 专有名词
+
+1. 大山 | da4 shan1 | Dashan (name of a person) ;
+2. 李静 | li3 jing4 | Li Jing (name of a person) ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-19 21:31:55 -05]
+:ID: b4861f57-c1b9-4a7e-aa8c-15a2b076df1a
+:END:
+
+*** 标题
+
+**** 中文
+
+在蛋糕店
+
+**** 英文
+
+In a bakery
+
+*** 对话
+
+小丽：别吃了，你已经吃了三块蛋糕了。
+小刚：这是最后一块。
+小丽：你总是吃甜的东西，会越吃越胖。
+小刚：你放心，我一定不会变胖。
+小丽：为什么？
+小刚：我们家的人都很瘦，吃不胖。
+
+**** 对我生词
+
+蛋糕 | dan4 gao1 | cake ;
+总是 | zong3 shi4 | always ;
+甜 | tian2 | sweet ;
+越 A 越 B | yue4 A yue4 B  | the more A, the more B ;
+变 | bian4 | to change ;
+胖 | pang4 | fat ;
+瘦 | shou4 | thin ;
+
+*** 生词
+
+4. 最后 | zui4 hou4 | the last one ;
+5. 放心 | fang4 xin1 | to ease one's mind, to rest assured ;
+6. 一定 | yi2 ding4 | definitely, certainly ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-19 21:41:42 -05]
+:ID: d454dc12-54b7-4ec5-86b7-9fedae2943f5
+:END:
+
+*** 标题
+
+**** 中文
+
+在山上
+
+**** 英文
+
+On the mountain
+
+*** 对话
+
+小丽：我有点儿害怕。
+小刚：怎么了？
+小丽：山越高，路越难走。我也越爬越冷。
+小刚：不用担心，有我呢，我对这儿比较了解。
+小丽：那我们先休息一下，一会儿再爬。
+小刚：好，一会儿我们可以从中间这条路上去。
+
+**** 对我生词
+
+害怕 | hai4 pa4 | to be afraid, to be scared ;
+山 | shan1 | mountain ;
+越 A 越 B | yue4 A yue4 B  | the more A, the more B ;
+一会儿 | yi2 hui4 r | a moment ;
+爬 | pa2 | climb ;
+条 | tiao2 | (classifier for pants, dresses, etc.) ;
+
+**** QUESTION “了解”和”认识“有什么区别？
+:PROPERTIES:
+:CREATED: [2022-07-15 19:27:14 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-15 Fri 19:28]
+:END:
+
+**** QUESTION What does the last sentence means?
+:PROPERTIES:
+:CREATED: [2022-07-15 20:04:06 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-15 Fri 20:04]
+:END:
+
+*** 生词
+
+7. 担心  | dan1 xin1 | to worry ;
+8. 比较 | bi3 jiao4 | fairly, rather ;
+9. 了解 | liao3 jie3 | to know ;
+10. 先 | xian1 | first, in advance ;
+11. 中间 | zhong1 jian1 | middle ;
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-19 21:57:03 -05]
+:ID: e6c3ab81-b95e-4c66-b6cb-df3c8694a93e
+:END:
+
+*** 标题
+
+**** 中文
+
+在小明家
+
+**** 英文
+
+At Xiaoming's home
+
+*** 对话
+
+同学：小明，你的眼睛怎么跟大熊猫一样了？
+小明：我这几天脚疼，没休息好。
+同学：去医院了吗？医生说什么？
+小明：他让我多休息，休息得越多，好得越快。
+同学：下个月的篮球比赛，你能参加吗？
+小明：一定能参加，一点儿影响也没有。
+
+**** 对我生词
+
+眼睛 | yan3 jing1 | eyes ;
+跟 | gen1 | with ;
+一样 | yi2 yang4 | same, as … as … ;
+脚 | jiao3 | foot ;
+疼 | teng2 | hurt ;
+越 A 越 B | yue4 A yue4 B  | the more A, the more B ;
+篮球 | lan2 qiu2 | basketball ;
+比赛 | bi3 sai4 | match, competition ;
+一定 | yi2 ding4 | definitely, certainly ;
+
+*** 生词
+
+12. 参加 | can1 jia1 | to participate ;
+13. 影响 | ying3 xiang3 | influence ;
+
+* Exercises
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 52866341-f56f-4d07-8809-cc836efec5aa
+:END:
+
+**** 选择
+
+***** a
+
+参加
+
+***** b
+
+班
+
+***** c
+
+担心
+
+***** d
+
+影响
+
+***** e
+
+比较
+
+**** 题
+
+***** 1
+
+****** 内容
+
+你在哪个🟨学习汉语？
+
+****** 答案
+
+b
+
+***** 2
+
+****** 内容
+
+别🟨，他马上就到家了。
+
+****** 答案
+
+c
+
+***** 3
+
+****** 内容
+
+这件事🟨难，你再给我几天时间。
+
+****** 答案
+
+e
+
+***** 4
+
+****** 内容
+
+你想不想去🟨爬上比赛？
+
+****** 答案
+
+a
+
+***** 5
+
+****** 内容
+:PROPERTIES:
+:A: 12
+:END:
+
+少玩儿一会儿电子游戏吧，别🟨了学习。
+
+******* QUESTION
+:PROPERTIES:
+:CREATED: [2022-10-22 19:59:16 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-22 Sat 19:59]
+:END:
+
+******** Question
+:PROPERTIES:
+:CREATED: [2022-10-22 19:59:20 -05]
+:END:
+
+“电子游戏”和“电脑游戏”有什么区别？
+
+****** 答案
+
+d
+
+*** 6-10
+:PROPERTIES:
+:ID: 3046bde1-87cf-4b7f-afa5-a33b694d79ad
+:END:
+
+**** 选择
+
+***** a
+
+放心
+
+***** b
+
+最后
+
+***** c
+
+先
+
+***** d
+
+中间
+
+***** e
+
+了解
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：你怎么又迟到了？
+Ｂ：对不起，这是🟨一次，以后一定不迟到了。
+
+****** 答案
+
+b
+
+***** 7
+
+****** 内容
+
+Ａ：你吃这么多，会越来越胖。
+Ｂ：🟨，我每天都运动。
+
+****** 答案
+
+a
+
+***** 8
+
+****** 内容
+
+Ａ：你怎么知道她回来？
+Ｂ：我跟🟨她，她每天都在这儿吃饭。
+
+****** 答案
+
+e
+
+***** 9
+
+****** 内容
+
+Ａ：你想要那本书？
+Ｂ：🟨的那书。
+
+****** 答案
+
+d
+
+***** 10
+
+****** 内容
+
+Ａ：下午你打算做什么？
+Ｂ：我想🟨去超市买点儿东西。
+
+****** 答案
+
+c
+
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: ebfeef40-0ab2-4c43-87e7-2b73e51c37f0
+:END:
+
+**** 内容
+
+Ａ： 你给我的那本书我看完了。
+Ｂ：你觉得怎么样？
+Ａ：很有意思，我越🟨。
+Ｂ：我上中发有你🟨，也非常喜欢
+
+**** 答案
+
+看越有意思
+一样喜欢
+
+*** 2
+:PROPERTIES:
+:ID: 239e90fc-07b3-4ddf-9d3f-f53fe07d6e9f
+:END:
+
+**** 内容
+
+Ａ：你🟨什么比赛？
+Ｂ：蓝球比赛。你呢？
+Ａ：我跟🟨，也对打蓝球感兴趣。
+Ｂ：对，我觉得打篮球越打越🟨。
+
+**** 答案
+
+参加
+你一样
+高兴
+
+*** 3
+:PROPERTIES:
+:ID: 752d9f84-eb5a-4100-90d6-c2c167031562
+:END:
+
+**** 内容
+
+Ａ：我很🟨，这次的汉字考试。
+Ｂ：你多练习写，越🟨。
+Ａ：你的汉字一直很好，这次考一定没问题。
+Ｂ：我跟🟨，我更担心语法。
+
+**** 答案
+
+担心
+多越好
+你不一样
+
+*** 4
+:PROPERTIES:
+:ID: 726b76d4-a159-4cae-9e2f-d195e4f8f4a7
+:END:
+
+**** 内容
+
+Ａ：我最近变胖了，你几乎没变化，跟以前🟨。
+Ｂ：是哥哥影响了我，每天跟他一起跑步，越跑🟨。
+Ａ：那我也开始跑步吧。
+Ｂ：好，一定能变瘦。
+
+**** 答案
+
+一样
+越瘦
+
+** 4
+
+*** 1
+
+**** 问题
+
+
+
+**** 答案
+
+
+
+*** 2
+
+**** 问题
+
+
+
+**** 答案
+
+
+
+*** 3
+
+**** 问题
+
+
+
+**** 答案
+
+
+
+*** 4
+
+**** 问题
+
+
+
+**** 答案
+
+
+
+*** 5
+
+**** 问题
+
+
+
+**** 答案
+
+
+
+*** 6
+
+**** 问题
+
+
+
+**** 答案
+
+

@@ -1,0 +1,1109 @@
+:PROPERTIES:
+:CREATED: [2022-06-10 09:52:34 -05]
+:END:
+
+** Listening
+
+*** 1
+:PROPERTIES:
+:ID: 4dc790d1-8ebe-42d7-a85d-b781c1120712
+:END:
+
+**** 1
+:PROPERTIES:
+:ID: eb7feb74-e8b0-455f-888c-2aba74c2518a
+:END:
+
+女：我的伞，我的伞！
+男：怎么突然刮大风了，把伞都刮跑了！
+
+answer
+
+c
+
+notes
+
+
+
+***** QUESTION Why is 刮 used in this dialogue?
+:PROPERTIES:
+:CREATED: [2022-06-10 09:54:34 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-10 Fri 09:54]
+:END:
+
+今天风很大。
+
+
+**** 2
+:PROPERTIES:
+:ID: 9637ca91-f995-46bf-83bd-9ece75f9271f
+:END:
+
+女：你怎么把冰箱里的东西都吃完了？我们今晚吃什么啊？
+男：你不在家这几天，我一直没出去。
+
+answer
+
+e
+
+notes
+
+
+
+**** 3
+:PROPERTIES:
+:ID: 9938c4ab-ea34-41da-af64-420c00d0ac79
+:END:
+
+男：小常，这些盘子都要洗干净。
+女：好，我先把杯子洗完，然后再洗盘子。
+
+answer
+
+f
+
+notes
+
+
+
+**** 4
+:PROPERTIES:
+:ID: 0e54f2a0-29d0-4283-9a96-c2f463c760ef
+:END:
+
+男：先生，今天的鱼很新鲜，您要不要来一条？
+女：我们先看看菜单，然后再点菜，好吗？
+
+answer
+
+a
+
+notes
+
+
+
+**** 5
+:PROPERTIES:
+:ID: 6c0fe63e-deaa-4de7-936e-4e4f02d2b374
+:END:
+
+男：爷爷奶奶，你们别说话，今天我来给你们讲故事。
+女：好啊，爷爷奶奶最喜欢听你讲故事了。
+
+answer
+
+b
+
+notes
+
+
+
+*** 2
+
+**** 6
+:PROPERTIES:
+:ID: 674e2be0-eb47-46c7-8490-4434c2e82f89
+:END:
+
+今天早上我妻子把车开出去了，要很晚才回来。儿子9点要去学校上课，我只好带他做地铁。
+
+他今天坐地铁去上课。
+
+answer
+
+0
+
+notes
+
+
+
+**** 7
+:PROPERTIES:
+:ID: 6112a0c1-38ae-48b4-aa83-239d872be5e3
+:END:
+
+常阿姨住在我家楼下，她经常把我叫下去听她唱歌。我很喜欢她的声音。有时候我还和她一起唱歌。
+
+常阿姨的声音很大。
+
+answer
+
+0
+
+notes
+
+声音 | sheng1 yin1 | voice ;
+
+**** 8
+:PROPERTIES:
+:ID: efdd5687-78d5-49ea-98ad-7a2fd9b1c410
+:END:
+
+方叔叔爱看教做饭的节目。每天晚上不到七点半，都坐再电视前等着节目开始。看完了他马上酒开做，做好了饭就请大家来吃。
+
+方叔叔喜欢做饭。
+
+answer
+
+1
+
+notes
+
+节目 | jie2 mu4 | program ;
+
+**** 9
+:PROPERTIES:
+:ID: 12bf198c-f450-4b81-a10e-361e3c5b3b4d
+:END:
+
+一天的工作结束后，小周总是最后一个离开公司的。他每天都要先把办公室打扫干净，然后才回家。
+
+小周回家以前打扫办公室。
+
+answer
+
+1
+
+notes
+
+
+
+**** 10
+:PROPERTIES:
+:ID: a90b71e1-62c6-4b6e-ae6b-e741dfd19c7a
+:END:
+
+方叔叔和白阿姨特别热情，每次我去他们家做客，都要从冰箱离拿出很多吃的，喝的来。吃完饭还让我把饮料，水果带回家。
+
+去方叔叔家时，我要带很多东西去。
+
+answer
+
+0
+
+notes
+
+***** 笔记
+:PROPERTIES:
+:CREATED: [2022-10-01 19:47:52 -05]
+:END:
+
+做客 / zuo4 ke4 / to be a guest or visitor ;
+
+*** 3
+
+**** 11
+:PROPERTIES:
+:ID: b00afd34-b64c-4612-8f8b-3b6aa7d6afb1
+:END:
+
+男：我们买点儿香蕉吧，家里没有水果了。
+女：买西瓜吧，这些香蕉像是放了很久了。
+
+女的觉得香蕉怎么样？
+
+alternatives
+
+不新鲜
+太贵了
+很新鲜
+
+answer
+
+a
+
+notes
+
+
+
+**** 12
+:PROPERTIES:
+:ID: e72a397f-ca2e-48b5-bc70-34e5d23bc44d
+:END:
+
+男：你的熊猫画得真好，像真的一样。我要多久才可以像你一样？
+女：这不是时间的问题，主要是要有兴趣。
+
+女的画熊猫画得怎么样？
+
+alternatives
+
+画了很长时间
+画得很像
+画得不好看
+
+answer
+
+b
+
+notes
+
+
+
+**** 13
+:PROPERTIES:
+:ID: 7def0a0e-a780-49a7-9942-097b3cff7844
+:END:
+
+男：你女儿像谁？你还时她爸爸？
+女：小时候像我 ，现在越来越像她爸爸了。
+
+关于女儿，可以知道什么？
+
+alternatives
+
+以前像妈妈
+以前像爸爸
+现在像妈妈
+
+answer
+
+a
+
+notes
+
+
+
+**** 14
+:PROPERTIES:
+:ID: 12ec01b5-de9a-4104-90d5-4f73d6b00ed2
+:END:
+
+男：这个字有几个读音？我记得只有一个。
+女：我记得有两个。你帮我把词典过来，我们一起看看。
+
+他们想知道什么？
+
+alternatives
+
+词典在哪儿
+这个字怎么写
+这个字怎么读
+
+answer
+
+c
+
+notes
+
+读音 | du2 yin1 | pronunciation of a chinese character ;
+
+**** 15
+:PROPERTIES:
+:ID: 9ed8ac55-1cdd-42a9-a6bc-6415b258d60d
+:END:
+
+男：快来看啊，这个节目太有意思了。
+女：我在洗盘子呢，你把电视声音开大一点儿。
+
+女的想让男的做什么？
+
+alternatives
+
+洗盘子
+看节目
+把声音开大
+
+answer
+
+c
+
+notes
+
+***** QUESTION Does the woman referred that the volume needs to go up?
+:PROPERTIES:
+:CREATED: [2022-06-10 10:18:44 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-10 Fri 10:18]
+:END:
+
+*** 4
+
+**** 16
+:PROPERTIES:
+:ID: 207bf270-703f-4b07-ad3d-20eee776d38f
+:END:
+
+男：叔叔和阿姨第一次来我们家，是不是走错路了？已经三点零五了。
+女：你先把盘子洗一下，再从冰箱离把香蕉，苹果，饮料拿出来放好，然后我们下楼去等他们。
+男：这些我早就准备好了。这些水果少不少？要不要再买点儿？
+女：不少，快把衣服穿好，我们下去吧。
+
+他们现在要做什么？
+
+alternatives
+
+洗盘子
+买水果
+下楼
+
+answer
+
+c
+
+notes
+
+
+
+**** 17
+:PROPERTIES:
+:ID: 1f93d4d7-9de7-4746-bc4a-bdc37e5f2b9c
+:END:
+
+女：雨下得真大。我的车放哪儿了？我们快点儿跑过去。
+男：你就在这儿等，我先过去把车开过来，然后你再上车。
+女：那我把伞给你，你拿着伞走过去。
+男：刮这么大的风，伞没有用。
+
+男的现在要做什么？
+
+alternatives
+
+开车
+买伞
+跑步
+
+answer
+
+a
+
+notes
+
+刮 | gua1 | to blow ;
+
+
+**** 18
+:PROPERTIES:
+:ID: 9a7c9be9-4698-48e6-8167-28bf88d868e2
+:END:
+
+女：你在看什么呢？一直笑。
+男：这个节目里的小猫小狗特别有意思，你先过来看，一会儿再打扫房间。
+女：把电视声音关小点儿，儿子明天考试，正复习呢，别影响他。
+男：好，你快过来吧。
+
+男的现在要让女的做什么？
+
+alternatives
+
+把电视声音关小
+把房间打扫干净
+过来看电视节目
+
+answer
+
+c
+
+notes
+
+
+
+**** 19
+:PROPERTIES:
+:ID: 69a9ff90-0b88-433b-ba68-5acb1f2757d2
+:END:
+
+
+女：这椅子有点儿矮，坐着不舒服。
+男：没关系，我们去那边看看，那儿也有。
+女：这层有桌子吗？今天把桌子，椅子都一起换了吧。
+男：好，我们先看椅子，再看桌子，然后去吃饭。
+
+他们在做什么？
+
+alternatives
+
+看房子
+买桌椅
+找饭馆
+
+answer
+
+b
+
+3notes
+
+***** QUESTION Why two different types of commas are used?
+:PROPERTIES:
+:CREATED: [2022-06-10 10:30:44 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-10 Fri 10:30]
+:END:
+
+**** 20
+:PROPERTIES:
+:ID: a0db58ea-e750-48a2-8b20-d27e4e06ee41
+:END:
+
+男：姐，你听，外边是谁的声音？是不是爸爸回来了？
+女：我听不见啊，你把音东声音关小些。
+男：不是爸爸，时楼下得周叔叔在说话。那我听歌了啊。
+女：你别把声音开那么大，我想安静一会儿。
+
+女的为什么让男的把声音关小？
+
+alternatives
+
+爸爸回来了
+她要唱歌
+她想安静一会儿
+
+answer
+
+c
+
+notes
+
+** Reading
+:PROPERTIES:
+:CREATED: [2022-10-01 20:17:45 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: 408b0fce-dd08-4093-81df-7aa6f9f90b1d
+:END:
+
+alternatives
+
+好的，周经理，我已经吧名单准备好了。
+老师，这个故事要写多少个字？
+你送完孩子酒来办公室吗？
+先放牛奶，1分钟以后再放鸡蛋。
+当然。我们先坐公共汽车，然后换地铁。
+爸爸，下午你来接我吧。
+
+notes
+
+名单  | ming2 dan1 | list ;
+
+**** 21
+:PROPERTIES:
+:ID: cea23c54-4a96-4a7b-96f1-1f8c240caa58
+:END:
+
+content
+
+我先送孩子，再把衣服送到洗衣服，然后去上班。
+
+answer
+
+c
+
+**** 22
+:PROPERTIES:
+:ID: e46dc379-464f-4801-84ed-9cd3d667f66f
+:END:
+
+content
+
+这个菜怎么做？先放鸡蛋再放牛奶吗？
+
+answer
+
+d
+
+**** 23
+:PROPERTIES:
+:ID: 366e8604-97f8-468b-9795-5a3d037752a2
+:END:
+
+content
+
+好，我先去公司接你妈妈，然后到学校接你。
+
+answer
+
+f
+
+**** 24
+:PROPERTIES:
+:ID: 014a1104-c74c-4853-b101-d079dfd54339
+:END:
+
+content
+
+请问学们用黑板上的这10个词写一个小故事。
+
+answer
+
+b
+
+**** 25
+:PROPERTIES:
+:ID: 0b019c03-ee8b-4748-9d05-5e83a0c30914
+:END:
+
+content
+
+小刚，明天都有谁参加会议？你把名单拿过来。
+
+answer
+
+a
+
+*** 2
+:PROPERTIES:
+:ID: 431dc681-5d67-4173-87e2-c956c2e2f15e
+:END:
+
+alternatives
+
+打扫
+虽然
+节目
+简单
+声音
+洗澡
+
+**** 26
+:PROPERTIES:
+:ID: 789acd04-7bbe-442a-aa6f-c009dee75f9d
+:END:
+
+content
+
+游泳以前应该先吃点儿饭，//休息半个小时。
+
+answer
+
+b
+
+**** 27
+:PROPERTIES:
+:ID: 92515893-504b-4914-be77-ae41e7aca773
+:END:
+
+content
+
+小丽，会议室//干净了吗？别忘了把椅子放回去。
+
+answer
+
+a
+
+**** 28
+:PROPERTIES:
+:ID: 32bc499e-fbd2-4b8a-b88c-e9a82fa9c312
+:END:
+
+content
+
+天气这么热，回来以后你先//吧。
+
+answer
+
+f
+
+**** 29
+:PROPERTIES:
+:ID: 810ac66c-62cc-4002-af79-eca755c139b9
+:END:
+
+content
+
+Ａ：小丽，我的包找不到了，你过来帮我找找。
+Ｂ：我看完了这个//就过去帮你。
+
+answer
+
+c
+
+**** 30
+:PROPERTIES:
+:ID: 46cb1fa7-c7a4-4fe5-80ff-6d20d34b2240
+:END:
+
+content
+
+Ａ：你做的这个才真好吃，你是怎么做的？
+Ｂ：很//，洗把半肉放进去，再放写牛奶和菜，等半个小时就做好了。
+
+answer
+
+d
+
+
+*** 3
+
+**** 31
+:PROPERTIES:
+:ID: e0176326-a065-44f6-9159-677e60f53865
+:END:
+
+content
+
+小时候，每年12月25号那天早上，我都能看到床上放着一件礼物。妈妈告诉我，那是前一天晚上一个穿红衣服的老爷爷把礼物送来的。现在我懂了：其实妈妈就是那个老人，是她在我睡着的时候把礼物放在我床上的。
+
+inference with missing information
+
+我现在明白，礼物
+
+alternatives
+
+是妈妈送来的
+是老爷爷送来的
+是我爷爷送来的
+
+answer
+
+a
+
+***** QUESTION “老爷爷”和“我爷爷”有什么区别？
+:PROPERTIES:
+:CREATED: [2022-06-28 11:13:00 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-28 Tue 11:13]
+:END:
+
+**** 32
+:PROPERTIES:
+:ID: a0f7c38b-91f2-4100-827f-8afc0b33f0bb
+:END:
+
+content
+
+有很多人问什么时候吃水果比较健康，在今天的《健康123》节目里，我来告诉大家怎么吃水果对身体最好。其实，上午吃水果最健康，晚上后喝睡觉前最好不要吃。吃水果的时间应该在饭前1到2小时。当然，一定要把水果洗干净再吃。
+
+inference with missing information
+
+什么时候吃水果最好
+
+alternatives
+
+午饭前1-2小时
+晚饭后1-2小时
+睡觉前1-2小时
+
+answer
+
+a
+
+***** QUESTION 在“午饭前1-2小时”，”1-2小时“怎么读？
+:PROPERTIES:
+:CREATED: [2022-10-01 19:38:58 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-01 Sat 19:39]
+:END:
+
+
+一到两（个）小时
+一到两小时
+
+
+***** QUESTION “两小时”或者“两个小时”？
+:PROPERTIES:
+:CREATED: [2022-10-01 19:38:01 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-01 Sat 19:38]
+:END:
+
+**** 33
+:PROPERTIES:
+:ID: 602f039b-a41a-4ccf-8c96-c7a913dad29b
+:END:
+
+content
+
+你一定喝过茶，也吃过水果。但你喝过水果茶吗？自己做过水果茶吗？自己做的比外边买的健康很多。其实做水果茶很简单，先把茶放进杯子，再放一些热水，然后把小快儿水果放进去，等一会儿就能喝了。
+
+inference with missing information
+
+做水果茶
+
+alternatives
+
+不容易
+比外边买的健康
+要用大块水果
+
+answer
+
+b
+
+***** QUESTION “放进去”是什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-28 11:17:15 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-28 Tue 11:17]
+:END:
+
+
+**** 34
+:PROPERTIES:
+:ID: dfb63929-2f2a-4724-8be8-14123c1fcbb1
+:END:
+
+content
+
+今天真把我累坏了。我们说好了今天搬家，没想到丈夫突然有事出国。新家在四楼，我只好打电话给搬家公司，请他们把桌椅、电视、电脑都搬上去。等他们走了，我又一个人把每个房间都打扫干净。看了看表，已经晚上9点了。
+
+inference with missing information
+
+今天搬家，我
+
+alternatives
+
+请搬家公司帮忙
+没打扫房间
+给丈夫打电话帮忙
+
+answer
+
+a
+
+notes
+
+累坏 | lei4 huai4 | exhausted ;
+
+**** 35
+:PROPERTIES:
+:ID: cfdb34a6-a0b7-4014-834a-b605068b4ecd
+:END:
+
+content
+
+方阿姨的丈夫每天回家都做一样的事：先吃饭，再洗澡，然后从冰箱里拿出一瓶酒，坐在电视前，边看节目边喝。他说，这样的生活是最舒服的。但是方阿姨说，这样的生活是最累的，因为她要把饭做好，还要把杯子，盘子喝衣服都洗干净。
+
+inference with missing information
+
+方阿姨每天
+
+alternatives
+
+都要喝点儿酒
+到了家酒吃饭
+做饭，洗盘子喝杯子
+
+answer
+
+c
+
+notes
+
+生活 | sheng1 huo2 | to live ;
+
+***** QUESTION “拿出”和“拿走”有什么区别？
+:PROPERTIES:
+:CREATED: [2022-06-28 11:22:07 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-28 Tue 11:22]
+:END:
+
+** Writing
+
+*** 1
+
+**** 36
+:PROPERTIES:
+:ID: f02fb3e1-add2-46da-818c-d236974e28ce
+:END:
+
+words
+
+把
+大家
+请
+书
+出来
+拿
+
+answer
+
+请大家把树拿出来。
+
+**** 37
+:PROPERTIES:
+:ID: 93ce26ff-f807-4eda-b564-1ef4cfc9c786
+:END:
+
+words
+
+写
+名字
+然后
+应该
+先
+做题
+
+answer
+
+应该先写名字然后做题。
+
+**** 38
+:PROPERTIES:
+:ID: 86a57bff-c19d-44a4-9f24-b7bd9ff21f75
+:END:
+
+words
+
+干净
+把
+房间
+快
+打扫
+
+answer
+
+快把房间打扫干净。
+
+**** 39
+:PROPERTIES:
+:ID: f4e97b0e-c7d8-4645-9541-fa792a67267a
+:END:
+
+words
+
+再
+教
+读音
+先
+汉字
+教
+老师
+
+answer
+
+老师先教读音再教汉字。
+
+**** 40
+:PROPERTIES:
+:ID: 3a9f7a0c-1dc6-43c0-9ed7-bd595f053f10
+:END:
+
+words
+
+可以
+你
+小
+关
+一点儿
+电视声音
+把
+吗
+
+answer
+
+你可以把电视声音关小一点儿吗？
+
+*** 2
+
+**** 41
+:PROPERTIES:
+:ID: f94038be-cc77-4402-a95f-167428afe3a7
+:END:
+
+sentence
+
+我把房间打扫得真干//！
+
+pinyin
+
+jing4
+
+answer
+
+净
+
+**** 42
+:PROPERTIES:
+:ID: 12a440fc-027d-4819-9541-401c8aec3b35
+:END:
+
+sentence
+
+水果就在//箱里，你把他们都拿出来吧。
+
+pinyin
+
+bing1
+
+answer
+
+冰
+
+**** 43
+:PROPERTIES:
+:ID: ad830edc-2d62-4b02-bd3e-5d2c15f7bcd3
+:END:
+
+sentence
+
+你先去洗个//，容纳后出来吃饭。
+
+pinyin
+
+zao3
+
+answer
+
+澡
+
+**** 44
+:PROPERTIES:
+:ID: 39aab053-9e42-4013-adeb-f2c38b2ffd51
+:END:
+
+sentence
+
+外边在刮大//，我们别出去了，在家卡按电视吧。
+
+pinyin
+
+feng1
+
+answer
+
+风
+
+**** 45
+:PROPERTIES:
+:ID: dd22cd4b-f498-456d-9c42-eabae5b34c42
+:END:
+
+sentence
+
+其实，做饭很//单，主要是要有兴趣。
+
+pinyin
+
+jian3
+
+answer
+
+简
+
+*** 3
+
+**** 46
+:PROPERTIES:
+:ID: 6aed1959-5535-406e-a746-0c75ac5d26da
+:END:
+
+content
+
+忙了一天，终//把房间都打扫//净了！
+
+answer
+
+于
+干
+
+**** 47
+:PROPERTIES:
+:ID: 14170487-ed64-444a-b172-69e741d635ca
+:END:
+
+content
+
+你们听，白//姨唱歌的声音多好听//！
+
+answer
+
+阿
+啊
+
+**** 48
+:PROPERTIES:
+:ID: 605b73af-6592-4572-b8a3-51f774ad8095
+:END:
+
+content
+
+姐姐，你//完作业以后给我讲一个//事吧。
+
+answer
+
+做
+故
+
+**** 49
+:PROPERTIES:
+:ID: af6f0604-cb9d-4fba-ac21-2007dd8401ff
+:END:
+
+content
+
+夏天游完//以后，再喝一杯//水，特别舒服。
+
+answer
+
+泳
+冰
+
+**** 50
+:PROPERTIES:
+:ID: 6c6aa34c-a77a-4728-a04d-daab70fcd9ef
+:END:
+
+content
+
+妈妈你看，月//在那么//的地方，我们能上去看看吗？
+
+answer
+
+亮
+高
+
+** Review
+
+*** 1
+:PROPERTIES:
+:ID: 6db6f7e7-587d-41bd-a5b5-8f8a8eca76b3
+:END:
+
+content
+
+客人就要来了，周明让孩子们把房间//。周太太让他把茶和杯子//，然后把//里的西瓜//。周明觉得太热了，他要先把空调//。
+
+answer
+
+打扫干净
+放好
+冰箱
+拿出来
+打开
+
+**** “拿过来”和“拿出来”有什么区别？
+:PROPERTIES:
+:CREATED: [2022-10-01 19:23:33 -05]
+:END:
+
+**** ANSWERED Why is 把 used in this sentence?
+:PROPERTIES:
+:CREATED: [2022-06-30 20:33:59 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-10-01 Sat 19:23]
+- State "QUESTION"   from              [2022-06-30 Thu 20:34]
+:END:
+
+Aren't we supposed to use 把 for things that we can hold with our hands?
+
+把 is used for indicating the action that is done with an object or with a concept (e.g./ 爸爸的生日).
+
+*** 2
+:PROPERTIES:
+:ID: ee28bf82-96d5-45cb-9e3d-6bf01c03e039
+:END:
+
+content
+
+今晚的月亮很漂亮，外边也不//，小明和同学打算一边吃东西一边听叔叔阿姨讲//。他们//把桌椅搬出去，//把水果拿过来。小明的同学听见外边有//，一定是大出来了。
+
+answer
+
+刮风
+故事
+先
+然后
+声音

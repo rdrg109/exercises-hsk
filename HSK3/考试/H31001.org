@@ -1,0 +1,695 @@
+:PROPERTIES:
+:CREATED: [2022-04-25 14:00:23 -05]
+:END:
+
+ Listening
+:PROPERTIES:
+:CREATED: [2022-04-25 14:00:28 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-04-25 14:00:31 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-04-25 14:00:32 -05]
+:END:
+
+女：你一直看手表，有什么着急的事情吗？
+男：我九点前必须回到办公室，经理有事情找我，再见。
+
+ans
+
+b
+
+notes
+
+一直 | yi4 zhi2 | continuously ;
+着急 | zhao2 ji2 | to worry, to feel anxious ;
+必须 | bi4 xu1 | must, to have to ;
+办公室 | ban4 gong1 shi4 | office ;
+经理 | jing1 li3 | manager, director ;
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-04-27 16:48:26 -05]
+:END:
+
+男：你想什么呢？要出去吗？
+女：明天同学结婚，我在想穿哪双鞋好呢。
+
+ans
+
+c
+
+notes
+
+结婚 | jie2 hun1 | to get married ;
+双 | shuang1 | pair ;
+鞋子 | xie2 zi | shoes ;
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-04-27 16:55:51 -05]
+:END:
+
+女：你每天都骑自行车上下班？
+男：是，我骑了四个月了，一共瘦了六斤。
+
+ans
+
+e
+
+note
+
+上下班 | shang4 xia4 ban1 | start and finish work ;
+自行车 | zi4 xing2 che1 | bicycle ;
+骑自行车 | qi2 zi4 xing2 che1 | ride bicycle ;
+一共瘦 | yi1 gong4 shou4 | total weight loss ;
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-04-27 17:02:34 -05]
+:END:
+
+男：真的不需要吃药吗？
+女：不需要，回去多喝水，休息两天就好了。
+
+ans
+
+f
+
+note
+
+需要 | xu1 yao4 | to need ;
+药 | yao4 | medicine ;
+回去 | hui2 qu | to go back, to return ;
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-04-27 17:08:02 -05]
+:END:
+
+
+女：你看，上次出现的问题，我已经解决了。
+男：好极了！只是你要注意身体，我记得你有一个多星期没去跑步了。
+
+ans
+
+a
+
+notes
+
+上次 | shang4 ci4 | last time ;
+出现 | chu1 xian4 | to emerge, to arrise, to appear ;
+解决 | jie3 jue2 | to resolve, to settle ;
+好极了| hao3 ji2 le | great ;
+注意 | zhu4 yi4 | to pay attention to ;
+只是 | zhi3 shi4 | but, merely, only ;
+记得 | ji4 de | to remember ;
+
+*** 6
+:PROPERTIES:
+:CREATED: [2022-04-27 18:29:22 -05]
+:END:
+
+男：他总是哭，有什么办法可以让他不哭吗？
+女：给他一块儿糖，或者和他做游戏。
+
+notes
+
+总是 | zǒng shì | always | siempre ;
+哭 | kū | cry | llorar ;
+办法 | bàn fǎ | method | método ;
+糖 | táng | candy | caramelo ;
+游戏 | yóu xì | game | juego ;
+或者 | huò zhě | or, maybe, perhaps ;
+
+*** 7
+:PROPERTIES:
+:CREATED: [2022-04-27 18:38:20 -05]
+:END:
+
+女：这个电子词典的作用大不大？
+男：很大，我做练习的时候，它很有帮助。
+
+note
+
+电子 | dian4 zi3 | electronic ;
+词典 | ci2 dian3 | dictionary ;
+电子词典 | dian4 zi3 ci2 dian3 | e-dictionary ;
+作用 | zuo4 yong4  | effect, impact, function ;
+练习 | lian4 xi2 | practice ;
+帮助 | bang1 zhu4 | assist, help | asistir, ayudar ;
+
+*** 8
+:PROPERTIES:
+:CREATED: [2022-04-27 18:46:09 -05]
+:END:
+
+男：眼镜，帽子，地图，啤酒，一个也不能少。
+女：好了，准备得很认真，我相信你已经准备好了。
+
+note
+
+眼镜 | yǎn jìng | eyeglasses ;
+帽子 | mào zi | hat ;
+地图 | dì tú | map | mapa ;
+啤酒 | pí jiǔ | beer | cerveza ;
+认真 | rèn zhēn | conscientius ;
+相信 | xiāng xìn | to accept something as true ;
+
+*** 9
+:PROPERTIES:
+:CREATED: [2022-04-27 20:52:10 -05]
+:END:
+
+
+女：我做饭，你洗盘子和碗，怎么样？
+男：那还是我做饭吧，我愿意做饭。
+
+note
+
+盘子 | pan2 zi | dish ;
+碗 | wan3 | bowl ;
+还是 | hai2 shi | had better ;
+愿意 | yuan4 yi4 | ready, want, willing ;
+
+*** 10
+:PROPERTIES:
+:CREATED: [2022-04-27 21:01:47 -05]
+:END:
+
+男：告诉我你想看什么节目。
+女：没什么好看的，我还是读我的书吧。
+
+note
+
+节目 | jie2 mu4 | program, show ;
+还是 | hai2 shi | had better ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-04-27 21:06:06 -05]
+:END:
+
+*** 11
+:PROPERTIES:
+:CREATED: [2022-04-27 21:06:07 -05]
+:END:
+
+我以前以为北京话就是普通话，到北京两年后，我才发现不是这样的。
+
+★ 北京话和普通话是相同的。
+
+
+note
+
+以前 | yi3 qian2 | previously ;
+以为 | yi3 wei4 | to think ;
+普通话 | pu3 tong1 hua4 | mandarin ;
+才 | cai2 | only ;
+发现 | fa1 xian4 | to discover, to find ;
+北京话 | bei3 jing1 hua4 | beijing dialect ;
+相同 | xiang1 tong2 | identical, same ;
+
+*** 12
+:PROPERTIES:
+:CREATED: [2022-04-27 21:19:19 -05]
+:END:
+
+
+
+你明天到办公室找我，我在七零七；如果我不在，你就上八楼，到八零三会议室找我，我可能在那儿开会。
+
+★ 会议室在八层。
+
+notes
+
+办公室 | ban4 gong1 shi4 | office ;
+如果 | ru2 guo3 | if ;
+楼 | lou2 | floor ;
+层 | ceng2 | floor (of a building) ;
+会义室 | hui4 yi4 shi4 | conference room | sala de conferencia ;
+开会 | kai1 hui4 | to attend a meeting ;
+
+*** 13
+:PROPERTIES:
+:CREATED: [2022-04-28 00:34:08 -05]
+:END:
+
+我已经从图书馆出来了，那几本书都还了，你们等我一会儿，我很快就到。
+
+★ 他已经到了。
+
+图书馆 | tu2 shu1 guan3 | library ;
+还了 | huán le | to return ;
+一会儿 | yi1 hui4r5 | a moment, a while ;
+
+*** 14
+:PROPERTIES:
+:CREATED: [2022-04-28 00:43:20 -05]
+:END:
+
+这辆车现在能卖十万块钱吧，我两年前买的时候花了二十多万。
+
+★ 这是辆旧车。
+
+辆车 | liang4 che1 | car ;
+辆旧车 | liang4 jiu4 che1 | old car ;
+万 | wan4 | ten thousand ;
+花 | hua1 | to spend ;
+
+*** 15
+:PROPERTIES:
+:CREATED: [2022-04-28 00:53:27 -05]
+:END:
+
+
+有些人不喜欢吃蛋糕，是因为太甜了；有些人不喜欢吃蛋糕，是因为害怕长胖。但小孩子看见蛋糕是不会客气的，他们认为蛋糕越甜越好吃。
+
+★ 小孩子爱吃蛋糕。
+
+
+有些人 | you3 xie1 ren2 | some people ;
+蛋糕 | dan4 gao1 | cake ;
+甜 | tian2 | sweet ;
+害怕 | hai4 pa4 | to be afraid ;
+长胖 | zhang3 pang4 | to gain weight ;
+小孩子 | xiao3 hai2 zi | child ;
+客气 | ke4 qi | polite ;
+认为 | ren4 wei2 | to believe, to consider, to feel, to think ;
+越 | yue4 | the more..., the more...
+
+*** 16
+:PROPERTIES:
+:CREATED: [2022-04-28 22:15:23 -05]
+:END:
+
+我这次来北京，只能住三天，所以我只能选择一两个最有名的地方去看看，以后有机会再去别的地方。
+
+★ 他在北京玩了很多地方。
+
+只能 | zhi1 neng2 | I can only ;
+选择 | xuan3 ze2 | to pick, to select ;
+有名 | you3 ming2 | famous ;
+地方 | di4 fang | place ;
+以后 | yi3 hou4 | after, afterwards ;
+机会 | yi1 hui4 | chance, opportunity ;
+*** 17
+:PROPERTIES:
+:CREATED: [2022-04-28 22:43:37 -05]
+:END:
+
+
+
+每次坐火车前，周明都会去超市买一些东西，除了面包、水果，他还要买一些报纸。
+
+★ 周明坐火车时喜欢看报纸。
+
+每次 | mei3 ci4 | every time ;
+周明 | zhou1 ming2 | Zhou Ming ;
+超市 | chao1 shi4 | supermarket ;
+面包 | mian4 bao1 | bread ;
+除了 | chu2 le | apart from, except for ;
+还 | hai2 | also ;
+报纸 | bao4 zhi3 | newspaper ;
+
+*** 18
+:PROPERTIES:
+:CREATED: [2022-04-28 22:54:17 -05]
+:END:
+
+他有很多爱好，唱歌、画画儿、踢足球、玩儿音乐，什么都会，而且水平也都特别高。
+
+
+★ 他喜欢音乐，也喜欢运动。
+
+
+爱好 | ai4 hao4 | hobby ;
+画画儿 | hua4 hua4 er | draw ;
+音乐 | yin1 yue4 | music ;
+水平 | shui3 ping2 | level ;
+而且 | er2 qie3 | furthermore ;
+特别 | te4 bie2 | especially, particular ;
+
+*** 19
+:PROPERTIES:
+:CREATED: [2022-04-28 23:03:59 -05]
+:END:
+
+她每天到办公室的第一件事就是打开电脑，看电子邮件，然后才开始别的工作。
+
+★ 她对自己的工作没兴趣。
+
+办公室 | ban4 gong1 shi4 | office ;
+第一件事 | di4 yi1 jian4 shi4 | the first thing ;
+打开 | da3 kai1 | to switch on, to turn on ;
+电子邮件 | dian4 zi you2 jian4 | e-mail ;
+然后 | ran2 hou4 | after, then ;
+才 | cai2 | only ;
+兴趣 | xing4 qu4 | interested in ;
+
+*** 20
+:PROPERTIES:
+:CREATED: [2022-04-28 23:14:07 -05]
+:END:
+
+您先看看这种颜色的怎么样？这种手机很便宜，只要两千多块钱。它还可以照相，现在卖得很不错。
+
+★ 他们在买空调。
+
+先 | xian1 | first ;
+种 | zhong3 | (classifier for types) ;
+照相 | zhao4 xiang4 | take photograph ;
+空调 | kong1 tiao2 | air conditioner ;
+Pra
+
+
+
+* Reading
+:PROPERTIES:
+:CREATED: [2022-08-24 22:06:58 -05]
+:END:
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-08-24 22:07:02 -05]
+:END:
+
+*** 61
+:PROPERTIES:
+:CREATED: [2022-08-24 22:07:05 -05]
+:END:
+
+**** content
+:PROPERTIES:
+:CREATED: [2022-08-24 22:07:27 -05]
+:END:
+
+人们常说：今天工作不努力，明天努力找工作。
+
+**** star
+:PROPERTIES:
+:CREATED: [2022-08-24 22:09:58 -05]
+:END:
+
+这句话的意思主要是：
+
+**** alternatives
+:PROPERTIES:
+:CREATED: [2022-08-24 22:10:39 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-08-24 23:24:27 -05]
+:END:
+
+要努力工作
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-08-24 23:24:28 -05]
+:END:
+
+明天会更好
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-08-24 23:24:28 -05]
+:END:
+
+时间过得太快
+
+**** answer
+:PROPERTIES:
+:CREATED: [2022-08-24 23:32:09 -05]
+:END:
+
+*** 62
+
+**** content
+
+请大家把黑板上的这些词写在本子上，回家后用这些词语写一个小故事，别忘了，最少写100字。
+
+
+**** star
+
+说话人最可能是做什么的？
+
+**** alternatives
+
+***** a
+
+老师
+
+***** b
+
+学生
+
+***** c
+
+经理
+
+**** answer
+
+
+
+*** 63
+
+**** content
+
+我对这儿很满意，虽然没有花园，但是离河边很近，那里有草地草地，有打树，还有鸟；虽然冬天天气很冷，但是空气新鲜，而且房间里一点儿也不冷，但是空气新鲜，而且房间里一点儿也不冷。
+
+**** star
+
+使他觉得满意的是：
+
+**** alternatives
+
+***** a
+
+没有花园
+
+***** b
+
+房间很大
+
+***** c
+
+离河很近
+
+**** answer
+
+
+
+*** 64
+
+**** content
+
+昨天晚上睡的太晚，今天起床时已经8点多了，我刷牙，洗了脸，就出来了，差点儿忘了关门。到了公司，会议已经开始了。没办法，我只能站在外面等休息时间。
+
+**** star
+
+他今天早上：
+
+**** alternatives
+
+***** a
+
+没复习
+
+***** b
+
+迟到了
+
+***** c
+
+忘了关门
+
+**** answer
+
+
+
+*** 65
+
+**** content
+
+我去年春节去过一次上海，今年再去的时候，发现那里的变化非常大。 经过那条街道时，我几乎不认识了。
+
+**** star
+
+根据这段话，可以知道：
+
+***** DONE “段话”什么意思？
+:PROPERTIES:
+:CREATED: [2022-08-25 16:25:51 -05]
+:END:
+:LOGBOOK:
+- State "DONE"       from "QUESTION"   [2022-08-25 Thu 16:28]
+- State "QUESTION"   from              [2022-08-25 Thu 16:26]
+:END:
+
+DeppL shows "passage" as the translation. I think "passage" is a synonym for paragraph.
+
+**** alternatives
+
+***** a
+
+现在是春节
+
+***** b
+
+上海变化很大
+
+***** c
+
+上海人很热情
+
+**** answer
+
+
+
+*** 66
+
+**** content
+
+世界真的很小，我昨天才发现，你给小张介绍介绍的男朋友是我妻子以前的同事。
+
+**** star
+
+小张的男朋友是我妻子：
+
+**** alternatives
+
+***** a
+
+以前的同事
+
+***** b
+
+以前的丈夫
+
+***** c
+
+以前的男朋友
+
+**** answer
+
+
+
+*** 67
+
+**** content
+
+下班后，在路上遇到一个老同学。好久没见面，我们就在公司旁边那个咖啡馆离坐了坐，一边喝咖啡一边说了些过去的事，所以回来晚了。
+
+**** star
+
+根据这段话，可以知道：
+
+**** alternatives
+
+***** a
+
+他回到家了
+
+***** b
+
+他正在喝咖啡
+
+***** c
+
+咖啡馆在公园旁边
+
+**** answer
+
+
+
+*** 68
+
+**** content
+
+小刘是一位小学老师，教三年级的数学，他虽然很年轻，但是课讲得很好，同学们都很喜欢他。
+**** star
+
+学生为什么喜欢刘老师？
+
+**** alternatives
+
+***** a
+
+很年轻
+
+***** b
+
+课讲很好
+
+***** c
+
+
+对学生要求高
+
+**** answer
+
+
+
+*** 69
+
+**** content
+
+今天
+
+**** star
+
+
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+**** answer
+
+
+
+*** 70
+
+**** content
+
+
+
+**** star
+
+
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+**** answer
+
+
+

@@ -1,0 +1,1060 @@
+:PROPERTIES:
+:CREATED: [2022-06-09 23:18:19 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: 0a3e9f7b-8cbb-49b7-aef4-713264473006
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: f4e7e49d-3684-4120-959e-0866cc29b659
+:END:
+
+女：爷爷，这本书我没看过，是您新买的吗？
+男：这是爷爷送给你的生日礼物。
+
+answer
+
+a
+
+notes
+
+
+
+*** 2
+:PROPERTIES:
+:ID: 63e5189b-8c8c-4c24-8f14-fa0a5e6fc0ef
+:END:
+
+女：你终于来了！箱子里东西太多，我刚才搬了几次都没搬起来。
+男：我放下电话马上就跑过来了。来，我帮你搬下去。
+
+answer
+
+f
+
+notes
+
+
+
+*** 3
+:PROPERTIES:
+:ID: ebec145e-4b33-40cb-b82a-27708d4a1181
+:END:
+
+男：你看我家小狗多喜欢你，见了你就跑过去了。
+女：它这么快跑过来是因为我拿着好吃的。
+
+answer
+
+c
+
+notes
+
+
+
+*** 4
+:PROPERTIES:
+:ID: 7775c6ec-55d4-47d4-9dae-c2945cca0e9a
+:END:
+
+男：好久不见！没想到在这儿遇到你了。你来这儿做什么？
+女：我来这家公司面试，刚面完，我们边走边聊。
+
+answer
+
+b
+
+notes
+
+
+
+*** 5
+:PROPERTIES:
+:ID: dbb27221-1b4c-482a-a6ae-fc2ce84ecc3d
+:END:
+
+男：你看这孩子怎么了，我过去帮你一下。
+女：别帮他，让他自己站起来，他一定可以。
+
+answer
+
+e
+
+notes
+
+
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: 4869c234-754b-4b61-bd5f-730f1e06d013
+:END:
+
+住在我家旁边的是个老人，他很热请，喜欢帮助大家。大家有了问题，都愿意请他帮忙。
+
+哪位老人遇到了问题。
+
+answer
+
+0
+
+notes
+
+
+
+*** 7
+:PROPERTIES:
+:ID: f3bd835e-f0e2-4a4c-a41e-1d1ea43e1c2c
+:END:
+
+过去，我喜欢每天早上起床后，一边吃早饭一边看报纸。现在我没有这个习惯了，因为太忙了，没时间了。
+
+他一直一边吃早饭一边看报纸。
+
+answer
+
+0
+
+notes
+
+
+
+*** 8
+:PROPERTIES:
+:ID: dc4ad5a9-84c3-40db-95c3-c3c2aafee110
+:END:
+
+早上我起了床就出门了，到了半路发现没带电脑和钱包，又开回去拿，到公司的时候已经十点半了。
+
+他是开车来公司的。
+
+answer
+
+1
+
+notes
+
+**** ANSWERED Difference between 半路 and 路上
+:PROPERTIES:
+:CREATED: [2022-06-09 23:43:38 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-09-24 Sat 20:11]
+- State "QUESTION"   from              [2022-06-09 Thu 23:43]
+:END:
+
+到了半路
+路上
+
+*** 9
+:PROPERTIES:
+:ID: 3aec645f-2a24-4967-807b-69f2956e02d0
+:END:
+
+妈妈忙了一天，回家还要做饭。我让她坐下来休息一会儿，但她总是边笑边说：“为你和你爸爸做饭，我很高兴”。
+
+爸爸很喜欢做饭。
+
+answer
+
+0
+
+notes
+
+
+
+*** 10
+:PROPERTIES:
+:ID: 69758e2c-27b0-411d-9330-2a6b8dce715b
+:END:
+
+方校长的办公室过去在四层，她每天都爬上去。上个月搬到十二层以后，她开始坐电梯，不怕楼了。
+
+以前方校长喜欢爬上。
+
+answer
+
+0
+
+notes
+
+
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: 2d8e9a1d-3004-4e08-bfca-dfb5118dd0bb
+:END:
+
+男：你怎么设么累？
+女：电梯坏了，我是爬上来的，快给我喝口水。
+
+女的为什么很累？
+
+alternatives
+
+她去爬山了
+她喝了很多水
+她是走上楼来的
+
+answer
+
+c
+
+notes
+
+
+
+*** 12
+:PROPERTIES:
+:ID: bf303a2f-fe5a-4ce8-b21b-aa07bfbdf27b
+:END:
+
+男：超市离家这么远，我们真的要走回去吗？
+女：只有三站，我们边走边聊，一会儿就到家了。多走走还能锻炼身体，不是吗？
+
+女的想做什么？
+
+alternatives
+
+走回家去
+聊天儿
+去超市
+
+answer
+
+a
+
+notes
+
+**** ANSWERED “三站”什么意思？
+:PROPERTIES:
+:CREATED: [2022-09-24 19:37:34 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-09-24 Sat 20:12]
+- State "QUESTION"   from              [2022-09-24 Sat 19:37]
+:END:
+
+three stops
+
+*** 13
+:PROPERTIES:
+:ID: f3d7944a-fbbb-418b-afbf-ffe9eb7ecddb
+:END:
+
+男：你真的要出国？去那么远的地方，不是想回来就能回来的，你爸妈多想你啊！
+女：他们说年轻人应该走出去，多看看外边的人和事。
+
+关于女的，可以知道什么？
+
+alternatives
+
+已经不年轻了
+很想爸妈
+要去国外
+
+answer
+
+c
+
+notes
+
+
+
+*** 14
+:PROPERTIES:
+:ID: 293726e4-efe0-4b60-a493-ef9dc1b4dff8
+:END:
+
+男：那么多车，吃饭的人真不少。
+女：我们把车放在这儿，走过去吧，也不远，两分钟就到了。
+
+他们现在最可能在哪儿？
+
+alternatives
+
+饭馆门口
+饭馆里边
+离饭馆不远的地方
+
+answer
+
+c
+
+notes
+
+
+
+*** 15
+:PROPERTIES:
+:ID: 6968f232-02be-4dc8-a8f0-5a6e3393650d
+:END:
+
+女：你几号到北京？票买好了没有？
+男：别担心，我下个星期六就飞回去了。
+
+男的怎么回北京？
+
+alternatives
+
+坐火车
+坐飞机
+开车
+
+answer
+
+b
+
+notes
+
+
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: 91d0a61d-76ad-46e4-ba41-fc01797dc630
+:END:
+
+男：您好，昨天从你们洗衣店拿回去的衣服不是我的。
+女：这件衣服不是您的？
+男：您看，我叫“方明”，这上面写的是“方朋”。
+女：一定是服务员边听音乐边工作，拿错了。真对不起，你先坐下来 喝点儿水，我马上就去给您换。
+
+关于男的，可以知道什么？
+
+alternatives
+
+叫“方明”
+在商店买衣服
+在洗衣店换衣服
+
+answer
+
+c
+
+notes
+
+
+
+*** 17
+:PROPERTIES:
+:ID: 9c49366c-822f-4612-944a-0817c960776e
+:END:
+
+女：小周，你现在要回公司吗？你是开车来的吗？
+男：我是走过来的，车放在公司门口了。怎么了，有事吗？
+女：你能帮我给老周带回去点儿东西吗？他放在我这儿好长时间了。
+男：明天可以吗？明天我还来你们这儿，到时候开车过来。
+
+女的想请男的做什么？
+
+alternatives
+
+回公司
+给老周带东西
+开车
+
+answer
+
+b
+
+notes
+
+
+
+*** 18
+:PROPERTIES:
+:ID: 8f986850-d02b-43e1-9650-b0445210b1a1
+:END:
+
+男：刚才从电梯里走出去的那个瘦瘦的女孩儿你认识？
+女：对，是我以前的同事，听说现在都是经理了。
+男：以后你介绍我们认识一下吧。
+女：没问题。
+
+女的在电梯里遇到了谁？
+
+alternatives
+
+司机
+服务员
+过去的同事
+
+answer
+
+c
+
+notes
+
+
+
+*** 19
+:PROPERTIES:
+:ID: 786d9b7a-e1ec-4ec4-a928-719439cf8337
+:END:
+
+男：服务员，来瓶红酒。
+女：你不是开车了吗？能喝酒吗？
+男：今天是你的生日，喝几口没关系。
+女：那你的车今天放在这儿吧，明天再过来开回去。
+
+
+关于男的，可以知道什么？
+
+alternatives
+
+今天是他生日
+没开车来
+想喝点儿酒
+
+answer
+
+c
+
+notes
+
+
+
+*** 20
+:PROPERTIES:
+:ID: e585c3cd-bf8c-42b9-8f1f-6eebd9b51894
+:END:
+
+男：走累了吧？我们去“太阳咖啡店”坐一会儿吧。
+女：那家店在三层，也没有电梯，要走上去，喝完咖啡还要走下来，我腿疼。
+男：那去“西西蛋糕店”吧，有电梯。
+女：好啊好啊，那家店在高层，从上边看下去，特别漂亮。
+
+女的要去哪儿？
+
+alternatives
+
+太阳咖啡店
+西西蛋糕店
+西西咖啡店
+
+answer
+
+b
+
+notes
+
+太阳咖啡店
+西西蛋糕店
+西西咖啡店
+
+*** ANSWERED “上边”什么意思？
+:PROPERTIES:
+:CREATED: [2022-09-24 19:52:36 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-09-24 Sat 20:16]
+- State "QUESTION"   from              [2022-09-24 Sat 19:52]
+:END:
+
+往下看
+
+* Reading
+
+
+** 1
+:PROPERTIES:
+:ID: 5b6d81f1-0db9-469f-ae95-98d5d09ed809
+:END:
+
+alternatives
+
+你下班有时间吗？能跟我聊聊吗？
+这是谁的照片？让我也看看吧。
+是她，刚进来酒出去了，很着急。
+咖啡和牛奶都买回来了吗？
+当然。我们先坐公共汽车，然后换地铁。
+都快到家了，车坏了，所以我走回来了。
+
+notes
+
+写信 | xie3 xin4 | to write a letter ;
+
+*** 21
+:PROPERTIES:
+:ID: 69b12a35-f020-4a73-9c40-2678bf12589e
+:END:
+
+content
+
+刚才走出去的那个人是谁？是笑笑吗？
+
+answer
+
+c
+
+*** 22
+:PROPERTIES:
+:ID: dc06e4d2-7db2-4ca4-93e2-6eabe0a75f06
+:END:
+
+content
+
+你怎么走回来了？你的车呢？
+
+answer
+
+f
+
+*** 23
+:PROPERTIES:
+:ID: 651a0480-ad33-441c-b01a-839ccdd469b8
+:END:
+
+content
+
+牛奶都卖完了，我只买回来一些咖啡。
+
+answer
+
+d
+
+*** 24
+:PROPERTIES:
+:ID: 6353c5ab-7599-4ce4-9d87-0a40fd97bed4
+:END:
+
+content
+
+是小李女儿的照片，你坐过来一点儿，我们一起看。
+
+answer
+
+b
+
+*** 25
+:PROPERTIES:
+:ID: fa6a85f7-5a95-4d3f-97da-07a53582a77e
+:END:
+
+content
+
+好啊，去公司楼下的咖啡店吧，边喝边聊。
+
+answer
+
+a
+
+
+** 2
+:PROPERTIES:
+:ID: 16a6c87a-d05b-40b9-a0ea-7ca9b7fd3a71
+:END:
+
+alternatives
+
+爷爷
+礼物
+过去
+一般
+声音
+经常
+
+*** 26
+:PROPERTIES:
+:ID: 37df112d-e5e9-410f-a8a5-6f3523b620d0
+:END:
+
+content
+
+爸爸妈妈在饭馆等我们呢，我们快//吧。
+
+answer
+
+c
+
+*** 27
+:PROPERTIES:
+:ID: bba7e592-dbca-4049-929a-97497d834524
+:END:
+
+content
+
+这是我为你买的生日//，你打开看看，喜欢不喜欢？
+
+answer
+
+b
+
+*** 28
+:PROPERTIES:
+:ID: fccb20ed-89e1-4472-b085-f7ace4a84048
+:END:
+
+content
+
+我//今年快就十岁了，身体特别好，他走路比我都快。
+
+answer
+
+a
+
+*** 29
+:PROPERTIES:
+:ID: b8451706-f5c1-4a10-9686-3477ea6092ce
+:END:
+
+content
+
+Ａ：这几天我眼睛看东西不太清楚。
+Ｂ：你应该//出去走走，看看远方的绿树，别总坐在电视前。
+
+answer
+
+f
+
+*** 30
+:PROPERTIES:
+:ID: a6eb1ae1-e120-458d-b455-2566bbacdbe4
+:END:
+
+content
+
+Ａ：只有你一个人吃晚饭吗？你丈夫呢？
+Ｂ：我丈夫//八点半才回来，所以不在家吃。
+
+answer
+
+d
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: 88fac2af-875c-4714-8a6a-91a58d4cfdd1
+:END:
+
+content
+
+我最大的兴趣是看书。没事的时候，经常我一个安静的地方，静静地坐下来边喝茶边读书。看累了的时候，站起来看看远方的绿树，或者运动一下。这就是我最大的快乐。
+
+inference with missing information
+
+我喜欢
+
+alternatives
+
+坐下来看远方
+站起来看书
+坐下来读书
+
+answer
+
+c
+
+*** 32
+:PROPERTIES:
+:ID: 59869148-70d2-48f8-bf3b-0d7a0b80637b
+:END:
+
+content
+
+你们看，这就是我家的小狗，花花。它经常跑出去帮我拿今天的报纸，还能帮我照顾女儿，跟她玩儿。最有意思的是它可以站起来走路，还能边走边叫。花花这么聪明，大家都喜欢它。
+
+inference with missing information
+
+花花
+
+alternatives
+
+能站着走路
+不会站着
+总是跑出去玩儿
+
+answer
+
+a
+
+*** 33
+:PROPERTIES:
+:ID: b8bd0d46-7908-4bf9-a32b-39ffe332c11e
+:END:
+
+content
+
+昨天我一天都没带手机，回到家看见有8个电话，都是姐姐打过来的。我突然想到：姐姐今天要飞回美国去，她一定是想在上飞机前跟我说会儿话。等我给她打回去的时候，姐姐已经关机了。
+
+inference with missing information
+
+我
+
+alternatives
+
+忘了带手机
+不想接姐姐的电话
+给姐姐打了8个电话
+
+answer
+
+a
+
+notes
+
+关机 means to turn the telephone off. 机 comes from the character 手机 and 关 is a verb which menas to turn off or switch off.
+
+*** 34
+:PROPERTIES:
+:ID: 23960156-e906-4848-9f07-7c05c48e2b58
+:END:
+
+content
+
+中国人常说”一心不可二用“，意思是做这样事的时候不要同时做那件事。我女儿一点儿也不这么想，她经常一心多用，回到家总是边听音乐边吃苹果边看书。这样学习，能知道书上说的是什么吗？
+
+inference with missing information
+
+女儿经常
+
+alternatives
+
+同时做很多事
+学习
+只做一样事
+
+answer
+
+a
+
+notes
+
+同时  | tong2 shi2 | at the same time ;
+
+*** 35
+:PROPERTIES:
+:ID: 0ba2ed89-1727-4d38-9055-5c63e7e8a339
+:END:
+
+content
+
+我丈夫这次出国给每个家人都带回来一样礼物。我爸爸是一瓶好酒，我妈妈是一件漂亮的衣服，给我礼物是画。因为我最喜欢画画儿，所以我觉得这是他带回来的最特别的礼物。
+
+
+inference with missing information
+
+丈夫给我带回来
+
+alternatives
+
+三件礼物
+一件衣服
+一件特别的礼物
+
+answer
+
+c
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: d5233ebb-1460-4f5b-b4a5-479fc8670476
+:END:
+
+words
+
+一边
+聊天儿
+走路
+我们
+一边
+
+answer
+
+我们一边走路一边聊天。
+
+*** 37
+:PROPERTIES:
+:ID: ae005398-3197-4f19-89e6-39ee09848df9
+:END:
+
+words
+
+出去
+跑
+谁
+刚才
+了
+
+answer
+
+刚才谁跑出去了？
+
+*** 38
+:PROPERTIES:
+:ID: 57b69945-c92a-4756-9df4-8693ad349886
+:END:
+
+words
+
+别
+开车
+一边
+打电话
+请
+一边
+
+answer
+
+请别一边开车一边打电话。
+
+*** 39
+:PROPERTIES:
+:ID: 0e5f8cce-4b19-4ab6-a723-d47af42a6d14
+:END:
+
+words
+
+就要
+过
+开
+火车
+来
+了
+
+answer
+
+火车就要开过来了。
+
+*** 40
+:PROPERTIES:
+:ID: 26fb5562-fe44-4417-a41f-915eccd76b92
+:END:
+
+words
+
+同学们
+走
+教室
+去
+出
+都
+了
+
+answer
+
+同学们都走出教室去了。
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: 2c503507-23f8-4c7c-b3fa-30ee8d22b75b
+:END:
+
+sentence
+
+送给你一个//物，希望你能喜欢。
+
+pinyin
+
+li3
+
+answer
+
+礼
+
+*** 42
+:PROPERTIES:
+:ID: 40a3c9d5-01b6-4ae9-93ac-30de1448bc87
+:END:
+
+sentence
+
+你知道我在回来的路上//到难了吗？
+
+pinyin
+
+yu4
+
+answer
+
+遇
+
+*** 43
+:PROPERTIES:
+:ID: ff98f05a-f1a7-4715-a53a-fce19dc8742f
+:END:
+
+sentence
+
+在家吃吧，我忙了一天刚回来，不//意再出去了。
+
+pinyin
+
+yuan4
+
+answer
+
+愿
+
+*** 44
+:PROPERTIES:
+:ID: b0eefbce-a1f0-40ff-a01a-2d7a433edca5
+:END:
+
+sentence
+
+我应//多走出去运动，少在家看电视。
+
+pinyin
+
+gai1
+
+answer
+
+该
+
+*** 45
+:PROPERTIES:
+:ID: d3a3f73f-700d-4956-b2d3-f973ed19941e
+:END:
+
+sentence
+
+我们在一个公司上班，//常见面，我对她很了解。
+
+pinyin
+
+jing1
+
+answer
+
+经
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: b0c74ad3-28f3-44e0-a73f-cc7eb833d724
+:END:
+
+content
+
+我忘了给妻子买礼//，只好在机//买一个。
+
+answer
+
+物
+场
+
+**** QUESTION “只好”是什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-30 19:04:49 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-30 Thu 19:04]
+:END:
+
+*** 47
+:PROPERTIES:
+:ID: 424de0ba-3f51-40db-9cd7-f5953dd0f1db
+:END:
+
+content
+
+别总坐着，站//来出去走走，去//市买点儿东西回来。
+
+answer
+
+起
+超
+
+*** 48
+:PROPERTIES:
+:ID: 4b3cb99a-28d5-434b-b6c4-7505fde76232
+:END:
+
+content
+
+年//人工作到下午三四点的时候//常有点儿饿，这个时候可以吃点儿水果。
+
+answer
+
+轻
+经
+
+*** 49
+:PROPERTIES:
+:ID: 98b75cc9-89e1-458c-ac32-6d6aea93da59
+:END:
+
+content
+
+医生，我应//什么时候给//子吃药？饭钱还是饭后？
+
+answer
+
+该
+孩
+
+*** 50
+:PROPERTIES:
+:ID: eea93155-6791-45a8-a07f-ce2409a25747
+:END:
+
+content
+
+这是我们公司的新车，对//境很好，也不容易//了。
+
+answer
+
+环
+坏
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: a71c9809-ac34-416b-8d5b-1203d06e0438
+:END:
+
+content
+
+小刚//回来了，还买回来很多东西，他给//买了一瓶红酒，明天他和小丽一起//。效力问小刚给她买什么了，小丽让小刚快点儿//，小刚说他自己就是最好的//。
+
+answer
+
+终于
+爷爷
+送过去
+拿出来
+机场
+
+** 2
+:PROPERTIES:
+:ID: ac81cda2-101b-4ff9-bab4-3d2f9fb73cf8
+:END:
+
+content
+
+小丽//很少去电影院看电影，她更//在家看电视，因为可以//吃//看，坐久了还可以//休息一会儿。同事觉得小丽//多出去走走，这样生活更有意思。
+
+answer
+
+一般
+愿意
+一边
+一边
+站起来
+应该
+
+notes
+
+生活 | sheng1 huo2 | to live ;
+

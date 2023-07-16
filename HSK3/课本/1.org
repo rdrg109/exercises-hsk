@@ -1,0 +1,609 @@
+:PROPERTIES:
+:CREATED: [2022-04-30 20:05:25 -05]
+:END:
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-04-30 14:36:19 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-04-30 14:36:29 -05]
+:END:
+
+*** 标题
+
+**** 中文
+
+谈周末的打算
+
+**** 英文
+
+Talking about the plan for the weekend
+
+*** 对话
+
+小丽：周末你有什么打算？
+小刚：我早就想好了，请你吃饭，看电影，喝咖非。
+小丽：请我？
+小刚：是啊，我已经找我好饭馆了，电影票也买好了。
+小丽：我还没想好要不要跟你去呢。
+
+**** Description
+:PROPERTIES:
+:CREATED: [2022-05-09 22:56:15 -05]
+:END:
+
+小刚周末【想／打算】请小丽吃饭，看电影，喝咖啡。他已经找好饭馆，买好电影票了。但是小丽还没想好要不要跟他去。
+
+*** 生词
+
+1. 周末 / zhou1 mo4 / weekend ;
+2. 打算 / da3 suan4 / plan, to intend ;
+3. 啊  / a / (used at the end of a sentence to indicate confirmation or defense) ;
+4. 跟 / gen1 / with ;
+
+*** 专有名词
+
+1. 小丽 | xiao3 li4 | name of a person ;
+2. 小刚 | xiao3 gang1 | name of a person ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-04-30 14:57:42 -05]
+:END:
+
+*** 标题
+
+**** 中文
+
+在家
+
+**** 英文
+
+At home
+
+*** 对话
+
+妈妈：你一直玩儿电脑游戏，作业写完了吗？
+儿子：都写完了。
+妈妈：明天不是有考试吗？你怎么一点儿也不着急？
+儿子：我早就复习好了。
+妈妈：那也不能一直玩儿啊。
+
+**** Description
+:PROPERTIES:
+:CREATED: [2022-05-09 23:00:51 -05]
+:END:
+
+儿子玩儿，因为他早上复习好了。
+
+他对明天的考试不着急。
+
+妈妈不喜欢看见她的儿子玩儿电脑游戏，所以妈妈说儿子，别玩儿。
+
+*** 生词
+
+5. 一直 | yi4 zhi2 | all the time ;
+6. 游戏 | you2 xi4 | game ;
+7. 作业 | zuo4 ye4 | homework ;
+8. 着急 | zhao2 ji2 | worried, anxious ;
+9. 复习 | fu4 xi2 | to review ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-04-30 15:07:25 -05]
+:END:
+
+*** 标题
+
+**** 中文
+
+聊旅游计划
+
+**** 英文
+
+Talking about the travel plan
+
+*** 对话
+
+小丽：下个月我去旅游，你能跟我一起去吗？
+小刚：我还没想好呢。你觉得哪儿最好玩儿？
+小丽：南方啊，我们去年就是这个时候去的。
+小刚：南方太热了，北方好一些，不冷也不热。
+
+*** 生词
+
+10. 南方 | nan2 fang1 | south, southern part ;
+11. 北方 | bei3 fang1 | north, northern part ;
+
+*** Description
+:PROPERTIES:
+:CREATED: [2022-05-09 23:41:52 -05]
+:END:
+
+小丽问小刚能一起去旅游。
+
+小丽想去南方旅游，因为他觉得南方最好玩儿。
+
+小刚觉得南方的天气太热了，北方不冷也不热，所以他觉得北方比南方好一些。
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-04-30 15:20:33 -05]
+:END:
+
+*** 标题
+
+**** 中文
+
+准备去旅游
+
+**** 英文
+
+Preparing for their trip
+
+*** 对话
+
+小刚：水果，面包，茶都准备好了，我们还带什么？
+小丽：手机，电脑，地图，一个也不能少。
+小刚：这些我昨天下午就准备好了。
+小丽：再多带几件衣服吧。
+小刚：我们是去旅游，不是搬家，还是少带一些吧。
+
+**** Description
+:PROPERTIES:
+:CREATED: [2022-05-09 23:54:16 -05]
+:END:
+
+小丽和小刚一起会旅游，所以他们正在准备他们的包。
+
+小刚的东西是昨天下午准备好了的。
+
+小丽觉得他们带的衣服少。
+
+小刚高诉小丽少带衣服，因为小丽想了带太多衣服了。
+
+*** 生词
+
+12. 面包 | mian4 bao1 | map ;
+13. 带 | dai4 | to take along, to bring ;
+14. 地图 | di4 tu2 | map ;
+15. 搬 | ban1 | to move, to carry ;
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-05-07 16:14:15 -05]
+:END:
+
+** 1. The Complement of Result "好"
+:PROPERTIES:
+:CREATED: [2022-05-07 16:14:16 -05]
+:ID: 570600ab-13ff-40df-b4e4-812a71d6bb94
+:END:
+
+The complement of result "好" follows a verb as in "吃好" and "准备好" to indicate that the action is satisfactorily completed.
+
+今晚的电影小刚已经买好票了。
+
+饭还没做好，请你等一会儿。
+
+去旅游的东西准备好了吗？
+
+我还没想好要不要跟你去呢。
+
+Practise
+
+我不能跟你出去玩儿，明天的汉语课我还没（准备好）。
+我们打算去旅行，我已经（买好）火车票了。
+快（穿好）衣服，我们准备出门了。
+
+** 2. The negative structure "一……也/都 + 不/没 …"
+:PROPERTIES:
+:CREATED: [2022-05-07 19:29:40 -05]
+:END:
+
+"一 + Measure Word + Noun + 也/都 + 不/没 + V (not…at all)" indicates complete negation. For example
+
+我（一个苹果也不）想吃。
+en: I don't want to eat a single apple
+
+昨天他（一件衣服都没）买。
+en: he didn't buy any clothes yesterday
+
+小丽（一杯茶也没）喝。
+en: he didn't drink a single cup of tea
+
+手机，电脑，地图，（一个也不）能少带。
+en: mobile phones, computer, maps, we can't bring anything less
+
+Sometimes the "一 + Measure wored" used in the structure above is "一点儿". For exmaple:
+
+我（一点儿东西也不）想吃。
+en: I didn't want to eat anything at all
+
+这个星期我很忙，（一点儿时间也没）有。
+en: I have been busy this week, I haven't had any time at all
+
+今天早上我（一点儿咖啡都没）喝。
+en: I didn't drink any coffee this morning
+
+我（一点儿钱都没）带，所以不能买衣服。
+en: I didn't have any money with me, so I couldn't buy clothes
+
+When the predicate is an adjective, the structure "一点儿也/都 + 不 + Adj" is used to indicate complete negation. For example:
+
+他（一点儿也不）累。
+en: he wasn't tired at all
+
+南方（一点儿都不）冷。
+en: It's not cold at all in the south
+
+那个地方（一点儿也不）远。
+en: that place is not far at all
+
+你怎么（一点儿也不）着急？
+en: how are you not worried at all?
+
+Practice
+
+这些汉字太难了，我（一个汉字也不认识）。
+
+这件衣服真便宜，（它一点儿都不贵）。
+
+我没带钱，我（一个也没买）。
+
+** 3. The conjunction "那"
+:PROPERTIES:
+:CREATED: [2022-05-09 04:54:34 -05]
+:END:
+
+Used at the beginning of a sentence, "那" indicates the result obtained or judgment made based on what has been said previously. For example:
+
+Ａ：我不想去看电影。
+Ｂ：那我也不去了。
+
+Ａ：（明天的考试）我早就复习了。
+Ｂ：那也不能一直玩儿啊。
+
+Practice
+
+Ａ：周末我不想去商店买东西。
+
+Ｂ：（那我们下个周末去吧）。
+
+
+Ａ：外边下大雨了，不能去踢球了。
+Ｂ：（那我们在家看电影）。
+
+Ａ：对不起，红色的手机已经买完了。
+Ｂ：（那我不送我哥哥生日礼物）。
+
+* Exercises
+:PROPERTIES:
+:CREATED: [2022-12-11 14:18:14 -05]
+:END:
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: f6886aaa-996c-4b3b-927a-924ee31cf360
+:END:
+
+**** 选择
+
+***** a
+
+周末
+
+***** b
+
+带
+
+***** c
+
+游戏
+
+***** d
+
+跟
+
+***** e
+
+作业
+
+**** 题
+
+***** 1
+
+****** 内容
+
+你写完🟨了吗？
+
+****** 答案
+
+e
+
+***** 2
+
+****** 内容
+
+上个🟨我们去朋友家玩儿了。
+
+****** 答案
+
+a
+
+***** 3
+
+****** 内容
+
+别玩儿🟨了，快去睡觉。
+
+****** 答案
+
+c
+
+***** 4
+
+****** 内容
+
+他说好请我咆饭，但是没🟨钱。
+
+****** 答案
+
+b
+
+***** 5
+
+****** 内容
+
+胆天我要上课，不能🟨你们一起去玩儿。
+
+****** 答案
+
+d
+
+*** 6-10
+:PROPERTIES:
+:ID: 1fa51fcb-2374-4120-81dd-6d86ce77e222
+:END:
+
+**** 选择
+
+***** a
+
+南方
+
+***** b
+
+搬
+
+***** c
+
+面包
+
+***** d
+
+地图
+
+***** e
+
+打算
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：你是什么时候🟨家的？我怎么不知道？
+Ｂ：上个月。
+
+****** 答案
+
+b
+
+***** 7
+
+****** 内容
+
+Ａ：你是北方人吗？
+Ｂ：不是，我是🟨人。
+
+****** 答案
+
+a
+
+***** 8
+
+****** 内容
+
+Ａ：考完试你有什么🟨？
+Ｂ：我还没想好。
+
+****** 答案
+
+e
+
+***** 9
+
+****** 内容
+
+Ａ：你好，我要买一张🟨。
+Ｂ：三快钱。
+
+****** 答案
+
+d
+
+***** 10
+
+****** 内容
+
+Ａ：累了吧？吃点儿🟨吧。
+Ｂ：好，你也吃点儿吧。
+
+****** 答案
+
+c
+
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: d7f6dbc7-8bea-4789-b88f-67e78a80d35e
+:END:
+
+**** 内容
+
+Ａ：衣服都🟨了吗？
+Ｂ：我一🟨也🟨。
+Ａ：你什么时候洗？
+Ｂ：我🟨今天午下洗。
+
+**** 答案
+
+洗完
+件衣服
+没洗
+打算
+
+*** 2
+:PROPERTIES:
+:ID: 53380e2d-40c7-4c8f-94f9-8b01ac243dba
+:END:
+
+**** 内容
+
+Ａ：小狗怎么没吃饭？
+Ｂ：我的狗生病了，一🟨也🟨。
+Ａ：那🟨你的狗去医院吧。
+Ｂ：好吧。
+
+**** 答案
+
+点儿东西
+不吃
+带
+
+*** 3
+:PROPERTIES:
+:ID: 8f98951b-51f3-42da-bc0c-90a451b80dc4
+:END:
+
+**** 内容
+
+Ａ：我们休息一下再🟨吧。
+Ｂ：没关系，我一🟨。
+Ａ：那🟨。
+Ｂ：好。
+
+**** 答案
+
+搬
+点儿也不累
+我们搬完再休息
+
+*** 4
+:PROPERTIES:
+:ID: ce157841-a8b7-4b4d-9492-27c60fca5509
+:END:
+
+**** 内容
+
+Ａ：你什么时侯回家？
+Ｂ：我还没🟨飞机要呢，你知道在哪儿买要吗？
+Ａ：知道，我🟨你一起去吧。
+Ｂ：太好了，谢谢。
+
+**** 答案
+
+买
+跟
+
+* Application
+:PROPERTIES:
+:CREATED: [2022-05-11 13:57:01 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-11 13:57:17 -05]
+:END:
+
+Example
+
+Ａ：我觉得今天很冷。
+Ｂ：我觉得一点儿也不冷。我想吃一个苹果。
+Ａ：我一个苹果也不想吃。
+
+When the predicate is a countable noun
+
+Ａ：我很喜欢这件衣服，希望生日那天你送给我这件衣服。
+Ｂ：我没有钱，我（一件衣服也不能买）。
+Ａ：那你后年送给我。
+
+Ａ：你知道为什么今天他没上网？
+Ｂ：他现在在图书馆里认真学习，因为明天他有考试。我觉得今天他（一个小时也不想上网）。
+Ａ：谢谢，我想和他一起玩儿电脑游戏。
+
+When the predicate is an uncountable noun
+
+Ａ：这个周末我和我哥哥打算爬山，你想去吗？
+Ｂ：对不起，这个星期我的工作很忙，我（一点儿时间也没有）。
+Ａ：没关系，我们可以下个周末去。
+
+Ａ：你去了哪儿？
+Ｂ：我去了商店买水果。
+Ａ：你想让我帮你吗？
+Ｂ：桌子上有水果。你能帮我洗水果？
+Ａ：桌子上（一点儿东西也没有）。
+Ｂ：那水果在门外。
+
+When the predicate is an adjective
+
+Ａ：为什么你对明天的考试很着急？
+Ｂ：为什么你觉得我很着急？我（一点儿也不着急）。早上我已经复习好了。
+Ａ：好的。
+
+Ａ：你能帮我从图书馆带一本书吗？我现在离图书馆很远。
+Ｂ：我在公园里。我不知道图书馆在哪儿。你觉得图书馆很远？
+Ａ：我觉得图书馆（一点儿也不远）。
+
+Ａ：我们打算下个月去上海旅游。你想去吗？
+Ｂ：对不起，下个月我要帮我妈妈卖衣服，因为我爸爸不能帮她。但是，七月我（一点儿也不忙）。
+Ａ：那我们下个月不去旅游吧。我们可以七月再去。
+Ｂ：太好了，谢谢你。
+
+** Pronunciation
+:PROPERTIES:
+:CREATED: [2022-05-11 21:54:01 -05]
+:END:
+
+（这）件衣服 | zhe4
+（希望） | xi1 wang4
+（送）给我 | song4
+我没（有）钱 | you3
+（一）件衣服 | yi2
+我（和）我哥哥 | he2
+打（算 ） | suan4
+（爬）山 | pa2
+（星期） | xing1 qi1
+工（作） | zuo4
+（时间） | shi2 jian1
+他（没）上网 | mei2
+（觉）得 | jue2
+（和） | he2
+考（试） | shi4
+（着急） | zhao2 ji2
+（好） | hao3
+（能） | neng2
+公（园） | yuan2
+打（算） | suan4
+上（海） | hai3
+你想（去）吗？ | qu4
+（帮）她 | bang1
+（也） | ye3
+

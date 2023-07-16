@@ -1,0 +1,520 @@
+:PROPERTIES:
+:CREATED: [2022-05-19 12:00:30 -05]
+:END:
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-05-19 12:00:33 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-19 12:00:34 -05]
+:ID: 8d72fbc9-485e-44e4-8883-3bef5f75c7bb
+:END:
+
+*** 标题
+
+**** 中文
+
+在客厅
+
+**** 英文
+
+In the living room
+
+*** 对话
+
+周明：我的眼镜呢？怎么突然找不到了？你看见了吗？
+周太太：我没看见啊。
+周明：我离不开眼镜，没有眼镜，我一个字也看不清楚。
+周太太：你去房间找找，是不是刚才放在桌子上了？
+周明：我怎么看得到啊？你快过来帮忙啊。
+周太太：好吧，我帮你去找找。
+
+**** 对我生词
+
+放 | fang4 | to put, to place ;
+
+*** 生词
+
+1. [X] 眼镜 | yan3 jing4 | glasses ;
+2. 突然 | tu1 ran2 | suddenly ;
+3. 离开 | li2 kai1 | to leave, to part with ;
+4. 清楚 | qing1 chu | clear, distinct ;
+5. 刚才 | gang1 cai2 | just now ;
+6. 帮忙 | bang1 mang2 | to help ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-19 12:12:21 -05]
+:ID: eb917849-b944-4cf9-86a9-b9f665491e1c
+:END:
+
+*** 标题
+
+**** 中文
+
+在打电话
+
+**** 英文
+
+On the phone
+
+*** 对话
+
+同学：今天的作业你做完了吗？
+儿子：刚做完，你呢？
+同学：今天这些题特别难，我看不懂，不会做，你能帮我吗？
+儿子：电话里讲不明白，你来我家吧，我给你讲讲。
+同学：好啊，我锻炼完了就过去。
+
+**** 对我生词
+
+作业 | zuo4 ye4 | homework ;
+刚 | gang1 | just ;
+
+*** 生词
+
+7. 特别 | te4 bie2 | extraordinarily ;
+8. 讲 | jiang3 | to explain ;
+9. 明白 | ming2 bai | clear ;
+10. 锻炼 | duan4 lian4 | to do physical exercise ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-19 12:26:22 -05]
+:ID: c333fee5-a7b4-42ac-a4f3-5a653bbff1e6
+:END:
+
+*** 标题
+
+**** 中文
+
+在休息室
+
+**** 英文
+
+In the lounge
+
+*** 对话
+
+同事：你怎么有点儿不高兴？
+小刚：我想请小丽吃饭，但是找不到好饭馆。
+同事：那你请她听音乐会吧，她喜欢听音乐。
+小刚：音乐会人太多，买不到票。
+同事：那去公园走走，聊聊天儿吧。
+小刚：公园太大，多累啊。
+
+**** 对我生词
+
+同事 | tong2 shi4 | co-worker, colleague ;
+
+*** 生词
+
+11. 音乐 | yin1 yue4 | music ;
+12. 公园 | gong1 yuan2 | park ;
+13. 聊天（儿） | liao2 tian1 (r) | to chat ;
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-19 12:34:05 -05]
+:ID: 839b5f30-4912-4eb1-87ad-24abf2f70720
+:END:
+
+*** 标题
+
+**** 中文
+
+在客厅
+
+**** 英文
+
+In the living room
+
+*** 对话
+
+周太太：你怎么还喝咖啡？
+周明：怎么了？
+周太太：你不是说晚上睡不着觉吗？
+周明：没事，我只喝一杯。
+周太太：你还是喝杯牛奶吧，可以睡得更好些。
+周明：好吧，牛奶呢？
+周太太：还没买呢。
+
+**** 对我生词
+
+只 | zhi3 | only ;
+
+*** 生词
+
+14. [X] 睡着 | shui4 zhao2 | to fall asleep ;
+15. 更 |  geng4 | more, even more ;
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-07-05 20:22:05 -05]
+:END:
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-07-05 20:22:31 -05]
+:END:
+
+Rules
+
+刚才 usually means several minutes ago. 刚才 can be used before the verb or at the begnning of the sentence. when 了 is used in a sentence, we must use 刚才, this happens because the state recently changed. If we use 刚才, most of the times, we will use 了.
+
+刚 is only used right before the verb, it can't be used at the beginning of the sentence. Sometimes the subject is ommited, in those cases 刚 can be used at the beginning of the sentence, as happens in id:06b175b4-dd1f-42fc-88d7-bbdc3364eb8b.
+
+1. （刚才）你去哪儿了？
+In sentence no. 1, we can only use 刚才, because the gap is at the beginning of the sentence.
+
+2. 我（刚）做完作业，真累啊！
+In sentence no. 2, we can only use 刚, because the gap is before the verb. We can't use 刚才, because 了 is not used.
+
+3. 白先生（刚）到北京，还没休息呢。
+In sentence no. 3, we can only use 刚, because the gap is before the verb. We can't use 刚才, because 了 is not used.
+
+
+4. 我（刚）起床，妈妈就给我打了一个电话。
+In sentence no. 4, we can only use 刚, because the gap is before the verb. We can't use 刚才, because 了 is not used.. If the sentence included 了, then we could use 刚才 as it follows "我刚才起床了。".
+
+
+5. 老师，（刚才）您讲的那个语法我没听懂。
+In sentence no. 5, we can only use 刚才 because the gap is at the beginning of the sentence.
+
+6. 我们（刚）开始上课。
+In sentence no. 6, we can only use 刚, because the gap is before the verb. We can't use 刚才, because 了 is not used.
+
+7. （刚才）爸爸去买了杯咖啡
+In sentence no. 7, we can only use 刚才 because the gap is at the beginning of the sentence.
+
+8. （刚）开始卖票，人不多，买得到。
+In sentence no. 6, we can only use 刚, because the gap is before the verb. We can't use 刚才, because 了 is not used.aaa
+
+* Exercises
+:PROPERTIES:
+:CREATED: [2022-07-06 08:18:49 -05]
+:END:
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: d1505c79-218b-4e77-b8c0-4b276822b6f7
+:END:
+
+**** 选择
+
+***** a
+
+清楚
+
+***** b
+
+讲
+
+***** c
+
+突然
+
+***** d
+
+特别
+
+***** e
+
+明白
+
+**** 题
+
+***** 1
+
+****** 内容
+
+刚才还是晴天，怎么现在🟨就下雨了？
+
+****** 答案
+
+c
+
+***** 2
+
+****** 内容
+
+你的意思我已经听🟨了。
+
+****** 答案
+
+e
+
+***** 3
+
+****** 内容
+
+今天的语法课我没去，你给我🟨一下吧。
+
+****** 答案
+
+b
+
+***** 4
+
+****** 内容
+
+今天天气🟨好，我们去爬山吧。
+
+****** 答案
+
+d
+
+***** 5
+
+****** 内容
+
+他说什么？你听🟨了吗？
+
+****** 答案
+
+a
+
+*** 6-10
+:PROPERTIES:
+:ID: 60d53222-4ef0-44a1-9460-8c102323dcc1
+:END:
+
+**** 选择
+
+***** a
+
+刚才
+
+***** b
+
+音乐会
+
+***** c
+
+公园
+
+***** d
+
+离开
+
+***** e
+
+聊天儿
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：今天晚上做什么？
+Ｂ：我跟小丽去听🟨。
+
+****** 答案
+
+b
+
+***** 7
+
+****** 内容
+
+Ａ：你什么时候🟨北京？
+Ｂ：明天的飞机。
+
+****** 答案
+
+d
+
+***** 8
+
+****** 内容
+
+Ａ：请问，去🟨怎么走？
+Ｂ：一直住前走就是。
+
+****** 答案
+
+c
+
+***** 9
+
+****** 内容
+
+Ａ：你最喜欢做什么？
+Ｂ：跟朋友🟨。
+
+****** 答案
+
+e
+
+***** 10
+
+****** 内容
+
+Ａ：你🟨做什么去了？
+Ｂ：我帮小丽买了个面包。
+
+****** 答案
+
+a
+
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: 1461ed2a-720d-4787-8772-87db6ba49a60
+:END:
+
+**** 内容
+
+Ａ：周经理呢？
+Ｂ：他🟨出去。
+Ａ：他下午两点以前🟨？
+Ｂ：会得来。
+
+**** 答案
+
+刚
+回得来吗
+
+*** 2
+:PROPERTIES:
+:ID: 09ca661f-aa87-426d-a2de-3fd9065387b8
+:END:
+
+**** 内容
+
+Ａ：我想请你🟨个🟨。
+Ｂ：好啊，怎么了？
+Ａ：今天的工作太多了，我🟨。
+Ｂ：没问题
+
+**** 答案
+
+帮
+忙
+做不完
+
+*** 3
+:PROPERTIES:
+:ID: 1a5e968f-00ca-471b-ba70-6d06f728b368
+:END:
+
+**** 内容
+
+Ａ：我们什么时候吃晚饭？
+Ｂ：我🟨到家，让我休息一下。
+Ａ：一个小时🟨吗？
+Ｂ：休息得好。
+
+**** 答案
+
+刚
+休息得好
+
+*** 4
+:PROPERTIES:
+:ID: 16459c0b-04eb-4061-9121-d20c47187f13
+:END:
+
+**** 内容
+
+Ａ：那个电影🟨有意思，我们一起去看吧。
+Ｂ：那么多人看，🟨票吗？
+Ａ：🟨开始卖票，人不多，买得到。
+Ｂ：那我们现在走吧。
+
+**** 答案
+
+特别
+买得到
+刚
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-07-06 08:43:35 -05]
+:END:
+
+*** 1
+
+他要找他的眼睛，因为他离不开眼睛，没有眼睛，一个字也看不清楚。
+
+*** 2
+
+刚才他做完作业了。
+
+*** 3
+
+他锻炼完了就过去儿子的家，因为儿子觉得电话里讲不明白。
+
+*** 4
+
+他觉得有点儿不高兴，因为他想请小丽吃饭，但是他找不到好饭馆儿。他也想请听音乐会，但是买不到票，因为人太多了。
+
+
+*** 5
+
+周明现在喝杯咖啡。
+
+*** 6
+
+没喝，因为家里没有牛奶。
+
+* Application
+:PROPERTIES:
+:CREATED: [2022-07-05 22:25:39 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-07-05 22:47:43 -05]
+:END:
+
+两人一组，先读读下边的词组，然后询问对方下课时做了什么。
+
+Ａ：刚才你做什么了？
+Ｂ：刚才我出去买饮料了。
+Ｂ：刚才我去咖啡店喝咖啡了。
+Ｂ：刚才我出去打电话了。
+Ｂ：刚才我去图书馆写作业了。
+Ｂ：刚才我去花园休息一下了。
+Ｂ：刚才我跟朋友去餐厅聊天儿了。
+
+notes
+
+组 / zu3 / group ;
+先 / xian1 / first ;
+词组 / ci2 zu3 / phrase (grammar) ;
+询问 / xun2 wen4 / to inquire ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-07-05 22:47:44 -05]
+:END:
+
+1. 马克，你听得懂法语歌吗？
+2. 马克，你听得懂英语播客吗？
+3. 马克，你看得懂日语电视节目吗？
+4. 马克，你看得懂科学的纪录片吗？
+5. 马克，你看得懂科学书吗？
+6. 马克，你吃得完一块儿巧克力蛋糕吗？
+7. 马克，你吃得完一大碗米饭吗？
+8. 马克，你在两分钟内吃得完一个西瓜吗？
+9. 马克，你在一个小内时吃得完那个428元的汉堡吗？
+10. 马克，你在十分钟内喝得完一瓶水吗？
+
+notes
+
+科学 / ke1 xue2 / science ;
+播客 / bo4 ke4 / podcast ;
+纪录片/ ji4 lu4 pian4 / documentary ;
+马克
+王静
+孙月
+李进
+

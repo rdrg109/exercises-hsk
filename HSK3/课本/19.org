@@ -1,0 +1,480 @@
+:PROPERTIES:
+:CREATED: [2022-05-22 12:20:54 -05]
+:END:
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-05-22 12:20:56 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-22 12:20:58 -05]
+:ID: 7db52cd9-3721-4519-9c11-4cd0c42a2a24
+:END:
+
+*** 标题
+
+**** 中文
+
+在家
+
+**** 英语
+
+At home
+
+*** 对话
+
+爸爸：女儿最近喜欢把头发放在耳朵后面，你知道为什么吗？
+妈妈：这样可以便她的脸看上去漂亮一些。
+爸爸：我最近觉得她和以前不太一样了。
+妈妈：女儿变化不小，她小时候喜欢短头发，像男孩子一样。
+爸爸：我也想起来了。她现在慢慢地开始像个女孩子了。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:25:40 -05]
+:END:
+
+把 | ba3 | (classifier for objects that can be picked up with the hand) ;
+头发 | tou2 fa | hair ;
+放 | fang4 | to put, to place ;
+便 | bian4 | convenient ;
+以前 | yi3 qian2 | before, ago ;
+变化 | bian4 hua4 | to change ;
+像 | xiang4 | to be like ;
+地 | de | (classifier used to connect an adverbial modifier and the verb it modifies) ;
+
+*** 生词
+
+1. 耳朵 | er3duo | n. ear ;
+2. 脸 | lian3 | n. face ;
+3. 短 | duan3 | adj. short ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-22 12:31:53 -05]
+:ID: 9578e154-46ce-43c2-985f-502f68f861b9
+:END:
+
+*** 标题
+
+在家
+
+*** 对话
+
+小丽：上次我们参加骑马比赛的照片，我选了几张洗出来了。
+同事：快给我看看。骑的最快的这位是谁？
+小丽：你没看出来吗？他是小刚啊。
+同事：怎么看上去跟现在不太一样？
+小丽：他上班穿西服，衬衫，比赛的时候穿的是运动服。
+同事：他今天穿蓝西服，看上去像40多岁，还是穿运动服让他更年轻。
+
+**** UNANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-12 17:59:56 -05]
+:END:
+:LOGBOOK:
+- State "UNANSWERED" from              [2022-12-19 Mon 13:25]
+- State "QUESTION"   from              [2022-12-12 Mon 18:00]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 18:00:16 -05]
+:END:
+
+
+
+I think this dialogue has a grammar mistake. Am I correct?
+
+小丽：上次我们参加骑马比赛的照片，我选了几张洗出来了。
+同事：快给我看看。骑的最快的这位是谁？
+小丽：你没看出来吗？他是小刚啊。
+同事：➡️怎么看上去跟现在不太一样？ ⬅️ (correction: 怎么看上去？跟现在不太一样。)
+小丽：他上班穿西服，衬衫，比赛的时候穿的是运动服。
+同事：他今天穿蓝西服，看上去像40多岁，还是穿运动服让他更年轻。
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-14 18:43:58 -05]
+:END:
+
+看上出 - looks like (estimation)
+看起来 - looks like (estimation)
+
+How come he doesn't look like in normal dayus?
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:27:01 -05]
+:END:
+
+参加 | can1 jia1 | to participate ;
+骑 | qi2 | to ride ;
+比赛 | bi3 sai4 | match, competition ;
+选择 | xuan3 ze2 | to choose ;
+上班 | shang4 ban1 | go to work ;
+西服 | xi1 fu2 | suit ;
+衬衫 | chen4 shan1 | shirt ;
+像 | xiang4 | to be like ;
+更 | geng4 | more, to a greater extent ;
+年轻 | nian2 qing1 | young ;
+
+*** 生词
+
+4. 马 | ma3 | n. horse ;
+5. 张 | zhang1 | m. (classifier used for flat objects such as paper, photos, etc.) ;
+7. 位 | wei4 | m. (a respectful measure word for people) ;
+8. 蓝 | lan2 | adj. blue ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-22 19:48:57 -05]
+:ID: b825d9f0-cd2a-4143-8d87-3cf09fa83ec1
+:END:
+
+*** 标题
+
+**** 中文
+
+在小丽家
+
+**** 英语
+
+At Xiaoli's home
+
+*** 对话
+
+朋友：我们一年没见面了吧？
+小丽：听说你都有女儿了？她多大了？
+朋友：她去年秋天出生的，刚过完一岁生日。
+小丽：她喜欢什么？我送给她。
+朋友：她就洗欢听她爸爸学鸟叫。哭的时候，只要他爸爸学小鸟叫，她马上就安静下来了。
+小丽：啊？这个礼物我没办法送。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:28:40 -05]
+:END:
+
+见面 | jian4 mian4 | to meet ;
+出生 | chu1 sheng1 | to be born ;
+刚 | gang1 | just ;
+马上 | ma3 shang4 | immediately, at once ;
+安静 | an1 jing4 | quiet ;
+礼物 | li3 wu4 | gift, present ;
+办法 | ban4 fa3 | way, approach ;
+
+*** 生词
+
+8. 秋（天） | qiu1 (tian1) | autumn, fall ;
+9. 过 | guo4 | to spend, to pass ;
+10. 鸟 / niao3 / n. bird ;
+11. 哭 | ku1 | to cry ;
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-22 20:00:45 -05]
+:ID: 3eb78772-0aa3-473a-93fd-b040d938dc9d
+:END:
+
+*** 段话
+:PROPERTIES:
+:CREATED: [2022-12-19 13:29:19 -05]
+:END:
+
+这次旅游，我去了不少地方，每个地方都让我非常难忘。我先去看了黄河，黄河是中国有名的大河，我坐在船上，一边看一边照相。一路上经过了很多地方，每个地方都不一样。我想快点儿把照片发给大家，叫朋友们也高兴高兴。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:30:14 -05]
+:END:
+
+地方 | di4 fang | place ;
+忘 | wang4 | to forget ;
+有名 | you3 ming2 | famous ;
+大河 | da4 he2 | large river ;
+照相 | zhao4 xiang4 | to take a photograph ;
+照片 | zhao4 pian4 | photo ;
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:29:16 -05]
+:END:
+
+12. 黄河 | huang2 he2 | n. Yellow River (the second longest river in China) ;
+13. 船 / chuan2 / boat n. ship ;
+14. 经过 / jing1guo4 / v. to pass by ;
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-12-12 18:26:05 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-12-12 18:26:08 -05]
+:END:
+
+*** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-12 18:26:12 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-12-14 Wed 18:28]
+- State "QUESTION"   from              [2022-12-12 Mon 18:26]
+:END:
+
+**** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 18:26:16 -05]
+:END:
+
+What's the meaning of 学小鸟叫 in this sentence?
+
+只要他爸爸➡️学小鸟叫⬅️，她马上就安静下来了。
+
+**** Answer
+:PROPERTIES:
+:CREATED: [2022-12-12 18:31:28 -05]
+:END:
+
+Learn how to sing as the birds. The kid will become calm because he likes listening to the birds.
+
+* Exercises
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 89a3d8fc-6539-4e04-b32a-fcc7d36f6746
+:END:
+
+**** 选择
+
+***** a
+
+秋天
+
+***** b
+
+过
+
+***** c
+
+鸟
+
+***** d
+
+船
+
+***** e
+
+张
+
+**** 题
+
+***** 1
+
+****** 内容
+
+帮我把这几🟨照片洗出来吧。
+
+****** 答案
+
+e
+
+***** 2
+
+****** 内容
+
+你还记得18岁生日是在哪儿🟨的吗？
+
+****** 答案
+
+b
+
+***** 3
+
+****** 内容
+
+🟨是北京最好的季节。
+
+****** 答案
+
+a
+
+***** 4
+
+****** 内容
+
+她真爱说话，像只小🟨一样。
+
+****** 答案
+
+c
+
+***** 5
+
+****** 内容
+
+我希望能坐🟨去旅行一次。
+
+****** 答案
+
+d
+
+*** 6-10
+:PROPERTIES:
+:ID: cb0c3835-e7ed-4222-96f4-b671a9347f85
+:END:
+
+**** 选择
+
+***** a
+
+位
+
+***** b
+
+经过
+
+***** c
+
+马
+
+***** d
+
+哭
+
+***** e
+
+耳朵
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：你怎么又🟨了？
+Ｂ：我想家了。
+
+****** 答案
+
+d
+
+***** 7
+
+****** 内容
+
+Ａ：你一会儿🟨超市吗？帮我买瓶水吧。
+Ｂ：行，没问题。
+
+****** 答案
+
+b
+
+***** 8
+
+****** 内容
+
+Ａ：你怎么了？
+Ｂ：我🟨里边有点儿疼。
+
+****** 答案
+
+e
+
+***** 9
+
+****** 内容
+
+Ａ：您好，欢迎，请问您几🟨？
+Ｂ：您好，我们一共是五个人。
+
+****** 答案
+
+a
+
+***** 10
+
+****** 内容
+
+Ａ：你会骑🟨吗？
+Ｂ：不会， 从来没骑过。
+
+****** 答案
+
+c
+
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: 562d3374-d8aa-407f-83a4-ca6786fd611b
+:END:
+
+**** 内容
+
+Ａ：你🟨不太舒服。
+Ｂ：昨天晚上没休息好。
+Ａ：怎么了？
+Ｂ：复习考试真让我🟨！
+
+**** 答案
+
+看上去
+着急
+
+*** 2
+:PROPERTIES:
+:ID: 7b7fb39d-4242-4cc9-bfed-116045e5d6db
+:END:
+
+**** 内容
+
+Ａ：天黑🟨了。
+Ｂ：你快点儿回家吧。
+Ａ：你能送我回去吗？
+Ｂ：没问题。是不是黑天让你🟨？
+
+**** 答案
+
+下来
+害怕
+
+*** 3
+:PROPERTIES:
+:ID: 301010a9-d13b-4918-a739-e0facfa5d68a
+:END:
+
+**** 内容
+
+Ａ：阿姨，我是大卫啊！您🟨了吗？
+Ｂ：几年没见了，我真看不出来了。
+Ａ：你跟以前一样年轻！
+Ｂ：是吗？这话真让我🟨。
+
+**** 答案
+
+看不出来
+高兴
+
+*** 4
+:PROPERTIES:
+:ID: eb4b3a17-2f28-4cab-b679-ea656385479f
+:END:
+
+**** 内容
+
+Ａ：外边雨那么大，你怎么才回来？真让我🟨。
+Ｂ：别担心，雨已经小🟨了。
+Ａ：忙了一天了、想吃点儿什么？
+Ｂ：今天下雨，有点儿冷，吃碗热面条吧。
+
+**** 答案
+
+担心
+下来

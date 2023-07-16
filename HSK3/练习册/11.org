@@ -1,0 +1,1072 @@
+:PROPERTIES:
+:CREATED: [2022-06-03 09:14:02 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: e5034bef-ac99-4ad2-a888-ea76189e10c5
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: d497bc84-e71d-4ac0-bace-d59cae6146c3
+:END:
+
+男：这个花瓶真漂亮，在哪儿买的？
+女：我家楼下的商店，我带你去看看。
+
+answer
+
+e
+
+notes
+
+_
+
+*** 2
+:PROPERTIES:
+:ID: 65252a80-016d-4ad5-a9f9-e8e2eb32839c
+:END:
+
+男：把词典还我吧，我要用一下。
+女：好，方便的时候再借我用用。
+
+answer
+
+f
+
+notes
+
+_
+
+**** QUESTION “方便的时候”什么意思？
+:PROPERTIES:
+:CREATED: [2022-09-23 10:23:01 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-09-23 Fri 10:23]
+:END:
+
+*** 3
+:PROPERTIES:
+:ID: 68bb573a-14d4-4cf3-a242-a8131ec319ab
+:END:
+
+女：饭菜都做好了，把电脑关了吧？先吃饭。
+男：好的，我马上就来。
+
+answer
+
+a
+
+notes
+
+_
+
+**** QUESTION What's the difference between these two expressions?
+:PROPERTIES:
+:CREATED: [2022-06-03 09:18:38 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-03 Fri 09:19]
+:END:
+
+饭菜都做好了
+饭准备好了
+
+*** 4
+:PROPERTIES:
+:ID: b96e3c9a-7c71-422a-b179-9423d2495036
+:END:
+
+女：运动会什么时候结束？
+男：五点左右吧。
+
+answer
+
+c
+
+notes
+
+_
+
+*** 5
+:PROPERTIES:
+:ID: cae87bc9-c149-4008-a8ed-e430f677db90
+:END:
+
+男：服务员，这儿只有一双筷子，请再给我们拿一双。
+女：好的，请您等一下，马上来。
+
+answer
+
+b
+
+notes
+
+_
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: e6766b68-3458-45e2-ba21-d81edbd75d03
+:END:
+
+小周，你帮我看一下笔记本电脑吧。昨天我还能看电子邮件，今天突然就打不开了，不知道是怎么回事。
+
+他的电脑出了点儿问题。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 7
+:PROPERTIES:
+:ID: 362a594f-149b-4fac-bd9c-f6dca0fc82f7
+:END:
+
+教室里人太多了，我们去图书馆学习吧，那儿比较安静。
+
+他打算去图书馆学习。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 8
+:PROPERTIES:
+:ID: e662fd84-7287-401d-b8f5-44aa7ad75ea8
+:END:
+
+住在这儿真不错，附近还境很好，离我上班的医院也不远，上下班都不用坐地铁了，骑自行车就可以。
+
+他以前骑自行车上班。
+
+answer
+
+0
+
+notes
+
+_
+
+*** 9
+:PROPERTIES:
+:ID: 6783e066-f067-4058-8c4a-2514fff5afff
+:END:
+
+什么是快乐？结束一天的工作以后，你和家人一起吃晚饭，说说白天的事情，这不就是快乐吗？
+
+跟家人一起吃晚饭很快了。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 10
+:PROPERTIES:
+:ID: 89763a3d-9078-4757-ac0a-e762f5db7e06
+:END:
+
+你把桌子上的杯子给我，我去洗一下，你去楼下买几瓶啤酒吧。
+
+啤酒在桌子上。
+
+answer
+
+0
+
+notes
+
+_
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: 0986788b-93a8-4170-9751-22a40a9b1d8b
+:END:
+
+男：你看一下地图，这儿附近有眼镜甸吗？
+女：地铁站旁边有一个，在地铁站的北边。
+
+问：男的在找什么？
+
+alternatives
+
+地铁站
+眼镜店
+地图
+
+answer
+
+b
+
+notes
+
+_
+
+*** 12
+:PROPERTIES:
+:ID: 01e2ee4d-2cbc-4e08-85b8-ba676df05f5a
+:END:
+
+男：妹妹怎么了？病了吗？
+女：可能饿了，你把奶瓶给我吧。
+
+问：女的要做什么？
+
+alternatives
+
+给妹妹喝牛奶
+去超市买牛奶
+带妹妹去医院
+
+answer
+
+a
+
+notes
+
+_
+
+*** 13
+:PROPERTIES:
+:ID: ba8a2aa6-a6f5-412f-afcd-9f4242085f36
+:END:
+
+男：会议结束后，你记得把空调和灯都关了。
+女：好的，我知道了，明天见。
+
+问：他们最可能是什么关系？
+
+alternatives
+
+同事
+经理喝客人
+医生喝病人
+
+answer
+
+a
+
+notes
+
+_
+
+*** 14
+:PROPERTIES:
+:ID: 84e596ca-ab47-476e-bfd2-f301e2a87d3e
+:END:
+
+女：我明天出去开会，你能帮我照顾一下小雨吗？
+男：行，没问题，我每天都带她去公园玩儿。
+
+问：男的要做什么？
+
+alternatives
+
+出去开会
+照顾小雨
+和女的去公园
+
+answer
+
+b
+
+notes
+
+开会 | kai hui4 | to attend a meeting, to hold a meeting ;
+
+*** 15
+:PROPERTIES:
+:ID: 3e9e7e8f-541f-4c5b-919c-0010a3ad1427
+:END:
+
+女：我的那本历史书呢，你看见了吗？
+男：你昨天让我去图书馆把书还了，你忘了？
+
+问：男的事什么意思？
+
+alternatives
+
+让女的去还书
+书已经还了
+女的忘了还书
+
+answer
+
+b
+
+notes
+
+_
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: f1a7da30-2f9f-4071-9efd-7fb6d352e20a
+:END:
+
+女：空调下面怎么这么多水？
+男：我也是刚看见，我已经打电话叫人来看了。
+女：问他们什么时候到了吗？
+男：他们说今天周日，比较忙，下午才能来。
+
+问：男的为什么要打电话？
+
+alternatives
+
+今天比赛忙
+空调有问题
+叫人来换水
+
+answer
+
+b
+
+notes
+
+空调 | kong1 tiao2 | air conditioner ;
+
+*** 17
+:PROPERTIES:
+:ID: 30a5959a-12cc-4444-9f12-263a2eca892d
+:END:
+
+男：我要去跑步，你去不去？
+女：我已经洗完澡了，不想出去了。
+男：要带点儿什么东西吗？
+女：你会来时，在楼下超市买斤香蕉和两瓶牛奶吧。
+
+问：女的为什么不去跑步？
+
+alternatives
+
+已经洗澡了
+不喜欢出去跑步
+想去超市买东西
+
+answer
+
+a
+
+notes
+
+斤 | jin1 | weight equal to 500g ;
+公斤  | gong1 jin1 | kilogram ;
+
+*** 18
+:PROPERTIES:
+:ID: d26eb385-dbf0-42ec-83dc-54473dac62b5
+:END:
+
+女：我的笔记本电脑太旧了，我想换一个，你说买个什么样的好？
+男：我用的这个就不错，也不大，带着很方便。
+女：贵不贵？
+男：有点儿贵，我去年买的时候九千，听说现在卖八千左右。
+
+问：关于男的的电脑，可以知道什么？
+
+alternatives
+
+比以前便宜了
+太旧了
+有大有方便
+
+answer
+
+a
+
+notes
+
+_
+
+*** 19
+:PROPERTIES:
+:ID: bc596741-f56b-486a-b904-74211e0e8ee3
+:END:
+
+女：周先生，我公司突然有事，你能帮我去接一下孩子吗？
+男：没问题，我带她来我家吃晚饭。
+女：好的，太谢谢你了，我八点左右去接她回来。
+男：别客气，你不也总是帮我照顾小狗吗？
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+来周先生家吃晚饭
+每天八点右边下班
+总是照顾周先生的小狗
+
+answer
+
+c
+
+notes
+
+_
+
+*** 20
+:PROPERTIES:
+:ID: 61337147-1d8f-4cf5-a114-97b13307b6d0
+:END:
+
+**** 对话
+:PROPERTIES:
+:ID: 30e37128-cf39-4a39-8ece-03c84b42a7a7
+:END:
+
+男：吗，我跟同学去打篮球。
+女：你明天不是还要考试吗？
+男：没关系，我已经复习好了，玩儿一会儿就回来。
+女：好吧，你的电脑关了没有？
+
+**** 问题
+
+男的要做什么？
+
+**** 选择
+
+***** a
+
+玩儿电脑
+
+***** b
+
+打篮球
+
+***** c
+
+复习考试
+
+**** 答案
+
+b
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: 9d76dedf-2bfe-490b-993e-d7d2b5d98faa
+:END:
+
+alternatives
+
+都这么晚了，今天别看书了，快睡觉吧。
+你什么时候来找我，我们一出起图书馆吧。
+我昨天没来，把你的笔记本借我看看吧。
+我今天是开车来的，你们喝吧。
+当然。我们先坐公共汽车，然后换地铁。
+不是，我去参加一个会议，下星期三回来。
+
+*** 21
+:PROPERTIES:
+:ID: dad2c937-f816-4f3c-bda1-10183db9d01c
+:END:
+
+content
+
+中午吃完饭，一点左右，怎么样？
+
+answer
+
+b
+
+*** 22
+:PROPERTIES:
+:ID: ee92ed66-5bd1-4302-b490-1c08daa11323
+:END:
+
+content
+
+你带这么多东西，又要出去旅游吗？
+
+answer
+
+f
+
+*** 23
+:PROPERTIES:
+:ID: 0c693e6e-90b2-4771-b821-59b385cd8854
+:END:
+
+content
+
+我习惯睡觉以前看会儿书了。不看书我睡不着。
+
+answer
+
+a
+
+*** 24
+:PROPERTIES:
+:ID: 8778a238-9aa2-4407-9470-6c0d7ea76892
+:END:
+
+content
+
+周经理，你怎么一口酒都不喝？
+
+answer
+
+d
+
+*** 25
+:PROPERTIES:
+:ID: 639d3112-5b8a-4d6d-bcbd-0bef6a0b1e0e
+:END:
+
+content
+
+对不起，我忘带了，明天给你吧。
+
+answer
+
+c
+
+
+** 2
+:PROPERTIES:
+:ID: 7baa8c5b-61b7-40ab-b3e4-71974e36283c
+:END:
+
+alternatives
+
+结束
+图书馆
+地铁
+习惯
+声音
+关
+
+*** 26
+:PROPERTIES:
+:ID: 37caaf58-db98-4b71-9b19-38765db07545
+:END:
+
+content
+
+我们一会儿在//门口见面吧。
+
+answer
+
+b
+
+*** 27
+:PROPERTIES:
+:ID: 879be167-2cb5-478d-801e-e9ccb29ba59a
+:END:
+
+content
+
+你去经理的办公室把灯//了。
+
+answer
+
+f
+
+*** 28
+:PROPERTIES:
+:ID: 2eb581a0-d1cd-4797-a67c-031d00f86eb4
+:END:
+
+content
+
+我想住在//站附近，这样去别的地方很方便。
+
+answer
+
+c
+
+*** 29
+:PROPERTIES:
+:ID: 0f627cf5-6879-49e0-8f2a-4851dff1d1ad
+:END:
+
+content
+
+Ａ：今天晚上的音乐会几点？
+Ｂ：十点左右//，你还有事情吗？
+
+answer
+
+a
+
+*** 30
+:PROPERTIES:
+:ID: 1503d8f2-82cc-4c74-8ba4-f1111b24cbc1
+:END:
+
+content
+
+Ａ：给你买件陈上吧，在银行上班穿衬衫好一些。
+Ｂ：我还不太//穿衬衫。
+
+answer
+
+d
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: 2cfb7edc-eb0a-45cb-af82-09125b416bfb
+:END:
+
+content
+
+我每天下班都坐地铁回家，在地铁上，我更喜欢站着，因为我已经在办公室里坐了一天了。
+
+inference with missing information
+
+我为什么在地铁上站着？
+
+alternatives
+
+地铁上人很多
+我不累
+我坐了一天了
+
+answer
+
+c
+
+*** 32
+:PROPERTIES:
+:ID: c9b0d899-b21d-4dc2-99e5-688c8893cbf0
+:END:
+
+content
+
+看书时会看到一些历史上的人或者国家的名字，这些字现在很多都不用了，想要知道这些读音和意思就要字典的帮助，所以有本字典很方便。
+
+inference with missing information
+
+看书时会看到
+
+alternatives
+
+不认识的字
+现在的名人
+汉字的读音
+
+answer
+
+a
+
+notes
+
+读音 | du2 yin1 | pronunciation of a chinese character ;
+字典 | zi4 dian3 | character dictionary ;
+名人 | ming2 ren2 | famous perrson ;
+
+*** 33
+:PROPERTIES:
+:ID: cf78ceb7-093e-4426-be53-f7ed72abbf63
+:END:
+
+content
+
+中国有一句话叫”有借有还，再借不难“，是说向别人借的东西，用完就要还，这样下次你再借东西的时候，他们还会借给你。
+
+inference with missing information
+
+借了别人的东西
+
+alternatives
+
+别用太长时间
+要记得还
+不能再借
+
+answer
+
+b
+
+notes
+
+句话 | ju4 hua4 | sentence ;
+
+*** 34
+:PROPERTIES:
+:ID: e4379ba4-79c0-4c02-8453-b69d4622ff93
+:END:
+
+content
+
+我爸爸妈妈都是北方人，但是我一直住在南方，所以没见过雪。搬到北京以后，虽然这儿的天气很冷，我还不太习惯，但是我见到雪了，我很高兴。
+
+inference with missing information
+
+她
+
+alternatives
+
+不想搬到
+见到雪了
+习惯北京的天气
+
+answer
+
+b
+
+notes
+
+习惯 | xi2 guan4 | habit, to be used to ;
+
+*** 35
+:PROPERTIES:
+:ID: 2bf3a125-63bf-4a5b-b0aa-0944d49c06e8
+:END:
+
+content
+
+下班后，我们一起去喝啤酒吧，就在公司旁边，以前是六十元一个人，现在是三十元一个人，想喝几瓶就可以喝几瓶，还送一些吃的。你那个朋友姓什么，我忘记了，叫他也来吧。
+
+inference with missing information
+
+根据这段话，可以知道
+
+alternatives
+
+我记得我朋友的名字了
+三十元可以喝一瓶啤酒
+喝啤酒比以前便宜了
+
+answer
+
+c
+
+
+**** ANSWERED ”还送一些吃的“是什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-28 09:37:14 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-09-19 Mon 18:41]
+- State "QUESTION"   from              [2022-06-28 Tue 09:37]
+:END:
+
+**** ANSWERED Does  名字 refers to the surname or the given name?
+:PROPERTIES:
+:CREATED: [2022-06-28 09:38:37 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-09-19 Mon 18:41]
+- State "QUESTION"   from              [2022-06-28 Tue 09:39]
+:END:
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: 3c3a9993-e2fc-4545-9607-402ef125b759
+:END:
+
+words
+
+左右
+上地铁
+我每天
+七点
+
+answer
+
+我每天七点左右上地铁。
+
+*** 37
+:PROPERTIES:
+:ID: 3d3be14d-03cd-4854-86bf-6b7485a71da1
+:END:
+
+words
+
+几点
+图书馆
+关门
+
+answer
+
+图书馆几点关门？
+
+*** 38
+:PROPERTIES:
+:ID: 7960358c-cded-4478-95e1-920a5b8e5277
+:END:
+
+words
+
+喝了
+我昨天
+啤酒
+两瓶
+
+answer
+
+我昨天喝了两瓶啤酒。
+
+*** 39
+:PROPERTIES:
+:ID: e7247006-0253-4f08-80fa-5f3d9421b7ed
+:END:
+
+words
+
+参加
+运动会
+今年的
+你
+吗
+
+answer
+
+你参加今年的运动会吗？
+
+**** QUESTION “运动会”和“运动比赛”有什么区别？
+:PROPERTIES:
+:CREATED: [2022-06-28 15:03:11 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-28 Tue 15:03]
+:END:
+
+
+*** 40
+:PROPERTIES:
+:ID: 27575a6c-537a-4f58-b25a-212e2e18d29a
+:END:
+
+words
+
+别
+忘了
+手机
+你
+把
+
+answer
+
+你别把手机忘了。
+
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: 033ff489-8265-498b-985f-e5a4c0a18013
+:END:
+
+sentence
+
+这个笔记//电脑太贵了。
+
+pinyin
+
+ben3
+
+answer
+
+本
+
+*** 42
+:PROPERTIES:
+:ID: 10c139de-022b-4db1-9752-ec0fb388daa7
+:END:
+
+sentence
+
+早睡早起是一个好//惯。
+
+pinyin
+
+xi2
+
+answer
+
+习
+
+*** 43
+:PROPERTIES:
+:ID: 973924a7-9e37-4771-bf1a-8d87d755fdc2
+:END:
+
+sentence
+
+今天的//议几点结束？
+
+pinyin
+
+hui4
+
+answer
+
+会
+
+*** 44
+:PROPERTIES:
+:ID: e328f2e4-3b2c-474d-a7c9-3af72104f1c9
+:END:
+
+sentence
+
+
+我从图书馆借了一本英汉//典。
+
+pinyin
+
+ci2
+
+answer
+
+词
+
+*** 45
+:PROPERTIES:
+:ID: 4004b529-b0c4-49d9-aeb0-21e4c6715cef
+:END:
+
+sentence
+
+房间里的//怎么还开着呢？
+
+pinyin
+
+deng1
+
+answer
+
+灯
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: 06e045d3-f6de-45a8-b357-596872ec0d56
+:END:
+
+content
+
+家里的空//坏了，//末我要叫人来看看。
+
+answer
+
+调
+周
+
+*** 47
+:PROPERTIES:
+:ID: 15976dfb-1db9-4815-9746-9745858bb4ca
+:END:
+
+content
+
+昨//你离开的时候忘记//灯了。
+
+answer
+
+天
+关
+
+*** 48
+:PROPERTIES:
+:ID: 984ae9c7-f127-4bc6-b22d-28b1974d1d7c
+:END:
+
+content
+
+你帮我把//本数学书//了吧。
+
+answer
+
+这
+还
+
+*** 49
+:PROPERTIES:
+:ID: b5c89d5e-1ea1-4377-9702-3ea1af0e0e10
+:END:
+
+content
+
+//点儿，2号桌还少一双//子。
+
+answer
+
+快
+筷
+
+*** 50
+:PROPERTIES:
+:ID: f4422ae3-cd42-430d-a6dd-dfb9ef7f5e10
+:END:
+
+content
+
+你看//了，我//的不是这本书。
+
+answer
+
+错
+借
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: a6371828-f3e1-43a0-8b04-5ee58a6b6706
+:END:
+
+content
+
+开会的时候，小丽告诉周明，王经理两点//来了个电话，说他已经坐//来公司了。周明告诉小丽会议//，后，别//把//关了。
+
+answer
+
+左右
+地铁
+结束
+忘记
+空调
+
+notes
+
+开会 | kai1 hui4 | to attend a meeting, to hold a meeting ;
+
+** 2
+:PROPERTIES:
+:ID: ec9d240b-debe-450e-bed8-a1b8c3d80e0a
+:END:
+
+content
+
+今天是爸爸的生日，所以妈妈做了很多菜。妈妈让儿子去拿//，还差一//。儿子想让爸爸喝点儿//，但是医生说爸爸一//酒都不能喝，所以不能让他看见酒//。
+
+answer
+
+筷子
+双
+啤酒
+口
+瓶子
+
+

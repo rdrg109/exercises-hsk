@@ -1,0 +1,1054 @@
+:PROPERTIES:
+:CREATED: [2022-06-02 11:34:07 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: 9b6b2013-2ba5-4936-b78a-3ed4deb57446
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: 62d43d83-b374-4334-bcde-487d46ee0d53
+:END:
+
+女：你去做什么？
+男：我去看足球比赛。
+
+answer
+
+c
+
+notes
+
+_
+
+*** 2
+:PROPERTIES:
+:ID: 7670acb5-0cab-4230-9460-55d80f59b11a
+:END:
+
+男：那两个笑着看照片的女孩是谁？
+女：那是我妹妹和她的好朋友。
+
+answer
+
+f
+
+notes
+
+_
+
+*** 3
+:PROPERTIES:
+:ID: b9e9af69-62e1-49c0-9f49-d3cd7a0fcce3
+:END:
+
+女：我太饿了，我想吃块儿蛋糕。
+男：别吃了，我们去吃饭吧。
+
+answer
+
+b
+
+notes
+
+_
+
+*** 4
+:PROPERTIES:
+:ID: b6ab8c7b-cc7d-40b2-af86-f88c070d72b6
+:END:
+
+男：你怎么总是站着？快坐吧。
+女：我吃了两块蛋糕，现在不想坐着。
+
+answer
+
+e
+
+notes
+
+_
+
+**** QUESTION Why doesn't the woman want to sit?
+:PROPERTIES:
+:CREATED: [2022-06-02 11:38:38 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-02 Thu 11:38]
+:END:
+
+
+
+*** 5
+:PROPERTIES:
+:ID: e589df80-7f86-4b7a-8955-28c98a7ed542
+:END:
+
+女：我记得那家超市的西瓜又甜又新鲜，我们去看看吧。
+男：好，走吧。
+
+answer
+
+a
+
+notes
+
+_
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: 2272ae5e-8d9e-4404-84d0-faee7f2a1c51
+:END:
+
+这几天你总是不爱吃东西，是不是不舒服啊？
+
+这几天他吃得很少。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 7
+:PROPERTIES:
+:ID: 30667c5c-2c08-4117-bfe0-e50eb1b18f54
+:END:
+
+他又聪明又努力，老师的问题他都会回答。
+
+他学习很好。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 8
+:PROPERTIES:
+:ID: 4c0db19a-d4fc-431c-a14b-304792b953f0
+:END:
+
+你知道我手机里还有多少钱吗？还有一元一角一分，三个一。
+
+他手机里钱不多了。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 9
+:PROPERTIES:
+:ID: 925ec6c3-fa43-4097-9d4d-a35792dbb4bc
+:END:
+
+妈妈很热情，总是帮助人，所以大家有问题，都回来找她。
+
+妈妈现在有问题。
+
+answer
+
+0
+
+notes
+
+_
+
+*** 10
+:PROPERTIES:
+:ID: d0582905-fa62-4893-90cd-acc1566671cb
+:END:
+
+同学们，谁能告诉我这个句子是什么意思。
+
+他在请人回答问题。
+
+answer
+
+1
+
+notes
+
+_
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: aa6146b7-2acf-4cb7-91af-995b157c3560
+:END:
+
+女：你怎么总是听着音乐写作业？别听了，认真写吧。
+男：没关系，你看我写得都对。
+
+问：女的让男的做什么？
+
+alternatives
+
+
+认真写作业
+认真听音乐
+听着音乐写作业
+
+answer
+
+a
+
+notes
+
+_
+
+*** 12
+:PROPERTIES:
+:ID: ea59c67d-0f24-44fe-a964-c766383e7ebe
+:END:
+
+男：你打电话有什么事吗？
+女：家里有人来做客，你下了班就回来吧。
+
+问：女的让男的做什么？
+
+alternatives
+
+打电话
+去做客
+回家
+
+answer
+
+c
+
+notes
+
+_
+
+**** QUESTION What does the first question mean?
+:PROPERTIES:
+:CREATED: [2022-06-02 11:52:32 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-02 Thu 11:52]
+:END:
+
+*** 13
+:PROPERTIES:
+:ID: 08cadaf8-b54b-44f9-b762-8dff204bb39b
+:END:
+
+女：下课了，同学们都去哪儿啊？
+男：今天下午有篮球比赛，我们要去看球赛。
+
+问：同学们要做什么？
+
+alternatives
+
+去比赛
+看比赛
+去上课
+
+answer
+
+b
+
+notes
+
+_
+
+*** 14
+:PROPERTIES:
+:ID: c9e59bfd-b077-4acb-943f-0d4dd0326730
+:END:
+
+男：你真的要去国外上学？
+女：是，我爸妈也想让我去，说年轻的时候多出去走走很好。
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+跟爸妈一起出国
+要去国外上学
+总是出去走
+
+answer
+
+b
+
+notes
+
+_
+
+**** QUESTION What does the second sentence mean?
+:PROPERTIES:
+:CREATED: [2022-06-02 11:54:59 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-02 Thu 11:55]
+:END:
+
+*** 15
+:PROPERTIES:
+:ID: 546138a9-985b-4b6f-a232-427d146a67f1
+:END:
+
+男：请你来回答这个问题，好吗？
+女：对不起，你说得太快了，我没听董你的问题。
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+说话很快
+都听懂了
+不能回答
+
+answer
+
+c
+
+notes
+
+_
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: ffd500a0-125b-4f83-80f9-cca576d57848
+:END:
+
+
+男：你儿子上学了吗？现在几年级？
+女：他现在二年级。
+男：学习怎么样？
+女：还可以，很努力，每天都复习，写作业。
+
+问：关于儿子，可以知道什么？
+
+alternatives
+
+学习很认真
+现在三年级
+总是不写作业
+
+answer
+
+a
+
+notes
+
+_
+
+*** 17
+:PROPERTIES:
+:ID: 5acc4d43-8160-48ca-917e-3f9b341d540b
+:END:
+
+
+男：这是你小时候的照片吗？
+女：是啊，漂亮吧。
+男：很漂亮，是什么时候照的？
+女：小学五年级，你看，我那时多瘦啊。
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+现在胖了
+正在照相
+现在上小学年纪
+
+answer
+
+a
+
+notes
+
+_
+
+*** 18
+:PROPERTIES:
+:ID: 0d45e0d0-a453-4aa1-974f-86b5bad73c7a
+:END:
+
+
+男：站着吃蛋糕的那个人是谁？
+女：我们公司新来的年轻人，小周。
+男：什么？她姓什么？
+女：姓周。小周又漂亮又热情，以后有时间我介绍你们认识一下。
+
+问：关于小周，可以知道什么？
+
+alternatives
+
+坐着吃蛋糕
+不年轻
+很漂亮，也很热情
+
+answer
+
+c
+
+notes
+
+_
+
+
+*** 19
+:PROPERTIES:
+:ID: c60d8ca7-aa65-425f-a0f1-82a62ff5f881
+:END:
+
+
+男：你站那么高，小心点儿。
+女：好的，你看，照片放在这儿怎么样？
+男：往右边一点儿吧。
+女：现在好了吧。
+
+问：他们在做什么？
+
+alternatives
+
+爬山
+问路
+放照片
+
+answer
+
+c
+
+notes
+
+_
+
+**** QUESTION What's the context of this dialogue?
+:PROPERTIES:
+:CREATED: [2022-06-02 12:02:37 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-02 Thu 12:02]
+:END:
+
+*** 20
+:PROPERTIES:
+:ID: 936c6d7d-b34a-4ed7-9dcb-ff9c5483c4bc
+:END:
+
+
+女：周末你别总是坐着看电视，出去运动一下吧。
+男：好啊，我们去爬山怎么样？
+女：今天我腿疼，就去楼下走一走吧。
+男：好吧，我们走着去超市买点儿菜。
+
+问：他们打算做什么？
+
+alternatives
+
+去买菜
+看电视
+去爬山
+
+answer
+
+a
+
+notes
+
+_
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: a75121a0-f183-42e5-a2fe-d657ee588233
+:END:
+
+alternatives
+
+你怎么没吃我给你买的蛋糕呢？
+你怎么到家就做看着电视， 也不帮我做饭？
+你觉得小丽怎么样？
+这么晚了，你去哪儿？
+当然。我们先坐公共汽车，然后换地铁。
+我昨天没有认真复习。
+
+*** 21
+:PROPERTIES:
+:ID: 39519252-e453-4596-8d0f-fcc72a1f5623
+:END:
+
+content
+
+老师的问题你怎么都不回答？
+
+answer
+
+f
+
+*** 22
+:PROPERTIES:
+:ID: 22cf86a4-5429-48d5-9a11-2e6ec3363b38
+:END:
+
+content
+
+她又聪明又热情，大家都喜欢她。
+
+answer
+
+c
+
+*** 23
+:PROPERTIES:
+:ID: 7d7956ee-d712-42c9-8c78-95765f67848d
+:END:
+
+content
+
+太甜了，你吃吧。
+
+answer
+
+a
+
+*** 24
+:PROPERTIES:
+:ID: 380c439f-fb98-4990-8896-6e36617b7fbe
+:END:
+
+content
+
+我又累又饿，你让我休息一下吧。
+
+answer
+
+b
+
+*** 25
+:PROPERTIES:
+:ID: 2c38ced9-1bef-42bd-b437-b95c251045b8
+:END:
+
+content
+
+有点儿饿，我去超市买点儿吃的。
+
+answer
+
+d
+
+** 2
+:PROPERTIES:
+:ID: 36977a2b-45d9-406d-a377-9f61e4da01e4
+:END:
+
+alternatives
+
+努力
+回答
+照片
+比赛
+声音
+客人
+
+*** 26
+:PROPERTIES:
+:ID: aa00775d-a1ef-460c-bded-93c7af0bfbc1
+:END:
+
+content
+
+今天晚上我晚点儿回来，跟朋友去看足球//。
+
+answer
+
+d
+
+*** 27
+:PROPERTIES:
+:ID: 2e42e037-cb5f-46e8-978e-7899b939dd5b
+:END:
+
+content
+
+弟弟回了家就复习，学习非常//。
+
+answer
+
+a
+
+*** 28
+:PROPERTIES:
+:ID: c8414af8-aab2-4875-8126-16a0473593dc
+:END:
+
+content
+
+家里来//了，你回来的时候去超市买点儿水果。
+
+answer
+
+f
+
+*** 29
+:PROPERTIES:
+:ID: d2e4e5c1-394b-4ea8-bbd9-e062ae082e18
+:END:
+
+content
+
+Ａ：这是我们爬山的//，你看看。
+Ｂ：这个站在你旁边的人是谁？
+
+answer
+
+c
+
+*** 30
+:PROPERTIES:
+:ID: f53c1368-5622-420f-a9b3-dacdb12d186e
+:END:
+
+content
+
+Ａ：你觉得今天的考试怎么样？
+Ｂ：很多问题我都不会//。
+
+answer
+
+b
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: 6ceb47c7-d723-493c-9bc3-4c9f427f910d
+:END:
+
+content
+
+这张照片是我姐姐11岁那年照的，那时她正在读五年级，照片上的姐姐又黑又瘦。看看现在的姐姐，又高又漂亮，大家都喜欢她。
+
+inference with missing information
+
+姐姐
+
+alternatives
+
+现在又高又漂亮
+很喜欢大家
+现在读五年级
+
+answer
+
+a
+
+*** 32
+:PROPERTIES:
+:ID: 4d3e3ad8-f278-481b-82a4-4296796e231d
+:END:
+
+content
+
+3月15号早上，她正要去上班的时候，看见男朋友拿着鲜花站在门口，她一下不想到了，今天是她的生日。
+
+inference with missing information
+
+根据这段话，可以知道
+
+alternatives
+
+她那天不上班
+男朋友要送她花
+她记得男朋友的生日
+
+answer
+
+b
+
+notes
+
+段话 | duan4 hua4 | paragraph ;
+
+*** 33
+:PROPERTIES:
+:ID: 3dffcbe0-33ae-4dfb-a0ea-76a5bcd57a4c
+:END:
+
+content
+
+客人有问题的时候，她总是热情回答。客人喜欢这样的服务员，经理也喜欢这样的服务员。
+
+inference with missing information
+
+根据这段话，可以知道
+
+alternatives
+
+客人很热情
+大家都喜欢这个服务员
+经理喜欢回答问题
+
+answer
+
+b
+
+notes
+
+客人 | ke4 ren2 | client, customer, guest ;
+
+*** 34
+:PROPERTIES:
+:ID: a312469c-8980-4d18-8ede-9e90d3649e91
+:END:
+
+content
+
+王老师有个20岁的女儿，现在读大学三年级，又聪明又漂亮，学习也很努力。
+
+inference with missing information
+
+王老师的女儿
+
+alternatives
+
+很年轻
+是老师
+喜欢笑
+
+answer
+
+a
+
+*** 35
+:PROPERTIES:
+:ID: a68a9771-cee1-4d48-ab97-dfd573acecbd
+:END:
+
+content
+
+他姓高，但是长得不高，只有一米六。朋友们都说：“我们就脚你小高吧！”她笑着回答：“可1以，大家都这么叫我。”
+
+inference with missing information
+
+他
+
+alternatives
+
+又高又胖
+姓高，也长得高
+喜欢小高这个名字
+
+answer
+
+c
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: 9b19b65e-cc44-479a-a0cf-1a84b997e02d
+:END:
+
+words
+
+女儿
+聪明
+他的
+非常
+
+answer
+
+他的女儿非常聪明。
+
+*** 37
+:PROPERTIES:
+:ID: 676ed1e6-6ef8-447a-965d-c8af2ec5d9df
+:END:
+
+words
+
+服务员
+热情
+的
+都很
+这家饭馆
+
+answer
+
+这家饭馆的服务员都很热请。
+
+*** 38
+:PROPERTIES:
+:ID: 5dfa2768-f189-45a4-b758-476d94f5cb15
+:END:
+
+words
+
+超市
+哪家
+买蛋糕
+你去
+
+answer
+
+你去哪家超市买蛋糕？
+
+*** 39
+:PROPERTIES:
+:ID: d8080bbe-fc99-4a67-8daa-f2f2defd2af3
+:END:
+
+words
+
+站着
+总是
+吃饭
+他
+
+answer
+
+他总是站着吃饭。
+
+*** 40
+:PROPERTIES:
+:ID: 5d042174-e425-4015-91ff-e146bf4fb386
+:END:
+
+words
+
+回答
+你去
+一下
+客人的问题
+
+answer
+
+你去回答一下客人的问题。
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: fa62d05f-4478-4517-89d9-ccb63dfb59c8
+:END:
+
+sentence
+
+小明，快回家吧！你家来//人了。
+
+pinyin
+
+ke4
+
+answer
+
+客
+
+*** 42
+:PROPERTIES:
+:ID: fde1990a-e27e-4dfe-be7f-e50270cdf010
+:END:
+
+sentence
+
+周老师的儿子今年上小学三年//。
+
+pinyin
+
+ji2
+
+answer
+
+级
+
+*** 43
+:PROPERTIES:
+:ID: af4058bb-52c3-474f-b6bd-a3378c4cf584
+:END:
+
+sentence
+
+他工作很//真，经理很喜欢他。
+
+pinyin
+
+ren4
+
+answer
+
+认
+
+*** 44
+:PROPERTIES:
+:ID: db7ead94-e9b2-45fc-ac43-51ff5cdfdf82
+:END:
+
+sentence
+
+你看，这是我年轻时的照//，漂亮吗？
+
+pinyin
+
+pian4
+
+answer
+
+片
+
+*** 45
+:PROPERTIES:
+:ID: f6d43209-7a46-4007-80f5-f2054610133c
+:END:
+
+sentence
+
+那个拿着书//在门口大的就是我们的老师。
+
+pinyin
+
+zhan4
+
+answer
+
+站
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: 4d2b0e08-ca58-45b7-ab20-034d31ff3a6f
+:END:
+
+content
+
+今天晚上电视里有//京和上海的足球//赛。
+
+answer
+
+北
+比
+
+*** 47
+:PROPERTIES:
+:ID: 18312e80-f352-464c-ba76-361f955a2de6
+:END:
+
+content
+
+我有一个中国女//友，她又聪//又漂亮。
+
+answer
+
+朋
+明
+
+*** 48
+:PROPERTIES:
+:ID: b95f70ec-9abe-4555-a94a-b9b47531aa28
+:END:
+
+content
+
+他考试考得很好，因//他学习很努//。
+
+answer
+
+为
+力
+
+*** 49
+:PROPERTIES:
+:ID: 862bb89a-3b5a-4ee0-a3be-29573e61c70f
+:END:
+
+content
+
+你//了吗？//去超市给你买点儿蛋糕吧。
+
+answer
+
+饿
+我
+
+*** 50
+:PROPERTIES:
+:ID: d6ea0afe-63cb-4b96-a56a-237c6b7da743
+:END:
+
+content
+
+老师问了//个问题，他一个也不会//答。
+
+answer
+
+四
+回
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: a8307a44-bd94-45b7-8164-7ae5d992789b
+:END:
+
+content
+
+小红又聪明又//，也很//，总是笑着//老师的问题，大家都很喜欢她。你看，那些//在门口的都是来送她//的。
+
+answer
+
+热情
+努力
+回答
+站
+鲜花
+
+** 2
+:PROPERTIES:
+:ID: 7d5210df-7eef-453d-a7d3-ad23f5de0cb6
+:END:
+
+content
+
+李小美在饭管里工作，她//漂亮又//，工作又//又热情，她//笑着跟//说话。
+
+answer
+
+又
+年轻
+认真
+总是
+客人
+
+*** QUESTION 
+:PROPERTIES:
+:CREATED: [2022-10-03 05:45:48 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-03 Mon 05:45]
+:END:
+
+**** 问题
+:PROPERTIES:
+:CREATED: [2022-10-03 05:45:53 -05]
+:END:
+
+”李小美“是一个名子吗？

@@ -1,0 +1,633 @@
+:PROPERTIES:
+:CREATED: [2022-05-10 18:04:49 -05]
+:END:
+
+* Warm-up
+:PROPERTIES:
+:CREATED: [2022-05-10 18:04:51 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-10 18:04:55 -05]
+:END:
+
+1. f
+
+伞 | san3 | umbrella ;
+
+2. c
+
+经理 | jing1 li3 | manager ;
+
+3. d
+
+办公试 | ban4 gong1 shi4 | office ;
+
+4. a
+
+脚 | jiao3 | foot ;
+
+5. e
+
+楼 | lou2 | building ;
+
+6. b
+
+树 | shu4 | tree ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-10 18:12:20 -05]
+:END:
+
+吃饭 -> （刷牙／洗澡）
+写作业 -> （跑步／看电视／看电影）
+下课 -> （休息一下／吃香蕉）
+运动 -> （洗藻／吃香蕉／学习汉语）
+回家 -> （洗手／休息一下／睡觉）
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-05-10 18:19:05 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-10 18:23:20 -05]
+:ID: 474e46fe-de2e-4f37-b8e5-2c509db2a203
+:END:
+
+*** 标题
+
+**** 中文
+
+下山的路上
+
+**** 英文
+
+On the way going down the mountain
+
+*** 对话
+
+小丽：休息一下吧。
+小刚：怎么了？
+小丽：我现在腿也疼，脚也疼。
+小刚：好，那边树多，我们过去坐一下吧。
+小丽：上来的时候我怎么没觉得这么累？
+小刚：上山容易下山难，你不知道？
+
+**** 对我生词
+
+山 | shan1 | mountain ;
+
+*** 生词
+
+1. 腿 | tui3 | leg ;
+2. 疼 | teng2 | hurt, painful ;
+3. 脚 | jiao3 | foot ;
+4. 树 | shu4 | tree ;
+5. 容易 | rong2 yi4 | easy ;
+6. 难 | nan2 | difficult ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-10 18:36:08 -05]
+:ID: ab7c1fba-c669-4bf5-ad98-660704a0ad25
+:END:
+
+*** 标题
+
+**** 中文
+
+在打电话
+
+**** 英文
+
+On the phone
+
+*** 对话
+
+周太太：喂，你好，请问周明在吗？
+秘书：周经理出去了，不在办公室。
+周太太：他去哪儿了？什么时候回来？
+秘书：他出去办事了，下午回来。
+周太太：回来了就让他给我打个电话。
+秘书：好的，他到了办公室我就告诉他。
+
+*** 生词
+
+7. [X] 太太 | tai4 tai | mrs., madam ;
+8. [X] 秘书 | mi4 shu1 | secretary ;
+9. 经理 | jing1 li3 | manager ;
+10. 办公室 | ban4 gong1 shi4 | office ;
+
+*** 专有名词
+
+1. 周 |  zhou1 | Zhou, a surname ;
+2. 周明 | zhou1 ming2 | Zhou Ming, name of a person ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-10 19:20:19 -05]
+:ID: f0968a5b-85c4-4120-8973-4da7ad0b17b8
+:END:
+
+*** 标题
+
+**** 中文
+
+在楼门口送朋友
+
+**** 英文
+
+Parting at the exit of the building
+
+*** 对话
+
+小刚：雨下得真大，你怎么回去？我送你吧。
+小丽：没事，我出去叫辆出租车就行了。
+小刚：那你等等，我上楼去给你拿把伞。
+小丽：好的，我跟你一起上去吧。
+小刚：你在这儿等吧，我拿了伞就下来。
+
+*** 生词
+
+11. 辆 | liang4 | (measure word used for vehicles) ;
+12. 楼 | lou2 | building ;
+13. 拿 | na2 | to take, to fetch ;
+14. 把 | ba3 | used for things with a handle ;
+15. 伞  | san3 | umbrella ;
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-12 17:20:19 -05]
+:ID: 5046394e-b7e8-40bb-b3c9-7daf831d580c
+:END:
+
+*** 标题
+
+**** 中文
+
+在家
+
+**** 英文
+
+At home
+
+*** 对话
+
+周太太：你看，我这么胖，怎么办呢？
+周明：你每天晚上吃了饭就睡觉，也不出去走走，能不胖吗？
+周太太：其实我每天都运动。
+周明：但是你一点儿也没瘦！你做什么运动了？
+周太太：做饭啊。
+
+**** 对我生词
+
+太太 | tai4 tai | mrs., madam ;
+
+*** 生词
+
+16. 胖 | pang4 | fat ;
+17. 其实 | qi2 shi2 | actually ;
+18. 瘦 | shou4 | thin ;
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-05-12 17:29:08 -05]
+:END:
+
+** 1. Simple Components of Direction
+:PROPERTIES:
+:CREATED: [2022-05-13 00:18:53 -05]
+:END:
+
+Direction of an action with verbs
+
+我们在楼上等你呢，你（上来）吧。
+en: we are awaiting for you upstairs, come on up
+
+谁在外边？你（出去）看看吧。
+en: who is outside? you go out to take a look
+
+汉语书你（带来）了吗？
+en: did you bring the chinese book?
+
+那边树多，我们（过去）坐一下吧。
+en: there are many trees over there, let's go over and sit down
+
+Direction when the object is a place
+
+In the following exmaple, the speakers was downstairs, so the direction of the dog is towards the speaker.
+
+小狗下楼（来）了。
+en: the puppy came downstairs
+
+In the following example, 来 is used so the direction of 老师 is towards the speaker, who was inside the clasroom.
+
+老师进教室（来）了。
+en: the teacher came into the classroom
+
+In the following example, 去 is used so we can say that 朋友 left the location of the speaker.
+
+朋友回家（去）了。
+en: my friend went home
+
+If the object is a thing, it can be put before or after "来/去". For example:
+
+明天要带作业（来）。(来 is used after the object and it expresses that the homework needs to be brought towards the speaker, the speaker could be a friend or the teacher of the person receiving the message)
+en: you have to bring your homework tomorrow
+
+帮我买（来）点儿面包。(来 is used before the object and it expresses that the bread will come to the diretion of the spekaers because they will be brought to the speaker)
+en: buy some bread for me
+
+你搬这把椅子（去）吧。 (去 is used after the object and it expresses that the chair needs to be moved away from the speaker)
+en: you carry this chair
+
+这次旅游，我想带（去）这本书。 (去 is used before the object and it expresses that the book will be moved away from the speaker)
+en: I would like to take this book with me on this trip.
+
+Practice
+
+你怎么还没（下来）？我都在楼下等你半小时了。(the object is a place, so it needs to precede "来/去")
+已经10点半了，快点儿（起来），别睡了。(起 is a verb, so 来 needs to be used after it)
+明天去朋友家，我想（带去）一些水果。(带 is a verb, so 去 needs to be used after it. We use 去 because the fruits will be brought to the speakers' friend's house, so they are moving away from the direction of the speaker)
+
+** 2. 两个动作连续发生 / the successive ocurrence of two actions
+:PROPERTIES:
+:CREATED: [2022-05-13 00:42:16 -05]
+:END:
+
+动作 / dong4 zuo4 / action ;
+连续 / lian2 xu4 / consecutive ;
+发生 / fa1 sheng1 / to occur ;
+
+我（下了）课（就）（吃）饭。
+en: I'll eat after class
+
+妈妈（起了）床（就）（做）早饭。
+en: mom got up and made breakfast
+
+小刚（拿了）伞（就）（下来）。
+en: Xiao Gang took the umbrella and came down.
+
+你每天晚上（吃了）饭（就）（睡觉）。
+en: you eat and go to bed every night
+
+In a sentence with two objects, the second subject should be put right before "就". For example:
+
+你（下了）课我们（就）（去）书店。 (the second subject is 我们)
+老师（进了）教室我们（就）对她（说）“生日快乐”。 (the second subject is 我们)
+爸爸（回来了）我们（就）（吃）饭。(the second subject is 我们)
+他（到了）办公室我（就）（告诉）他。(the second subject is 我)
+
+Practise
+
+Ａ：你什么时候给妈妈打电话？
+Ｂ：我打算（【打了】电话【就】【吃】晚饭）。
+
+Ａ：你怎么（【到了】家【就】【睡觉】）？
+Ｂ：我太累了。
+
+Ａ：你什么时候走？
+Ｂ：他【来了】（我【就】【走】）。jj
+
+** 3. The rhetoric question "能……吗？"
+:PROPERTIES:
+:CREATED: [2022-05-13 01:28:49 -05]
+:END:
+
+"能……吗" is used in a rhetorical question in Chinese, with its positive form meaning the negative and the negative form meaning the positive. For example:
+
+Ａ：为什么我的汉语学得不好？
+Ｂ：你不做作业，也不练习，【能学好吗】？
+
+Ａ：你看我这么胖，怎么办呢？
+Ｂ：你每天晚上吃了饭就睡觉，也不出去走走，【能不胖吗】？
+
+notes
+
+练习 | lian4 xi2 | practice ;
+
+Practice
+
+Ａ：我怎么这么累啊？
+es: ¿por qué estoy muy cansado hoy?
+Ｂ：你今天爬山爬得那么快，（能不累吗）？
+es: hoy subiste la montaña muy rápido ¿cómo no vas a estar cansado?
+
+Ａ：我病了，头疼。
+es: estoy enfermo, me duele la cabeza.
+Ｂ：天气这么冷，你穿得这么少，（能不头疼吗）？
+es: hace mucho frió y estas vistiendo muy poco ¿cómo no te va a doler la cabeza?
+
+Ａ：你怎么打篮球打得这么好？
+es: ¿cómo puedes jugar básquetbol tan bien?
+Ｂ：我每天都练习，（我能打得不好吗）？
+es: yo practico todos los días, ¿cómo no voy a ser bueno?
+* Exercises
+:PROPERTIES:
+:CREATED: [2022-05-13 09:55:07 -05]
+:END:
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 11da63e6-de19-475a-a508-e2749386778a
+:END:
+
+**** 选择
+
+***** a
+
+楼
+
+***** b
+
+办公室
+
+***** c
+
+树
+
+***** d
+
+胖
+
+***** e
+
+难
+
+**** 题
+
+***** 1
+
+
+****** 内容
+
+这是你的 🟨吗？真大！
+
+****** 答案
+
+b
+
+***** 2
+
+****** 内容
+
+今天的考试一点儿也不🟨。
+
+****** 答案
+
+e
+
+***** 3
+
+****** 内容
+
+我在505教室上课，我现在要上🟨去。
+
+****** 答案
+
+a
+
+***** 4
+
+****** 内容
+
+你看，小狗在🟨下做什么呢？
+
+****** 答案
+
+c
+
+***** 5
+
+****** 内容
+
+我太🟨了，不能吃那么多饭。
+
+****** 答案
+
+d
+
+*** 6-10
+:PROPERTIES:
+:ID: 10e93c8f-a97b-44bb-9838-c110b402e222
+:END:
+
+**** 选择
+
+***** a
+
+辆
+
+***** b
+
+腿
+
+***** c
+
+把
+
+***** d
+
+经理
+
+***** e
+
+其实
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：你真爱看书，买了这么多！
+Ｂ：🟨我一点儿也不喜欢看书，这是给我弟弟买的。
+
+****** 答案
+
+e
+
+***** 7
+
+****** 内容
+
+Ａ：我想买这🟨车。
+Ｂ：太贵了，你有那么多钱吗？
+
+****** 答案
+
+a
+
+***** 8
+
+****** 内容
+
+Ａ：下雨了！我没带伞，怎么办？
+Ｂ：去商店买一🟨吧。
+
+****** 答案
+
+c
+
+***** 9
+
+****** 内容
+
+Ａ：昨天走路走得太多了，左边这条🟨有点儿疼。
+Ｂ：那你今天别出去了。
+
+****** 答案
+
+b
+
+***** 10
+
+****** 内容
+
+Ａ：🟨，我今天想早一点儿回家，可以吗？
+Ｂ：今天不行，今天有很多工作要做。
+
+****** 答案
+
+d
+
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: 2553e871-ce4b-4988-a554-dacf7db323ee
+:END:
+
+**** 内容
+
+Ａ：周经理真忙！他到了办公室就🟨。
+Ｂ：那么多工作，他能🟨吗？
+Ａ：他回家以后也工作吗？
+Ｂ：不，他🟨就🟨。
+
+**** 答案
+
+工作
+做完
+回家了
+休息
+
+*** 2
+:PROPERTIES:
+:ID: ff09c1c0-5600-45f2-969c-07cb86d75adf
+:END:
+
+**** 内容
+
+Ａ：哥哥去哪儿了？
+Ｂ：他🟨买水果了。
+Ａ：他什么时候回来？
+Ｂ：他🟨就回来。
+
+**** 答案
+
+下楼
+买了水果
+
+*** 3
+:PROPERTIES:
+:ID: 5297eff6-788c-4799-a1fa-4e1b0c53cf00
+:END:
+
+**** 内容
+
+Ａ：电影就要开始了，你怎么还不🟨？
+Ｂ：我在外边等朋友呢，他来了🟨。
+Ａ：那我进去等你们。
+Ｂ：行。
+
+**** 答案
+
+进去
+我们就进去
+
+*** 4
+:PROPERTIES:
+:ID: b84ba85c-725f-4b69-8d5a-d364f833ac25
+:END:
+
+**** 内容
+
+Ａ：你🟨做扞么？
+Ｂ：我去运运动。
+Ａ：你现在没以前那么胖了。
+Ｂ：我现在每天都运动，能🟨？
+
+**** 答案
+
+下去
+不瘦吗
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-13 13:21:35 -05]
+:END:
+
+
+问：小丽现在怎么了？
+
+他的身体不好，他的腿和脚疼。
+
+问：周经理去哪儿了？什么时候回来？
+
+他出去办事了，下午回来。
+
+问：小丽怎么回去？
+
+他会坐出租车，他已经叫辆车，他现在在楼边等。
+
+小刚上楼去做什么？
+
+问：周太太为什么这么胖？
+
+因为他每天娩上吃了饭就睡觉。
+
+问：周太太每天做运动吗？
+
+她认为，是的，因为他认为做饭是一个运动。
+
+* Characters
+:PROPERTIES:
+:CREATED: [2022-05-13 13:32:38 -05]
+:ID: fbbc8bc1-f771-4cc9-b00a-3e676e46e5b5
+:END:
+!
+办公室 + 大楼 = 办公楼
+
+办公楼 | ban4 gong1 lou2 | office building ;
+
+外边 + 出去 = 外出
+
+外出 | wai4 chu1 | to go out ;
+
+中午 + 睡觉 = 午觉
+
+午觉 | wu3 jiao4 | afternoon nap ;
+
+* Application
+:PROPERTIES:
+:CREATED: [2022-05-13 13:35:50 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-26 20:17:26 -05]
+:END:
+
+出门去
+进教室来
+
+下楼去
+上楼来
+

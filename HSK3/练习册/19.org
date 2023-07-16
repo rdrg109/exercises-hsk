@@ -1,0 +1,1758 @@
+:PROPERTIES:
+:CREATED: [2022-06-10 20:37:09 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: eafeb112-344c-426a-a6ed-072570d51501
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: 57368ac8-dde7-4e8d-a18d-b1a4de291f40
+:END:
+
+女：你看，树上那只鸟，红红的，嘴小小的，是什么鸟？
+男：不知道，我也是第一次见。
+
+answer
+
+b
+
+notes
+
+嘴 | zui3 | mouth ;
+
+*** 2
+:PROPERTIES:
+:ID: 62fea63d-684d-45e9-8efe-88eaebab2dd4
+:END:
+
+男：别害怕，不要动，让我看一下你的耳朵。
+女：医生，怎么样？没事吧？我最近总是听不清别人说话。
+
+answer
+
+a
+
+notes
+
+
+
+*** 3
+:PROPERTIES:
+:ID: fe746c5a-2c81-4915-b8d5-54ad6f9a45e5
+:END:
+
+女：都几点了，儿子的房间里一点儿声音都没有，他还在睡觉吗？
+男：没有，她已经起床了，现在在洗脸呢。
+
+answer
+
+c
+
+notes
+
+
+
+*** 4
+:PROPERTIES:
+:ID: 037789bf-457f-460f-b729-c04974946e46
+:END:
+
+男：你会骑吗？跟谁学的？
+女：我爷爷，他很喜欢起马，而且骑得很好。
+
+answer
+
+e
+
+notes
+
+
+
+*** 5
+:PROPERTIES:
+:ID: bcdb0f76-7aac-4746-a52f-d8a5c5c57ee0
+:END:
+
+男：你穿的这件红色运动服真好看。
+女：谢谢，我觉得穿上它，让我年轻了不少。
+
+answer
+
+f
+
+notes
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-10 19:39:51 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-10 Sat 20:16]
+- State "UNANSWERED"   from              [2022-12-10 Sat 19:40]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 18:32:50 -05]
+:END:
+
+“让我年轻了不少”什么意思？
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 18:32:53 -05]
+:END:
+
+makes me look younger
+
+让我看起来年轻了不少 (了 change of state)
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: 5670c7b9-5116-4372-8f89-ec86ad78c391
+:END:
+
+上下班的时候，我都会经过这条街。街道两边的树，还有树上的小鸟，会使我觉得很快乐。
+
+他每天上下班都很快乐。
+
+answer
+
+1
+
+notes
+
+经过 | jing1 guo4 | to go through ;
+使 | shi3 | to make, to cause ;
+
+**** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-12-12 17:51:00 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-12 Mon 18:33]
+- State "UNANSWERED"   from              [2022-12-12 Mon 17:51]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 17:51:10 -05]
+:END:
+
+What's the meaning of 街道两边的树 in this sentence?
+
+上下班的时候，我都会经过这条街。➡️街道两边的树⬅️，还有树上的小鸟，会使我觉得很快乐。
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-12 18:33:03 -05]
+:END:
+
+A road with trees in both sides
+
+*** 7
+:PROPERTIES:
+:ID: 7f634ed5-336f-4cf4-a50f-983531e4a264
+:END:
+
+最近，我家小雨一直哭，说耳朵疼。我带他去医院，但是医生说他的耳朵没问题，不用吃药，多喝些水就可以了。
+
+小雨哭是因为耳朵有问题了。
+
+answer
+
+0
+
+notes
+
+
+
+*** 8
+:PROPERTIES:
+:ID: 94e07703-cb3e-4e25-b50a-e05c6202a20a
+:END:
+
+这张照片（让我想起了我的家），以前我家住在黄河边上，然后因为爸爸工作的关系搬到了这里。
+
+他以前住在黄河附近。
+
+answer
+
+1
+
+notes
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-10 19:42:20 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-10 Sat 20:18]
+- State "UNANSWERED"   from              [2022-12-10 Sat 19:42]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 18:33:22 -05]
+:END:
+
+"让我想起了我的家"什么意思？
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 18:33:20 -05]
+:END:
+
+让我想起了我的家 it is not in my mind, but it comes up
+我想我的家 I miss my home
+你和我说话的时候，你知道一个词语，但是你想不起来这个词语
+
+*** 9
+:PROPERTIES:
+:ID: 2eb6ef09-90d3-4003-8e09-4dcde6fbff6f
+:END:
+
+我一直在找这本书，没想到今天下班路过一家书店时看见了它，我太高兴了。
+
+他终于找到那本书了。
+
+answer
+
+1
+
+notes
+
+
+
+*** 10
+:PROPERTIES:
+:ID: 83928d25-0322-4a87-acfd-ec592670ec7d
+:END:
+
+你看，这张照片是前年夏天照的，那时她比较瘦，还是短头发。
+
+现在她是长头发。
+
+answer
+
+1
+
+notes
+
+
+**** 对我生词
+
+前年 / qian2 nian2 / the year before last ;
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: dfc66bbc-fe1e-4c70-b425-735b0ef3a4fa
+:END:
+
+女：你哭了？
+男：没有啊，刚才风刮得太大，眼睛里进东西了。
+
+男的怎么了？
+
+alternatives
+
+他不高兴了
+眼睛里有东西
+不喜欢刮风
+
+answer
+
+b
+
+notes
+
+
+
+*** 12
+:PROPERTIES:
+:ID: f93baaef-1509-43a3-afe1-f8dd57a61569
+:END:
+
+男：小心点儿，别骑太快了。
+女：放心，我又不是第一次骑马。
+
+女的是什么意思？
+
+alternatives
+
+她骑得不快
+他不太小心
+她会骑马
+
+answer
+
+c
+
+notes
+
+**** UNANSWERED [#B]
+:PROPERTIES:
+:CREATED: [2022-06-10 20:52:47 -05]
+:END:
+:LOGBOOK:
+- State "UNANSWERED"   from              [2022-06-10 Fri 20:52]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-14 17:33:59 -05]
+:END:
+
+
+ Does 会 in this sentence refers to the capability? What other meanings does this word have?
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-12 18:20:17 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-12 Mon 18:34]
+- State "UNANSWERED"   from              [2022-12-12 Mon 18:20]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 18:20:19 -05]
+:END:
+
+What's the meaning of 又 in this dialogue?
+
+男：小心点儿，别骑太快了。
+女：放心，我➡️又⬅️不是第一次骑马。
+问：女的是什么意思？
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-12 18:34:02 -05]
+:END:
+
+Just to emphasize the first time.
+
+*** 13
+:PROPERTIES:
+:ID: 4dfee78e-2d4e-4c83-afbe-dc6d1a88fe60
+:END:
+
+男：都这么晚了，你怎么还吃糖？
+女：不吃了，我现在就去刷牙洗脸。
+
+女的打算做什么？
+
+alternatives
+
+睡觉
+吃糖
+起床
+
+answer
+
+a
+
+notes
+
+**** 对我生词
+
+糖 | tang2 | candy, sugar, sweets ;
+
+**** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-10-03 06:17:31 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-12 Mon 18:34]
+- State "UNANSWERED"   from              [2022-10-03 Mon 06:17]
+:END:
+
+***** 问题
+:PROPERTIES:
+:CREATED: [2022-10-03 06:17:37 -05]
+:END:
+
+“不吃了”什么意思？
+
+*** 14
+:PROPERTIES:
+:ID: b4694fc2-afe4-4043-805c-93c79761b8c9
+:END:
+
+男：你终于来了，船马上就开了。
+女：我没想到坐公共汽车要花这么长时间，早知道打车来了。
+
+女的是怎么来这儿的？
+
+alternatives
+
+坐船
+坐公共汽车
+打车
+
+answer
+
+b
+
+notes
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-12 17:49:14 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-14 Wed 18:29]
+- State "UNANSWERED"   from              [2022-12-12 Mon 17:49]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 17:49:19 -05]
+:END:
+
+
+
+What's the meaning of "船马上就开了" in this dialogue?
+
+男：你终于来了，➡️船马上就开了⬅️。
+女：我没想到坐公共汽车要花这么长时间，早知道打车来了。
+问：女的是怎么来这儿的？
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-14 18:29:04 -05]
+:END:
+
+The boat is getting off soon.
+
+*** 15
+:PROPERTIES:
+:ID: 10f295a3-5a80-4d79-a507-e477a0964816
+:END:
+
+男：过生日要吃面条，这是我第一次做面条，看看好吃不好吃。
+女：一定很好吃，谢谢你！
+
+男的为什么要做面条？
+
+alternatives
+
+他喜欢做面条
+女的过生日
+面条很好吃
+
+answer
+
+b
+
+notes
+
+
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: dbf1074e-4f26-4fdc-ba02-93914b3449cb
+:END:
+
+女：刚才你去后面的花园了？
+男：没有，我一直在家里玩儿电脑游戏。
+女：那是我看错了，🟥那个人看上去真像你🟥。
+男：花园里没有灯，看错了也不奇怪。
+
+关于女的，可以知道什么？
+
+alternatives
+
+喜欢玩儿游戏
+看错了一个人
+去开花园的灯
+
+answer
+
+b
+
+notes
+
+*** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-10 19:48:20 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-10 Sat 20:22]
+- State "UNANSWERED"   from              [2022-12-10 Sat 19:48]
+:END:
+
+**** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 18:33:37 -05]
+:END:
+
+Could I rephrase the sentence as this one?
+
+1) 那个人看上去真像你
+2) 你跟那个人很相似？
+
+**** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 18:33:40 -05]
+:END:
+
+Yes.
+
+*** 17
+:PROPERTIES:
+:ID: fde9670d-ce28-4e49-9323-4aa641af426c
+:END:
+
+男：小丽，你怎么了？
+女：刚才游泳时的耳朵进水了，现在耳朵里一直不舒服。
+男：过来，我帮你看一下。现在好些了吗？下次小心点儿。
+女：好多了，让你担心了。
+
+女的怎么了？
+
+alternatives
+
+担心男的的身体
+耳朵进水了
+旅游很小心
+
+answer
+
+b
+
+notes
+
+**** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-12-12 18:21:42 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-12 Mon 18:40]
+- State "UNANSWERED"   from              [2022-12-12 Mon 18:21]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 18:21:45 -05]
+:END:
+
+
+In this dialogue, the expression 让你担心了 equal "I'm sorry for disturbing you"?
+
+男：小丽，你怎么了？
+女：刚才游泳时的耳朵进水了，现在耳朵里一直不舒服。
+男：过来，我帮你看一下。现在好些了吗？下次小心点儿。
+女：好多了，➡️让你担心了⬅️。
+问：女的怎么了？
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-12 18:37:21 -05]
+:END:
+
+"Sorry for letting you worry about me."
+
+*** 18
+:PROPERTIES:
+:ID: f087acc3-617d-4582-84ef-0895ebf80a38
+:END:
+
+女：先生，您看这件衬衫怎么样？
+男：还不错，除了白色，还有其他颜色的吗？
+女：还有蓝色和黑色的，拿一件您试试？
+男：好，蓝色会让我的脸看上去更年轻些。
+
+男的想试哪种颜色的衬衫？
+
+alternatives
+
+白色
+蓝色
+黑色
+
+answer
+
+b
+
+notes
+
+
+
+*** 19
+:PROPERTIES:
+:ID: b0e34209-e712-4037-924a-467da0cf82ef
+:END:
+
+男：你的脸色看上去不太好，哪儿不舒服啊？
+女：你感冒了，都快一个星期了。
+男：我去药店给你买点儿药吧，买西药还是中药？
+女：好，买点儿中药吧。
+
+关于女的，可以知道什么？
+
+alternatives
+
+感冒了
+没洗脸
+买药西药
+
+answer
+
+a
+
+notes
+
+西药 | xi1 yao4 | western medicine ;
+中药 | zhong1 yao4 | chinese medicine ;
+
+*** 20
+:PROPERTIES:
+:ID: d57d9309-1800-4e0b-bfa9-78ae9ae904c5
+:END:
+
+男：回国的船票买好了吗？
+女：坐船虽然便宜，但是太慢了，要十四个小时。
+男：那我们还是坐飞机吧，你去买两张机票，下周末的。
+女：好的，我现在就去。
+
+女的要去做什么？
+
+alternatives
+
+买船票
+买机票
+回国
+
+answer
+
+b
+
+notes
+
+**** 对我生词
+
+回国 / hui2 guo2 / to return to one's home country ;
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-10 19:44:38 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-12 Mon 18:40]
+- State "UNANSWERED"   from              [2022-12-10 Sat 19:47]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 18:40:11 -05]
+:END:
+
+ Do the ticket of other means of transport also have abbreviations?
+
++ 船票 doesn't need abbreviation because the character before 票 is already a single character.
++ 飞机票 -> 机票
+  + 例子：「你去买两张机票」
++ 公共汽车票 -> 
++ 火车票 -> 
++ 地铁票 -> 
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-12 18:40:07 -05]
+:END:
+
+They don't have abbreviations
+
+Sometimes you need a ticket, for example when a company pays for your ticket.
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: ffb8c995-610a-4593-9ab4-1467f8962d78
+:END:
+
+alternatives
+
+什么事让我们的女儿这么高兴？
+慢点儿，我这是第一次骑马。
+坐船或者坐火车都可以，你想怎么去？
+经过高中三年的认真学习，弟弟终于考上了大学。
+当然。我们先坐公共汽车，然后换地铁。
+这是你做的饭吗？看起来真好吃。
+
+*** 21
+:PROPERTIES:
+:ID: 1e229a82-6dd0-4a85-b396-11d383c10ec6
+:END:
+
+content
+
+坐船去吧，我还没坐过呢。
+
+answer
+
+c
+
+*** 22
+:PROPERTIES:
+:ID: d38c5dd3-b698-4929-87ed-cae08524b3e8
+:END:
+
+content
+
+别害怕，它很听话，你把脚放好，眼睛看看前面。
+
+answer
+
+b
+
+**** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-12-12 18:14:45 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-12 Mon 18:41]
+- State "UNANSWERED"   from              [2022-12-12 Mon 18:14]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 18:14:51 -05]
+:END:
+
+What's the meaning of 听話 in this sentence?
+
+A: 慢点儿，我这是第一次骑马。
+B: 别害怕，它很➡️听话⬅️，你把脚放好，眼睛看看前面。
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-12 18:41:25 -05]
+:END:
+
+obedient, you must behave well.
+
+*** 23
+:PROPERTIES:
+:ID: 6d2cbb1f-d0f8-42f8-a72c-2a35e554d8d9
+:END:
+
+content
+
+来，我们一起吃吧。
+
+answer
+
+f
+
+*** 24
+:PROPERTIES:
+:ID: 164c8277-a01b-4c4a-8c39-2bc18b33b78c
+:END:
+
+content
+
+太好了，我真为他高兴。
+
+answer
+
+d
+
+**** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-12-12 18:12:34 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-12 Mon 18:42]
+- State "UNANSWERED"   from              [2022-12-12 Mon 18:12]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 18:42:43 -05]
+:END:
+
+What's the meaning of 为 in this sentence?
+
+Ａ：经过高中三年的认真学习，弟弟终于考上了大学。
+Ｂ：太好了，我真➡️为⬅️他高兴。
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-12 18:42:44 -05]
+:END:
+
+I'm happy for him.
+
+*** 25
+:PROPERTIES:
+:ID: 3935a0ab-e6b0-420e-bef6-4573924442b1
+:END:
+
+content
+
+她穿了条蓝色的裙子跟同学跳舞，同学说她漂亮极了。
+
+answer
+
+a
+
+** 2
+:PROPERTIES:
+:ID: 23fddedc-0509-4bea-8568-dc251faa4144
+:END:
+
+alternatives
+
+耳朵
+经过
+短
+过
+声音
+哭
+
+notes
+
+经过 | jing1 guo4 | course, process, to go through, to pass ;
+
+*** 26
+:PROPERTIES:
+:ID: 15072b72-e9d3-4164-8e0d-c5fe0087b40c
+:END:
+
+content
+
+你看，这是我上次坐火车//黄河时的照片。
+
+answer
+
+b
+
+notes
+
+黄河 | huang2 he2 | yellow river ;
+
+
+*** 27
+:PROPERTIES:
+:ID: 9ab85e84-2e1a-48ba-b74c-656982377e6c
+:END:
+
+content
+
+小冬又//了，你有什么办法吗？
+
+answer
+
+f
+
+*** 28
+:PROPERTIES:
+:ID: 22701c65-3fd7-43c8-b75e-d24f5af9b790
+:END:
+
+content
+
+一会你去洗脸的时候，别忘了也把//洗一下。
+
+answer
+
+a
+
+*** 29
+:PROPERTIES:
+:ID: 4a1fdcd6-db68-4545-89fb-23b694a36a26
+:END:
+
+content
+
+Ａ：这件运动衣服有点儿//，你给我那一件长的吧。
+Ｂ：行，我现在去给你拿。
+
+answer
+
+c
+
+*** 30
+:PROPERTIES:
+:ID: eaaa2fad-a624-4d9a-b5e2-3528458f9d04
+:END:
+
+content
+
+Ａ：这个周末你打算怎么//？
+Ｂ：邻居请我们去他家玩儿游戏。
+
+answer
+
+d
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: 0e00f637-2418-4250-9005-5625d6c787ea
+:END:
+
+content
+
+我小时候住在中国最南边，一直没见过雪。前年我搬到北京了。虽然这儿的冬天很冷，我还不太习惯，但是我终于见到雪了，雪花儿白白的，特别漂亮。我高兴得站在雪地里照了很多照片，我想洗出来几张照片🟥，发给我南边的朋友们看，让他们也高兴高兴。
+
+inference with missing information
+
+我
+
+alternatives
+
+以前没见过雪
+喜欢很冷的天气
+洗了下雪的照片
+
+answer
+
+a
+
+notes
+
+雪花 | xue3 hua1 | snowflake ;
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-06-28 14:01:01 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-10 Sat 20:24]
+- State "UNANSWERED"   from              [2022-06-28 Tue 14:01]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 18:29:28 -05]
+:END:
+
+“洗出来”是什么意思？
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 18:29:30 -05]
+:END:
+
+print out the photo
+*** 32
+:PROPERTIES:
+:ID: 1b1f3a1a-c44c-4f0a-94c7-24cd883bb164
+:END:
+
+content
+
+年轻人刚开始工作的时候，没有车也没有房，但是不用着急，虽然现在有的东不多，但只要努力工作，这些东西早晚都会有的，人们常说的“面包会有的，牛奶也会有的”就是这个意思。
+
+inference with missing information
+
+这段话告诉我们
+
+alternatives
+
+要努力工作
+不用着急买车
+不能有很多东西
+
+answer
+
+a
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-14 18:10:55 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-14 Wed 18:38]
+- State "UNANSWERED"   from              [2022-12-14 Wed 18:11]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-14 18:11:12 -05]
+:END:
+
+Why didn't they write 房子 in this sentence? My teacher previously had mentioned that Chinese people like saying two syllables for things.
+
+年轻人刚开始工作的时候，没有车也没有➡️房⬅️，但是不用着急，虽然现在有的东不多，但只要努力工作，这些东西早晚都会有的，人们常说的“面包会有的，牛奶也会有的”就是这个意思。
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-14 18:37:59 -05]
+:END:
+
+To match the number of characters in the previous word.
+
+If we use 车子, we would need to use 房子: 没有车子也没有房子
+
+*** 33
+:PROPERTIES:
+:ID: bac428f6-e0e5-4c45-ac37-f41386918ef3
+:END:
+
+**** dialogue
+:PROPERTIES:
+:CREATED: [2022-12-10 19:55:02 -05]
+:END:
+
+这次旅游，我们去了不少地方，每个地方偶让我非常难忘。有的城市有地铁，有的城市有火车，有的城市可以骑自行车，有的城市还可以骑马。有的城市更有意思，河就是“街道”，船就是“公共汽车”，你能说出来这个城市在哪儿吗？
+
+inference with missing information
+
+根据这段话，可以知道
+
+***** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-10 19:50:08 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-14 Wed 17:34]
+- State "UNANSWERED"   from              [2022-12-10 Sat 19:50]
+:END:
+
+****** Question
+:PROPERTIES:
+:CREATED: [2022-12-14 17:34:14 -05]
+:END:
+
+“旅行”是什么意思？
+
+****** Answer
+:PROPERTIES:
+:CREATED: [2022-12-12 18:42:55 -05]
+:END:
+
+旅行 - stay there for a long time, backpacking
+旅游 - only one week, possibly with a tour guide
+
+***** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-10-02 21:04:29 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-16 Fri 18:31]
+- State "UNANSWERED"   from              [2022-10-02 Sun 21:05]
+:END:
+
+****** Question
+:PROPERTIES:
+:CREATED: [2022-12-14 17:34:36 -05]
+:END:
+
+”难忘“的意思是地方很好看所以我们不可能忘记那个地方吧？
+
+这次旅游，我们去了不少地方，每个地方偶让我非常➡️难忘⬅️。有的城市有地铁，有的城市有火车，有的城市可以骑自行车，有的城市还可以骑马。有的城市更有意思，河就是“街道”，船就是“公共汽车”，你能说出来这个城市在哪儿吗？
+
+
+****** Answer
+:PROPERTIES:
+:CREATED: [2022-12-14 18:39:00 -05]
+:END:
+
+The meaning of 难忘 is unforgettable. It would be incorrect to use the word "难忘记" as shown in the sentence: "每个地方偶让我非常➡️难忘记⬅️。"
+
+***** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-06-28 14:00:26 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 18:39]
+- State "UNANSWERED"   from              [2022-06-28 Tue 14:00]
+:END:
+
+****** Question
+:PROPERTIES:
+:CREATED: [2022-12-14 17:37:48 -05]
+:END:
+
+“说出来”是什么意思？
+
+****** Answer
+:PROPERTIES:
+:CREATED: [2022-12-14 17:37:51 -05]
+:END:
+
+In this context, it has the same meaning as 猜测 [cai1 ce4] /to guess/.
+
+你能不能➡️说出来⬅️这个城市在哪儿吗？
+你能不能➡️猜测⬅️这个城市在哪儿吗？
+
+Recall that when used after a verb "出来" can also indicate the recognition of something implicit.
+
+***** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-12-10 19:53:31 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 18:39]
+- State "UNANSWERED"   from              [2022-12-10 Sat 19:54]
+:END:
+
+****** Question
+:PROPERTIES:
+:CREATED: [2022-12-14 17:36:07 -05]
+:END:
+
+ “dialogue"用中文怎么说？
+
+****** Answer
+:PROPERTIES:
+:CREATED: [2022-12-14 17:36:11 -05]
+:END:
+
+对话 / dui4 hui4 / dialogue ;
+段话 / duan4 hua4 / paragraph ;
+
+**** 选择
+:PROPERTIES:
+:CREATED: [2022-12-10 19:54:26 -05]
+:END:
+
+***** a
+:PROPERTIES:
+:CREATED: [2022-12-10 19:54:28 -05]
+:END:
+
+我想不起来城市的名字
+
+***** b
+:PROPERTIES:
+:CREATED: [2022-12-10 19:54:31 -05]
+:END:
+
+我常常坐地铁去路行
+
+***** c
+:PROPERTIES:
+:CREATED: [2022-12-10 19:54:33 -05]
+:END:
+
+有的城市出门要坐船
+
+**** 答案
+:PROPERTIES:
+:CREATED: [2022-12-10 19:54:34 -05]
+:END:
+
+c
+
+
+*** 34
+:PROPERTIES:
+:ID: 1824dc6f-46a0-4305-91ed-1f2fb6cd4eed
+:END:
+
+content
+
+我想买辆十万左右的车，有了车以后，会更方便的。开车上下班，路上经过孩子的学校，可以接送他上下学。一个星期的工作学习以后，我们都很累，到了周末，可以开车出去玩儿玩儿，蓝蓝的天，白白的云，绿绿的草地，会让我们觉得舒服多了。
+
+inference with missing information
+
+他为什么要买车？
+
+alternatives
+
+车很便宜
+会很方便
+坐着舒服
+
+answer
+
+b
+
+notes
+
+万 | wan4 | ten thousand ;
+经过 | jing1 guo4 | to go through, to pass ;
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-14 18:22:59 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 20:10]
+- State "UNANSWERED"   from              [2022-12-14 Wed 18:23]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-14 18:23:16 -05]
+:END:
+
+How could I say: "The seat of this car is very comfortable"?
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 20:02:22 -05]
+:END:
+
+这个车的座位座起来很舒服。
+
+*** 35
+:PROPERTIES:
+:ID: 9db852ad-d4ef-4b47-87e5-b742591a30ce
+:END:
+
+content
+
+去年秋天我回南边老家了，那里有高大的树。还有很多我叫不出来名字的花花草草，漂亮级了。每年快到冬天的时候，北方很多鸟都会飞到这儿来，在这儿过冬，等到第二年春天再飞回去。孩子们都很喜欢这些可爱的鸟，不愿意让它们离开。
+
+inference with missing information
+
+根据这段话，可以知道
+
+alternatives
+
+我的老家在中国北方
+老家冬天有很多鸟
+孩子不想离开老家
+
+answer
+
+b
+
+**** TODO CORRECT 极
+:PROPERTIES:
+:CREATED: [2022-12-16 20:04:37 -05]
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2022-12-16 Fri 20:04]
+:END:
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-12 17:29:21 -05]
+:END:
+
+春天 / chun1 tian1 / spring (season) / primavera ;
+去年 / qu4 nian2 / last year ;
+老家 / lao3 jia1 / natiive place, place of origin ;
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-12 17:29:45 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-14 Wed 17:48]
+- State "UNANSWERED"   from              [2022-12-12 Mon 17:32]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 17:35:56 -05]
+:END:
+
+Just as these words exist for 年 and 天, are there words for 月?
+
+大前年 / da4 qian2 nian2 /
+前年 / qian2 nian2 / the year before last ;
+去年 / qu4 nian2 / last year ;
+今年 / jin1 nian2 / this year ;
+明年 / ming2 nian2 / next year ;
+后年 / hou4 nian2 / the year after next ;
+大后年 / da4 hou4 tian1 /
+
+大前天 / da4 qian2 tian1 /
+前天 / qian2 tian1 / the day before yesterday ;
+昨天 / zuo2 tian1 / yesterday ;
+今天 / jin1 tian1 / today ;
+明天 / ming2 tian1 / tomorrow ;
+后天 / hou4 tian1 / the day after tomorrow
+大后天 / hou4 tian1 /
+
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-12 18:46:54 -05]
+:END:
+
+We don't use the same characters, but there are other expressions.
+
+month before last = 上上个月
+last month = 上个月
+this month = 这个月
+next month = 下个月
+next month = 下下个月 (it's more precise)
+month after the next one =  一个月后 (refer to many months)
+
+**** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-12-12 17:37:54 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-14 Wed 18:41]
+- State "UNANSWERED"   from              [2022-12-12 Mon 17:37]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 17:37:56 -05]
+:END:
+
+What does the expression 花花草草 mean in this paragraph?
+
+去年秋天我回南边老家了，那里有高大的树。还有很多我叫不出来名字的➡️花花草草⬅️，漂亮级了。每年快到冬天的时候，北方很多鸟都会飞到这儿来，在这儿过冬，等到等二年春天再飞回去。孩子们都很喜欢这些可爱的鸟，不愿意让它们离开。
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-14 18:40:36 -05]
+:END:
+
+It means 种花 and 种草.
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-14 17:48:50 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 20:09]
+- State "UNANSWERED"   from              [2022-12-14 Wed 17:49]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-14 17:49:17 -05]
+:END:
+
+What does the expression 二年 mean in this paragraph?
+
+去年秋天我回南边老家了，那里有高大的树。还有很多我叫不出来名字的花花草草，漂亮级了。每年快到冬天的时候，北方很多鸟都会飞到这儿来，在这儿过冬，等到第➡️二年⬅️春天再飞回去。孩子们都很喜欢这些可爱的鸟，不愿意让它们离开。
+
+春天 / chun1 tian1 / spring / primavera ;
+March to May
+(starts at the beginning of the Lunar New Year)
+
+夏天 / xia4 tian1 / summer / verano ;
+June to August
+
+秋天 / qiu1 tian1 / autumn / otoño ;
+September to October
+
+冬天 / dong1 tian1 / winter / invierno ;
+November to March
+
+I suppose it refers to the year that follows 冬天. In China, 冬天 starts at the end of the year, 春天 starts in the next year.
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-14 17:57:53 -05]
+:END:
+
+Because the dialogue speaks about seasons that occur in different, but consecutive years.
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: c3664127-3086-4f28-a257-1276f8a05d3a
+:END:
+
+words
+
+停
+慢慢
+下来了
+地
+船
+
+answer
+
+船慢慢地停下来了。
+
+notes
+
+停 | ting2 | to stop ;
+
+*** 37
+:PROPERTIES:
+:ID: b1ee6bdf-3d29-423f-8c30-0c9ff4f3b6a4
+:END:
+
+words
+
+是在哪儿
+我想不起来
+这张照片
+照的
+了
+
+answer
+
+我想不起来这张照片是在哪儿照的了。
+
+*** 38
+:PROPERTIES:
+:ID: 7b5a837a-0a7c-4884-b4d2-16bc94bdeaec
+:END:
+
+words
+
+看出来
+你能
+他们的脸
+不一样
+吗
+有什么
+
+answer
+
+
+你能看出来他们的脸有什么不一样吗？
+
+*** 39
+:PROPERTIES:
+:ID: e71e2c94-bb8f-4b65-a3f3-f4db0b008349
+:END:
+
+words
+
+安静不来
+鸟的叫声
+能让
+她
+
+answer
+
+鸟的叫声能让她安静下来。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-12 18:05:52 -05]
+:END:
+
+叫声/ jiao4 sheng1 / sound made by animals ;
+
+**** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-12-12 18:06:32 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 18:43]
+- State "UNANSWERED"   from              [2022-12-12 Mon 18:06]
+:END:
+
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 18:06:35 -05]
+:END:
+What's the meaning of 下来 in this sentence?
+
+鸟的叫声能让她安静➡️下来⬅️。
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 18:40:43 -05]
+:END:
+
+In this context, it means that the subject gets calmer than the subject was before. Recall that when used after certain adjectives or verbs, 下来 indicates a change from being strong to being weak.
+
+*** 40
+:PROPERTIES:
+:ID: 19b9a4a8-ba37-4146-a7f0-ec2417eaecc4
+:END:
+
+words
+
+让你的脸
+很白
+看上去
+这件衣服
+
+answer
+
+这件衣服让你的脸看上去很白。
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: 943e6a72-30d7-4406-b7a5-9596eedba046
+:END:
+
+sentence
+
+骑//让我觉得很快乐。
+
+pinyin
+
+ma3
+
+answer
+
+马
+
+*** 42
+:PROPERTIES:
+:ID: adc92374-a31b-422e-9b04-d0c05ac2b751
+:END:
+
+sentence
+
+看上去这//先生很喜欢小孩子。
+
+pinyin
+
+wei4
+
+answer
+
+位
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-10-02 23:35:52 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 18:46]
+- State "UNANSWERED"   from              [2022-10-02 Sun 23:36]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-16 18:30:48 -05]
+:END:
+
+“看上去”和“看起来”有什么区别？
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 18:45:48 -05]
+:END:
+
+They have the same meaning. This is explained in page 163.
+
+*** 43
+:PROPERTIES:
+:ID: 4212cae6-d7b1-4628-8f49-0e98caa9fd32
+:END:
+
+sentence
+
+你想起来了吗？前年你是在哪儿//的春节？
+
+pinyin
+
+guo4
+
+answer
+
+过
+
+*** 44
+:PROPERTIES:
+:ID: b87f6ef1-16bd-4d18-ba68-4e088f3b8fff
+:END:
+
+sentence
+
+秋天以后，天会变得越来越//，很早就会黑下来。
+
+pinyin
+
+duan3
+
+answer
+
+短
+
+*** 45
+:PROPERTIES:
+:ID: bc9c126b-1e4f-4758-8604-2a7f0773a3d8
+:END:
+
+sentence
+
+//过超市的时候，你帮我买一瓶可乐。
+
+pinyin
+
+jing1
+
+answer
+
+经
+
+**** 笔记
+:PROPERTIES:
+:CREATED: [2022-10-03 04:11:41 -05]
+:END:
+
+经过 / jing1 guo4 / to pass through ;
+经过超市的时候 / when passing by the market ;
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: d44f73e4-f88b-4804-b112-0787a3edbfae
+:END:
+
+content
+
+天气真好，天是//色，我们出去打//球吧。
+
+answer
+
+蓝
+篮
+
+*** 47
+:PROPERTIES:
+:ID: 9dd2bc25-2807-464a-a24b-2a3eaf2c73b8
+:END:
+
+content
+
+刚才我去超市买//蛋了，回来的路上看见了一只很奇怪的//。
+
+answer
+
+鸡
+鸟
+
+*** 48
+:PROPERTIES:
+:ID: 59c7d52f-fbb7-4f7c-ae0e-91cf372c7c76
+:END:
+
+content
+
+姐，你怎么又//了，我看你刚才还//得很高兴啊！
+
+answer
+
+哭
+笑
+
+*** 49
+:PROPERTIES:
+:ID: 2bab1e45-faec-48da-8f82-2b5bd1523b34
+:END:
+
+content
+
+我//己去医院就行，没什么大的问题，就是//朵有点儿不舒服。
+
+answer
+
+自
+耳
+
+*** 50
+:PROPERTIES:
+:ID: ea1a2b0b-f4b6-42c9-bdba-ad1eef4a9719
+:END:
+
+content
+
+我又长高了，你看我的衣服就//道了，都//了。
+
+answer
+
+知
+短
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-10-03 05:24:27 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED"   [2022-12-10 Sat 20:29]
+- State "UNANSWERED"   from "UNANSWERED"   [2022-10-03 Mon 05:25]
+- State "UNANSWERED"   from              [2022-10-03 Mon 05:24]
+:END:
+
+***** 问题
+:PROPERTIES:
+:CREATED: [2022-10-03 05:25:11 -05]
+:END:
+
+在”你看我的衣服就知道了“，”知道“什么意思？
+
+If you look at my clothes, you will notice it.
+* Review
+
+** 1
+:PROPERTIES:
+:ID: 4b227647-e7de-4786-a789-843bee01fc7b
+:END:
+
+content
+
+最近女儿跟以前不一样了，她喜欢把头发放在//后面，使她的//看//漂亮一些。爸爸想//她小时候喜欢//头发，像男孩子一样。
+
+answer
+
+耳朵
+脸
+上去
+起来
+短
+
+** 2
+:PROPERTIES:
+:ID: 7ea8f902-e421-417b-a8bb-8adae379b7ba
+:END:
+
+content
+
+小丽洗//几//骑马比赛的照片，但同事没看//那//骑得最快的是小刚。因为运动服让小刚看上去很年轻，小刚今天穿的//西服让他看上去像40岁。
+
+answer
+
+
+
+
+
+蓝
+
+notes
+
+西服 | xi1 fu2 | western style clothes ;
+
+*** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-12-12 18:03:30 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "UNANSWERED" [2022-12-16 Fri 18:45]
+- State "UNANSWERED"   from              [2022-12-12 Mon 18:04]
+:END:
+
+**** Question
+:PROPERTIES:
+:CREATED: [2022-12-12 18:04:27 -05]
+:END:
+
+What's the meaning of 看出来 in this sentence?
+
+
+小丽洗出来几张骑马比赛的照片，但同事没➡️看出来⬅️那位骑得最快的是小刚。因为运动服让小刚看上去很年轻，小刚今天穿的蓝西服让他看上去像40岁。
+
+**** Answer
+:PROPERTIES:
+:CREATED: [2022-12-16 18:43:34 -05]
+:END:
+
+It means that the friends of 小丽 can't determine that 小刚 is the man that appears in the photos.
+
+Recall that when 出来 is used after a verb, it expresses the recognition of something implicit.

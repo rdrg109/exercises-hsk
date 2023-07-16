@@ -1,0 +1,1087 @@
+:PROPERTIES:
+:CREATED: [2022-05-13 17:49:41 -05]
+:END:
+
+* Listening
+:PROPERTIES:
+:CREATED: [2022-05-13 17:49:43 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-13 17:49:45 -05]
+:ID: a3abcb0f-85c5-4565-bf3b-8ceb86f8628e
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-05-13 17:50:23 -05]
+:ID: 89450639-28bb-496e-8280-114c97f2f427
+:END:
+
+
+女：真没想到，你现在这么瘦！
+男：这几年我一直在运动，每天都跑步，能不瘦吗？
+
+answer
+
+f
+
+notes
+
+真没想到 | zhen1 mei2 xiang3 dao4 | what a surprise, I didn't expect that ;
+瘦 | shou4 | thin ;
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-05-13 17:55:49 -05]
+:ID: aefb7bb8-4928-4447-8583-d06fa8606306
+:END:
+
+女：周经理，您找我？
+男：对，小方，你快上来，来我办公室。
+answer
+
+b
+
+notes
+
+经理 | jing1 li3 | manager ;
+方 | fang1 | Fang (family name) ;
+办公室 | ban4 gong1 shi4 | office ;
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-05-13 19:25:05 -05]
+:ID: e8b078c6-7cd3-480a-8d65-9be8af93e1a8
+:END:
+
+男：天气太冷了，回来时别坐公共汽车了。
+女：我叫到一辆出租车，正准备上车呢。
+
+answer
+
+e
+
+notes
+
+辆 | liang4 | (measure word used for vehicles) ;
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-05-13 19:29:53 -05]
+:ID: 1bc5ce16-9a0b-4cd1-9366-1778a34944c7
+:END:
+
+男：怎么下雨了？我没带伞。
+女：我也没带。
+
+answer
+
+c
+
+notes
+
+伞 | san3 | umbrella ;
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-05-13 19:31:54 -05]
+:ID: 28f425ae-bef6-4a1f-8fb1-dc780c5355c3
+:END:
+
+男：你怎么了？怎么不跑了？
+女：今天不知道怎么了，脚一直疼。
+
+answer
+
+a
+
+notes
+
+脚 | jiao3 | foot ;
+疼 | teng2 | hurt ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-13 19:34:44 -05]
+:END:
+
+*** 6
+:PROPERTIES:
+:CREATED: [2022-05-13 19:34:46 -05]
+:ID: f83d9956-8b36-498a-b884-93d7b52f1379
+:END:
+
+乐乐，你出来的时候带把伞，外边下雨呢。
+
+乐乐现在不在外边。
+
+answer
+
+1
+
+notes
+
+乐乐 | le4 le4 | (a person's name) ;
+带 | dai4 | to bring ;
+把 | ba3 | (classifier for objects that can be picked up with the hand) ;
+伞 | san3 | umbrella ;
+
+*** 7
+:PROPERTIES:
+:CREATED: [2022-05-13 19:39:28 -05]
+:ID: 8e309256-aef5-4760-b5cf-ba5263b27ec0
+:END:
+
+王经理，您别着急，我现在就上楼去。
+
+王经理在楼下。
+
+answer
+
+0
+
+notes
+
+楼 | lou2 | building ;
+经理 | jing1 li3 | manager ;
+
+*** 8
+:PROPERTIES:
+:CREATED: [2022-05-13 19:44:19 -05]
+:ID: 08a7f21b-f3f1-4fe0-b236-5cdb8ebcceaf
+:END:
+
+
+你在这儿等我一下，我上去拿了钱就下来。
+
+他已经到楼上了。
+
+answer
+
+0
+
+notes
+
+拿 | na2 | to grab, to fetch ;
+楼 | lou2 | building ;
+
+*** 9
+:PROPERTIES:
+:CREATED: [2022-05-13 19:47:24 -05]
+:ID: 4991dd30-a766-4f4b-99e8-79f6bf58888b
+:END:
+
+我们快点儿进去喝杯热咖啡吧，这儿太冷了。
+
+他们现在在外边。
+
+answer
+
+1
+
+*** 10
+:PROPERTIES:
+:CREATED: [2022-05-13 19:49:27 -05]
+:ID: 53dfefbd-8ad7-48dd-9413-cf3be34bab4c
+:END:
+
+同学们，你们快过来，到树下坐坐。
+
+同学们现在在树下。
+
+answer
+
+0
+
+notes
+
+过来 | guo4 lai2 | come here ;
+树 | shu4 | tree ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-14 13:59:19 -05]
+:END:
+
+*** 11
+:PROPERTIES:
+:CREATED: [2022-05-14 13:59:22 -05]
+:ID: 4c1c6d06-9d64-44a2-b016-1f55234c9051
+:END:
+
+女：饭做好了，快过来吃。
+男：好，我打了电话就过去。
+
+问：女的让男的做什么？
+
+alternatives
+
+做饭
+吃饭
+打电话
+
+answer
+
+b
+
+*** 12
+:PROPERTIES:
+:CREATED: [2022-05-14 14:03:50 -05]
+:ID: 205a7259-f9fc-4708-b96f-6caed6a64a72
+:END:
+
+男：请问，方经理的办公室怎么走？
+女：就在前边，右边第二个房间，幺二零二。他外出办事了，现在不在。
+
+问：他们可能在哪儿？
+
+alternatives
+
+公司
+医院
+学校
+
+answer
+
+a
+
+notes
+
+经理 |  jing1 li3 | manager ;
+办公室 | ban4 gong1 shi4 | office ;
+"一" was pronounced as "yao1", whose character is 幺.
+
+*** 13
+:PROPERTIES:
+:CREATED: [2022-05-26 18:48:21 -05]
+:ID: 6f2ea99a-0a34-4fab-bcc2-552773c2af43
+:END:
+
+女：每天坐车上班时间太长了，我们也买辆车吧。
+男：行啊，买了车我就每天送你上班。
+
+问：他们最可能是什么关系？
+alternatives
+
+老师和学生
+丈夫和妻子
+经理和秘书
+
+answer
+
+b
+
+*** 14
+:PROPERTIES:
+:CREATED: [2022-05-26 18:54:26 -05]
+:ID: 36fc4868-2200-4fbe-9e2b-25342e64db73
+:END:
+
+男：你考的真好，是怎么学的？
+女：我每天学习，你到了家就玩儿电脑游戏，睡觉，不看书，能学好吗？
+
+问：关于男的，可以知道什么？
+
+alternatives
+
+喜欢看书
+考得很好
+喜欢玩儿电脑游戏
+
+answer
+
+c
+
+*** 15
+:PROPERTIES:
+:CREATED: [2022-05-26 18:58:10 -05]
+:ID: f4e71fbd-843a-4fa4-b5de-529b10705ddb
+:END:
+
+女：今晚你吃得太多了，出去走走吧。
+男：行，我穿了衣服就去。
+
+问：女的想让男的做什么？
+
+alternatives
+
+运动一下
+去办事
+穿衣服
+
+answer
+
+a
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-26 19:01:34 -05]
+:END:
+
+*** 16
+:PROPERTIES:
+:CREATED: [2022-05-26 19:01:35 -05]
+:ID: 641868dc-cfa8-446d-94a5-29403a34265e
+:END:
+
+男：请问，王雨在吗？
+女：对不起，他不在，下楼去送人了。
+男：他什么时候回来？
+女：几分钟就回来，他送了人就上来。
+
+问：王雨现在可能在哪儿？
+
+alternatives
+
+楼下
+楼上
+办公室
+
+answer
+
+a
+
+*** 17
+:PROPERTIES:
+:CREATED: [2022-05-26 19:04:23 -05]
+:ID: dc588c5c-abed-478e-aa70-e330f1148b7c
+:END:
+
+女：大家都到了吗？
+男：王东还没到。
+女：谁有他的电话？
+男：我给他打电话了，他说去办公楼拿了东西就过来。
+
+问：王东为什么还没来？
+
+alternatives
+
+他去拿东西
+他没带手机
+他要去办公楼打电话
+
+answer
+
+a
+
+notes
+
+办公楼 | ban4 gong1 lou2 | office building ;
+
+*** 18
+:PROPERTIES:
+:CREATED: [2022-05-26 19:07:32 -05]
+:ID: a97b4855-4111-4600-a64a-91adbb68602a
+:END:
+
+女：我们真快，30分钟就到了。
+男：是啊，小方他们到哪儿了？
+女：他们走北边那条路，可能也快到了。
+男：那条路难走，可能要50分钟。
+
+问：关于小方他们，可以知道什么？
+
+alternatives
+
+已经到了
+走北边的路
+走的很快
+
+answer
+
+b
+
+*** 19
+:PROPERTIES:
+:CREATED: [2022-05-26 19:13:49 -05]
+:ID: 93d7379b-f936-4166-bebf-f6e7c3b17a1b
+:END:
+
+男：你进来的时候看件小白了吗？
+女：没看见，你找他有事？
+男：我让他下去买午饭，还没回来。
+女：给他打个电话问问吧。
+
+问：他们在哪儿？
+
+alternatives
+
+在楼上
+在楼下
+不知道在哪儿
+
+answer
+
+a
+
+*** 20
+:PROPERTIES:
+:CREATED: [2022-05-26 19:16:26 -05]
+:ID: a2c81635-2b92-41ab-8dae-cb4fd2df3ac4
+:END:
+
+男：你怎么还不吃饭？
+女：东东还没回来呢。
+男：你别着急，吃饭吧。
+女：都这么晚了，我能不着急吗？
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+还没回家
+不着急
+很着急
+
+answer
+
+c
+
+**** QUESTION What's the meaning of 都 in this sentence?
+:PROPERTIES:
+:CREATED: [2022-06-08 12:03:55 -05]
+:ID: dd9bad67-23ce-4934-b465-b530cb1ffc6b
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-08 Wed 12:04]
+:END:
+
+
+* Reading
+:PROPERTIES:
+:CREATED: [2022-05-26 19:20:10 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-26 19:20:15 -05]
+:ID: d3101076-9540-4d80-b47d-b2c942e921f9
+:END:
+
+alternatives
+
+今天的题一点儿也不难。
+我的头怎么这么疼？
+喂，我到你家楼下了。
+那喝了这杯牛奶就睡觉吧。
+当然。我们先坐公共汽车，然后换地铁。
+请问，周明在吗？
+
+*** 21
+:PROPERTIES:
+:CREATED: [2022-05-26 19:20:17 -05]
+:ID: fe061f96-c08c-427c-879f-8ca3cc4aa645
+:END:
+
+content
+
+你每天进了办公室就坐在电脑前，身体能好吗？
+
+answer
+
+b
+
+*** 22
+:PROPERTIES:
+:CREATED: [2022-05-26 19:21:30 -05]
+:ID: bb658bcb-5b63-438e-8406-291242e4d69e
+:END:
+
+content
+
+妈，我今天太累了，不想看书了。
+
+answer
+
+d
+
+*** 23
+:PROPERTIES:
+:CREATED: [2022-05-26 19:22:46 -05]
+:ID: 13b98883-2ec5-421d-b9a9-631aadfd36a3
+:END:
+
+content
+
+他现在出去了，十点回来。
+
+answer
+
+f
+
+*** 24
+:PROPERTIES:
+:CREATED: [2022-05-26 19:23:27 -05]
+:ID: 07c64ceb-2f88-4f63-b966-724dbf31be9e
+:END:
+
+content
+
+好，你等我一下，我现在就下去。
+
+answer
+
+c
+
+*** 25
+:PROPERTIES:
+:CREATED: [2022-05-26 19:23:54 -05]
+:ID: b9bd02d7-fdab-4593-8c56-adc95ef12c0e
+:END:
+
+content
+
+因为你准备得好，所以觉得很容易。
+
+answer
+
+a
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-26 19:31:49 -05]
+:ID: e46c2ba4-59bd-48d4-8881-9657849c2a0c
+:END:
+
+alternatives
+
+难
+办公室
+楼
+辆
+声音
+拿
+
+*** 26
+:PROPERTIES:
+:CREATED: [2022-05-26 19:31:51 -05]
+:ID: 1f56a392-db72-459c-a4f2-1a729bcc78d6
+:END:
+
+content
+
+小方，周经理请你去他//一下。
+
+answer
+
+b
+
+*** 27
+:PROPERTIES:
+:CREATED: [2022-05-26 19:32:45 -05]
+:ID: 03a635cc-e258-43ac-b72c-c7cce8184fcd
+:END:
+
+content
+
+//下那个穿着白衣服的男人是谁？
+
+answer
+
+c
+
+*** 28
+:PROPERTIES:
+:CREATED: [2022-05-26 19:33:53 -05]
+:ID: 39c59849-5357-4eb1-a9f6-589660a74e0f
+:END:
+
+content
+
+今天的考试一点儿也不//。
+
+answer
+
+a
+
+*** 29
+:PROPERTIES:
+:CREATED: [2022-05-26 19:34:17 -05]
+:ID: e9289a8d-189d-4cd7-b843-40629a784ba6
+:END:
+
+content
+
+Ａ：快上课了，你怎么往回走？
+Ｂ：我没带书，回去//。
+
+answer
+
+f
+
+**** QUESTION "往回走"什么意思？
+:PROPERTIES:
+:CREATED: [2022-10-03 04:17:21 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-03 Mon 04:17]
+:END:
+
+*** 30
+:PROPERTIES:
+:CREATED: [2022-05-26 19:35:27 -05]
+:ID: 00dc6123-5b6f-47a5-b67f-0f7f9591833e
+:END:
+
+content
+
+Ａ：这么多好看的车，我们买哪//？
+Ｂ：买红的吧，我最喜换红色。
+
+answer
+
+d
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-26 19:36:16 -05]
+:END:
+
+*** 31
+:PROPERTIES:
+:CREATED: [2022-05-26 19:36:18 -05]
+:ID: 2ba96dd4-a90c-44aa-90a0-9a70ff3fe419
+:END:
+
+content
+
+现在的孩子真不容易，从周一到周五每天都要上课，下了课还要做作业，周末也不能休息，起了床就出去学这学那，能不累吗？
+
+inference with missing information
+
+现在的孩子
+
+alternatives
+
+一点儿也不累
+每天都很忙
+周末起床很晚
+
+answer
+
+b
+
+*** 32
+:PROPERTIES:
+:CREATED: [2022-05-26 19:39:26 -05]
+:ID: 17e9c755-418c-4a88-a2e5-9a2f8fc31109
+:END:
+
+content
+
+很多人都喜欢睡午觉，但是有些人吃了午饭就睡觉，这样对身体好吗？医生告诉我们：吃了午饭要休息一下。睡午觉的时间也不能太长，一个小时最好。
+
+inference with missing information
+
+睡午觉
+
+alternatives
+
+对身体不好
+不能吃饭
+时间不能很长
+
+answer
+
+c
+
+*** 33
+:PROPERTIES:
+:CREATED: [2022-05-26 19:45:49 -05]
+:ID: 94cc0822-1259-465c-971e-cbfa6cf5d680
+:END:
+
+content
+
+我丈夫每天5点多起床，吃了早饭就去上班。我让他多休息，少工作，但是他说：“那么多病人都在等我，我能休息吗？”我真希望丈夫别那么累。
+
+inference with missing information
+
+我丈夫是做什么工作的？
+
+alternatives
+
+老师
+经理
+医生
+
+answer
+
+c
+
+*** 34
+:PROPERTIES:
+:CREATED: [2022-05-26 19:49:07 -05]
+:ID: a0f2e843-0f24-46b2-b461-d766e088f401
+:END:
+
+content
+
+今天早上我起晚了，穿了衣服就出来了。钱，电脑，手机都没带，早饭也没吃。小丽告诉我，妻子打来电话，让我到了办公室就给她回电话。
+
+inference with missing information
+
+妻子
+
+alternatives
+
+起晚了
+没带手机
+找我
+
+answer
+
+c
+
+*** 35
+:PROPERTIES:
+:CREATED: [2022-05-26 19:52:33 -05]
+:ID: 64ac0ba1-3ab7-4a66-b0b5-5b525e89edfd
+:END:
+
+content
+
+去年12月我带妻子去了一次北方。我想到到了那儿妻子就开始生病，没玩儿好也没吃好，一直病到回来。妻子说：下次不要在那么冷的时候旅游了。
+
+inference with missing information
+
+我妻子
+
+alternatives
+
+还没去过北方
+玩儿得不好
+回来的时候生病了
+
+answer
+
+b
+
+* Writing
+:PROPERTIES:
+:CREATED: [2022-05-26 19:55:51 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-26 20:00:00 -05]
+:END:
+
+*** 36
+:PROPERTIES:
+:CREATED: [2022-05-26 19:55:53 -05]
+:ID: a57613a5-2666-4a50-a702-279aec4057f7
+:END:
+
+words
+
+下
+课
+了买书
+就
+去
+
+answer
+
+下了课就去买书。
+
+*** 37
+:PROPERTIES:
+:CREATED: [2022-05-26 19:56:15 -05]
+:ID: d7bfedfb-e7f3-4b9a-b2c1-a128f41f84bf
+:END:
+
+words
+
+快
+去
+看看
+下楼
+吧
+
+answer
+
+快下楼去看看吧。
+
+*** 38
+:PROPERTIES:
+:CREATED: [2022-05-26 19:56:37 -05]
+:ID: 9eff7ff6-9978-4b53-b722-d541f8f41d70
+:END:
+
+words
+
+飞机
+上
+就
+我弟弟
+睡觉
+了
+
+answer
+
+我弟弟上了飞机就睡觉。
+
+*** 39
+:PROPERTIES:
+:CREATED: [2022-05-26 19:57:05 -05]
+:ID: 8f3c8a2f-7ad5-4be4-a367-f8e93bac50a7
+:END:
+
+words
+
+我
+写完
+了
+出去玩儿
+作业
+就
+
+answer
+
+我写完了作业就出去玩儿。
+
+*** 40
+:PROPERTIES:
+:CREATED: [2022-05-26 19:58:25 -05]
+:ID: 618bc173-2c21-462a-b7e3-04384d45dfdc
+:END:
+
+words
+
+教室
+请
+讲
+来
+快
+
+answer
+
+请快进教室来。
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-26 20:00:02 -05]
+:END:
+
+*** 41
+:PROPERTIES:
+:CREATED: [2022-05-26 20:00:04 -05]
+:ID: f398caf3-73c1-4af8-808d-40f351bc7597
+:END:
+
+sentence
+
+这是你的//公室吗？
+
+pinyin
+
+ban4
+
+answer
+
+办
+
+*** 42
+:PROPERTIES:
+:CREATED: [2022-05-26 20:00:22 -05]
+:ID: 736e576c-a0ec-412a-91f5-d914595da3d8
+:END:
+
+sentence
+
+这次考试题都很//，我不会做。
+
+pinyin
+
+nan2
+
+answer
+
+难
+
+*** 43
+:PROPERTIES:
+:CREATED: [2022-05-26 20:01:00 -05]
+:ID: 3c992539-3dcd-425c-a595-9af5c6064876
+:END:
+
+sentence
+
+我的房间里有两//椅子。
+
+pinyin
+
+ba3
+
+answer
+
+把
+
+*** 44
+:PROPERTIES:
+:CREATED: [2022-05-26 20:01:26 -05]
+:ID: 10029836-4e51-4805-a0dd-0ea2e360c546
+:END:
+
+sentence
+
+我觉得说汉语比写汉字//易。
+
+pinyin
+
+rong2
+
+answer
+
+容
+
+*** 45
+:PROPERTIES:
+:CREATED: [2022-05-26 20:01:56 -05]
+:ID: 53b5a63a-200c-453f-b4d8-a6df8444a201
+:END:
+
+sentence
+
+看，那儿不是有一//出租车吗？我们快过去。
+
+pinyin
+
+liang4
+
+answer
+
+辆
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-26 20:02:35 -05]
+:END:
+
+*** 46
+:PROPERTIES:
+:CREATED: [2022-05-26 20:02:36 -05]
+:ID: 45bbd31b-c0b2-481a-97b4-72d2bcff944a
+:END:
+
+content
+
+听说下个星期的考试很//，你//备好了吗？
+
+answer
+
+难
+准
+
+*** 47
+:PROPERTIES:
+:CREATED: [2022-05-26 20:03:27 -05]
+:ID: bcd91f94-a4da-4e8c-a1b1-8100291bbe97
+:END:
+
+content
+
+你知道我今天//什么来你的//公室吗？
+
+answer
+
+为
+办
+
+*** 48
+:PROPERTIES:
+:CREATED: [2022-05-26 20:04:04 -05]
+:ID: e2a1fb1f-fd77-4be6-9d66-77d48af4d1fa
+:END:
+
+content
+
+其//，我没去//东西，我去医院了。
+
+answer
+
+实
+买
+
+*** 49
+:PROPERTIES:
+:CREATED: [2022-05-26 20:04:37 -05]
+:ID: 7867ccdb-1b29-4ec9-bd80-22816dd94847
+:END:
+
+content
+
+帮你买票很//易，你别//气。
+
+answer
+
+容
+客
+
+*** 50
+:PROPERTIES:
+:CREATED: [2022-05-26 20:05:22 -05]
+:ID: fa3d4831-7ef0-4c23-a905-6579b7800454
+:END:
+
+content
+
+我们坐//共汽车去吧，怎//样？
+
+answer
+
+公
+么
+
+* Review
+:PROPERTIES:
+:CREATED: [2022-05-26 20:06:01 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-26 20:06:07 -05]
+:ID: e0c3cce5-f3d3-4587-800b-30ea6de2e467
+:END:
+
+content
+
+上山的时候，小丽没觉得很累，但是下山的时候，他的//也疼，//也疼。小刚说，这叫“上山//下山//”。那边树多，小刚和小丽打算//休息一下。
+
+answer
+
+腿
+脚
+容易
+难
+过去
+
+notes
+
+上山的时候，小丽没觉得很累，但是下山的时候，他的（腿）也疼，（脚）也疼。小刚说，这叫“上山（容易）下山（难）”。那边树多，小刚和小丽打算（过去）休息一下。
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-26 20:09:08 -05]
+:ID: 681df362-6fb7-4e45-8a37-e1b72f66f39a
+:END:
+
+content
+
+雨下得很大，小丽没带//，她打算出去叫//出租车。小刚让小丽等一下，他//去//了伞就//。
+
+answer
+
+伞
+辆
+上楼
+拿
+下来
+
+notes
+
+雨下得很大，小丽没带（伞），她打算出去叫（辆）出租车。小刚让小丽等一下，他（上楼）去（拿）了伞就（下来）。
+

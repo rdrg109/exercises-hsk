@@ -1,0 +1,1225 @@
+:PROPERTIES:
+:CREATED: [2022-06-02 17:11:45 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: 248a7c16-7d9d-471f-8399-a64207528a53
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: 38fa1b40-eb54-4f2f-8d0a-e6f26dda2585
+:END:
+
+男：你看看，只有半个小时了，快要迟到了。
+女：你别着急，走路十五分钟就到了。
+
+answer
+
+a
+
+notes
+
+_
+
+**** ANSWERED Can I "一刻钟" instead of "十五分钟"?
+:PROPERTIES:
+:CREATED: [2022-07-07 11:12:58 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-07 Thu 18:36]
+- State "QUESTION"   from              [2022-07-07 Thu 11:13]
+:END:
+
+Yes
+
+*** 2
+:PROPERTIES:
+:ID: 8e36fe07-d37e-4a1c-8f3d-95739c625be2
+:END:
+
+女：你都睡了十几个钟头了，快要迟到了！
+男：我想多睡会儿，太累了。
+
+answer
+
+c
+
+notes
+
+_
+
+*** 3
+:PROPERTIES:
+:ID: 06b175b4-dd1f-42fc-88d7-bbdc3364eb8b
+:END:
+
+
+
+
+女１：你慢点儿走。
+女２：刚爬了几分钟，你就累了？
+
+answer
+
+b
+
+notes
+
+_
+
+*** 4
+:PROPERTIES:
+h:ID: a9d7e3b2-c971-44be-9107-abe35dbdc074
+:END:
+
+
+男：我都看了二十分钟报纸了，车怎么还不来？
+女：再等等，快来了。
+
+answer
+
+e
+
+notes
+
+_
+
+*** 5
+:PROPERTIES:
+:ID: 7cf49506-e2bf-4e73-9cff-f187e5b9db64
+:END:
+
+男１：欢迎你来我们银行。
+男２：经理您好，我一定好好儿工作。
+
+answer
+
+f
+
+notes
+
+_
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: e0c8ba88-787d-425f-b788-67e6fc2038ba
+:END:
+
+我是2020年开始工作的，在银行工作了两年以后，来到了这家公司。
+
+他现在在银行上班。
+
+answer
+
+0
+
+notes
+
+_
+
+*** 7
+:PROPERTIES:
+:ID: 960f1aa6-8c83-4bd3-97c6-9ce29de5383c
+:END:
+
+飞机可能晚到十分钟，您再等一会儿吧。
+
+他们还要等。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 8
+:PROPERTIES:
+:ID: 3e4699aa-ad68-41d3-8823-d62688b44251
+:END:
+
+我对爬山不感兴趣，爬山太累了。
+
+他喜欢跟朋友一起去爬山。
+
+answer
+
+0
+
+notes
+
+_
+
+
+
+*** 9
+:PROPERTIES:
+:ID: 2380ccf0-4a2a-4a26-a218-450a71c8b73e
+:END:
+
+小刚在门口站了一个小时，小方也没出来。
+
+小刚在等人。
+
+answer
+
+1
+
+notes
+
+_
+
+**** ANSWERED Why isn't 了 used at the end of the sentence?
+:PROPERTIES:
+:CREATED: [2022-07-07 11:28:45 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-07 Thu 18:37]
+- State "QUESTION"   from              [2022-07-07 Thu 11:28]
+:END:
+
+The dialogue seems to express that 小刚 is still waiting so the action hasn't finished.
+
+小刚再门口站了一个小时（了），小方也没出来。
+
+Both sentences are correct, it dpeneds on the context
+
+
+*** 10
+:PROPERTIES:
+:ID: f7e3da59-302f-4719-a1a6-dde6289c0572
+:END:
+
+她已经80多岁了，可是身体好，爱运动，还喜欢听年轻人唱的歌。
+
+她对音乐不感兴趣。
+
+answer
+
+0
+
+notes
+
+_
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: b48f0320-647b-421f-8888-bb0c4ae2fd14
+:END:
+
+男：雨下得这么大，你家离这儿太远了，怎么办啊？
+女：没关系，我坐出租车半个小时就回去了。
+
+问：女的准备怎么回去？
+
+alternatives
+
+打车
+坐公共汽车
+走路
+
+answer
+
+a
+
+notes
+
+_
+
+**** ANSWERED Does 打车 means to call a taxi via app or to stand in a taxi stop until a taxi comes?
+:PROPERTIES:
+:CREATED: [2022-07-07 11:33:15 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-07 Thu 18:39]
+- State "QUESTION"   from              [2022-07-07 Thu 11:33]
+:END:
+
+叫车 wave the taxi in the streets
+坐车 if a friends
+打车 is definitiely a taxi
+
+*** 12
+:PROPERTIES:
+:ID: d665c216-b30a-4cb4-9b65-00b338d4805d
+:END:
+
+男：你哪儿不舒服？
+女：白医生，我头疼了一个星期了，都没去上课。怎么办呢？
+
+问：女的怎么了？
+
+alternatives
+
+她病了
+她迟到了
+她没去工作
+
+answer
+
+a
+
+notes
+
+_
+
+*** 13
+:PROPERTIES:
+:ID: 0df82e11-60a8-43a8-9b47-ae661b139a2f
+:END:
+
+男：你周末喜欢做什么？
+女：我不爱运动，周末就在家看看电视。
+
+问：女的对什么没有兴趣？
+
+alternatives
+
+看电视
+运动
+周末
+
+answer
+
+b
+
+notes
+
+_
+
+*** 14
+:PROPERTIES:
+:ID: 66dc2f46-743d-49be-aabb-101cb016a933
+:END:
+
+男：今天的工作我还没做完，你来帮帮我好吗？
+女：行啊，不过到时候你要请我吃饭。
+
+问：男的和女的可能是什么关系？
+
+alternatives
+
+同学
+同事
+师生
+
+answer
+
+b
+
+notes
+
+_
+
+**** QUESTION Is the transcript wrong?
+:PROPERTIES:
+:CREATED: [2022-07-07 08:25:47 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-07 Thu 08:26]
+:END:
+
+“帮忙”还是”帮帮“？
+
+*** 15
+:PROPERTIES:
+:ID: 4caf4b36-7db5-4921-8e44-90e14e1e264f
+:END:
+
+男：这是什么电影啊？我看了半天也没看懂。
+女：很多人都是这样，你再看一会儿就明白了。
+
+问：男的看了多长时间电影了？
+
+alternatives
+
+一会儿
+十二个小时
+很久
+
+answer
+
+a
+
+notes
+
+_
+
+**** ANSWERED Why does 半天 means 一会儿？
+:PROPERTIES:
+:CREATED: [2022-07-07 08:57:09 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-07 Thu 18:42]
+- State "QUESTION"   from              [2022-07-07 Thu 08:57]
+:END:
+
+很久 means a lot of time, in this dialogue 半天 is exxatggerating 
+
+很久以前 / a long time ago ;
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: 6a249581-82f7-4e32-9fd7-dc34117544e5
+:END:
+
+女：我下个月结婚，到时候欢迎你来。
+男：什么？结婚？
+女：突然吗？其实我和我男朋友认识已经五年了。
+男：就是那天来公司接你的那个？
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+欢迎男的来公司
+要结婚了
+在迎接新同事
+
+answer
+
+b
+
+notes
+
+迎接 | ying2 jie1 | to greet, to welcome ;
+接 | jie1 | to take over for somebody ;
+
+*** 17
+:PROPERTIES:
+:ID: 69ba9719-c718-4fcd-92cd-9405bd28a298
+:END:
+
+男：喂，我已经等了半个小时了，你在哪儿呢？
+女：我刚下飞机，我穿着红衣服，你呢？
+男：我穿着白裤子，你看见我了吗？
+女：看见了，看见了。
+
+问：男的在做什么？
+
+alternatives
+
+等车
+接人
+买东西
+
+answer
+
+b
+
+notes
+
+_
+
+*** 18
+:PROPERTIES:
+:ID: 672c020a-b73d-4f29-9530-563d5099b70a
+:END:
+
+男：你为什么不在书店工作了？
+女：那不是我喜欢的。我在那儿工作了半年以后，就来了这家银行。
+男：现在的工作怎么样？
+女：很好，我很喜欢。
+
+问：女的现在在哪儿工作？
+
+alternatives
+
+银行
+书店
+学校
+
+answer
+
+a
+
+notes
+
+_
+
+*** 19
+:PROPERTIES:
+:ID: fd858eed-923b-4a84-8be1-63959c9e33ad
+:END:
+
+女：我两岁大的儿子对音月感兴趣。
+男：是吗？你是怎么知道的？
+女：电视上有人唱歌，他也一起唱。有时候大家在吃饭，他也唱。
+
+问：女的的儿子喜欢什么？
+
+alternatives
+
+唱歌
+吃饭
+看电视
+
+answer
+
+a
+
+notes
+
+_
+
+**** ANSWERED “真的吗”和“是吗”有什么区别？
+:PROPERTIES:
+:CREATED: [2022-07-07 12:03:32 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-07 Thu 18:42]
+- State "QUESTION"   from              [2022-07-07 Thu 12:03]
+:END:
+
+there's a little difference.
+
+zhendema has more emotion, and shima is more normal.
+
+*** 20
+:PROPERTIES:
+:ID: 42de3113-ab46-4e4a-8303-9965d11fa5db
+:END:
+
+男：祝你生日快乐，这个送给你。
+女：什么啊？
+男：打开看看。
+女：音乐会的票！我太喜欢了，谢谢你。
+
+问：女的对什么感兴趣？
+
+alternatives
+
+电影
+运动
+音乐
+
+answer
+
+c
+
+notes
+
+祝 | zhu4 | to express good wishes ;
+
+**** ANSWERED "音乐会的票"什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-02 17:44:13 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-01 Fri 21:44]
+- State "QUESTION"   from              [2022-06-02 Thu 17:44]
+:END:
+
+ticket  for a music concert
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: b34c8f9d-cc92-492d-a023-8ec0a1d02424
+:END:
+
+alternatives
+
+不行，要迟到了，我要走了。
+我是新来的，刚工作三个月。
+刚十几分钟，还有很远呢。
+我看看，慢了半个小时。
+当然。我们先坐公共汽车，然后换地铁。
+不太累，每个月的钱也不少。
+
+*** 21
+:PROPERTIES:
+:ID: e96746f0-cc48-4abd-bd1f-2f9e3ae8abd0
+:END:
+
+content
+
+你在这家公司工作多久了？
+
+answer
+
+b
+
+*** 22
+:PROPERTIES:
+:ID: 38ae24b4-ee09-455e-af5e-eb152d0af45f
+:END:
+
+content
+
+别着急，再游一会儿吧。
+
+answer
+
+a
+
+**** ANSWERED "游"什么意思？
+:PROPERTIES:
+:CREATED: [2022-07-07 12:32:26 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-07 Thu 18:46]
+- State "QUESTION"   from              [2022-07-07 Thu 12:32]
+:END:
+
+旅游
+游泳
+
+自由泳
+wa yong
+yang yong
+die yong
+
+游 is the verb, 泳 is the noun. We take the verb.
+
+我看一会儿。
+我跑一会儿。
+
+*** 23
+:PROPERTIES:
+:ID: 565e530e-f7bf-4515-bf2b-6501f8ce41c9
+:END:
+
+content
+
+你为什么选择在银行工作？
+
+answer
+
+f
+
+*** 24
+:PROPERTIES:
+:ID: d0f69785-a697-448b-8c44-767194c78eda
+:END:
+
+content
+
+你们爬了多长时间出了？
+
+answer
+
+c
+
+*** 25
+:PROPERTIES:
+:ID: 6df0109e-118a-4819-9180-14ee89dd6c8b
+:END:
+
+content
+
+我的手表怎么了？
+
+answer
+
+d
+
+
+** 2
+:PROPERTIES:
+:ID: 610df7c5-3c06-4d34-8731-e46ee093021b
+:END:
+
+alternatives
+
+以前
+半
+差
+久
+声音
+同事
+
+*** 26
+:PROPERTIES:
+:ID: ccd38414-32c7-43bb-896a-5e6473338da7
+:END:
+
+content
+
+小丽是我的//，也是我的好朋友，我们已经认识二十年了。
+
+answer
+
+f
+
+*** 27
+:PROPERTIES:
+:ID: 2d6576d5-72c4-454a-80e9-99d1df832076
+:END:
+
+content
+
+来这家银行//，我在两家公司工作过。
+
+answer
+
+a
+
+*** 28
+:PROPERTIES:
+:ID: 55516988-8f5c-42b2-a3fa-5febe94408da
+:END:
+
+content
+
+我们每天早上八点//上课，上四个小时。
+
+answer
+
+b
+
+*** 29
+:PROPERTIES:
+:ID: d63a297f-50f1-4119-8c4b-b5e70718d79e
+:END:
+
+content
+
+Ａ：看一下手表，现在几点了？
+Ｂ：//一刻八点。
+
+answer
+
+c
+
+*** 30
+:PROPERTIES:
+:ID: 84b526e3-05a4-4048-be6e-80182e1b679d
+:END:
+
+content
+
+Ａ：都九点了，你怎么回来这么晚？
+Ｂ：下班以后跟朋友在咖啡店聊天儿聊了很//，天黑了都不知道。
+
+answer
+
+d
+
+**** ANSWERED 第二个句子是什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-27 12:30:22 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-01 Fri 21:45]
+- State "QUESTION"   from              [2022-06-27 Mon 12:30]
+:END:
+
+
+I didn't realize that it was very late.
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: 4a93c9e1-2a51-4eb7-a0e2-4db10099a6eb
+:END:
+
+content
+
+六个月大的女儿对音乐很感兴趣，他不高兴的时候， 唱歌给她听或者让她听听音乐，一会儿她就笑了。
+
+inference with missing information
+
+她的女儿
+
+alternatives
+
+喜欢音乐
+不喜欢听歌
+六岁了
+
+answer
+
+a
+
+*** 32
+:PROPERTIES:
+:ID: 5f7d992d-9701-476a-962e-27ccf172584a
+:END:
+
+content
+
+我在北京住过十年，吃了不少北京菜，学了不少中国文化，现在还都记得。
+
+inference with missing information
+
+我
+
+alternatives
+
+现在住在北京
+现在不住在北京
+是北京人
+
+answer
+
+b
+
+*** 33
+:PROPERTIES:
+:ID: 391f773d-596a-42bc-a88d-fbe870a608ca
+:END:
+
+content
+
+我妹妹不喜欢画画儿，唱歌，只对踢足球感兴趣。（她会踢足球），也爱看足球比赛。
+
+inference with missing information
+
+我姐姐喜欢
+
+alternatives
+
+唱歌
+踢足球
+画画儿
+
+answer
+
+b
+
+**** ANSWERED “她会踢足球”什么意思？
+:PROPERTIES:
+:CREATED: [2022-07-07 11:40:13 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-07 Thu 18:48]
+- State "QUESTION"   from              [2022-07-07 Thu 11:40]
+:END:
+
+She has the skill to do that.
+
+
+*** 34
+:PROPERTIES:
+:ID: 1e27e6d3-65a4-48bd-a329-65b7759462f9
+:END:
+
+content
+
+以前中国人结婚的时候，男女都不认识。丈夫会在结婚迎接妻子那天第一次见到妻子。妻子也第一次见到丈夫。
+
+
+inference with missing information
+
+以前中国人结婚，丈夫
+
+alternatives
+
+对妻子不感兴趣
+以前就认识妻子
+结婚那天第一次见到妻子
+
+answer
+
+c
+
+notes
+
+迎接 | ying2 jie1 | to greet, to welcome ;
+
+*** 35
+:PROPERTIES:
+:ID: 9721e37a-c361-4ae5-ba5e-3eb55d7a6fc6
+:END:
+
+content
+
+很多年轻人说不知道怎么找工作，总觉得自己的工作不好。有的人都工作了好几年了，钱也不少，但还不知道喜欢做什么。我觉得找工作的时候，兴趣第一，（怎么能把钱放在第一呢）？
+
+inference with missing information
+
+我觉得找工作的时候要看
+
+alternatives
+
+公司给多少钱
+喜欢不喜欢
+工作时间是多少
+
+answer
+
+b
+
+**** ANSWERED “怎么能”和“怎么可能”的意思一样吗？
+:PROPERTIES:
+:CREATED: [2022-07-07 11:36:42 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-07 Thu 18:49]
+- State "QUESTION"   from              [2022-07-07 Thu 11:37]
+:END:
+
+怎么能  - how come can you put money as a priority?
+怎么可能 - how is it possible?
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: 80011887-5472-4a49-bdf0-4d58f0ee410b
+:END:
+
+words
+
+唱
+歌
+两个小时
+我们
+了
+
+answer
+
+我们唱了两个小时歌。
+
+**** ANSWERED Why is 歌 written at the end of the sentence  of the sentence?
+:PROPERTIES:
+:CREATED: [2022-07-05 17:53:56 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-05 Tue 17:54]
+- State "QUESTION"   from              [2022-07-05 Tue 17:54]
+:END:
+
+That's the rule that is explained in the Note no. 1 of this chapteT
+
+*** 37
+:PROPERTIES:
+:ID: 0bc94112-0522-46f9-b047-6a2102eb33ff
+:END:
+
+words
+
+什么
+感兴趣
+对
+你
+
+answer
+
+你对什么感兴趣？
+
+*** 38
+:PROPERTIES:
+:ID: d0903fc8-b95b-4db1-9e2c-1b4e3ac1fc5a
+:END:
+
+words
+
+以前
+银行
+在
+我
+工作
+两年
+了
+
+answer
+
+以前我在银行工作了两年。
+
+*** 39
+:PROPERTIES:
+:ID: 1e3443b9-6d3e-4f4c-ad58-1a147142502d
+:END:
+
+words
+
+电视
+看
+了
+三个钟头
+弟弟
+了
+
+answer
+
+弟弟看了三个钟头电视了。
+
+notes
+
+钟头 | zhong1 tou2 | hour ;
+
+**** ANSWERED “钟头”和“小时”有什么区别？
+:PROPERTIES:
+:CREATED: [2022-07-07 08:30:32 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-07 Thu 18:51]
+- State "QUESTION"   from              [2022-07-07 Thu 08:30]
+:END:
+
+This question has been asked in Baidu in [[https://zhidao.baidu.com/question/2645099.html][this]] link.
+
+These have the same meaning, xiaoshi is more formal and zhongtou 口语 is more colloquial
+
+*** 40
+:PROPERTIES:
+:ID: 367d0d35-8666-464d-acbe-484445fbc1b4
+:END:
+
+words
+
+了
+听
+十几分钟
+音乐
+昨天
+我
+
+answer
+
+昨天我听了十几分钟音乐。a
+
+**** ANSWERED Is this also an acceptable answer?
+:PROPERTIES:
+:CREATED: [2022-07-07 09:07:30 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-07 Thu 18:51]
+- State "QUESTION"   from              [2022-07-07 Thu 09:07]
+:END:
+
+我昨天听了十几分钟音乐。
+
+昨天我听了十几分钟音乐。
+
+Yes, they are the same
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: efd98152-a290-42a9-a25c-8bf34afd201b
+:END:
+
+sentence
+
+我对音乐//兴趣，你呢？
+
+pinyin
+
+gan3
+
+answer
+
+感
+
+*** 42
+:PROPERTIES:
+:ID: 74631d51-c285-4ed9-8e02-751819959fc0
+:END:
+
+sentence
+
+明天下午你去//行吗？我跟你一起去吧。
+
+pinyin
+
+ying2
+
+answer
+
+银
+
+**** QUESTION Isn't the pinyin of 银 "yin2" without the "g"? Is this an error in the book?
+:PROPERTIES:
+:CREATED: [2022-07-07 11:11:01 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-07-07 Thu 11:11]
+:END:
+
+银
+
+*** 43
+:PROPERTIES:
+:ID: c3ee19c8-edf9-4d95-8c99-9ace0d2a3d84
+:END:
+
+sentence
+
+你什么时候结婚的？怎么都没告诉我们啊？
+
+pinyin
+
+jie2
+
+answer
+
+结
+
+**** ANSWERED What does the structure 都没 mean?
+:PROPERTIES:
+:CREATED: [2022-07-07 09:18:23 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-07-07 Thu 18:52]
+- State "QUESTION"   from              [2022-07-07 Thu 09:18]
+:END:
+
+都 is used here just to emphasize. 都 is used here as a complain
+
+*** 44
+:PROPERTIES:
+:ID: 64f85eda-0556-475d-8789-0691ad10d85c
+:END:
+
+sentence
+
+您慢走，欢//下次再来。
+
+pinyin
+
+ying2
+
+answer
+
+迎
+
+*** 45
+:PROPERTIES:
+:ID: 50d1acef-c8f9-4e81-b802-b74293054d16
+:END:
+
+sentence
+
+我问你，你多//没去公司上班了？
+
+pinyin
+
+jiu3
+
+answer
+
+久
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: ef1cf04a-627f-4ea4-910e-a4b34c791195
+:END:
+
+content
+
+小方，你家离学校那么多//，怎么每天都//到啊？
+
+answer
+
+近
+迟
+
+*** 47
+:PROPERTIES:
+:ID: debbd2d5-53bf-44ec-8b3c-ed67cb9b51f0
+:END:
+
+content
+
+大家好，这是新来的//事，他今天早上刚来我们公//。
+
+answer
+
+同
+司
+
+*** 48
+:PROPERTIES:
+:ID: 1effe734-78b4-4ece-b331-504db8bc4bcb
+:END:
+
+content
+
+我//前没见过这个人，是昨天朋友给我介绍后//识的。
+
+answer
+
+以
+认
+
+*** 49
+:PROPERTIES:
+:ID: c9295a66-e08a-45f2-af27-5a6da72336f0
+:END:
+
+content
+
+明天我去//你，下午三点在你家//下等你。
+
+answer
+
+接
+楼
+
+*** 50
+:PROPERTIES:
+:ID: 7e770275-daf4-4a6e-8ae8-30df5b5d271d
+:END:
+
+content
+
+现在是三点一//，十五分钟后请大家//周经理办公室去。
+
+answer
+
+刻
+到
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: e81f2df4-f2c2-4979-aa32-6ac56ad0fea0
+:END:
+
+content
+
+小刚和小丽认识五年了，他们下个月//，//大家都去。一个//觉得很//，因为他对小丽//。
+
+answer
+
+结婚
+欢迎
+同事
+突然
+感兴趣
+
+** 2
+:PROPERTIES:
+:ID: 865c6267-1a8b-4418-8749-69a08e4e8bb1
+:END:
+
+content
+
+小丽让小刚七点半去//她。现在已经//一//八点了，小刚//了，小丽特别不高兴。其实，不是小刚来晚了，是小刚的表//十五分钟。
+
+answer
+
+接
+差
+刻
+迟到
+快了
+
+
+刚才 is the time, we can't used it with 昨天,明天.
+刚 is not used with negative.
+刚才 is a few minutes ago, so if we are indicating the position of something, we would use this.
+
+工作 isn't separatable, but 睡觉 is separable.

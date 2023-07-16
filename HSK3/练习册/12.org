@@ -1,0 +1,1037 @@
+:PROPERTIES:
+:CREATED: [2022-06-09 18:03:41 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: 5ad3fd67-b7ae-46b0-b09f-2f12e6586fa4
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: 8e19dfa2-e011-4ca4-a752-666ddddf78e9
+:END:
+
+女１：你的腿好点了吗？
+女２：还有点儿疼。今天太阳不错，你带我出去吧。
+
+
+answer
+
+e
+
+notes
+
+
+
+*** 2
+:PROPERTIES:
+:ID: 0b9088c4-111e-456d-8c57-6c0321eaaf15
+:END:
+
+女：能帮我把这些行李箱放到上面吗？我搬不动。
+男：可以，我来搬吧。
+
+answer
+
+b
+
+notes
+
+
+
+*** 3
+:PROPERTIES:
+:ID: 8e0c2da4-3ac9-4fd1-9941-d345ff8ad5b3
+:END:
+
+女：对不起，先生，飞机马上就要起飞了，请您关上手机。
+男：好的，我知道了。
+
+answer
+
+a
+
+notes
+
+
+**** QUESTION “关上”什么意思？
+:PROPERTIES:
+:CREATED: [2022-09-24 10:12:31 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-09-24 Sat 10:12]
+:END:
+
+
+*** 4
+:PROPERTIES:
+:ID: f18ae9ea-7242-4688-974d-e5a53dd30ddc
+:END:
+
+女：黑板上的那个字怎么读？
+男：我也不认识，我查一下字典，找到了告诉你。
+
+answer
+
+c
+
+notes
+
+
+
+*** 5
+:PROPERTIES:
+:ID: 86c44d07-a929-4e40-998f-763327d67217
+:END:
+
+女：会议早就开始了，你怎么现在还没来？
+男：别生气，我十分钟就到。
+
+answer
+
+f
+
+notes
+
+**** QUESTION What does 早 mean in this context?
+:PROPERTIES:
+:CREATED: [2022-09-24 10:18:52 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-09-24 Sat 10:19]
+:END:
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: a0abac11-b969-4431-9641-27cfb28e797b
+:END:
+
+我的包忘在出租车上了，钱包，手机和护照都在里面。
+
+他是出租车司机。
+
+answer
+
+0
+
+notes
+
+
+
+*** 7
+:PROPERTIES:
+:ID: fd456c8f-c3fe-4c21-9c18-c7a90ce11c7e
+:END:
+
+我很喜欢画画儿，但是没有人教过我，我都十自己学的，你看这个小狗就是我画的，可爱吗？
+
+他不喜欢跟老师学画画儿。
+
+answer
+
+0
+
+notes
+
+
+
+*** 8
+:PROPERTIES:
+:ID: a79bce3c-487b-4479-b7d2-0317791d15e8
+:END:
+
+老师，您昨天讲的那几个题，我今天就忘了，您能再教我一次吗？
+
+老师昨天没讲明白。
+
+answer
+
+0
+
+notes
+
+
+
+*** 9
+:PROPERTIES:
+:ID: d77b4046-c259-4931-ae97-64911d91dde2
+:END:
+
+爸爸找了很长时间都没找到他的护照，我今天上午帮他洗衣服的的时候，在他那条蓝色的裤子里找到了。
+
+爸爸洗衣服的时候发现了护照。
+
+answer
+
+0
+
+notes
+
+发现 | fa1 xian4 | to discover, to find ;
+护照 | hu4 zhao4 | passport ;
+
+*** 10
+:PROPERTIES:
+:ID: dc7f2a42-ea9f-47c7-a0e2-a847f9734f99
+:END:
+
+我们需要换新的桌子和椅子，你什么时候有时间，跟我一起去看看？
+
+桌子和椅子都旧了。
+
+answer
+
+1
+
+notes
+
+
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: b6b3c235-6d42-4388-87a0-7c95e5f92cff
+:END:
+
+女：喂，我已经到公园西门了，你是在北门吗，我过去找你吧？
+男：你别过来了，我快到西门了。
+
+女的现在在哪儿？
+
+alternatives
+
+公园里边
+公园西门
+公园北门
+
+answer
+
+b
+
+notes
+
+
+
+*** 12
+:PROPERTIES:
+:ID: 5f8529b9-4020-4563-9d39-d8c9ad713e1e
+:END:
+
+女：我决定从明天开始每天跑一千米。
+男：真的吗？太阳从西边出来了？
+
+男的是什么意思？
+
+alternatives
+
+太阳从西边出来
+女的不可能每天跑步
+明天要跑一千米
+
+answer
+
+b
+
+notes
+
+
+
+*** 13
+:PROPERTIES:
+:ID: 0d480283-fbe1-4164-9f90-2d390ddec5fa
+:END:
+
+男：你把护照放在行李箱里了吗？
+女：没有，在我包里呢，这样拿着比较方便。
+
+护照在哪儿？
+
+alternatives
+
+行李箱里
+包里
+手里
+
+answer
+
+b
+
+notes
+
+
+
+*** 14
+:PROPERTIES:
+:ID: 99b49b09-c06a-481b-8806-fc891ab71aa3
+:END:
+
+女：请问，学校附近有中国银行吗？
+男：有，除了西门，向左走两百米就能看见。
+
+女的要去哪儿？
+
+alternatives
+
+学校
+银行
+西门
+
+answer
+
+b
+
+notes
+
+
+
+*** 15
+:PROPERTIES:
+:ID: a2f4601d-bb5d-4a2f-b306-a38085ecd511
+:END:
+
+女：火车站离这儿很 远，坐车不太方便，我开车送你去。
+男：不用了，谢谢您，我还是自己达出租车去吧。
+
+男的打算怎么去火车站？
+
+alternatives
+
+开车
+打车
+坐公共汽车
+
+answer
+
+b
+
+notes
+
+
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: a4f52f63-5683-4074-ae33-4c34c2f4c87d
+:END:
+
+男：这是你画的吗？
+女：太阳是我画的，小猫是妹妹画的。
+男：真好看，画好了吗？
+女：还没有，我想在这儿再画点儿花儿。
+
+
+女的还准备画什么？
+
+alternatives
+
+太阳
+小猫
+花儿
+
+answer
+
+c
+
+notes
+
+
+
+*** 17
+:PROPERTIES:
+:ID: e63de62a-b87f-4f97-ac53-989b5cbd6ac2
+:END:
+
+女：吃好了吗？要不要再来点儿米饭？
+男：不吃了。家里还有西瓜吗？
+女：还有半个，你自己拿吧。
+男：好的。
+
+关于男的，可以知什么？
+
+alternatives
+
+帮女的拿西瓜
+想再吃点儿米饭
+想吃点儿西瓜
+
+answer
+
+c
+
+notes
+
+
+
+*** 18
+:PROPERTIES:
+:ID: 49a68b9b-5336-49f7-a083-846a1ea6d886
+:END:
+
+男：喂，是小马吗？
+女：是我，周经理，您有什么事？
+男：我明天十点要去火车站接个人。
+女：好的， 我知道了，我让司机明天九点前到楼下等您。
+
+
+男的明天要做什么？
+
+alternatives
+
+去接人
+坐火车
+找司机
+
+answer
+
+a
+
+notes
+
+
+
+*** 19
+:PROPERTIES:
+:ID: 699c47e3-1f9e-4e38-ba63-3934e942a428
+:END:
+
+女：你会骑自行车吗？
+男：当然，我以前经常骑车去上课。
+女：拿你教教我吧，我一直想学。
+男：可以啊，你什么时候有时间？
+
+
+男的要做什么？
+
+alternatives
+
+骑车去上课
+教女的骑车
+学骑自行车
+
+answer
+
+b
+
+notes
+
+
+
+*** 20
+:PROPERTIES:
+:ID: 2bd14931-7c7e-4a6f-a7bc-d61776e92aa3
+:END:
+
+
+女：你怎么才来，都八点一刻了。
+男：对不起，来机场的路上才发现没带护照。
+女：出门的时候你怎么不好好看看呢？
+男：你一直给我打电话，我很着急，就出了问题。
+
+男的怎么了？
+
+alternatives
+
+来机场晚了
+找不到护照了
+忘了给女的打电话
+
+answer
+
+a
+
+notes
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: 1ecc7316-125a-45c2-b7b8-14da3d292f8e
+:END:
+
+alternatives
+
+你怎么现在才给周经理写信？
+我想学画画儿，你帮我找一个老师教我吧。
+请问您需要什么帮助吗？
+你看桌子下边的那个箱子里有没有？
+当然。我们先坐公共汽车，然后换地铁。
+我担心路上车太多，不好走。
+
+
+*** 21
+:PROPERTIES:
+:ID: c1d61382-ac42-4551-bfa8-669d14deb3fa
+:END:
+
+content
+
+我找不到行李箱了，您帮我找找吧。
+
+answer
+
+c
+
+*** 22
+:PROPERTIES:
+:ID: 4faca7ed-57e0-4418-8644-2738f4152edc
+:END:
+
+content
+
+飞机十点才起飞，你怎么现在酒要走？
+
+answer
+
+f
+
+*** 23
+:PROPERTIES:
+:ID: 364a91ab-a27c-4fe5-9923-badeda05b45c
+:END:
+
+content
+
+你想学画画儿，真是太阳从西边出来了。
+
+answer
+
+b
+
+*** 24
+:PROPERTIES:
+:ID: 7b54299e-a63f-45d1-bd6f-4c4276eb8007
+:END:
+
+content
+
+你把我的护照放在哪儿了？
+
+answer
+
+d
+
+*** 25
+:PROPERTIES:
+:ID: 5caff5e4-6957-44f1-96f5-1a8243a62922
+:END:
+
+content
+
+对不起，小丽才把他的电子邮箱告诉我。
+
+answer
+
+a
+
+notes
+
+邮箱 | you2  xiang1 | mailbox ;
+
+
+
+** 2
+:PROPERTIES:
+:ID: c3511b77-1b8d-4c4b-b6b7-311af93f6c0f
+:END:
+
+alternatives
+
+司机
+起飞
+发现
+自己
+声音
+包
+
+*** 26
+:PROPERTIES:
+:ID: 30ee7aec-6392-43b9-b94f-51383765ebef
+:END:
+
+content
+
+我回来了，真累啊，帮我把//放在桌子上吧。
+
+answer
+
+f
+
+*** 27
+:PROPERTIES:
+:ID: dce263dd-161e-49e7-b651-de42aecb2a4b
+:END:
+
+content
+
+你给//打个电话，让他下午三点来接我。
+
+answer
+
+a
+
+*** 28
+:PROPERTIES:
+:ID: ca083b1e-a062-4e66-93b9-2fb53bc04902
+:END:
+
+content
+
+我//你最近总是上课睡觉你晚上几点睡啊？
+
+answer
+
+c
+
+*** 29
+:PROPERTIES:
+:ID: f0df765d-e472-4e6f-96d6-c97bda8509d9
+:END:
+
+content
+
+Ａ： 我们的飞机几点//？
+Ｂ：下午三点四十分，还有一个小时。
+
+answer
+
+b
+
+*** 30
+:PROPERTIES:
+:ID: f54c7469-782a-411a-99d2-3e6ff1943fd5
+:END:
+
+content
+
+Ａ：你帮我把衣服洗了吧。
+Ｂ：这些都是你的衣服，你//洗吧。
+
+answer
+
+d
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: 80f78091-b246-4cd9-aff8-967a35d3b1ae
+:END:
+
+content
+
+有个词语叫”老小孩儿“，意思是人老了又时候跟小孩子一样，容易高兴，也容易生气。
+
+inference with missing information
+
+跟鱼这段话，可以知道老人
+
+alternatives
+
+总是生气
+很喜欢小孩儿
+有些地方跟小孩儿一样
+
+answer
+
+c
+
+notes
+
+词语 | ci2 yu3 | expression, term, word ;
+词话 | ci2 hua4 | form of writing novels that comprise lots of poetry in the body of the text, popular in the Ming Dynasty ;
+
+*** 32
+:PROPERTIES:
+:ID: 1cc97cda-da90-4e3c-9309-a560e083f1c5
+:END:
+
+content
+
+妻子今天不舒服，我把她送到了医院，医生看了以后说没有大的问题，可能是最近工作太忙、太累了，让她在家里休息几天。
+
+inference with missing information
+
+妻子
+
+alternatives
+
+需要休息
+自己去医院了
+已经休息几天了
+
+answer
+
+a
+
+*** 33
+:PROPERTIES:
+:ID: 90cd441d-03c4-4f87-8fe1-1d17063100dd
+:END:
+
+content
+
+我是新来的司机，姓高，您教我小高就可以了。来，把您的行李箱给我，我放在车的后边。您带好护护照和机票了吗？我们现在就去机场。
+
+inference with missing information
+
+小高
+
+alternatives
+
+要去坐飞机
+在机场工作
+是一个司机
+
+answer
+
+c
+
+notes
+
+行李箱 | xing2 li xiang1 | suitcase ;
+
+*** 34
+:PROPERTIES:
+:ID: 58d42ca3-550a-41fc-8006-707ecccb00fd
+:END:
+
+content
+
+周明是我爸爸的同学，也是他现在的同事。我小的时候，他又时候带我出去玩儿，还教会了我游泳。明天是他的生日，我要去给他买一个大的蛋糕。
+
+inference with missing information
+
+周明
+
+alternatives
+
+是我的同学
+喜欢游泳
+明天过生日
+
+answer
+
+c
+
+*** 35
+:PROPERTIES:
+:ID: 8655117b-cf9f-4d90-9aa3-5987d1a79415
+:END:
+
+content
+
+有的事儿就是很有意思，我昨天刚才发现，你给小张介绍的男朋友是我妻子以前的同事。我们以前见过面，还一起吃过饭，那个时候我就想把他介绍给小张。
+
+inference with missing information
+
+小张的男朋友是我妻子
+
+alternatives
+
+以前的同事
+以前的丈夫
+以前的男朋友
+
+answer
+
+a
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: ffb8c674-4688-4b7c-b8e7-789410bc2778
+:END:
+
+words
+
+护照
+桌子上
+放到
+请把
+
+answer
+
+请把护照放到桌子上。
+
+*** 37
+:PROPERTIES:
+:ID: 3c27fdea-ac37-45a8-be33-4a3f0aa30784
+:END:
+
+words
+
+需要
+笔记本
+买个
+电脑
+我
+
+answer
+
+我需要买个笔记本电脑。
+
+*** 38
+:PROPERTIES:
+:ID: 398c1c22-569e-4fde-b2bc-dddbf55c0dcc
+:END:
+
+words
+
+写字
+黑板上
+在
+你习惯
+吗
+
+answer
+
+你习惯在黑板上写字吗？
+
+*** 39
+:PROPERTIES:
+:ID: 690b33f3-291e-461b-957a-87ced2fb6d0e
+:END:
+
+words
+
+超市
+自己
+吧
+你去
+
+answer
+
+你自己去超市吧。
+
+*** 40
+:PROPERTIES:
+:ID: a0743c8e-5f1a-4604-a4fe-162969334a14
+:END:
+
+words
+
+飞机
+半个小时
+还有
+就
+了
+飞机
+
+answer
+
+飞机还有半个小时就起飞了。
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: 4da6533f-2bd7-4caf-b0b9-fe8b2654735e
+:END:
+
+sentence
+
+今天没有//阳，天气很冷。
+
+pinyin
+
+tai4
+
+answer
+
+太
+
+*** 42
+:PROPERTIES:
+:ID: a78bc31f-675c-494a-a2d9-8c93a7428b3a
+:END:
+
+sentence
+
+地铁站//边有一个咖啡店。
+
+pinyin
+
+xi1
+
+answer
+
+西
+
+*** 43
+:PROPERTIES:
+:ID: 2f379275-c9df-40d0-9771-3a010dc10a02
+:END:
+
+sentence
+
+请你把//给我。
+
+pinyin
+
+bao1
+
+answer
+
+包
+
+*** 44
+:PROPERTIES:
+:ID: 9e5b3245-cf9e-44e1-b64d-85e3b7dd66cd
+:END:
+
+sentence
+
+老师今天教我们//小猫。
+
+pinyin
+
+hua4
+
+answer
+
+画
+
+*** 45
+:PROPERTIES:
+:ID: 46fe5c44-3349-4a95-8922-f545877c2950
+:END:
+
+sentence
+
+这个//行李箱是谁的？
+
+pinyin
+
+xing2
+
+answer
+
+行
+
+notes
+
+行李箱 | xing2 li3 xiang1 | luggage, suitcase ;
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: e2fe9494-f907-47c1-8c53-bc9ce8bcfeb9
+:END:
+
+content
+
+你//经不是小孩子了，要照顾好自//。
+
+answer
+
+已
+己
+
+*** 47
+:PROPERTIES:
+:ID: 4bb90281-a87c-4eb6-8eea-ef09180380c6
+:END:
+
+content
+
+飞机就要//飞了，我们没有时间去//市了。
+
+answer
+
+起
+超
+
+*** 48
+:PROPERTIES:
+:ID: e4ba3980-2835-4735-bba0-23a08a9ed08e
+:END:
+
+content
+
+以前我们是//学，现在他是我的//机。
+
+answer
+
+同
+司
+
+*** 49
+:PROPERTIES:
+:ID: 02b37eda-f0c0-441b-8547-45442b0371da
+:END:
+
+content
+
+真生//，我刚到车站，公共//车就离开了。
+
+answer
+
+气
+汽
+
+*** 50
+:PROPERTIES:
+:ID: 56d5c3d6-8a96-4875-903f-f7811809ae47
+:END:
+
+content
+
+我发//你最近越来越爱看电//了。
+
+answer
+
+现
+视
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: f9596927-353f-4889-85b2-60b79f620f57
+:END:
+
+content
+
+小丽觉得今天//从//边出来了，因为小刚12点以前//要睡觉了。小刚谁说，他的经理//了，明天小刚8点不到，以后就别去上班了。
+
+answer
+
+太阳
+西
+就
+生气
+
+** 2
+:PROPERTIES:
+:ID: 742ee5f8-b485-4ee5-b2e7-8220dd64a1ed
+:END:
+
+content
+
+小刚去机场迟到了，因为他去机场的路上才发现忘带//了。到了机场，他跟周经理借我，因为//把他送到机场的时候，他又//自己忘记带//了。飞机就要//了，周经理让小刚把重要的东西放在他那儿。
+
+
+answer
+
+护照
+司机
+发现
+钱包
+起飞
+
+notes
+
+接 | jie1 | to answer the phone, to meet or welcome somebody ;
+借 | jie4 | to borrow, to lend ;
+

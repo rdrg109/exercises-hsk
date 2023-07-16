@@ -1,0 +1,1045 @@
+:PROPERTIES:
+:CREATED: [2022-06-10 16:41:51 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: faad3114-9350-47d2-9d9f-b32aad1d620e
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: e9af6801-6bf7-4631-8e17-066ad541ab63
+:END:
+
+女：你的早饭只有一杯咖啡和一快蛋糕，吃不饱。要不要再来一个鸡蛋或者水果？
+男：没办法，为了瘦一点儿，我必须少吃。
+
+answer
+
+e
+
+notes
+
+
+
+*** 2
+:PROPERTIES:
+:ID: 974eb7aa-d549-4711-a6f4-a54d4a77f6f5
+:END:
+
+男：雪下得真大，谁有没想到今年冬天能下这么大的雪。
+女：是啊，你看孩子们玩儿得高兴。
+
+answer
+
+f
+
+notes
+
+
+
+*** 3
+:PROPERTIES:
+:ID: 97ff8077-e317-4043-a3e9-9c800d910e75
+:END:
+
+男１：经理，下个星期我想请三天假，可以吗？
+男２：这个月你已经请了两个星期假了，不能再请了。
+
+
+answer
+
+a
+
+notes
+
+
+
+*** 4
+:PROPERTIES:
+:ID: e897d1a0-340a-49bd-8d28-27af513cc867
+:END:
+
+男：你们好，我时你们的新邻居，昨天刚搬过来，设是我妻子。
+女：欢迎你们！这是我丈夫。我们再这儿住了五年了，对这儿很了解，以后有什么问题都可以来找我们。
+
+answer
+
+b
+
+notes
+
+
+
+*** 5
+:PROPERTIES:
+:ID: c30d031e-cab0-44a5-9892-f0723d33524f
+:END:
+
+女：玩儿了这么长时间，我渴了，我先和点儿水。你不渴吗？
+男：我不渴，你喝吧。我等会儿你。喝完了我们去前边玩儿。
+
+answer
+
+c
+
+notes
+
+
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: dffc57d1-7de3-45cb-83b7-817ce410fa37
+:END:
+
+明天早上请大家8点以前到公司会议室，做好开会的准备。明天的会议非常重要，谁都不能迟到，也不能请假。
+
+明天早上有一个重要的会议。
+
+answer
+
+1
+
+notes
+
+
+
+*** 7
+:PROPERTIES:
+:ID: 95044bad-a26c-4934-9b21-ea9bc9c53bc9
+:END:
+
+为了方便大家，楼下新开了一家药店，24小时不休息，什么时候去都能买到药，几点去都有人工作。
+
+那家药店晚上不能买药。
+
+
+answer
+
+0
+
+notes
+
+
+
+*** 8
+:PROPERTIES:
+:ID: fb71d98b-18d4-4104-ba04-31cb470e18a1
+:END:
+
+我们在生活中遇到问题时，不能什么事情都请别人帮忙，因为有些事情必须要自己来做选择和决定。
+
+有问题时，我们应该自己想办法。
+
+answer
+
+1
+
+notes
+
+生活 | sheng1 huo2 | to live ;
+选择 | xuan3 ze2 | to choose, to select ;
+
+*** 9
+:PROPERTIES:
+:ID: e0b11fc3-3cb4-4495-9ac9-511e583babde
+:END:
+
+学校这个学期要举行一次汉字比赛，比赛是根据要求写汉字，一共写100个，谁有兴趣都可以参加。
+
+汉字比赛时写什么都可以。
+
+answer
+
+0
+
+notes
+
+学期 | xue2 qi1 | semester ;
+举行 | ju3 xing2 | to hold (a meeting, a ceremony, a competition, etc.)
+根据 | gen1 ju4 | according to ;
+
+*** 10
+:PROPERTIES:
+:ID: e7987cfa-5295-4da9-8749-0f95e5827c0b
+:END:
+
+大家好，这个学期我们上新来了2个同学，一共21个学生。现在，请新同学给大家介绍介绍自己，大家欢迎。
+
+有3个同学要介绍自己。
+
+answer
+
+0
+
+notes
+
+
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: 9b41c2a5-48e8-4d90-9a57-0f6023ee410c
+:END:
+
+男：你不是去超市吗？怎么什么都没买？
+女：我在超市里拿了两瓶牛奶，三个面包，还拿了条鱼，后来发现没带钱包，只好都放回去了。
+
+女的买什么回来了？
+
+alternatives
+
+两瓶牛奶
+一条鱼
+什么都没买
+
+answer
+
+c
+
+notes
+
+
+
+*** 12
+:PROPERTIES:
+:ID: 509157d7-ae0f-4361-9ce3-8ecd0d1d0deb
+:END:
+
+女：走了这么长时间，渴了吧？快坐下来休息休息，你想喝点儿 什么？
+男：喝什么都行，先来杯冰水，然后再看看这儿有什么好喝的饮料。
+
+关于男的，可以知道什么？
+
+alternatives
+
+口渴
+什么都不想喝
+不想喝冰水
+
+answer
+
+a
+
+notes
+
+
+
+*** 13
+:PROPERTIES:
+:ID: 23286479-fc9a-476f-9158-cf72b4b643a1
+:END:
+
+男：听说你和丈夫去旅游了？去了哪些地方？怎么样？
+女：我们打算坐飞机去国外，找个安静的城市，好好休息休息，后来儿子生病了，为了照顾他，哪儿都没去。
+
+女的去哪儿旅游了？
+
+alternatives
+
+国外
+很多城市
+什么地方都没去
+
+answer
+
+c
+
+notes
+
+
+
+*** 14
+:PROPERTIES:
+:ID: 8869682c-bb4b-4f49-b849-6c437f8ce729
+:END:
+
+女：冬冬，你怎么这么快就考完了？做完题应该检查检查，看看有没有写鞋的字。
+男：我已经检查过了，今天的考试题特别简单，所以很快就做完了。
+
+关于冬冬，可以知道什么？
+
+alternatives
+
+觉得考试不容易
+写得很慢
+题都检查过了
+
+answer
+
+c
+
+notes
+
+
+
+*** 15
+:PROPERTIES:
+:ID: 43003695-f190-4cd3-b50e-a8d3d5318285
+:END:
+
+男：我昨天跑完步以后就一直腿疼，请您帮我检查检查，看看用不用吃点儿药。
+
+女：我太久没运动了，所以腿疼。以后多出去运动运动，不用吃药。
+
+他们可能是什么关系？
+
+alternatives
+
+经理和秘书
+医生和病人
+丈夫和妻子
+
+answer
+
+b
+
+notes
+
+
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: 2860c9cd-d358-4633-bf27-8ae6d662487b
+:END:
+
+男：老师， 我可以请几天假吗？
+女：小丽，尼看看，这个学期尼都请了几次假了？
+男：老师， 对不起，下个月是我妈妈来北京，我带她再中国旅游，然后是我姐姐来，前几天是我病了，下个星期我女朋友要来看我。
+女：小丽，如果你再不来上课，就什么都听不懂了。
+
+关于男的，可以知道什么？
+
+alternatives
+
+经常不来上课
+什么都听得懂
+没请过假
+
+answer
+
+a
+
+notes
+
+
+
+*** 17
+:PROPERTIES:
+:ID: 71cb7f1a-d7eb-4bcf-84c9-d3c33d10b9b9
+:END:
+
+女：你在听新闻？太阳从西边出来了？
+男：我对新闻没兴趣，主要是像提高提高我的汉语水平。
+女：你一个学期都没认真学习了，现在才开始努力？
+男：明天就要考试了，我要复习复习。
+
+男的为什么听新闻？
+
+alternatives
+
+天气很好
+喜欢新闻
+准备考试
+
+answer
+
+c
+
+notes
+
+
+
+*** 18
+:PROPERTIES:
+:ID: 94d5729e-f999-4a67-8c25-70de17f40676
+:END:
+
+女：我有点儿饿了，我们出去找个人少点儿的饭馆吃饭吧。
+男：这个时间，哪个饭馆人都多，我们在家吃饭吧，自己做。
+女：好，家里有鱼，有鸡蛋，还有牛肉，牛肉你想怎么吃？跟鸡蛋一起做还是跟别的菜一起做？
+男：怎么做都行，我什么都爱吃。需要我帮忙吗？
+
+关于男的，可以知道什么？
+
+alternatives
+
+想去饭馆吃
+不想吃牛肉
+什么都喜欢吃
+
+answer
+
+c
+
+notes
+
+
+*** 19
+:PROPERTIES:
+:ID: e14361ed-be21-48b8-92a8-a80911b76081
+:END:
+
+女：你再国外留学这几年怎么样？那里的生活习惯了吗？
+男：那个地方的人很热请，学习环境也不错，学校里有连个图书馆。但是天气我还不太习惯。
+女：怎么？那儿的天气跟我们这儿不一样吗？
+男：冬天特别长，从11月到第二年3月都比较冷。下大雪的时候，哪儿都不能去，只能在房间里看书。
+
+关于男的，可以知道什么？
+
+alternatives
+
+喜欢那里的冬天
+不喜欢那里的学习环境
+不习惯那里的天气
+
+answer
+
+c
+
+notes
+
+
+
+*** 20
+:PROPERTIES:
+:ID: 3496db67-699e-4f3b-86a2-96a37efa138f
+:END:
+
+男：你在椅上坐了一个多小时了，一句话都不说，怎么了？
+女：我上了一天课，给学生讲中国历史，现在什么都不想说。
+男：那你先休息休息，一会儿我带你出去吃饭。
+女：我现在哪儿都不想去，就现在假睡觉。我们晚点儿再吃饭吧。
+
+关于女的，可以知道什么？
+
+alternatives
+
+坐着上课
+是老师
+什么地方都想去
+
+answer
+
+b
+
+notes
+
+句话  | ju4 hua4 | word ;
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: 6cf3e76d-fa5f-4631-92ab-c6c0eb60314f
+:END:
+
+alternatives
+
+你几点来都可以，明天上午我不忙。
+这次是我叔叔病了，我要去医院照顾他。
+月月，你有什么爱好？喜欢音乐还是画画儿？
+今晚吃得太饱了，吃了很多米饭，饭后还吃了三块西瓜。
+当然。我们先坐公共汽车，然后换地铁。
+那儿一年四季都像春天一样，哪个季节去都很舒服。
+
+*** 21
+:PROPERTIES:
+:ID: d9fe6d2d-0e34-4e21-80bc-b4615a29d29b
+:END:
+
+content
+
+周经理，明天上午您什么时候方便？
+
+answer
+
+a
+
+*** 22
+:PROPERTIES:
+:ID: 4ea0c07b-18dc-4434-b894-560e76143d40
+:END:
+
+content
+
+我也没少吃，我们出去走走，运动运动吧。
+
+answer
+
+d
+
+*** 23
+:PROPERTIES:
+:ID: dae1b730-0056-442c-8bfc-20c85b631987
+:END:
+
+content
+
+什么时候去哪个城市旅游比较好？
+
+answer
+
+f
+
+*** 24
+:PROPERTIES:
+:ID: 00df5dbc-f1d5-4a38-b9e8-86f63918ea1d
+:END:
+
+content
+
+听说你又去跟经理情假了？
+
+answer
+
+b
+
+*** 25
+:PROPERTIES:
+:ID: 2ec24696-166b-435c-8a69-384b8b883854
+:END:
+
+content
+
+我的爱好很多，对什么都很感兴趣。
+
+answer
+
+c
+
+
+** 2
+:PROPERTIES:
+:ID: f2c8cb16-093e-4a89-8ae3-4bed5a0298d2
+:END:
+
+alternatives
+
+办法
+一共
+决定
+渴
+声音
+选择
+
+*** 26
+:PROPERTIES:
+:ID: 418f147d-f9a6-4e0f-8147-84ec72ca9fb7
+:END:
+
+content
+
+我//找个老师，下课以后帮我练习练习汉语。
+
+answer
+
+c
+
+*** 27
+:PROPERTIES:
+:ID: b872a68b-a255-4b11-8e97-2183e4482bb5
+:END:
+
+content
+
+不是什么时间锻炼身体都好，必须//”对“的时间。
+
+answer
+
+f
+
+*** 28
+:PROPERTIES:
+:ID: 8593f3e1-c520-4a32-b174-b3da3fdd1d4b
+:END:
+
+content
+
+我买了两双皮鞋，三条裤子，//是一千块。
+
+answer
+
+b
+
+*** 29
+:PROPERTIES:
+:ID: 809d3a2e-7a18-41d6-8863-c74ed08a2a91
+:END:
+
+content
+
+Ａ：你怎么总是这么瘦，你有什么好//吗？
+Ｂ：我也不知道，其实我吃得不少。
+
+answer
+
+a
+
+*** 30
+:PROPERTIES:
+:ID: 4a9bf68e-34c1-4e79-ab9f-465bc459f78c
+:END:
+
+content
+
+Ａ：我太//了，快把饮料给我。
+Ｂ：运动以后不能马上喝水，你休息一会儿再喝吧。
+
+answer
+
+d
+
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: 279b4e48-c6b1-4f9f-bc9d-a69f79901b3b
+:END:
+
+content
+
+我刚来这儿工作的时候，谁都不认识，哪儿都不了解。每天一个人上班，一个人回家，周末哪儿也不去。现在不一样了，我和公司的同事经常一起开车出去玩儿，下了班还一起出体育馆运动运动，每天都特别开心。
+
+inference with missing information
+
+我以前
+
+alternatives
+
+认识很多人
+经常出去玩儿
+对这个地方不太了解
+
+answer
+
+c
+
+*** 32
+:PROPERTIES:
+:ID: 296626df-7563-4d30-8e7f-acb76929a3df
+:END:
+
+content
+
+老人学时，很多学生都不知道自己要上哪个大学。他们经常看别人选什么，自己就选什么。其实，要根据自己的高兴喝爱好选择大学和学什么，谁都不能帮你做决定，因为没有人比你更了解自己。
+
+inference with missing information
+
+选择大学
+
+alternatives
+
+要根据高兴
+要看别人怎么做
+要请爸爸妈妈决定
+
+answer
+
+a
+
+*** 33
+:PROPERTIES:
+:ID: 40cbb4b0-0183-4818-bc96-111b9d6eb0d7
+:END:
+
+content
+
+我三岁大的女儿走到哪儿都要带着一本叫《小狗笑笑》的故事书，看见谁都要讲讲书里的故事。虽然书上的字她还不能都看懂，但是经常看着花儿讲给我听。现在，我也很喜欢笑笑，它长得可爱级了，准见了它都喜欢。
+
+inference with missing information
+
+我女儿
+
+alternatives
+
+喜爱《小狗笑笑》
+只给妈妈讲故事
+不认识字
+
+answer
+
+a
+
+notes
+
+喜爱 |  xi3 ai4 | favorite, to like, to love ;
+
+*** 34
+:PROPERTIES:
+:ID: 566e0960-01df-4c56-88f7-0a4a1ea99174
+:END:
+
+content
+
+谁都知道健康很重要，怎么吃最健康呢？中国有句话叫“早吃好，午吃饱，晚吃少”。早饭后人们开始一天的学习和工作，所以一定要吃得好。一般来说，牛奶喝鸡蛋不是错的选择。下午还要工作、学习，所以午饭不能少吃，要吃的饱一点儿。晚饭不是吃多少都可以，也不是几点吃都可以。因为饭后不就就要睡觉了，所以要早点儿吃，也不能多吃。
+
+inference with missing information
+
+根据这段话，可以知道
+
+alternatives
+
+早饭要早点儿吃
+吃了晚饭就应该睡觉
+中午一定要吃饱
+
+answer
+
+c
+
+notes
+
+句话 | ju4 hua4 | sentence ;
+
+*** 35
+:PROPERTIES:
+:ID: 081a3a32-ac50-4a8d-a406-fd159e4a4a8e
+:END:
+
+content
+
+我爷爷是个热心人，谁的忙他都愿意帮。谁的车坏了，哪家的孩子病了，谁的狗找不到了，爷爷都过去帮忙。他常说：大家都是邻居，帮忙是应该的。如果遇到问题，没有人愿意帮忙，人和人的关系就越来越远了。
+
+inference with missing information
+
+爷爷
+
+alternatives
+
+遇到了问题
+经常帮别人
+不知道要帮谁
+
+answer
+
+b
+
+notes
+
+热心 | re4 xin1 | enthusiastic, warm-hearted ;
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: b5b46aa1-397d-47f2-b4e9-4deae3b76cba
+:END:
+
+words
+
+去
+哪儿
+都
+妻子
+没
+过
+
+answer
+
+妻子哪儿都没去过。
+
+*** 37
+:PROPERTIES:
+:ID: a7439f14-fed7-415e-98f3-b4a8a1ab0138
+:END:
+
+words
+
+名字
+他的
+都
+谁
+知道
+
+answer
+
+谁都知道他的名字。
+
+*** 38
+:PROPERTIES:
+:ID: 0ed5761f-fa74-4e34-a195-f8fe5c09c9b3
+:END:
+
+words
+
+可以
+都
+怎么
+我们
+去
+那儿
+
+answer
+
+我们怎么去那儿都可以。
+
+*** 39
+:PROPERTIES:
+:ID: ed9cd969-69a7-48cb-a471-b3d51ca08e79
+:END:
+
+words
+
+喝
+什么
+现在
+妹妹
+都
+不
+想
+
+answer
+
+现在妹妹什么都不想喝。
+
+*** 40
+:PROPERTIES:
+:ID: fb37eaea-51e7-490f-8f66-0fbd76d99ba8
+:END:
+
+words
+
+时候
+打电话
+我
+给
+什么
+你
+可以
+都
+
+answer
+
+你什么时候给我打电话都可以。
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: 381ff149-806a-4785-b576-54864900d44c
+:END:
+
+sentence
+
+经理，我想请一个星期//，可以吗？
+
+pinyin
+
+jia4
+
+answer
+
+假
+
+*** 42
+:PROPERTIES:
+:ID: 18c17b71-54d6-48d0-80f0-ee3a3f336396
+:END:
+
+sentence
+
+明天一//8个人去机场，我们需要两辆车。
+
+pinyin
+
+gong4
+
+answer
+
+共
+
+*** 43
+:PROPERTIES:
+:ID: 449ea77e-7df1-416d-8ee5-005e4c4ee9d7
+:END:
+
+sentence
+
+我想快点儿提高汉语水平，你有什么好办//吗？
+
+pinyin
+
+fa3
+
+answer
+
+法
+
+*** 44
+:PROPERTIES:
+:ID: 0954082e-3057-4e63-85d9-ec2d486992c3
+:END:
+
+sentence
+
+在这家公司工作了几年后，她//定找一个新工作。
+
+pinyin
+
+jue2
+
+answer
+
+决
+
+*** 45
+:PROPERTIES:
+:ID: 929fd4cb-efe1-4091-aee2-6090307de187
+:END:
+
+sentence
+
+这个地方的//天很舒服，一点儿也不冷。
+
+pinyin
+
+dong1
+
+answer
+
+冬
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: 5c7fc2ec-06a8-4039-856e-1ed5705ad3f4
+:END:
+
+content
+
+根//邻//说的话，大家很快就找到了那个孩子。
+
+answer
+
+据
+居
+
+*** 47
+:PROPERTIES:
+:ID: d44a76a5-db88-4acd-91bd-af0dee5cd318
+:END:
+
+content
+
+你刚吃//，最好不要马上//步，对身体不好。
+
+answer
+
+饱
+跑
+
+*** 48
+:PROPERTIES:
+:ID: 71ab3600-84b2-4b0e-a3dc-7e5ffc7c7b9f
+:END:
+
+content
+
+天黑，路不好走，我有点儿担//女儿，所以//须出去看看。
+
+answer
+
+心
+必
+
+*** 49
+:PROPERTIES:
+:ID: 6b656f2d-1ee7-4a45-ab2f-70f73ac4f7c6
+:END:
+
+content
+
+你不是口//了吗？我带了冰茶，给你//点儿。
+
+answer
+
+渴
+喝
+
+notes
+
+冰茶 | bing1 cha2 | iced tea ;
+口渴 | kou3 ke3 | thirsty ;
+
+*** 50
+:PROPERTIES:
+:ID: d98999bf-cbf8-4f7a-acda-15fc9a68aac8
+:END:
+
+content
+
+如果要//车，一定要//择一家服务好的店，不能只想着便宜。
+
+answer
+
+洗
+选
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: ce807736-8c92-4114-8493-033b0d2ac0c4
+:END:
+
+content
+
+小丽的同事很想认识那个高高的男人，就问小丽对他是不是//。小丽告诉同事他们过去是//，后来是大学同学，那个男人有很多//，//都会。但是小丽不能把他介绍给同事，因为他现在是小丽的//。
+
+answer
+
+了解
+邻居
+爱好
+什么
+丈夫
+
+*** QUESTION “什么都会”什么意思？
+:PROPERTIES:
+:CREATED: [2022-10-02 23:24:21 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-02 Sun 23:24]
+:END:
+
+** 2
+:PROPERTIES:
+:ID: 9c996252-1f94-4a95-893d-331a142ad08e
+:END:
+
+content
+
+周太太最近觉得哪儿都不舒服，想去医院//。周经理觉得//有办法看好她的“病”，因为太太三年没运动了，每天吃//了就睡。//健康，周太太决定从明天起每天去长跑，//。
+
+answer
+
+检查检查
+谁都
+饱
+为了
+多锻炼锻炼
+
+*** QUESTION 为什么这个句子中有"起"？这是什么意思？
+:PROPERTIES:
+:CREATED: [2022-10-21 18:41:00 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-21 Fri 18:41]
+:END:
+
+
+
+自信

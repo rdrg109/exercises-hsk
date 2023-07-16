@@ -1,0 +1,1093 @@
+:PROPERTIES:
+:CREATED: [2022-06-10 12:17:48 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: a42a828e-5889-473c-ae58-9c3abbbd8c8f
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: 27a92b4d-176b-4451-9d7d-bcdd7d27b9c1
+:END:
+
+男１：你现在打篮球的水平越来越高了。
+男２：我觉得没什么提高，还跟以前一样。
+
+
+answer
+
+c
+
+notes
+
+
+
+*** 2
+:PROPERTIES:
+:ID: 70789895-53f4-4367-b288-7c17d08e72a4
+:END:
+
+男：你要发电字邮件吗？我去把电脑打开。
+女：不用，我的手机能上网，用手机也不能发。
+
+answer
+
+a
+
+notes
+
+
+
+*** 3
+:PROPERTIES:
+:ID: ec44ccfc-5916-44b4-ab74-9faf3e12fbe5
+:END:
+
+男１：你们这儿除了鱼以外，还有什么好吃的吗？
+男２：今天的羊肉也很新鲜，您要不要来一个？
+
+
+answer
+
+e
+
+notes
+
+**** ANSWERED 
+:PROPERTIES:
+:CREATED: [2022-06-10 12:23:07 -05]
+:ID: da5c5abe-67b9-4b18-99e7-18c3eccbbcdb
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-10-03 Mon 20:00]
+- State "QUESTION"   from              [2022-06-10 Fri 12:23]
+:END:
+
+***** 问题
+:PROPERTIES:
+:CREATED: [2022-10-03 19:53:15 -05]
+:END:
+
+Is it always necessary to say 以外 after saying  除了?
+
+除了唱歌，你有什么爱好？
+除了唱歌（以外），你有什么爱好？
+
+除了自行车，你会做什么运动？
+除了自行车（以外），你会做什么运动？
+
+除了春节，在你的国家有什么节日？
+除了春节（以外），在你的国家有什么节日？
+
+***** 答案
+:PROPERTIES:
+:CREATED: [2022-10-03 19:54:48 -05]
+:END:
+
+The meaning is the same.
+
+
+*** 4
+:PROPERTIES:
+:ID: 657f15c7-107a-4c9e-9f49-0cfa5f1b16e7
+:END:
+
+男：这个月你怎么花了这么多钱？
+女：我记得我只买了几件衣服，其他也没买什么啊。
+
+answer
+
+b
+
+notes
+
+
+
+*** 5
+:PROPERTIES:
+:ID: f2d89aa8-d059-4777-ac87-deaf24472f52
+:END:
+
+男：看什么呢？今天报纸上有什么新闻吗？
+女：我没看新闻，我看看今天天气怎么样。
+
+answer
+
+f
+
+notes
+
+
+
+
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: 9f5d9f4a-b55a-4ee9-a965-dec3b8a49bda
+:END:
+
+叔叔让我花时间认真地读一读这本书，他说书里的故事对她得影响很大。她希望我也能从书中学到一些东西。
+
+叔叔希望我花前买本书。
+
+answer
+
+0
+
+notes
+
+
+
+*** 7
+:PROPERTIES:
+:ID: 9ed42410-6a2d-4a86-90c0-2d14aa15afeb
+:END:
+
+每天晚上的这个时间，电视上除了新闻以外，没什么其他节目，所以弟弟只好上网看自己喜欢的电视节目。
+
+弟弟每天晚上都上网看新闻。
+
+answer
+
+0
+
+notes
+
+
+
+*** 8
+:PROPERTIES:
+:ID: 792df24a-d96c-48f7-8165-637c183203fd
+:END:
+
+女儿在国外留学三年了。除了每天上课学习以外，课后还要去饭馆帮忙洗盘子。虽然每个月我们都给她不少钱，但是她说花自己的钱更舒服。
+
+女儿边留学边在饭馆工作。
+
+answer
+
+1
+
+notes
+
+**** QUESTION
+:PROPERTIES:
+:CREATED: [2022-06-10 12:41:07 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-10 Fri 12:43]
+:END:
+
+***** 问题
+:PROPERTIES:
+:CREATED: [2022-10-03 19:54:02 -05]
+:END:
+
+“以外” 什么意思？
+
+This question is similar to id:da5c5abe-67b9-4b18-99e7-18c3eccbbcdb.
+
+*** 9
+:PROPERTIES:
+:ID: db1864cc-dc02-4be3-b187-a9745f24d86f
+:END:
+
+老方每天都坐再办公室中间得那把椅子上，边看报纸边喝茶，报纸上有什么有意思的新闻，他都读给我们听。
+
+老方每天都看报纸。
+
+answer
+
+1
+
+notes
+
+
+
+*** 10
+:PROPERTIES:
+:ID: 192defe6-cd20-49cd-9db8-f1ade14d1c54
+:END:
+
+这个短期班下周日就要结束了，以后我们不能像现在这样经常见面了，有什么事情可以给我打电话或者发电子邮件。
+
+他们以后能经常见面。
+
+answer
+
+0
+
+notes
+
+
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: 651f2b2b-5bcf-47ae-bd6b-addec9fd9cc1
+:END:
+
+男：你这个地方生活了二十年，对这儿很了解了吧？
+女：对，这个地方除了夏天太热以外，其他都很好，环境不错，买东西也方便。
+
+
+女的觉得这个地方怎么样？
+
+alternatives
+
+环境不好
+商店很远
+夏天很热
+
+answer
+
+c
+
+notes
+
+生活 | sheng1 huo2 | to live ;
+
+*** 12
+:PROPERTIES:
+:ID: 719485fa-40dc-4e39-83df-64ffc2ad0a85
+:END:
+
+女：除了这条裤子以外，还有什么要洗的吗？
+男：那条裤子时干净的，不用洗，你把那两件衬衫洗了吧。
+
+男的不让洗什么？
+
+alternatives
+
+裤子
+裙子
+衬衫
+
+answer
+
+a
+
+notes
+
+
+
+*** 13
+:PROPERTIES:
+:ID: 17e073e8-a96e-4f34-8bf7-1ab5a656aad0
+:END:
+
+男：除了安静以外，您对房子还有什么要求吗？有电梯的还是没电梯的？
+女：我只有这一个要求，你们有这样的房子吗？
+
+问：女的想要什么样的房子？
+
+alternatives
+
+有电梯的
+没电梯的
+安静的
+
+answer
+
+c
+
+notes
+
+
+
+*** 14
+:PROPERTIES:
+:ID: 92c51de0-8925-40d3-a0f6-3524a5e4eb65
+:END:
+
+男：你的字写得漂亮极了，你是怎么写的？能教教我吗？
+女：开始的时候除了认真学，慢慢写以外，还要努力练习，这样才能越写越快，越写越漂亮。
+
+女的写字写得怎么样？
+
+alternatives
+
+不认真
+特别漂亮
+特别慢
+
+answer
+
+b
+
+notes
+
+
+
+*** 15
+:PROPERTIES:
+:ID: 8f18b3d8-5712-458c-bf07-8c236acd79db
+:END:
+
+男：你今天穿得这么漂亮，要见什么重要的人吗？
+女：除了你以外，还有更重要的人吗？今天是中秋节，我们一起去看个电影吧。
+
+女的觉得谁是最重要的人？
+
+alternatives
+
+男的
+自己
+穿得漂亮的人
+
+answer
+
+a
+
+notes
+
+
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: 8cc65339-6f2c-43eb-86ff-7a966243730b
+:END:
+
+女：大明，一年四季，你最喜欢那个季节？
+男：我啊，除了夏天以外，我都喜欢。
+女：能告诉我为什么吗？
+男：我怕热啊，这儿的夏天热极了，你不觉得吗？
+
+关于男的，可以知道什么？
+
+alternatives
+
+喜欢夏天
+不喜欢热
+四个季节都喜欢
+
+answer
+
+b
+
+notes
+
+
+
+*** 17
+:PROPERTIES:
+:ID: 3eb5ea09-9b89-4bc6-86ec-10c7f5ca3754
+:END:
+
+女：我们新买的房子就再刚才过去的那条街上。
+男：是吗？我看环境很好。
+女：没错，那儿的街道除了很干净以外，也很安静，附近还有格花园。
+男：有树有草，好极了！真想快点儿搬过去。
+
+关于那个房子，可以知道什么？
+
+alternatives
+
+环境不错
+不太安静
+不太干净
+
+answer
+
+a
+
+notes
+
+街道 | jie1 dao4  | street ;
+街上 | jie1 shang4 | on the street ;
+
+
+*** 18
+:PROPERTIES:
+:ID: 446da0f6-7d8f-4424-ae69-015fde7aeb00
+:END:
+
+男：这条裙子不大不小，真不错。
+女：颜色也好看，我穿着它去参加朋友的生日晚会，一定漂亮级了。
+男：那你为什么不买？有什么不满意吗？
+女：除了太贵以外，没什么不满意的。
+
+女的觉得这见衣服怎么样？
+
+alternatives
+
+颜色不好
+不便宜
+太大了
+
+answer
+
+b
+
+notes
+
+晚会 | wan3 hui4 | evening party ;
+
+*** 19
+:PROPERTIES:
+:ID: a27f6124-7852-4ec2-8629-6461e92df321
+:END:
+
+女：您好，我的手机从前天季节开始就不能上网了，您帮我看看吧？
+男：除了上不去刚以外，还有什么其他问题吗？
+女：打电话的时候声音特别小，经常听不清楚。
+男：您别着急，我马上帮你看看。
+
+女的的手机有什么问题？
+
+alternatives
+
+不能打电话
+没有声音
+不能上网
+
+answer
+
+c
+
+notes
+
+
+
+*** 20
+:PROPERTIES:
+:ID: dacabf19-e910-4607-8431-3ba3f276150b
+:END:
+
+男：您好，我在这儿只住了一个星期，怎么这么贵？
+女：对不起，我们宾馆除了水以外，房间里其他吃的，喝的都是要花钱的。
+男：上网和打电话也要自己花钱吗？
+女：对，上网每个小时5块，打电话一分钟也是5块。
+
+在这个宾馆里做什么不用花钱？
+
+alternatives
+
+喝水
+上网
+打电话
+
+answer
+
+a
+
+notes
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: 629163b5-457c-421a-b811-c8e457cd72f0
+:END:
+
+alternatives
+
+参加会议的人都到了吗？
+没什么有意思的，我们上网看个电影吧。
+请问，这两个手机又什么不一杯吗？
+除了半个西瓜以外，没有其他水果了。
+当然。我们先坐公共汽车，然后换地铁。
+我想提高汉语水平，应该做些什么呢？
+
+*** 21
+:PROPERTIES:
+:ID: 2268bec9-dbb5-48de-b173-39095241d2f1
+:END:
+
+content
+
+你要多听，多说，还要多跟中国朋友练习。
+
+answer
+
+f
+
+*** 22
+:PROPERTIES:
+:ID: 8df81291-2eb3-4458-870b-ece3694c236b
+:END:
+
+content
+
+冰箱里还有什么水果吗？
+
+answer
+
+d
+
+*** 23
+:PROPERTIES:
+:ID: 5b99e212-e7fb-4578-9d8d-ca630041a11f
+:END:
+
+content
+
+这个黑色的手机字比较大，红色的小一些。
+
+answer
+
+c
+
+*** 24
+:PROPERTIES:
+:ID: d0de8b4a-6637-491f-9e50-4b59191d939c
+:END:
+
+content
+
+除了常笑以外，大家都到了。
+
+answer
+
+a
+
+*** 25
+:PROPERTIES:
+:ID: 52aff528-615c-43aa-b641-39fc4be8dcd4
+:END:
+
+content
+
+电视上有什么好看的节目吗？
+
+answer
+
+b
+
+** 2
+:PROPERTIES:
+:ID: ec1db075-07de-4743-9533-f19b551a8a37
+:END:
+
+alternatives
+
+上网
+练习
+完成
+节目
+声音
+世界
+
+notes
+
+完成 | wan2 cheng2 | to complete ;
+世界 | shi4 jie4 | planet ;
+
+
+*** 26
+:PROPERTIES:
+:ID: 3fcab964-5af8-4327-966f-fe82d9683769
+:END:
+
+content
+
+这个//，上课的时候我们已经做过了，不用再做了。
+
+answer
+
+b
+
+**** QUESTION 
+:PROPERTIES:
+:CREATED: [2022-10-03 06:21:49 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-03 Mon 06:21]
+:END:
+
+***** 问题
+:PROPERTIES:
+:CREATED: [2022-10-03 06:21:53 -05]
+:END:
+
+“这个练习”的意思是"This exercise"吧？
+
+（这个练习），上课的时候我们已经做过了，不用再做了。
+
+***** 答案
+:PROPERTIES:
+:CREATED: [2022-10-03 20:01:23 -05]
+:END:
+
+”练习“
+
+*** 27
+:PROPERTIES:
+:ID: a7b9c58e-8ca0-4569-aa19-374f9d3032a0
+:END:
+
+content
+
+孩子们最喜欢这个//，因为不用去上课，还能吃到好吃的。
+
+answer
+
+d
+
+*** 28
+:PROPERTIES:
+:ID: b29cadc3-40ad-4fa8-84d5-42b184dbc451
+:END:
+
+content
+
+//可以发电子邮件，可以看节目，还可以买东西，真方便。
+
+answer
+
+a
+
+*** 29
+:PROPERTIES:
+:ID: c3d26a69-f66c-4192-96ad-5eac4d70df6a
+:END:
+
+content
+
+Ａ：六点半了，你还不回家？
+Ｂ：今天的工作还没//，我晚一点儿再回去。
+
+answer
+
+c
+
+*** 30
+:PROPERTIES:
+:ID: f375948c-2048-471e-beb9-30c8711aab75
+:END:
+
+content
+
+Ａ：这是一张//地图，请大家找找中国在哪儿。
+Ｂ：老师，我找到了。
+
+answer
+
+f
+
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: 3fff794d-32bb-431d-b0b4-3ab05ad4d02d
+:END:
+
+content
+
+以前的手机只能打电话，现在除了打电话以外，还能上网。世界上有什么新闻，马上就能知道。在没有电脑的地方，想给朋友发电子邮件，也能用手机，方便级了！
+
+inference with missing information
+
+以前的手机可以做什么？
+
+alternatives
+
+发电子邮件
+上网
+打电话
+
+answer
+
+c
+
+*** 32
+:PROPERTIES:
+:ID: 0e4cfe73-7180-42ed-aa44-fa0c78115ada
+:END:
+
+content
+
+我在中国留学了三年，除了提高了汉语水平以外，还了解了中国和世界文化。我们班除了老师，其他人都不是中国人，大家来自世界名地。上课喝课间休息的时候，大家都用汉语聊天儿，介绍自己的文化，有意思级了。
+
+inference with missing information
+
+在中国留学
+
+alternatives
+
+老师不是中国人
+可以了解名地文化
+不能提高汉语水平
+
+answer
+
+b
+
+*** 33
+:PROPERTIES:
+:ID: 279dee41-53cc-4606-a99d-a3e1329999d2
+:END:
+
+content
+
+从下个月1号开始，这个地方要举行世界电影文化周，在文化周上，除了可以看到世界名地最新的电影，还有人为大家介绍名地的电影文化。一周七天，天天不同。对电影喝电影文化感兴趣的朋友们，一定要去看看。
+
+inference with missing information
+
+关于世界电影文化周，可以知道什么？
+
+alternatives
+
+从1号到10号
+有最新的电影
+没有电影介绍
+
+answer
+
+b
+
+notes
+
+举行 | ju3 xing2 | to hold a meeting or ceremony ;
+
+*** 34
+:PROPERTIES:
+:ID: 1d3283e8-0e51-4c9f-9074-ed93b746dce0
+:END:
+
+content
+
+春节是中国最重要的节日，这一节日在中国有很长的历史了。春节那天，大家都要在家里和家人一起做饭吃。近年来，除了在家吃饭以外，有些人也去饭馆吃饭，他们说这样更方便，还可以吃到在家不容易做的菜。
+
+inference with missing information
+
+关于春节，可以知道什么？
+
+alternatives
+
+一定要在家吃饭
+是世界上最重要的节日
+历史很长
+
+answer
+
+c
+
+notes
+
+近年 | jin4 nian2  | recent years ;
+
+*** 35
+:PROPERTIES:
+:ID: 7e195321-0345-4434-b335-2836a799a59a
+:END:
+
+content
+
+过去这儿有很多矮小的旧房子，但是这几年都不见了。现在，我们眼前除了高楼以外，还有干净的街道喝漂亮的花园，这个地方的文化真是大级了。
+
+inference with missing information
+
+这个地方现在
+
+alternatives
+
+有不少老房子
+街道很干净
+没有什么文化
+
+answer
+
+b
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: 0b869d9a-d87b-405d-9e49-260b094683e1
+:END:
+
+words
+
+笑笑
+以外
+除了
+别人
+都
+来了
+
+
+answer
+
+除了笑笑以外，别人都来了。
+
+*** 37
+:PROPERTIES:
+:ID: 388cce2d-3ba2-4f53-b8c0-fce3096568ee
+:END:
+
+words
+
+这个地方
+级了
+街道
+干净
+的
+
+answer
+
+这个地方的街道干净级了。
+
+*** 38
+:PROPERTIES:
+:ID: 444a906d-9ff5-4d3b-bae4-39d22f2bced2
+:END:
+
+words
+
+历史
+文化
+除了
+还
+我
+以外
+喜欢
+
+answer
+
+除了历史以外，我还喜欢文化。
+
+*** 39
+:PROPERTIES:
+:ID: e7b8a5f2-e382-4ace-9548-f88bf4233c13
+:END:
+
+words
+
+什么
+有
+好看
+电影院
+电影
+吗
+的
+
+answer
+
+电影院有什么好看的电影吗？
+
+*** 40
+:PROPERTIES:
+:ID: 07d79fbc-1b5f-4cca-b9e1-7877718a38e1
+:END:
+
+words
+
+旅游
+除了
+我
+爬山
+愿意
+也
+
+answer
+
+除了旅游我也愿意爬山。
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: 5386a2c0-db7c-4331-97a1-7bd3ef5fdc5b
+:END:
+
+sentence
+
+马可，你的汉语水平//高了不少，老师真为你高兴！
+
+pinyin
+
+ti2
+
+answer
+
+提
+
+*** 42
+:PROPERTIES:
+:ID: 7270214d-df8c-4f81-94ca-181859657dfa
+:END:
+
+sentence
+
+方朋，这个//子是什么意思？我没看明白。
+
+pinyin
+
+ju4
+
+answer
+
+句
+
+*** 43
+:PROPERTIES:
+:ID: 780f2b0c-f78b-47b6-8222-fac48b8b1b9f
+:END:
+
+sentence
+
+周经理，以后有什么问题，我可以给您//邮件吗？
+
+pinyin
+
+fa1
+
+answer
+
+发
+
+*** 44
+:PROPERTIES:
+:ID: bc688ba3-16a2-48a7-b867-9ce023065141
+:END:
+
+sentence
+
+快把电视打开，新//开始了。
+
+pinyin
+
+wen2
+
+answer
+
+闻
+
+*** 45
+:PROPERTIES:
+:ID: 2778f2fd-529e-4f17-a2ee-2bf8c9d77f18
+:END:
+
+sentence
+
+你看，//道两边都是树，一点儿也不觉得热。
+
+pinyin
+
+jie1
+
+answer
+
+街
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: 80c0d71a-feb6-40c4-8bb1-8a3f349132d0
+:END:
+
+content
+
+你每天除了//习汉语以外，也要锻//身体。
+
+answer
+
+练
+炼
+
+*** 47
+:PROPERTIES:
+:ID: 67798039-933f-45c6-a15c-6507efb74ae4
+:END:
+
+content
+
+大家都过来，我说一下这次篮//比赛的要//！
+
+answer
+
+球
+求
+
+*** 48
+:PROPERTIES:
+:ID: e96fd010-0b16-4e29-8aab-981b328701e3
+:END:
+
+content
+
+外边开始刮//了，别出去踢球了，在家上会儿//吧。
+
+answer
+
+风
+网
+
+*** 49
+:PROPERTIES:
+:ID: 3998b43b-bfc2-44dd-9082-a02655844066
+:END:
+
+content
+
+在这个重要的节//里，有很多歌舞节//。
+
+answer
+
+日
+目
+
+*** 50
+:PROPERTIES:
+:ID: 7f7685a0-e547-4c0d-847c-989f489f077d
+:END:
+
+content
+
+弟弟除了喜欢中国文化以外，//对//界文化很感兴趣。
+
+answer
+
+也
+世
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: 499e5fa2-640f-4a43-a747-5dd30eb632e0
+:END:
+
+content
+
+大山来中国//两年了，他觉得自己的汉语//提高得一点儿也不快。昨天的作业，老师觉得他写得不错，//一个句子意思有些不清楚//，//都没什么问题。
+
+answer
+
+留学
+水平
+除了
+外
+其他
+
+** 2
+:PROPERTIES:
+:ID: d15c9367-5499-4eea-87f6-b3c06cd4bb87
+:END:
+
+content
+
+现在用电脑//真方便。除了看//，人们//可以听歌、看电影、买东西。小刚在网上买了一件衣服，有点儿小，给他弟弟了。不用//，还有新衣服穿，弟弟满意//。
+
+answer
+
+上网
+新闻
+还
+花钱
+极了
+

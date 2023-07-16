@@ -1,0 +1,472 @@
+:PROPERTIES:
+:CREATED: [2022-05-22 20:10:37 -05]
+:END:
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-05-22 20:10:41 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-22 20:10:43 -05]
+:ID: 75df1544-6100-44d5-bfcf-7bcaae3402e7
+:END:
+
+
+*** 标题
+
+**** 中文
+
+在休息室
+
+**** 英语
+
+In the lounge
+
+*** 对话
+
+小丽：我的照相机被谁拿走了？怎么找不到了？
+同事：你再找找。是不是没带来？
+小丽：我找了，没找到啊。
+同事：别难过，再买一个吧，公司东门外不就有一个大商场吗？
+小丽：但是我这个月信用卡里的钱已经花得差不多了。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:31:23 -05]
+:END:
+
+商场 | shang1 chang3 | shopping  center, shopping mall ;
+花 | hua4 | to spend ;
+差 | cha4 | to fall short of ;
+
+*** 生词
+
+1. 照相机 | zhao4 xiang4 ji1 | camera ;
+2. 被 | bei4 | (preposition used to indicate the passive voice) ;
+3. 难过 | nan2 guo4 | sad ;
+4. 东 | dong1 | east ;
+5. 信用卡 | xin4 yong4 ka3 | credit card ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-22 20:24:26 -05]
+:ID: b1cabcbc-c880-409b-bf98-0773925d06b6
+:END:
+
+*** 标题
+
+**** 中文
+
+在教室
+
+**** 英语
+
+In the classroom
+
+*** 对话
+
+小明：你怎么突然关心起体育来了？
+朋友：我的男朋友喜欢看踢足球比赛，我被他影响的。
+小明：看来只有爱，才能让人有变化。
+朋友：是啊，为了和他的爱好一样，我天天看球赛。
+小明：除了足球，他还影响你什么了？
+朋友：我最近天天上网玩儿游戏，我的成绩差极了。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:32:16 -05]
+:END:
+
+突然 | tu1 ran2 | suddenly ;
+ 体育 | ti3 yu4 | stadium ;
+ 比赛 | bi3 sai4 | match, competition ;
+ 被 | bei4 | (preposition used to indicate the passive voice) ;
+影响 | ying3 xiang3 | influence ;
+变化 | bian4 hua4 | to change ;
+爱好 | ai4 hao4 | hobby, interest ;
+上网 | shang4 wang3 | to surf the internet ;
+差 | cha4 | to fall short of ;
+极 | ji2 | extremely ;
+
+*** 生词
+
+6. 关心 | guan1 xin1 | to be concerned about, to care for, to care about ;
+7. 只有……才…… | zhi3 you3 …… cai2 …… | only …… (that/can ……) ;
+8. 成绩 | cheng2 ji4 | grade, performance, achievement ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-22 20:38:55 -05]
+:ID: 7eb2de36-ecae-4f97-bdef-e6f75bdc3b60
+:END:
+
+*** 标题
+
+**** 中文
+
+在饭馆
+
+**** 英语
+
+In the restaurant
+
+*** 对话
+
+朋友：那个拿着碗吃饭的人是你哥哥吗？他和你长得真像。
+大卫：我们经常被别人认错。
+朋友：只有你们爸爸妈妈才能分出来哪个是哥哥，哪个是弟弟吧。
+大卫：除了父母以外，还有我们自己也能啊。
+朋友：你们两个除了长得像，还有什么相同的地方？
+大卫：我们住在同一个楼，同一个房间。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:33:06 -05]
+:END:
+
+像 | xiang4 | to be like ;
+认错 | ren4 cuo4 | to acknowledge one's mistake, to admit an error ;
+被 | bei4 | (preposition used to indicate the passive voice) ;
+父母 | fu4 mu3 | parents ;
+以外 | yi3 wai4 | apart from, beyond, except for ;
+长 | zhang3 | to grow, to develop ;
+相同 | xiang1 tong2 | identical, same ;
+楼 | lou2 | building ;
+房间 | fang2 jian1 | room ;
+
+*** 生词
+
+9. 碗 | wan3 | bowl ;
+10. 分 | fen1 | to distinguish ;
+
+*** QUESTION
+:PROPERTIES:
+:CREATED: [2022-10-03 06:00:16 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-03 Mon 06:00]
+:END:
+
+**** 问题
+:PROPERTIES:
+:CREATED: [2022-10-03 06:00:26 -05]
+:END:
+
+在，地方的意思是"aspect"?
+
+朋友：那个拿着碗吃饭的人是你哥哥吗？他和你长得真像。
+大卫：我们经常被别人认错。
+朋友：只有你们爸爸妈妈才能分出来哪个是哥哥，哪个是弟弟吧。
+大卫：除了父母以外，还有我们自己也能啊。
+朋友：你们两个除了长得像，还有什么相同的（地方）？
+大卫：我们住在同一个楼，同一个房间。
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-22 20:48:55 -05]
+:ID: aa186c2f-df82-4c46-a385-02b751ee0f01
+:END:
+
+*** 段话
+:PROPERTIES:
+:CREATED: [2022-12-19 13:33:22 -05]
+:END:
+
+年轻人遇到难题，常常很着急，不知道怎么办。其实，不同的问题有不同的解决办法。有些问题看上去很难。但是做起来非常简单，所以得试着做做。有些问题看上去虽然简单，但是解决起来难极了。所以只有真正做事情的时候，才能了解有多难。不过，我们一定要相信：多么难的问题，都会被解决的。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:34:14 -05]
+:END:
+
+年轻 | nian2 qing1 | young ;
+遇到 | yu4 dao4 | to come across, to run into ;
+着急 | zhao2 ji2 | worried, anxious ;
+怎么办 | zen3 me ban4 | what's to be done ;
+办法 | ban4 fa3 | way, approach ;
+看上去 | kan4 shang qu | it seems that ;
+简单 | jian3 dan1 | simple ;
+虽然 | sui1 ran2 | although, though ;
+了解 | liao3 jie3 | to know ;
+一定 | yi2 ding4 | definitely, certainly ;
+相信 | xiang1 xin4 | to believe ;
+被 | bei4 | (preposition used to indicate the passive voice) ;
+
+**** UNANSWERED
+:PROPERTIES:
+:CREATED: [2022-06-14 08:38:41 -05]
+:END:
+:LOGBOOK:
+- State "UNANSWERED" from              [2022-12-19 Mon 13:35]
+- State "QUESTION"   from              [2022-06-14 Tue 08:38]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-19 13:35:05 -05]
+:END:
+
+“不过”什么意思？
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-19 13:35:07 -05]
+:END:
+
+This lexeme has various meanings. In the context of this paragraph, it means "but".
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:33:35 -05]
+:END:
+
+11. 解决 / jie3jue2 / to solve ;
+12. 试 / shi4 / to try ;
+13. [X] 真正 / zhen1zheng4 / really, truly ;
+14. 多么 / duo1me / very, to a great extent ;
+
+* 练习
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 2b028671-ba40-4c26-80e2-45aac01d6b8e
+:END:
+
+**** 选择
+
+***** a
+
+成绩
+
+***** b
+
+多么
+
+***** c
+
+照相机
+
+***** d
+
+信用卡
+
+***** e
+
+难过
+
+**** 题
+
+***** 1
+
+****** 内容
+
+你每个月花多少钱？你有几张🟨？
+
+****** 答案
+
+d
+
+***** 2
+
+****** 内容
+
+这个地方真漂亮，你带🟨了吗？
+
+****** 答案
+
+c
+
+***** 3
+
+****** 内容
+
+别🟨了，手机坏了就再买一个吧。
+
+****** 答案
+
+e
+
+***** 4
+
+****** 内容
+
+我什么时候能知道这次考试的🟨？
+
+****** 答案
+
+a
+
+***** 5
+
+****** 内容
+
+今天的天气🟨好啊！
+
+****** 答案
+
+b
+
+*** 6-10
+:PROPERTIES:
+:ID: 5a85d19d-6acd-4af6-87eb-f031bd2888c9
+:END:
+
+**** 选择
+
+***** a
+
+试
+
+***** b
+
+只有
+
+***** c
+
+碗
+
+***** d
+
+东
+
+***** e
+
+关心
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：你想要什么结婚礼物？
+Ｂ：你送给我几个漂亮的🟨吧。
+
+****** 答案
+
+c
+
+***** 7
+
+****** 内容
+
+Ａ：他怎么又看篮球比赛了？
+Ｂ：🟨看球赛，才能让他变得高兴。
+
+****** 答案
+
+b
+
+***** 8
+
+****** 内容
+
+Ａ：我的电脑又坏了。
+Ｂ：我🟨一下，看看有什么问题。
+
+****** 答案
+
+a
+
+***** 9
+
+****** 内容
+
+Ａ：你觉得周经理怎么样？
+Ｂ：非常好，很🟨我们。
+
+****** 答案
+
+e
+
+***** 10
+
+****** 内容
+
+Ａ：请问，去中国银行怎么走？
+Ｂ：一直往🟨走。
+
+****** 答案
+
+d
+
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: 5a812f04-2b36-46fc-9013-7e17b8497801
+:END:
+
+**** 内容
+
+Ａ：把你的手机借给我，我玩儿会儿游戏。
+Ｂ：我的手机🟨。
+Ａ：考试以前不能玩儿了吧？
+Ｂ：是啊。她说只有考得好，🟨。
+
+**** 答案
+
+被妈妈拿走了
+才会把手机给我
+
+*** 2
+:PROPERTIES:
+:ID: 9c8072b0-9017-4309-8569-788bb7da8d67
+:END:
+
+**** 内容
+
+Ａ：妈妈，我那件白色的衣服呢？
+Ｂ：刚被我🟨。你今天要穿吗？
+Ａ：是啊，我要去参加晚会，只有那件衣服才让我🟨。
+Ｂ：你穿那件红色的也很好看。
+
+***** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-16 19:51:30 -05]
+:END:
+
+晚会 / wan3 hui4 / evening party ;
+
+**** 答案
+
+洗了
+看上去很好看
+
+*** 3
+:PROPERTIES:
+:ID: 636b5175-eea1-47cd-9865-58c1db83382a
+:END:
+
+**** 内容
+
+Ａ：你的信用卡呢？
+Ｂ：🟨拿走了。
+Ａ：孩子拿走你的信用卡，你不坦心啊？
+Ｂ：信用卡只有大卫拿着，我才🟨。
+
+**** 答案
+
+被大卫拿走了
+放心
+
+*** 4
+:PROPERTIES:
+:ID: eb0510a9-37ea-498d-9f51-dae1f14a7950
+:END:
+
+**** 内容
+
+Ａ：快到春节了，你不想出去旅游吗？
+Ｂ：想啊，但是人中产有买到飞机票，🟨。
+Ａ：现在飞机票很贵吧？
+Ｂ：对。便宜的飞机票都被大家🟨。
+
+**** 答案
+
+才能出去旅游
+上网买走了

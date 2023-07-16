@@ -1,0 +1,1135 @@
+:PROPERTIES:
+:CREATED: [2022-04-30 20:05:32 -05]
+:END:
+
+* Listening
+:PROPERTIES:
+:CREATED: [2022-05-10 11:29:01 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-04-30 22:05:06 -05]
+:ID: cb4997bd-a6e7-47aa-9cc5-64bd6a3f2e7a
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-04-30 20:05:35 -05]
+:ID: 043037af-f280-451b-9689-89064f4d3077
+:END:
+
+男：你怎么又不高兴了？
+女：你工作一直忙，一次电影都没跟我一起看过。
+
+answer
+
+f
+
+notes
+
+又 | you4 | again ;
+跟 | gen1 | with ;
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-04-30 20:40:09 -05]
+:ID: fed8d7e1-24d5-4e2c-817a-35d0811e3d03
+:END:
+
+男：喂，您好，请问是搬家公司吗？我们要搬家。
+女：请问您打算什么时候搬？
+
+answer
+
+a
+
+notes
+
+搬 | ban1 | to move, relocate oneself ;
+打算 | da3 suan4 | to plan ;
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-04-30 20:42:51 -05]
+:ID: 1ced750e-44ab-4c1e-b862-fb33b3b75056
+:END:
+
+男：爸妈，今天我给你们做晚饭，你们打算吃什么？
+女：真的啊？那我们吃点儿牛肉吧。
+
+answer
+
+e
+
+notes
+
+打算 | da3 suan4 | to plan ;
+牛肉 | niu2 rou4 | beef ;
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-04-30 20:42:53 -05]
+:ID: ca90c0f5-0d34-4106-991f-64f02eec3dec
+:END:
+
+男：今天的面包真便宜。
+女：是啊，那我们多买几个吧！
+
+answer
+
+b
+
+notes
+
+面包 | mian4 bao1 | bread ;
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-04-30 20:42:54 -05]
+:ID: 3156dbb8-66ef-425f-8e4c-a2bd16ba315e
+:END:
+
+女：这是哪儿啊？你开错了吧？我们怎么回家啊？
+男：别着急，车上有电子地图。
+
+answer
+
+c
+
+notes
+
+着急 | zhao2 ji2 | worried, anxious ;
+地图 | di4 tu2 | map ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-04-30 21:03:10 -05]
+:END:
+
+*** 6
+:PROPERTIES:
+:CREATED: [2022-04-30 22:03:44 -05]
+:ID: 7a156783-0147-47f6-b3bf-b0d42acd46ce
+:END:
+
+这个电影一点儿意思也没有，我们看书吧。
+
+他不喜欢这个电影。
+
+answer
+
+1
+
+*** 7
+:PROPERTIES:
+:CREATED: [2022-04-30 22:03:46 -05]
+:ID: e1c491bc-9d2e-426b-8f90-027f19bd2e81
+:END:
+
+你怎么还没准备好？快点儿吧，没时间了。
+
+他一点儿也不着急。
+
+answer
+
+0
+
+*** 8
+:PROPERTIES:
+:CREATED: [2022-04-30 22:03:51 -05]
+:ID: 3dbbdb54-d4e9-4a13-ae02-de67ae74d451
+:END:
+
+明天的考试我都复习好了，没问题。
+
+他考试考得很好。
+
+answer
+
+0
+
+*** 9
+:PROPERTIES:
+:CREATED: [2022-04-30 22:03:54 -05]
+:ID: 889444b0-fbed-412c-b7ca-1165ab9b268c
+:END:
+
+去南方旅游？去北方旅游？去哪儿旅游好呢？
+
+他还没想好去哪儿旅游。
+
+note
+
+南方 | nan2 fang1 | south, southern part ;
+北方 | bei3 fang1 | north, northern part ;
+
+answer
+
+1
+
+*** 10
+:PROPERTIES:
+:CREATED: [2022-04-30 22:03:57 -05]
+:ID: 60f42cef-5319-4b1e-aa09-506b72bbada4
+:END:
+
+家里一个鸡蛋也没有，明天早上吃什么啊？
+
+家里还有很多鸡蛋。
+
+answer
+
+0
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-04-30 22:04:17 -05]
+:END:
+
+*** 11
+:PROPERTIES:
+:CREATED: [2022-04-30 22:04:13 -05]
+:ID: 6740d8f4-86fe-4704-9cda-de7fb5c65f3b
+:END:
+
+男：你们等一下，我穿好衣服，送送你们。
+女：你太客气了，外边冷，别送了。
+
+问：男的打算做什么？
+
+alternatives
+
+送朋友
+送衣服
+去外边
+
+answer
+
+a
+
+note
+
+客气 | ke4 qi | modest, polite ;
+外边 | wai4 bian | outside ;
+打算 | da3 suan4 | to plan ;
+
+*** 12
+:PROPERTIES:
+:CREATED: [2022-04-30 22:04:21 -05]
+:ID: b9ca89bf-a33c-47db-ac88-f51d20c00484
+:END:
+
+男：下个月我们去南方旅游，怎么样？
+女：南方我还一次都没去过呢，一直想去看看。
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+去过一次南方
+下个月去了南方
+很想去南方
+
+answer
+
+c
+
+note
+
+南方 | nan2 fang1 | south, southern part ;
+一直 | yi4 zhi2 | continuously, all along ;
+关于 | guan1 yu2 | about, a matter of ;
+
+*** 13
+:PROPERTIES:
+:CREATED: [2022-04-30 22:04:23 -05]
+:ID: 5e57f8fe-b3b3-47b5-b95d-305209840aae
+:END:
+
+女：大雨，你快来帮我一下。
+男：这么多东西，你怎么一个人搬？你儿子去哪儿了？
+
+问：女的请男的做什么？
+
+alternatives
+
+买东西
+搬东西
+我儿子
+
+answer
+
+b
+
+note
+
+一个人 | yi1 ge4 ren2 | alone, by oneself ;
+搬 | ban1 | to move, relocate oneself ;
+
+*** 14
+:PROPERTIES:
+:CREATED: [2022-04-30 22:04:29 -05]
+:ID: bf8e1f30-923e-48e3-bb12-eea4a11bb608
+:END:
+
+男：别买票了，一个好看的电影都没有。
+女：那看看明天的吧。
+
+问：他们为什么没买票？
+
+alternatives
+
+票卖完了
+没有好看的电影
+没带钱
+
+answer
+
+b
+
+*** 15
+:PROPERTIES:
+:CREATED: [2022-04-30 22:04:31 -05]
+:ID: a8b8190f-7899-4ebf-b363-42446bef7f65
+:END:
+
+女：这是哪儿啊？我没带地图，我们问问那边的游客吧。
+男：不用，我就是地图，你问我吧。
+
+问：男的是什么意思？
+
+alternatives
+
+她带地图了
+她没带地图
+他知道这是哪儿
+
+answer
+
+c
+
+note
+
+带 | dai4 | to bring ;
+那边 | na4 bian | over there ;
+地图 | di4 tu2 | map ;
+游客 | you2 ke4 | tourist ;
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-04-30 22:04:33 -05]
+:END:
+
+*** 16
+:PROPERTIES:
+:CREATED: [2022-04-30 22:04:32 -05]
+:ID: 276ab7de-d130-4348-ad2d-6e9f1b9c6be9
+:END:
+
+女：小周，你们搬家了？
+男：是啊，从公司南边搬到了医院北边。
+女：是吗？那你们离白雪家很近吧。
+男：对，他们家搬到了医院南边。
+
+问：现在小周家在哪儿？
+
+alternatives
+
+公司南边
+医院北边
+医院北门
+
+answer
+
+b
+
+note
+
+小周 | xiao3 zhou1 | Xiao Zhou (name of a person) ;
+搬家 | ban1 jia1 | to move house ;
+南边 | nan2 bian | south ;
+北边 | bei3 bian | north ;
+白雪 | bai2 xue3 | Snow White (name of a person);
+
+*** 17
+:PROPERTIES:
+:CREATED: [2022-04-30 22:04:38 -05]
+:ID: a5273ab2-af12-4c9b-b4aa-f95796349a36
+:END:
+
+男：这是你的小猫吗？真漂亮！
+女：谢谢。
+男：它叫什么名字？
+女：我还没想好叫它什么呢。
+
+问：女的的猫叫什么？
+
+alternatives
+
+谢谢
+漂亮
+还没有名字
+
+answer
+
+c
+
+*** 18
+:PROPERTIES:
+:CREATED: [2022-04-30 22:04:41 -05]
+:ID: 73cfc3eb-febf-4f8b-8432-93aef7079f28
+:END:
+
+男：你帮了我这么多，谢谢你。
+女：不客气。
+男：晚上我请你吃饭，就去公司南边的那家饭馆。
+女：好啊，我还一次都没去过呢。
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+没去过那个饭馆
+晚上没有时间
+要请难得吃饭
+
+answer
+
+a
+
+note
+
+关于 | guan1 yu2 | about, a matter of ;
+南边 | nan2 bian | south side ;
+
+*** 19
+:PROPERTIES:
+:CREATED: [2022-04-30 22:04:43 -05]
+:ID: 52da10f5-03a5-4465-b5ab-ac58eee9972f
+:END:
+
+男：你怎么了？一天都不高兴。
+女：明天就要考试了，我一点儿都没复习呢。
+男：别着急，你学得好，考试没问题。
+女：希望这次能考好。
+
+问：关于女的，可以知道什么？
+
+alternatives
+
+考得不好
+没带手表
+还没复习
+
+answer
+
+c
+
+note
+
+复习 | fu4 xi2 | to review ;
+着急 | zhao2 ji2 | worried, anxious ;
+关于 | guan1 yu2 | about, a matter of ;
+
+*** 20
+:PROPERTIES:
+:CREATED: [2022-04-30 22:04:46 -05]
+:ID: f09581ec-f419-4041-8909-6e2e2c41a1f2
+:END:
+
+女：你桌子上有那么多书啊？
+男：对，都是我买的。
+女：你真爱读书。哪本最有意思？给我介绍一下吧。
+男：我爱买书，但是这些书我一本都没读过。
+
+问：关于男的，可以知道什么？
+
+alternatives
+
+爱买书
+爱看书
+读了一本书
+
+answer
+
+a
+
+note
+
+有意思 | you3 yi4 si | interesting ;
+关于 | guan1 yu2 | about, concerning ;
+
+* Reading
+:PROPERTIES:
+:CREATED: [2022-05-10 11:29:11 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-10 12:26:25 -05]
+:ID: 835e216b-33ac-4233-9274-8720935785b0
+:END:
+
+alternatives
+
+不是，我一直在这家医院工作。
+对不起，周老师现在不在。
+今天学校理一个人都没有，大家都不哪儿了？
+周末有时间吗？我打算请你吃个饭。
+当然。我们先坐公共汽车，然后换地铁。
+可能是工作太累，生病了。
+
+*** 21
+:PROPERTIES:
+:CREATED: [2022-05-10 12:11:55 -05]
+:ID: e9cdba26-f450-4ed2-a720-a8cf7431b614
+:END:
+
+content
+
+你怎么了？今天一点儿东西都没吃。
+
+answer
+
+f
+
+*** 22
+:PROPERTIES:
+:CREATED: [2022-05-10 12:19:52 -05]
+:ID: 51a3cd46-66b5-4397-b0ab-cd3e02d8cc9b
+:END:
+
+content
+
+今天是周末，你去学校做什么？
+
+answer
+
+c
+
+*** 23
+:PROPERTIES:
+:CREATED: [2022-05-10 12:20:39 -05]
+:ID: 58ce8c66-c87e-4d5c-b7d4-d78b50eaea24
+:END:
+
+content
+
+好啊，哪天？
+
+answer
+
+d
+
+*** 24
+:PROPERTIES:
+:CREATED: [2022-05-10 12:17:12 -05]
+:ID: 65bb09c3-415c-400d-a1a5-29b3f66187a0
+:END:
+
+content
+
+你是新的医生吗？
+
+answer
+
+a
+
+*** 25
+:PROPERTIES:
+:CREATED: [2022-05-10 12:20:43 -05]
+:ID: cc9a3ed1-7b60-4c4b-9a5f-353f6df5012f
+:END:
+
+content
+
+那我明天再来吧，谢谢。
+
+answer
+
+b
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-10 12:26:26 -05]
+:ID: 3e9931d9-b7d2-4a19-b7c2-ce8f820216d3
+:END:
+
+alternatives
+
+一直
+周末
+带
+搬
+声音
+面包
+
+*** 26
+:PROPERTIES:
+:CREATED: [2022-05-10 12:27:33 -05]
+:ID: 045c2ee2-00b2-41b0-8f40-e0e15c6cb261
+:END:
+
+content
+
+这几年我//忙工作，没时间去旅游。
+
+answer
+
+a
+
+*** 27
+:PROPERTIES:
+:CREATED: [2022-05-10 12:28:33 -05]
+:ID: a39b6e16-7c8b-4ef9-b540-e5cc40b776a5
+:END:
+
+content
+
+你//家的时候，我来帮你吧。
+
+answer
+
+d
+
+*** 28
+:PROPERTIES:
+:CREATED: [2022-05-10 12:29:00 -05]
+:ID: f485fbe5-5bac-4e1f-8927-2ccfcce325b4
+:END:
+
+content
+
+这个//很不错，是你买的吗？
+
+answer
+
+f
+
+*** 29
+:PROPERTIES:
+:CREATED: [2022-05-10 12:29:32 -05]
+:ID: 790108c5-33ff-4ab6-96fe-dc6f38a9e933
+:END:
+
+content
+
+Ａ：这件新衣服是什么时候买的？
+Ｂ：上//，我妹妹跟我一起去买的。
+
+answer
+
+b
+
+*** 30
+:PROPERTIES:
+:CREATED: [2022-05-10 12:30:23 -05]
+:ID: f8d960dc-c613-4f93-9a5c-346ccffff9a6
+:END:
+
+content
+
+Ａ：现再北方很冷，多//衣服吧。
+Ｂ：我已经准备好了。
+
+answer
+
+c
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-10 12:33:26 -05]
+:END:
+
+*** 31
+:PROPERTIES:
+:CREATED: [2022-05-10 12:37:38 -05]
+:ID: 4ef6801a-b07d-4f87-b28c-244030680998
+:END:
+
+content
+
+妈妈是个北方人，20岁的时候跟爸爸一起搬到南方住，一直住到今天ll，南方话她现在能听懂一点儿，但是一点儿也不会说。
+
+inference with missing information
+
+妈妈
+
+alternatives
+
+不是南方人
+会说南方话
+今天搬到南方
+
+answer
+
+a
+
+*** 32
+:PROPERTIES:
+:CREATED: [2022-05-10 12:37:39 -05]
+:ID: a6d24382-5a41-4e44-8f20-8b978c662cf4
+:END:
+
+content
+
+我们小时候，不了可都在外边玩儿游戏，那时候的游戏是运动。现在的孩子也玩儿游戏，他们在家里，坐在电脑桌前，玩儿的是电脑游戏。
+
+inference with missing information
+
+现在的孩子们喜欢
+
+alternatives
+
+运动
+玩儿电脑游戏
+在外边玩儿游戏
+
+answer
+
+b
+
+*** 33
+:PROPERTIES:
+:CREATED: [2022-05-10 12:43:30 -05]
+:ID: c1816e55-c0cd-458e-8399-9c44a514b977
+:END:
+
+
+content
+
+中国人说：做事的时候别着急，要多想想，想好了再做。
+
+inference with missing information
+
+中国人觉得做事不能
+
+alternatives
+
+着急
+想好
+多想
+
+answer
+
+a
+
+*** 34
+:PROPERTIES:
+:CREATED: [2022-05-10 12:45:49 -05]
+:ID: 2b625b02-7311-43a9-bc7a-c73751100fb8
+:END:
+
+content
+
+我爱旅游，喜欢走南走比。第一次去旅游，我买最便宜的火车票，因为那时候没有那么多钱。现在，我可以开车去想去的地方，车上有电子地图，能告诉我怎么走。
+
+inference with missing information
+
+我现在
+
+alternatives
+
+没有那么多钱
+喜欢坐火车
+可以开车旅游
+
+answer
+
+c
+
+*** 35
+:PROPERTIES:
+:CREATED: [2022-05-10 15:42:11 -05]
+:ID: b766a42c-44ee-442f-9559-520552281de4
+:END:
+
+content
+
+南方我去过很多次，但是妻子一次也没去过。我说过很多次“明年带你去”，但是因为工作忙，一直到现在也没带她去，我觉得很对不起妻子。
+
+inference with missing information
+
+妻子
+
+alternatives
+
+工作很忙
+没去过南方
+觉得很对不起
+
+answer
+
+b
+
+* Writing
+:PROPERTIES:
+:CREATED: [2022-05-10 15:46:41 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-10 15:48:45 -05]
+:END:
+
+*** 36
+:PROPERTIES:
+:CREATED: [2022-05-10 15:48:48 -05]
+:ID: f7403ce7-d9f2-4037-ab0f-cab55f015072
+:END:
+
+words
+
+面包
+一个
+商店里
+没有
+也
+
+answer
+
+商店里一个面包也没有。
+
+*** 37
+:PROPERTIES:
+:CREATED: [2022-05-10 15:48:50 -05]
+:ID: 90222d05-9b45-4ce8-9217-0013983d1eec
+:END:
+
+words
+
+想
+好
+吃什么
+还没
+我
+
+answer
+
+我还没想好吃什么。
+
+*** 38
+:PROPERTIES:
+:CREATED: [2022-06-28 14:43:54 -05]
+:ID: d9e690c4-6192-4b89-a0b9-14bfafb56bf5
+:END:
+
+words
+
+没下
+雪
+一点儿
+都
+去年
+
+answer
+
+今年一点儿雪都没下。
+
+
+*** 39
+:PROPERTIES:
+:CREATED: [2022-05-10 15:50:27 -05]
+:ID: 8f815f1a-cee0-42bd-827c-c7b04c89898c
+:END:
+
+words
+
+也
+咖啡
+一杯
+没喝
+今天下午
+我
+
+answer
+
+今天下午我一杯咖啡也没喝。
+
+*** 40
+:PROPERTIES:
+:CREATED: [2022-05-10 15:51:18 -05]
+:ID: 4901b074-e0ac-420f-b75b-ceeb89d92091
+:END:
+
+words
+
+好
+水果
+吗
+洗
+你
+了
+
+answer
+
+你洗好水果了吗？
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-10 15:52:02 -05]
+:END:
+
+*** 41
+:PROPERTIES:
+:CREATED: [2022-05-10 15:52:04 -05]
+:ID: 7cd4d3ce-1694-477d-a334-d576d06c8209
+:END:
+
+sentence
+
+下午我一//在房间里看书。
+
+pinyin
+
+zhi2
+
+answer
+
+直
+
+*** 42
+:PROPERTIES:
+:CREATED: [2022-05-10 15:53:13 -05]
+:ID: 809f5d50-0902-4fc1-a273-58a97f104b31
+:END:
+
+sentence
+
+我家在学校的//边。
+
+pinyin
+
+bei3
+
+answer
+
+北
+
+*** 43
+:PROPERTIES:
+:CREATED: [2022-05-10 15:53:14 -05]
+:ID: e0206d94-7fc3-40f1-891e-75aa1d3b5be2
+:END:
+
+sentence
+
+周//我请你去跳舞，怎么样？
+
+pinyin
+
+mo4
+
+answer
+
+末
+
+*** 44
+:PROPERTIES:
+:CREATED: [2022-05-10 15:53:46 -05]
+:ID: 6bfb6750-60f9-4d35-a8a9-b25e08451902
+:END:
+
+sentence
+
+我想//你们一起去打篮球，可以吗？
+
+pinyin
+
+gen1
+
+answer
+
+跟
+
+
+
+*** 45
+:PROPERTIES:
+:CREATED: [2022-05-10 15:54:27 -05]
+:ID: b3f80c79-62b3-49dd-ad41-c99731e6b584
+:END:
+
+sentence
+
+我们明天就要//家了。
+
+pinyin
+
+ban1
+
+answer
+
+搬
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-10 15:54:50 -05]
+:END:
+
+
+*** 46
+:PROPERTIES:
+:CREATED: [2022-05-10 15:55:04 -05]
+:ID: 7f4f111c-f3a3-49a8-822d-37b9a1f3a363
+:END:
+
+content
+
+小丽说她要//我一起去外地旅游，我//高兴。
+
+answer
+
+跟
+很
+
+*** 47
+:PROPERTIES:
+:CREATED: [2022-05-10 16:40:06 -05]
+:ID: 6cfacab3-ff05-40ce-8c60-1751c3cea4b1
+:END:
+
+content
+
+这个//末，我们几个//学要去老师家。
+
+answer
+
+周
+同
+
+*** 48
+:PROPERTIES:
+:CREATED: [2022-05-10 17:26:28 -05]
+:ID: 8c496357-5915-41aa-a778-b4d78ffd5bc6
+:END:
+
+
+content
+
+那个商店的东西非//便宜，明天我//你去看看。
+
+answer
+
+常
+带
+
+*** 49
+:PROPERTIES:
+:CREATED: [2022-05-10 17:27:24 -05]
+:ID: ef79c0b8-1bc5-4e57-8d39-c863365b6652
+:END:
+
+content
+
+这个星期我一//忙，//累啊！
+
+answer
+
+直
+真
+
+*** 50
+:PROPERTIES:
+:CREATED: [2022-05-10 17:33:21 -05]
+:ID: 811652db-2f30-4787-ac5e-bf34d38d0a21
+:END:
+
+content
+
+//天的//业一点儿也不多。
+
+answer
+
+昨
+作
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-10 17:34:12 -05]
+:END:
+
+*** 51
+:PROPERTIES:
+:CREATED: [2022-05-10 17:34:16 -05]
+:END:
+
+上学：他每天坐出租车上学。
+上班：你们公司早上几点上班？
+上下班：在上下班的时候车多吗？
+
+*** 52
+:PROPERTIES:
+:CREATED: [2022-05-10 17:47:08 -05]
+:END:
+
+下雨：下雨的时候，我不喜欢跑步。
+下雪：这里很多年没下雪了。
+下飞机：我下飞机了。
+
+*** 53
+:PROPERTIES:
+:CREATED: [2022-05-10 17:47:12 -05]
+:END:
+
+本书：这本书多少钱？
+本子：桌子上有多少本本子？
+
+*** 54
+:PROPERTIES:
+:CREATED: [2022-05-10 17:47:16 -05]
+:END:
+
+周末：新年你打算做什么？
+
+* Review
+:PROPERTIES:
+:CREATED: [2022-05-10 17:56:18 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-10 17:56:28 -05]
+:ID: b869b3b5-99a5-42be-9435-2e363a4301b1
+:END:
+
+
+content
+
+小刚周末//请小丽吃范，看电影，喝咖啡。他已经//饭馆，//电影票了。但是小丽还没//要不要//他去。
+
+answer
+
+打算
+找好
+买好
+想好
+跟
+
+notes
+
+小刚周末（想／打算）请小丽吃范，看电影，喝咖啡。他已经（找好）饭馆，（买好）电影票了。但是小丽还没（想好）要不要（跟）他去。
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-10 18:01:38 -05]
+:ID: d5c7885c-7a31-407a-b3af-b38a1d9ca403
+:END:
+
+content
+
+明天有考试，但是儿子一直玩儿//，//也不//，因为他都//好了，//也都写完了。
+
+answer
+
+电脑游戏
+一点儿
+着急
+复习
+作业
+
+notes
+
+明天有考试，但试儿子一直玩儿（电脑游戏），（一点儿）也不着急，因为他都（复习）好了，（作业）也都写完了。
+

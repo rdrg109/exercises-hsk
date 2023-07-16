@@ -1,0 +1,810 @@
+:PROPERTIES:
+:CREATED: [2022-06-03 09:13:59 -05]
+:END:
+
+* Warm-up
+:PROPERTIES:
+:CREATED: [2022-09-17 16:47:21 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-09-17 16:47:33 -05]
+:END:
+
+*** 1
+:PROPERTIES:
+:CREATED: [2022-09-17 16:50:18 -05]
+:END:
+
+**** word
+:PROPERTIES:
+:CREATED: [2022-09-17 16:50:22 -05]
+:END:
+
+词典
+
+**** answer
+:PROPERTIES:
+:CREATED: [2022-09-17 16:50:24 -05]
+:END:
+
+b
+
+*** 2
+:PROPERTIES:
+:CREATED: [2022-09-17 16:50:33 -05]
+:END:
+
+**** word
+:PROPERTIES:
+:CREATED: [2022-09-17 16:50:35 -05]
+:END:
+
+筷子
+
+**** answer
+:PROPERTIES:
+:CREATED: [2022-09-17 16:50:37 -05]
+:END:
+
+d
+
+*** 3
+:PROPERTIES:
+:CREATED: [2022-09-17 16:50:50 -05]
+:END:
+
+**** word
+:PROPERTIES:
+:CREATED: [2022-09-17 16:50:52 -05]
+:END:
+
+空调
+
+**** answer
+:PROPERTIES:
+:CREATED: [2022-09-17 16:50:59 -05]
+:END:
+
+a
+
+*** 4
+:PROPERTIES:
+:CREATED: [2022-09-17 16:51:06 -05]
+:END:
+
+**** word
+:PROPERTIES:
+:CREATED: [2022-09-17 16:51:10 -05]
+:END:
+
+地铁
+
+**** answer
+:PROPERTIES:
+:CREATED: [2022-09-17 16:51:12 -05]
+:END:
+
+f
+
+*** 5
+:PROPERTIES:
+:CREATED: [2022-09-17 16:51:20 -05]
+:END:
+
+**** word
+:PROPERTIES:
+:CREATED: [2022-09-17 16:51:25 -05]
+:END:
+
+灯
+
+**** answer
+:PROPERTIES:
+:CREATED: [2022-09-17 16:51:33 -05]
+:END:
+
+c
+
+*** 6
+:PROPERTIES:
+:CREATED: [2022-09-17 16:51:40 -05]
+:END:
+
+**** word
+:PROPERTIES:
+:CREATED: [2022-09-17 16:51:42 -05]
+:END:
+
+瓶子
+
+**** answer
+:PROPERTIES:
+:CREATED: [2022-09-17 16:51:43 -05]
+:END:
+
+e
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-09-17 16:51:54 -05]
+:END:
+
+1.1. 他在关灯。
+1.2. 他关灯了。
+1.3. 他关了灯。
+
+2.1. 她在关空调。
+2.2. 她关了空调。
+2.3. 她关空调了。
+
+3.1. 她在洗衣服。
+3.2. 她洗了衣服。
+3.3. 她洗衣服了。
+
+4.1. 他们在还书。
+4.2. 他们还书了。
+4.3. 他们还了书。
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-09-17 16:47:16 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-21 00:15:25 -05]
+:ID: 6153e652-eba6-48ef-9dd4-2ee779b58448
+:END:
+
+*** 标题
+:PROPERTIES:
+:CREATED: [2022-09-17 17:04:59 -05]
+:END:
+
+**** 中文
+:PROPERTIES:
+:CREATED: [2022-09-17 17:06:41 -05]
+:END:
+
+在教师
+
+**** 英语
+:PROPERTIES:
+:CREATED: [2022-09-17 17:06:43 -05]
+:END:
+
+In the classroom
+
+*** 对话
+:PROPERTIES:
+:CREATED: [2022-09-17 17:02:42 -05]
+:END:
+
+小明：我先走了。
+同学：你去哪儿？
+小明：我去图书馆借本书。
+同学：帮我把这本词典还了吧。
+小明：好，等一会儿你离开教室的时候，记得把灯关了。
+同学：好的，放心吧。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-09-17 17:03:00 -05]
+:END:
+
+把 | ba3 | (classifier for objects that can be picked up with the hand) ;
+离开 | li2 kai1 | to leave, to part with ;
+教室 | jiao4 shi4 | classroom ;
+记得 | ji4 de | to remember ;
+关 | guan1 | to shut, to turn off ;
+放心 | fang4 xin1 | to ease one's mind, to rest assured ;
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-09-17 17:02:46 -05]
+:END:
+
+1. 图书馆 / tu2shu1guan3 / library ;
+2. 借 | jie4 | to borrow, to lend ;
+3. 词典 | ci2 dian3 | dictionary ;
+4. 还 | huan2 | to return ;
+5. 灯 | deng1 | light, lamp ;
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-21 00:25:28 -05]
+:ID: a6cd713c-de1d-47b6-9893-c6592eb6e49b
+:END:
+
+*** 标题
+:PROPERTIES:
+:CREATED: [2022-09-17 17:08:57 -05]
+:END:
+
+**** 中文
+:PROPERTIES:
+:CREATED: [2022-09-17 17:09:01 -05]
+:END:
+
+在会议室
+
+**** 英语
+:PROPERTIES:
+:CREATED: [2022-09-17 17:09:03 -05]
+:END:
+
+In the conference room
+
+*** 对话
+:PROPERTIES:
+:CREATED: [2022-09-17 17:07:16 -05]
+:END:
+
+周明：会议结束后，别忘记把空调关了。
+小丽：好的，王经理两点左右来了个电话。
+周明：他已经到北京了？
+小丽：是的，他正坐地铁来我们公司呢。
+周明：等他到了就告诉我。
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-09-17 17:07:20 -05]
+:END:
+
+6. 会议 | hui4 yi4 | meeting, conference ;
+7. 结束 | jie2 shu4 | to end, to finish ;
+8. 忘记 | wang4 ji4 | to forget ;
+9. 空调 | kong1 tiao2 | air conditioner ;
+10. 关 | guan1 | to turn off, to close ;
+11. 地铁 | di4 tie3 | subway ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-21 00:32:30 -05]
+:ID: 86f33868-8c39-4f69-888c-f7110684f46c
+:END:
+
+*** 标题
+:PROPERTIES:
+:CREATED: [2022-09-17 17:10:14 -05]
+:END:
+
+**** 中文
+:PROPERTIES:
+:CREATED: [2022-09-17 17:10:17 -05]
+:END:
+
+在客厅
+
+**** 英语
+:PROPERTIES:
+:CREATED: [2022-09-17 17:10:21 -05]
+:END:
+
+In the living room
+
+*** 对话
+:PROPERTIES:
+:CREATED: [2022-09-17 17:10:12 -05]
+:END:
+
+妈妈：还差一双筷子，你去拿一下。
+儿子：今天怎么做了这么多菜？
+妈妈：今天是你的爸爸的生日。
+儿子：真的啊？我把爸爸的生日忘了。那我们今天喝点儿啤酒吧。
+妈妈：医生说你爸爸一口酒都不能喝，别让他看见酒瓶子。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-09-17 17:11:02 -05]
+:END:
+
+差 | cha4 | to fall short of ;
+菜 | cai4 | dish ;
+真的啊 | zhen1 de a | really? ;
+忘 | wang4 | to forget ;
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-09-17 17:10:37 -05]
+:END:
+
+12. 双 / shuang1 / pair ;
+13. 筷子 | kuai4 zi | chopsticks ;
+14. 啤酒 | pi2 jiu3 | beer ;
+15. 口 | kou3 | mouthful ;
+16. 瓶子 | ping2 zi | bottle ;
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-21 00:41:36 -05]
+:ID: 3c2cb9e9-8f42-4e96-988e-97efcca628ec
+:END:
+
+*** 段话
+:PROPERTIES:
+:CREATED: [2022-09-17 17:13:09 -05]
+:END:
+
+这个笔记本电脑我去年买的时候要五千块左右，现在便宜多了。我想把这个电脑卖了，再买一个更好的。现在我每天起床后的第一件事就是打开电脑，看电子邮件。我已经很少写信，也很少用笔写字，已经习惯用电脑来学习和工作了。哪一天突然没有了电脑，我们怎么办呢？
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-09-17 17:13:01 -05]
+:END:
+
+去年 | qu4 nian2 | last year ;
+左右 | zuo3 you4 | approximately ;
+打开 | da3 kai1 | to switch, to turn on ;
+信 | xin4 | letter, mail ;
+写信 / xie3 xin4 / write a letter or email ;
+突然 | tu1 ran2 | suddenly ;
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-09-17 17:12:57 -05]
+:END:
+
+17. 笔记本电脑 | bi3 ji4 ben3 dian4 nao3 | notebook, laptop ;
+18. 电子邮件 | dian4 zi3 you2 jian4 | e-mail ;
+19. 习惯 | xi2 guan4 | to be used to, habit ;
+
+* Notes
+:PROPERTIES:
+:CREATED: [2022-09-17 17:16:07 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-09-17 17:17:37 -05]
+:END:
+
+请你（把）洗衣服了。
+Please wash the clothes.
+
+帮我（把）这本词典还了。
+Help me return this dictionary.
+
+你（把）灯关了吧。
+Please turn off the lamp.
+
+我（把）爸爸的生日忘了。
+I forgot my dad's birthday.
+
+你（没）把书给我。
+You didn't gave me the book.
+
+你（别）把手机忘了。
+Don't forget your phone.
+
+我（不能）把电脑给你。
+I can't lend you my computer.
+
+你（可以）把空调关了吗？
+Can you turn off the air conditioner?
+
+
+
+*** QUESTION Why do all these sentences use 了 at the end?
+:PROPERTIES:
+:CREATED: [2022-09-17 17:19:24 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-09-17 Sat 17:19]
+:END:
+
+In previous chapters, I was told that 了 was used when a state changes or an action occured in the past. In this sentences, the state hasn't changed and the action didn't occur in the past.
+
+请你把洗衣服（了）。
+帮我把这本词典还（了）。
+你把灯关（了）吧。
+我把爸爸的生日忘（了）。
+
+*** Practice
+:PROPERTIES:
+:CREATED: [2022-09-17 17:26:36 -05]
+:END:
+
+1. 房间里有点儿冷，你可以（把门关了）？
+2. 你发烧还没好，快（把药吃了）。
+3. 吃饭以前别忘了（把手洗了）。
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-09-17 17:20:57 -05]
+:END:
+
+周末我一般（十点左右）起床。
+I wake up at around 10 o'clock in the weekend.
+
+我们公司有（五百人左右）。
+Our company has around 5 hundred workers.
+
+王经理（两点左右）来了个电话。
+Manager Wang called at around 2 o'clock.
+
+这个笔记本电脑我去年买的时候要（五千块）左右。
+Last year, when I bought this laptop, it was around 5 thousand dollars.
+
+*** Practice
+:PROPERTIES:
+:CREATED: [2022-09-17 17:33:08 -05]
+:END:
+
+Ａ：你每天几点睡觉？
+Ｂ：11点左右。
+
+Ａ：你学了多长时间的汉语了？
+Ｂ：8个月左右。
+
+Ａ：从你家到学校坐多长时间车？
+Ｂ：45分钟左右。
+
+
+**** ANSWERED Does the first question refers to the total amount of time I've been learning Chinese since I started or just for today's time?
+:PROPERTIES:
+:CREATED: [2022-09-17 17:35:29 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-09-19 Mon 18:36]
+- State "QUESTION"   from              [2022-09-17 Sat 17:35]
+:END:
+
+*** ANSWERED When 块 is used but the currency is not mentioned, what currency should I assume?
+:PROPERTIES:
+:CREATED: [2022-09-17 17:32:11 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-09-19 Mon 18:36]
+- State "QUESTION"   from              [2022-09-17 Sat 17:32]
+:END:
+
+* Exercises
+:PROPERTIES:
+:CREATED: [2022-09-17 17:39:05 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-09-17 17:39:15 -05]
+:END:
+
+*** ANSWERED Why is 来 used in this sentence?
+:PROPERTIES:
+:CREATED: [2022-09-17 17:39:20 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-09-19 Mon 18:38]
+- State "QUESTION"   from              [2022-09-17 Sat 17:39]
+:END:
+
+我已经习惯用电脑（来）学习和工作了。
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 4f759142-59b0-4bf2-a8b4-dc932f07db5e
+:END:
+
+**** 选择
+
+***** a
+
+瓶子
+
+***** b
+
+空调
+
+***** c
+
+词典
+
+***** d
+
+双
+
+***** e
+
+口
+
+**** 题
+
+***** 1
+
+****** 内容
+
+拿两🟨筷子就可以了，今天爸爸不回来吃晚饭。
+
+****** 答案
+
+d
+
+***** 2
+
+****** 内容
+
+这本🟨十我朋友的，不是我的。
+
+****** 答案
+
+c
+
+***** 3
+
+****** 内容
+
+这种咖啡特别好喝，你快来喝一🟨吧。
+
+****** 答案
+
+e
+
+***** 4
+
+****** 内容
+
+桌子上有一个🟨，是谁的？
+
+****** 答案
+
+a
+
+***** 5
+
+****** 内容
+
+你怎么没开🟨？太热了！
+
+****** 答案
+
+b
+
+*** 6-10
+:PROPERTIES:
+:ID: 154d4209-5d69-4a8c-ae1d-54b76e432849
+:END:
+
+**** 选择
+
+***** a
+
+习惯
+
+***** b
+
+结束
+
+***** c
+
+关
+
+***** d
+
+还
+
+***** e
+
+会议
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：你把灯🟨了吧，我要睡觉了。
+Ｂ：好，我马上就去。
+
+****** 答案
+
+c
+
+***** 7
+
+****** 内容
+
+Ａ：你可以帮我把书🟨了吗？
+Ｂ：明天下午可以吗？
+
+****** 答案
+
+d
+
+***** 8
+
+****** 内容
+
+Ａ：音乐会🟨以后，我们一起去饭馆吃饭吧。
+Ｂ：还是回家吃吧。
+
+****** 答案
+
+b
+
+***** 9
+
+****** 内容
+
+Ａ：你下课以后常常做什么？
+Ｂ：我下了汉语课🟨去图书馆。
+
+****** 答案
+
+a
+
+***** 10
+
+****** 内容
+
+Ａ：今天的🟨十几点的？
+Ｂ：下午两点半。
+
+****** 答案
+
+e
+
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: 43acc4c8-c11b-40af-ade4-7e459a79be2a
+:END:
+
+**** 内容
+
+Ａ：音乐会就要开始了，吸纳生，请你🟨。
+Ｂ：好的，我马上关。请问还有多长时间开始？
+Ａ：还有五分钟🟨。
+Ｂ：谢谢。
+
+**** 答案
+
+把手机关了
+左右
+
+*** 2
+:PROPERTIES:
+:ID: 376c962a-ca66-4ff9-91d6-a9c05434ebc1
+:END:
+
+**** 内容
+
+Ａ：你今天打算几点睡觉？
+Ｂ：十点半🟨。
+Ａ：睡觉以前别忘了🟨。
+Ｂ：没问题。
+
+**** 答案
+
+把灯关了
+左右
+
+*** 3
+:PROPERTIES:
+:ID: ed596ce0-ec03-47bf-b184-1cb9d6360026
+:END:
+
+**** 内容
+
+Ａ：昨天谁室最后一个离开办公室的？
+Ｂ：是我，我昨天是🟨离开的。
+Ａ：你是不是忘了🟨？
+Ｂ：对不起，我以后一定不会忘
+
+**** 答案
+
+最后一个
+把空调关了
+
+*** 4
+:PROPERTIES:
+:ID: 251e92c1-a7bf-4e1a-bf72-19269dacd405
+:END:
+
+**** 内容
+
+Ａ：今天下午你要去见小刚吗？
+Ｂ：对，我🟨去找他。
+Ａ：你可以帮我🟨？
+Ｂ：没问题，我帮你还他。
+
+**** 答案
+
+三点左右
+把钱还他了吗
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-09-17 17:57:52 -05]
+:END:
+
+Ｑ：小明要帮同学做什么？
+Ａ：去图书馆把词典还了。
+
+Ｑ：小明告诉同学做什么？
+Ａ：离开教室的时候，别忘了把灯关了。
+
+Ｑ：王经理现在在哪儿？
+Ａ：在坐地铁来他们的公司。
+
+Ｑ：周太太今天为什么做了那么多的菜？
+Ａ：爸爸能喝酒吗？为什么？
+
+
+Ｑ：“我”现在每天用电脑做什么？
+Ａ：看电子邮件、学习和工作
+
+* Characters
+:PROPERTIES:
+:CREATED: [2022-09-17 18:03:12 -05]
+:END:
+
+字 - character
+词典 - dictionary
+字典 - character's dictionary
+
+运动 - sport
+会议 - meeting
+运动会 - sports competition
+
+开 - start
+会议 - meeting
+开会 - to attend a meeting, to hold a meeting
+
+* Application
+:PROPERTIES:
+:CREATED: [2022-09-17 18:05:24 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-09-17 18:05:28 -05]
+:END:
+
+Ａ：在秘鲁，二斤牛肉多少钱？
+Ｂ：33索尔左右（60.06人民币）。
+
+Ａ：在秘鲁，二斤鸡肉多少钱？
+Ｂ：14索尔左右（25.48人民币）。
+
+Ａ：在秘鲁，二斤鸡蛋多少钱？
+Ｂ：8索尔左右（14.57人民币）。
+
+Ａ：在秘鲁，二斤苹果多少钱？
+Ｂ：我们有很多种苹果。不同的种有不同的价格。"Manzana israel"是一种，二斤5索尔（9.10人民币）。
+
+Ａ：在秘鲁，一个香蕉多少钱？
+Ｂ：我们也有很多种香蕉。“Platano de seda”是一种，1个0.5索尔（0.91人民币）。
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-09-17 18:51:49 -05]
+:END:
+
+有时我妈妈让我（把）厨房的地上扫地了。
+
+厨房 / chu2 fang2 / kitchen ;
+扫地 / sao3 di4 / to sweep the floor ;
+
+明天吃早饭后我要（把）我的房间打扫了。
+
+打扫 | da3 sao3 | to clean ;
+
+每天上午我（把）大米煮了，我爸爸（把）食物煮完了。
+
+大米 / da4 mi3 / rice (raw ingredient) ;
+煮 / zhu3 / to boil, to cook ;
+
+小的时候，睡觉前我不（把）灯关了因为我很害怕黑暗。
+
+黑暗 / hei1 an4 / darkness ;
+
+学习的时候，我一般（把）音乐放，主要是因为帮我专注。
+在我家，洗衣服后，我们在屋顶（把）衣服放了。
+
+专注 / zhuan1 zhu4 / focus ;
+

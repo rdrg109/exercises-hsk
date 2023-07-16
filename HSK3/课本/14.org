@@ -1,0 +1,471 @@
+:PROPERTIES:
+:CREATED: [2022-05-21 21:38:14 -05]
+:END:
+
+* 课文
+:PROPERTIES:
+:CREATED: [2022-05-21 21:38:18 -05]
+:END:
+
+** 1
+:PROPERTIES:
+:CREATED: [2022-05-21 21:38:19 -05]
+:ID: e87282e5-c8cf-422a-ae08-206702fc19ad
+:END:
+
+*** 标题
+
+**** 中文
+
+在家
+
+**** 英语
+
+At home
+
+*** 对话
+
+周太太：客人就要来了，你怎么还不打扫房间啊？
+周明：别着急，我让孩子们打扫呢，客人来的时候，他们会把房间打扫干净。
+周太太：那你也不能看电视啊。
+周明：你让我做什么？
+周太太：先把茶和杯子（放好），然后把冰箱里的西瓜拿出来。
+周明：太热了，我还是先把空调打开吧。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:57:23 -05]
+:END:
+
+客人 | ke4 ren2 | customer, guest ;
+房间e | fang2 jian1 | room ;
+着急 | zhao2 ji2 | worried, anxious ;
+放 | fang4 | to put, to place ;
+空调 | kong1 tiao2 | air conditioner ;
+打开 | da3 kai1 | to switch, to turn on ;
+
+*** 生词
+
+1. 打扫 | da3 sao3 | to clean, to sweep ;
+2. 干净 | gan1 jing4 | clean ;
+3. 然后 | ran2 hou4 | then, after that ;
+4. 冰箱 / bing1xiang1 / refrigerator ;
+
+*** QUESTION “放好”什么意思？
+:PROPERTIES:
+:CREATED: [2022-10-01 18:52:01 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-10-01 Sat 18:52]
+:END:
+
+What does "放好" specifically mean? to put them in the table?
+
+to set the table
+
+** 2
+:PROPERTIES:
+:CREATED: [2022-05-21 21:48:37 -05]
+:ID: acc723d9-3674-4dd1-9216-7c237d296f57
+:END:
+
+*** 标题
+
+**** 中文
+
+在打电话
+
+**** 英语
+
+On the phone
+
+*** 对话
+
+同事：你在忙什么呢？刚才打你的手机你也不接。
+小刚：对不起，我刚洗了个澡，没听见。有什么事吗？
+同事：我想问问你公司里的一些事情。
+小刚：你先等一下，我去把电视关了。
+同事：没关系，你先把电视节目看完吧，然后再给我回电话。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:57:55 -05]
+:END:
+
+同事 | tong2 shi4 | co-worker, colleague ;
+刚才 | gang1 cai2 | just now ;
+接 | jie1 | to answer (the phone) ;
+事情 | shi4 qing | thing, matter, affair ;
+关 | guan1 | to shut, to turn off ;
+
+*** 生词
+
+5. 洗澡 | xi3 zao3 | to take a bath, shower ;
+6. 节目 | jie2 mu4 | programme ;
+
+** 3
+:PROPERTIES:
+:CREATED: [2022-05-21 22:01:16 -05]
+:ID: cdfe1157-9f29-4b29-ae82-8f1b6cdebfad
+:END:
+
+*** 标题
+
+**** 中文
+
+在小明家
+
+**** 英语
+
+At Xiaoming's home
+
+*** 对话
+
+同学：今晚的月亮真漂亮，像白色盘子一样。
+小明：是啊，外边也不刮风，我们坐在外边一边看月亮一边吃东西，怎么样？
+同学：好啊，我先把桌椅搬出去，然后你把水果拿过来，我们听叔叔阿姨讲讲他们年轻时候的故事。
+小明：太好了！记得给大出打个电话，让他马上过来。
+同学：不用打了，你听外边的声音，一定大出。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 12:59:10 -05]
+:END:
+
+今晚 | jin1 wan3 | tonight ;
+年轻 | nian2 qing1 | young ;
+马上 | ma3 shang4 | immediately, at once ;
+过来 | guo4 lai2 | to come over ;
+一定 | yi2 ding4 | definitely, certainly ;
+
+*** 生词
+
+7. 月亮 | yue4liang | moon ;
+8. 像 | xiang4 | to be like ;
+9. 盘子 | pan2zi | plate ;
+10. 刮风 | gua1feng1 | to be windy ;
+11. 叔叔 | shu1shu | uncle ;
+12. 阿姨 / a1yi2 / aunt ;
+13. 故事 | gu4shi | story | historia ;
+14. 声音 | sheng1yin1 | sound, voice ;
+
+** 4
+:PROPERTIES:
+:CREATED: [2022-05-21 22:17:09 -05]
+:ID: 8199342d-39c4-4203-b4b6-d70dd565a959
+:END:
+
+*** 段话
+:PROPERTIES:
+:CREATED: [2022-12-19 13:00:07 -05]
+:END:
+
+你吃过水果饭吗？你在饭馆的菜单上见过水果饭吗？你想学着做水果饭吗？其实做水果饭很简单，先把来饭做好，然后再把一块块新鲜的水果放进去，水果饭就做好了。你可以做苹果饭，香蕉饭，要是你愿意，还可以做西瓜饭。多吃新鲜水果对身体好。
+
+**** 对我生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:00:49 -05]
+:END:
+
+其实 | qi2 shi2 | actually ;
+新鲜 | xin1 xian1 | fresh ;
+进 | jin4 | to enter, to come/go in ;
+愿意 | yuan4 yi4 | would like to ;
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-10-01 19:08:05 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-10-01 Sat 20:12]
+- State "QUESTION"   from              [2022-10-01 Sat 19:08]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-19 13:01:07 -05]
+:END:
+
+ “水果饭”什么意思？
+
+Is it "fruits with rice"?
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-19 13:01:14 -05]
+:END:
+
+Yes, some people eat this dish.
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-10-01 19:43:50 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-10-01 Sat 20:12]
+- State "QUESTION"   from              [2022-10-01 Sat 19:44]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-12-19 13:01:22 -05]
+:END:
+
+”一块块“什么意思？
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-12-19 13:01:21 -05]
+:END:
+
+Its English translation is "one by one".
+
+*** 生词
+:PROPERTIES:
+:CREATED: [2022-12-19 13:00:11 -05]
+:END:
+
+15. 菜单 | cai4 dan1 | menu ;
+16. 简单 | jian3 dan1 | simple ;
+17. 香蕉 / xiang1jiao1 / banana ;
+
+* Exercises
+:PROPERTIES:
+:CREATED: [2022-10-23 18:23:26 -05]
+:END:
+
+** 2
+
+*** 1-5
+:PROPERTIES:
+:ID: 26a0394b-e511-4644-bdf2-992ee5124d60
+:END:
+
+**** 选择
+
+***** a
+
+节日
+
+***** b
+
+故事
+
+***** c
+
+菜单
+
+***** d
+
+香蕉
+
+***** e
+
+盘子
+
+**** 题
+
+***** 1
+
+****** 内容
+
+每天晚上，爸爸都要给女儿讲一个🟨。
+
+****** 答案
+
+b
+
+***** 2
+
+****** 内容
+
+我来做饭，你来洗🟨，怎么样？
+
+****** 答案
+
+e
+
+***** 3
+
+****** 内容
+
+我们买几斤🟨吧，家里没有水果了。
+
+****** 答案
+
+d
+
+***** 4
+
+****** 内容
+
+跟朋友一起喝着饮料看电视🟨，十最快乐的事。
+
+****** 答案
+
+a
+
+***** 5
+
+****** 内容
+
+服务员，请拿🟨过来，我们点菜。
+
+****** 答案
+
+c
+
+*** 6-10
+:PROPERTIES:
+:ID: 869268b5-92e8-4228-baf4-9f4dfbf37002
+:END:
+
+**** 选择
+
+***** a
+
+打扫
+
+***** b
+
+干净
+
+***** c
+
+简单
+
+***** d
+
+声音
+
+***** e
+
+像
+
+**** 题
+
+***** 6
+
+****** 内容
+
+Ａ：我们什么时候吃晚饭？
+Ｂ：先🟨完房间再吃。
+
+****** 答案
+
+a
+
+***** 7
+
+****** 内容
+
+Ａ：听！是谁在外边说话？
+Ｂ：没有🟨啊。
+
+****** 答案
+
+d
+
+***** 8
+
+****** 内容
+
+Ａ：你觉得洗衣服很🟨，可我觉得很难。
+Ｂ：那你觉得做什么不难呢？
+
+****** 答案
+
+c
+
+***** 9
+
+****** 内容
+
+Ａ：那么多衣服，终于洗完了！
+Ｂ：都洗🟨了吗？
+
+****** 答案
+
+b
+
+***** 10
+
+****** 内容
+
+Ａ：这个地方真美！
+Ｂ：是啊，🟨画儿一样。
+
+****** 答案
+
+e
+
+
+** 3
+
+*** 1
+:PROPERTIES:
+:ID: aaaac285-b83e-4b2d-b49e-96f51e990503
+:END:
+
+**** 内容
+
+Ａ：今天下午你做什么？
+Ｂ：我先打扫房间，然后🟨。
+Ａ：你帮我把这本书🟨。
+Ｂ：好的。
+
+**** 答案
+
+去图书馆
+还回去吧
+
+*** 2
+:PROPERTIES:
+:ID: a40659a7-d6ea-46ae-9ed2-fec3f27a3de5
+:END:
+
+**** 内容
+
+Ａ：你要走了？你还没有把饭🟨。
+Ｂ：不吃了，我要迟到了。
+Ａ：今天你下了课就回家吧。
+Ｂ：我先去🟨，然后回家。
+
+**** 答案
+
+吃完呢
+做运动
+
+*** 3
+:PROPERTIES:
+:ID: 9c7f37ab-9412-4863-a1ff-b908475d49a7
+:END:
+
+**** 内容
+
+Ａ：今天是周末，你可以休息了吧？
+Ｂ：没有时间休息，我要把这些衣服🟨。
+Ａ：别着急，我🟨，然后回来帮你。
+Ｂ：好的。
+
+**** 答案
+
+洗完
+先去开会
+
+*** 4
+:PROPERTIES:
+:ID: c160e2e8-befb-4f83-ac5a-f472b3c02a12
+:END:
+
+**** 内容
+
+Ａ：小刚，你现在去哪儿？
+Ｂ：我把公司的客人🟨。
+Ａ：我明天要去上海，你帮我准备一下。
+Ｂ：好的。回来以后，的先帮你找宾馆，🟨。
+
+**** 答案
+
+送到机场去
+然后买飞机票

@@ -1,0 +1,1087 @@
+:PROPERTIES:
+:CREATED: [2022-06-02 12:05:59 -05]
+:END:
+
+* Listening
+
+** 1
+:PROPERTIES:
+:ID: a03438a9-3b41-4e33-bc29-ace2ec377cbb
+:END:
+
+*** 1
+:PROPERTIES:
+:ID: ceb93df3-eae1-447f-93ac-57612f68eb51
+:END:
+
+女：树和草都绿了，天气真好！
+男：是啊，我们要多出来走走，在草地上坐坐。
+
+answer
+
+f
+
+notes
+
+_
+
+*** 2
+:PROPERTIES:
+:ID: e13f621f-2b26-4bb6-859a-161a01872f5d
+:END:
+
+女：这条裤子怎么样？
+男：你已经有那么多裤子了，买条裙子吧。
+
+answer
+
+e
+
+notes
+
+_
+
+*** 3
+:PROPERTIES:
+:ID: 95c13c41-0578-4ce5-8042-0b3949724239
+:END:
+
+女１：你要做什么？我来帮您吧。
+女２：不用帮，我一个人可以，谢谢你。
+
+answer
+
+b
+
+notes
+
+_
+
+*** 4
+:PROPERTIES:
+:ID: 586d10e1-6e3c-4934-bde6-9d29d5913b5b
+:END:
+
+男：春天到了，花儿都开了。
+女：是啊，你看它们开得多好！
+
+answer
+
+c
+
+notes
+
+_
+
+*** 5
+:PROPERTIES:
+:ID: bf536a43-420a-464f-b3eb-761943040bc4
+:END:
+
+女：医生，我怎么了？
+男：你有点儿感冒，我给你开点儿药。
+
+answer
+
+a
+
+notes
+
+开药 | kai1 yao4 | to prescribe medicine ;
+
+*** ANSWERED “开点儿药” 什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-02 12:11:45 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-06-13 Mon 08:28]
+- State "QUESTION"   from              [2022-06-13 Mon 08:28]
+:END:
+
+
+to prescribe medicine
+
+** 2
+
+*** 6
+:PROPERTIES:
+:ID: 873c78e4-458c-4d8c-9c46-df9d35a5748b
+:END:
+
+最近天气越来越冷，还总是下雨。
+
+这几天的天气不太好。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 7
+:PROPERTIES:
+:ID: 1b0dc3b2-b4ec-4e38-a1a0-d76883ecc203
+:END:
+
+我感冒好了，明天你不用来照顾我了。
+
+现在他的病好了。
+
+answer
+
+1
+
+notes
+
+_
+
+*** 8
+:PROPERTIES:
+:ID: 97928afb-fe8f-4e43-868e-62b8f914b5d3
+:END:
+
+小方最近越来越胖，去年买的裙子都不能穿了。
+
+小方现在比去年瘦。
+
+answer
+
+0
+
+notes
+
+_
+
+*** 9
+:PROPERTIES:
+:ID: e5053900-a760-4631-9102-fc3256859380
+:END:
+
+我儿子最近瘦了，工作太忙，没时间吃饭。
+
+儿子不想吃饭，所以瘦了。
+
+answer
+
+0
+
+notes
+
+_
+
+*** 10
+:PROPERTIES:
+:ID: 0f0fe915-5b34-4420-a143-3ff707982525
+:END:
+
+天气越来越热，大家穿得越来越少。
+
+冬天快到了。
+
+answer
+
+0
+
+notes
+
+_
+
+** 3
+
+*** 11
+:PROPERTIES:
+:ID: b4fdf693-2e7b-496c-b2b1-1e3fb365b89d
+:END:
+
+女：医生，我的病用吃药吗？
+男：不用吃药，回家多喝些水，多吃些水果。
+
+问：男的让女的做什么？
+
+alternatives
+
+吃药
+多喝水
+少吃水果
+
+answer
+
+b
+
+notes
+
+_
+
+*** 12
+:PROPERTIES:
+:ID: e26f8a53-9c2f-4471-8c6f-c75e9e274d3b
+:END:
+
+男：听说你最近不舒服，好些了吗？
+女：前天感冒，昨天发烧，头也越来越疼。
+
+问：女的现在怎么样了？
+
+alternatives
+
+越来越好
+去发烧了
+还在生病
+
+answer
+
+c
+
+notes
+
+_
+
+*** 13
+:PROPERTIES:
+:ID: f35b7fee-d8bc-492c-adb0-d419cf6ee80d
+:END:
+
+女：上次我为你介绍的那个女朋友怎么样？
+男：人很不错，又聪明又漂亮，谢谢你！
+
+问：男的为什么说“谢谢”？
+
+alternatives
+
+女的很聪明
+女的很不错
+女的给他介绍的女朋友很好
+
+answer
+
+c
+
+notes
+
+_
+
+*** 14
+:PROPERTIES:
+:ID: d719b4a9-a3a2-42da-9c12-b27071016667
+:END:
+
+男：我觉得汉语越来越难了。
+女：是吗？我怎么觉得越来越容易，也越来越有意思啊！
+
+问：女的觉得汉语怎么样？
+
+alternatives
+
+越来越不容易
+越来越容易
+越来越没意思
+
+answer
+
+b
+
+notes
+
+_
+
+*** 15
+:PROPERTIES:
+:ID: 7b73129a-e218-4d74-a087-aa57e06bed4f
+:END:
+
+女：你不是发烧了吗？怎么还来上班？
+男：我吃了药，好些了。
+
+问：男的现在怎么样了？
+
+alternatives
+
+越来越好
+没来上班
+不用吃药了
+
+answer
+
+a
+
+notes
+
+_
+
+** 4
+
+*** 16
+:PROPERTIES:
+:ID: f295a65a-39c5-4583-9d82-9298814b32bc
+:END:
+
+
+女１：我喜欢3月，因为天气不那么冷了。
+女２：我喜欢5月，草和树都绿了，花也开了。
+女１：我也喜欢6月，大家不用穿冬天的衣服了。
+男：我喜欢1月、2月、7月和8月、因为不用去上课了。
+
+问：男的为什么喜欢7月和8月？
+
+alternatives
+
+天气不那么冷了
+草和树都绿了
+没有课了
+
+answer
+
+c
+
+notes
+
+_
+
+**** QUESTION Why is the form of the commas different?
+:PROPERTIES:
+:CREATED: [2022-06-02 12:24:33 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-02 Thu 12:24]
+:END:
+
+*** 17
+:PROPERTIES:
+:ID: be4eafba-da7d-4cc2-bcd0-fea96a040774
+:END:
+
+女：现在天长了。
+男：这是什么意思？
+女：“天长了”就是天黑得越来越晚。
+男：我懂了，就是白天的时间越来越长了。
+
+问："天长了"是什么意思？
+
+alternatives
+
+天黑了
+白天没有时间
+天黑很晚了
+
+answer
+
+c
+
+notes
+
+_
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-06-02 12:28:35 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-10-03 Mon 05:13]
+- State "QUESTION"   from "ANSWERED"   [2022-06-02 Thu 12:29]
+- State "ANSWERED"   from              [2022-06-02 Thu 12:28]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-10-03 05:13:14 -05]
+:END:
+
+I've translated the dialogue, but the spanish and english translation doesn't make sense to me. If the days are longer, why does the woman mention that it is getting darker and darker?
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-10-03 05:13:16 -05]
+:END:
+
+In the third sentence, it is mentioned that the time where the sunlight becomes darker is later than usual.
+
+**** ANSWERED
+:PROPERTIES:
+:CREATED: [2022-06-02 12:26:04 -05]
+:END:
+:LOGBOOK:
+- State "ANSWERED"   from "QUESTION"   [2022-06-27 Mon 18:12]
+- State "QUESTION"   from              [2022-06-02 Thu 12:26]
+:END:
+
+***** Question
+:PROPERTIES:
+:CREATED: [2022-10-03 05:15:05 -05]
+:END:
+
+What's the pronunciation of 长 in this dialogue?
+
+***** Answer
+:PROPERTIES:
+:CREATED: [2022-10-03 05:14:59 -05]
+:END:
+
+In this dialogue, the pronunciation is chang2, it means long. When 长 is pronouced as "zhang3", it means to grow something.
+
+*** 18
+:PROPERTIES:
+:ID: 58f18743-6dbc-44aa-9493-82b7b721cc19
+:END:
+
+
+女：今天好些了吗？
+男：这几天一直吃药，现在好些了，腿也不疼了。
+女：那不用再吃药了。
+男：太好了，谢谢您！
+
+问：这两个人可能是什么关系？
+
+alternatives
+
+男女朋友
+医生病人
+丈夫和妻子
+
+answer
+
+b
+
+notes
+
+_
+
+*** 19
+:PROPERTIES:
+:ID: 692fe4d0-e189-4176-bcee-f6bd85bb350b
+:END:
+
+
+男：你看，天晴了。
+女：这么快就不下雨了？我们出去吧。
+男：好啊，带孩子们去外边买些花回来。
+女：好，我去叫他们。
+
+问：他们要做什么？
+
+alternatives
+
+买花
+看花
+看雨
+
+a
+
+answerg y
+
+notes
+
+_
+
+**** QUESTION 为什么在这个句子中使用“回来”这个词？
+:PROPERTIES:
+:CREATED: [2022-06-13 09:20:13 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from "QUESTION"   [2022-06-13 Mon 09:20]
+- State "QUESTION"   from              [2022-06-13 Mon 09:20]
+:END:
+
+*** 20
+:PROPERTIES:
+:ID: 09867326-374e-48ed-9c02-d6537ed4930f
+:END:
+
+
+男：我要买裤子，这条裤子现在已经不能穿了。
+女：你瘦了吗？
+男：什么啊，我要买条大一号的。
+女：你现在吃得越来越多，也不运动，能不胖吗？
+
+问：男的有什么问题？
+
+alternatives
+
+病了
+胖了
+吃得少了
+
+answer
+
+b
+
+notes
+
+_
+
+**** "什么啊" 什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-02 12:33:44 -05]
+:END:
+
+* Reading
+
+** 1
+:PROPERTIES:
+:ID: 5e0bac33-b4a3-4fa0-879c-6328cdd6cc57
+:END:
+
+alternatives
+
+要来客人了，我出去买点儿水果吧。
+当然是春天。
+你今天觉得怎么样？还发烧吗？
+我们快回家去吧。
+当然。我们先坐公共汽车，然后换地铁。
+谢谢你照顾我，的我腿越来越好了。
+
+*** 21
+:PROPERTIES:
+:ID: 3c7dc969-1f17-44e6-9c4c-40e03d873a31
+:END:
+
+content
+
+天越来越黑，快要下雨了。
+
+answer
+
+d
+
+*** 22
+:PROPERTIES:
+:ID: 3af09219-8dc7-4aaf-921f-71f567031e1b
+:END:
+
+content
+
+你最喜欢什么季节？
+
+answer
+
+b
+
+*** 23
+:PROPERTIES:
+:ID: f53edf1f-df28-40fe-a8ed-4303ea0ca59a
+:END:
+
+content
+
+我吃了药，也喝了很多水，现在不发烧了。
+
+answer
+
+c
+
+*** 24
+:PROPERTIES:
+:ID: f72ae414-476b-4b7b-ba1f-e8104c0dc21c
+:END:
+
+content
+
+不用去，家里还有一些苹果和西瓜。
+
+answer
+
+a
+
+*** 25
+:PROPERTIES:
+:ID: d0427ba2-529c-4fda-80dc-30ad8709d1fe
+:END:
+
+content
+
+别这么客气。
+
+answer
+
+f
+
+** 2
+:PROPERTIES:
+:ID: e7ffd252-e35f-46aa-a1a1-d731e488829a
+:END:
+
+alternatives
+
+照顾
+当然
+最近
+裙子
+声音
+为
+
+*** 26
+:PROPERTIES:
+:ID: 8f6f1a14-d416-4469-a284-b7da68ee3630
+:END:
+
+content
+
+这是我//你买的蛋糕，你看看，喜欢吗？
+
+answer
+
+f
+
+*** 27
+:PROPERTIES:
+:ID: 874be740-c1e9-433c-8aec-8018100e4404
+:END:
+
+content
+
+下个星期我不在家，你能帮我//一下我的小狗吗？
+
+answer
+
+a
+
+*** 28
+:PROPERTIES:
+:ID: eaf73754-7871-4615-966b-c46d0a6d9fc2
+:END:
+
+content
+
+这条//是去年我生日的时候妈妈给我买的。
+
+answer
+
+d
+
+*** 29
+:PROPERTIES:
+:ID: 0aa2aeda-c605-43e0-8309-6710c15a5218
+:END:
+
+content
+
+Ａ：你怎么瘦了？是不是//工作太忙了？
+Ｂ：我一点儿也没瘦，很多人都说我胖了。
+
+answer
+
+c
+
+*** 30
+:PROPERTIES:
+:ID: 152817a7d-cb66-46c8-a3d5-833e34221b03
+:END:
+
+content
+
+Ａ：今天晚上你像不像跟我一起去看电影？
+Ｂ：//想去，我们什么时候走？
+
+answer
+
+b
+
+** 3
+
+*** 31
+:PROPERTIES:
+:ID: 125fe91c-69bd-4e1f-bcc2-5031759166d4
+:END:
+
+content
+
+北京一年有四个季节，我最喜欢春天。北京的春天是绿色的，因为树绿了，草地也都绿了，天气不那么冷了，花也开了。这么漂亮季节，你不喜欢吗？
+
+inference with missing information
+
+北京的春天
+
+alternatives
+
+天气非常冷
+花还没开
+树和草都绿了
+
+answer
+
+c
+
+*** 32
+:PROPERTIES:
+:ID: 1cf8e772-ee87-48d1-9980-4745d4b35cdd
+:END:
+
+content
+
+现在的”小胖子“越来越多了 ，因为现在的孩子吃得越来越多，越来越不爱运动。吃饭的时候不爱吃菜，只爱吃肉，还喜欢吃甜的，这样当然会越来越胖了。
+
+inference with missing information
+
+“小胖子”们
+
+alternatives
+
+爱吃菜
+爱吃肉
+爱运动
+
+answer
+
+b
+
+*** 33
+:PROPERTIES:
+:ID: fa2f5a36-55ad-4900-9d42-e6bcfaa5dc21
+:END:
+
+content
+
+中国人一年四季都喜欢喝茶。中国有很多菜，有红茶，也有绿茶又，还有花茶。茶是中国人非常爱喝的饮料。
+
+inference with missing information
+
+中国人觉得茶
+
+alternatives
+
+是红色的
+很好喝
+很贵
+
+answer
+
+b
+
+*** 34
+:PROPERTIES:
+:ID: bce8a696-2bfe-44eb-9762-fe380972dbae
+:END:
+
+content
+
+很多女孩儿晚上不吃饭，只吃水果，白天吃得也很少。她们说这样可以瘦一点儿，可以穿漂亮的裙子。其实，不吃饭对身体不好。晚上可以少吃一点儿，但不能不吃，也不能吃得 太晚。
+
+inference with missing information
+
+根据这段话，可以知道
+
+alternatives
+
+不吃饭对身体不好
+晚上可以不吃饭
+白天可以不吃饭
+
+answer
+
+a
+
+*** 35
+:PROPERTIES:
+:ID: 59569c27-48fa-4568-808d-9e4bd165a352
+:END:
+
+content
+
+你知道生斌的时候怎么吃药吗？有人用茶水吃药，有人用热牛奶吃药。其实，吃药的时候用热水是最好的。药，你吃对了吗？
+
+inference with missing information
+
+吃药的时候要用
+
+alternatives
+
+热茶水
+热牛奶
+热水
+
+answer
+
+c
+
+* Writing
+
+** 1
+
+*** 36
+:PROPERTIES:
+:ID: d95ec2ac-92aa-4694-bb83-1b6f5a062e2d
+:END:
+
+words
+
+外边的
+绿
+草
+都
+了
+
+answer
+
+外边的草都绿了。
+
+*** 37
+:PROPERTIES:
+:ID: 9fc91483-c187-4db0-af18-e89d69560693
+:END:
+
+words
+
+好
+现在
+我得病
+了
+
+answer
+
+现在我的病好了。
+
+*** 38
+:PROPERTIES:
+:ID: 87ef44ca-f90f-4c70-b7fe-4f8fe20beb69
+:END:
+
+words
+
+热
+越来越
+天气
+最近
+
+answer
+
+最近天气越来越热。
+
+*** 39
+:PROPERTIES:
+:ID: 443e81d9-86cf-4311-b5ca-531514a74413
+:END:
+
+words
+
+越来越
+雨
+大
+下得
+
+answer
+
+雨下的越来越大。
+
+*** 40
+:PROPERTIES:
+:ID: 9162231f-1aea-4c32-ab1c-099a0759a6b6
+:END:
+
+words
+
+漂亮
+越来越
+现在
+我妹妹
+
+answer
+
+我妹妹现在越来越漂亮。
+
+
+
+** 2
+
+*** 41
+:PROPERTIES:
+:ID: 80ade0b0-e011-44fa-ab0d-6c75f4d9f0fb
+:END:
+
+sentence
+
+听说你//烧了，我来看看你。
+
+pinyin
+
+fa1
+
+answer
+
+发
+
+*** 42
+:PROPERTIES:
+:ID: ce8bd076-1032-47aa-b787-90c2178756c4
+:END:
+
+sentence
+
+今天是周末，不//去公司上班。
+
+pinyin
+
+yong4
+
+answer
+
+用
+
+*** 43
+:PROPERTIES:
+:ID: 4d1d9cb3-8fac-4d0b-866d-8339ead55cd3
+:END:
+
+sentence
+
+你觉得哪个//节去南方最好？
+
+pinyin
+
+ji4
+
+answer
+
+季
+
+*** 44
+:PROPERTIES:
+:ID: ff9dc974-e4ec-4e85-bc5e-423a19a3ccfb
+:END:
+
+sentence
+
+大家都说北京的//天是最漂亮的。
+
+pinyin
+
+chun1
+
+answer
+
+春
+
+*** 45
+:PROPERTIES:
+:ID: 6a04315d-8e3d-44b8-85ca-acfe79078548
+:END:
+
+sentence
+
+你说我今天穿裤子还是穿//子？
+
+pinyin
+
+qun2
+
+answer
+
+裙
+
+** 3
+
+*** 46
+:PROPERTIES:
+:ID: 12fa8e06-720d-4dec-9ade-f7fcd6ed8174
+:END:
+
+content
+
+你//，//天到了，花都开了。
+
+answer
+
+看
+春
+
+*** 47
+:PROPERTIES:
+:ID: 09e0a891-56a2-4ab5-be20-478a5487bf45
+:END:
+
+content
+
+今年//天，我没去旅游，一直在家里//习，准备HSK考试。
+
+answer
+
+夏
+复
+
+*** 48
+:PROPERTIES:
+:ID: a865965a-f36f-40ac-84c2-972ab0b99fbb
+:END:
+
+content
+
+我的朋//有点儿//烧，我要去他家照顾他。
+
+answer
+
+友
+发
+
+*** 49
+:PROPERTIES:
+:ID: b92ae7d8-9988-4b5d-9fc9-92516f53602a
+:END:
+
+content
+
+你穿了那么多衣服，当//觉得很//。
+
+answer
+
+然
+热
+
+*** 50
+:PROPERTIES:
+:ID: 0b7e647e-d8b5-4513-b957-53075b48a66a
+:END:
+
+content
+
+今天//上，我看到树下的小//都绿了。
+
+answer
+
+早
+草
+
+**** QUESTION “小草”是什么意思？
+:PROPERTIES:
+:CREATED: [2022-06-30 18:43:50 -05]
+:END:
+:LOGBOOK:
+- State "QUESTION"   from              [2022-06-30 Thu 18:43]
+:END:
+
+Isn't it supposed that 小 is only used for animals? 小鸟, 小狗, 小猫, etc.
+
+* Review
+
+** 1
+:PROPERTIES:
+:ID: 079a771d-6695-4f92-abef-d7d3c40fa0cf
+:END:
+
+content
+
+小刚最喜欢的//是//，因为天气不那么冷了，//和树都绿了，花也开了。小丽最喜欢//，因为可以穿漂亮的//。现在小刚也喜欢夏天了。
+
+answer
+
+季节
+春天
+草
+夏天
+裙子
+
+** 2
+:PROPERTIES:
+:ID: ac765636-4235-47ec-9855-dc731017f8c3
+:END:
+
+content
+
+小刚去年买的裙子，今年//了。因为小刚吃得太多，小刚让她。//小丽//胖，是因为她//太好吃了。
+
+answer
+
+就不能穿
+少吃点儿
+最近
+越来越做的饭
+
