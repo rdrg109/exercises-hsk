@@ -291,7 +291,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 **** 句子
 
-如果🟨是你🟨，你会🟨选择🟨呢？
+如果🟦是你🟦，你会🟦选择🟦呢？
 
 **** 答案
 
@@ -305,7 +305,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 **** 句子
 
-你跟🟨你的同屋🟨吵🟨架🟨吗？
+你跟🟦你的同屋🟦吵🟦架🟦吗？
 
 **** 答案
 
@@ -319,7 +319,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 **** 句子
 
-🟨机会是要🟨自己努力🟨去🟨获得的。
+🟦机会是要🟦自己努力🟦去🟦获得的。
 
 **** 答案
 
@@ -333,7 +333,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 **** 句子
 
-请不要🟨把关🟨到车窗外🟨去🟨。
+请不要🟦把关🟦到车窗外🟦去🟦。
 
 **** 答案
 
