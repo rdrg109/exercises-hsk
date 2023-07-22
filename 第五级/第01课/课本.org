@@ -194,7 +194,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 **** 句子填空
 
-你的病都好了吗？现在感觉🟨？
+你的病都好了吗？现在感觉🟦？
 
 **** 选择
 
@@ -214,7 +214,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 **** 句子填空
 
-电视里广告太多让观众感到很不🟨。
+电视里广告太多让观众感到很不🟦。
 
 **** 选择
 
@@ -234,7 +234,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 **** 句子填空
 
-这儿太🟨了，我们换个地方吧。
+这儿太🟦了，我们换个地方吧。
 
 **** 选择
 
@@ -254,7 +254,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 **** 句子填空
 
-他这么年轻，没想到🟨是一位著名的作家。
+他这么年轻，没想到🟦是一位著名的作家。
 
 **** 选择
 
