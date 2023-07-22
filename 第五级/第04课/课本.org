@@ -189,6 +189,9 @@
 
 
 ** 3
+:PROPERTIES:
+:NOTETYPE: 4f66e183-906c-4e83-a877-1d9a4ba39b65
+:END:
 
 *** 1
 

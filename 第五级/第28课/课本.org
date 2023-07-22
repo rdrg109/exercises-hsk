@@ -266,6 +266,9 @@
 
 
 ** 3
+:PROPERTIES:
+:NOTETYPE: ed35c1fb-b432-43d3-a739-afb09745f93f
+:END:
 
 *** 1
 
