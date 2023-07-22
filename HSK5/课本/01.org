@@ -129,7 +129,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 ***** 句子
 
-她从小就🟨小动物。
+她从小就🟦小动物。
 
 ***** 答案
 
@@ -139,7 +139,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 ***** 句子
 
-关于这段对话，下面哪🟨是正确的？
+关于这段对话，下面哪🟦是正确的？
 
 ***** 答案
 
@@ -152,7 +152,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 ***** 句子
 
-请大家耐心地🟨一会儿，不要🟨他。
+请大家耐心地🟦一会儿，不要🟦他。
 
 ***** 答案
 
@@ -162,7 +162,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 ***** 句子
 
-请把那本杂志🟨给我。
+请把那本杂志🟦给我。
 
 ***** 答案
 
@@ -172,7 +172,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 ***** 句子
 
-火车快到的时候你🟨我一声。
+火车快到的时候你🟦我一声。
 
 ***** 答案
 
@@ -182,7 +182,7 @@ I gave up at 15:28. Almost one hour typing this text.
 
 ***** 句子
 
-不要总是🟨别人，要想想能不能改变自己。
+不要总是🟦别人，要想想能不能改变自己。
 
 ***** 答案
 
