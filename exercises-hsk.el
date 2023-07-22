@@ -1,12 +1,14 @@
 (defvar exercises-hsk-directory "~/my/git-repos/exercises-hsk")
 
-(cl-defun hsk-5-textbook-exercises-part-1-export (&key filename-input
-                                                       filename-output
-                                                       deck
-                                                       notetype)
-  (let* ((data (exercises-get-subtree-as-alist
+(cl-defun hsk-5-textbook-exercises-part-1-export (&key filename-input filename-output)
+  (let* ((outline '("练习" "1"))
+         (deck
+          (exercises-hsk-build-deck-name-from-file-and-outline
+           filename-input outline))
+         (notetype "e5cbd9a2-e6f3-4b45-9420-bbf89dcd834d")
+         (data (exercises-get-subtree-as-alist
                 :filename filename-input
-                :outline '("练习" "1")))
+                :outline outline))
          (alternatives (alist-get "选择" data nil nil 'equal))
          (exercises (alist-get "题目" data nil nil 'equal)))
     (with-current-buffer (find-file-noselect filename-output)
@@ -32,6 +34,7 @@
                             (alist-get "答案" (cdr exercise) nil nil 'equal)))))
         "	")
        "\n"))))
+
 
 (cl-defun hsk-5-textbook-exercises-part-1-get-max-number-of-alternatives ()
   (exercises-unique-max-headlines
