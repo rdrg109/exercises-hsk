@@ -198,11 +198,11 @@ I gave up at 15:28. Almost one hour typing this text.
 
 **** 选择
 
-***** a
+***** A
 
 如何
 
-***** b
+***** B
 
 怎么
 
@@ -218,11 +218,11 @@ I gave up at 15:28. Almost one hour typing this text.
 
 **** 选择
 
-***** a
+***** A
 
 耐心
 
-***** b
+***** B
 
 耐烦
 
@@ -238,11 +238,11 @@ I gave up at 15:28. Almost one hour typing this text.
 
 **** 选择
 
-***** a
+***** A
 
 吵
 
-***** b
+***** B
 
 吵架
 
@@ -258,11 +258,11 @@ I gave up at 15:28. Almost one hour typing this text.
 
 **** 选择
 
-***** a
+***** A
 
 居然
 
-***** b
+***** B
 
 仍然
 
