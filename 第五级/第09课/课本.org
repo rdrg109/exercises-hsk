@@ -96,6 +96,9 @@
 ** 2
 
 *** 1
+:PROPERTIES:
+:ID: fb62a4b7-c2dd-40e9-abd8-61f00d1ed2c4
+:END:
 
 **** 句子填空
 
@@ -116,6 +119,9 @@
 
 
 *** 2
+:PROPERTIES:
+:ID: 2a276ca3-af6b-49ef-b573-76a5ea046fdc
+:END:
 
 **** 句子填空
 
@@ -136,6 +142,9 @@
 
 
 *** 3
+:PROPERTIES:
+:ID: cdf75714-c66b-45aa-8cbe-7cf3b539e18f
+:END:
 
 **** 句子填空
 
@@ -156,6 +165,9 @@
 
 
 *** 4
+:PROPERTIES:
+:ID: 8757015c-538c-4da8-b774-b07f2bb95862
+:END:
 
 **** 句子填空
 

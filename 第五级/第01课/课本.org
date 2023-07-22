@@ -191,6 +191,9 @@ I gave up at 15:28. Almost one hour typing this text.
 ** 2
 
 *** 1
+:PROPERTIES:
+:ID: 9d418c64-96b5-4713-a897-195eac39c575
+:END:
 
 **** 句子填空
 
@@ -211,6 +214,9 @@ I gave up at 15:28. Almost one hour typing this text.
 
 
 *** 2
+:PROPERTIES:
+:ID: 2ba1fb8c-ec27-4561-9c0f-c03ac5305ede
+:END:
 
 **** 句子填空
 
@@ -231,6 +237,9 @@ I gave up at 15:28. Almost one hour typing this text.
 
 
 *** 3
+:PROPERTIES:
+:ID: a9dc7695-9cc5-4ee3-ac93-5e8328586a62
+:END:
 
 **** 句子填空
 
@@ -251,6 +260,9 @@ I gave up at 15:28. Almost one hour typing this text.
 
 
 *** 4
+:PROPERTIES:
+:ID: e7341005-bd07-4161-80db-01810b938b0d
+:END:
 
 **** 句子填空
 
