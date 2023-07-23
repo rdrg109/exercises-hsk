@@ -37,44 +37,49 @@
 
   var paragraph = document.createElement('div')
   paragraph.innerHTML = insertWikidataLinks(data['paragraph'])
+  paragraph.classList.add('exercise-main-text')
 
   var exercise = document.createElement('div')
-  exercise.classList.add('exercise')
+  exercise.classList.add('exercises-exercise-multiple-choice')
 
   var star = document.createElement('div')
   star.textContent = data['star']
+  star.classList.add('instruction')
 
   var alternatives = document.createElement('div')
   alternatives.classList.add('alternatives')
-  for(const alternative of ["A", "B", "C", "D"]) {
-    let id = 'alternative-' + alternative.toLowerCase()
+  for(const alternativeLetter of ["A", "B", "C", "D"]) {
+    let alternative = document.createElement('div')
+    alternative.classList.add('alternative')
+    let id = 'alternative-' + alternativeLetter.toLowerCase()
     let button = document.createElement('input')
     let groupName = 'alternative'
     button.type = 'radio'
     button.name = groupName
-    button.value = alternative
-    button.id = 'alternative-' + alternative.toLowerCase()
+    button.value = alternativeLetter
+    button.id = 'alternative-' + alternativeLetter.toLowerCase()
     button.addEventListener('change', function() {
       Persistence.setItem(groupName, id)
     })
+    button.classList.add('button')
     let label = document.createElement('div')
-    label.textContent = alternative + '. ' + data[id]
-    label.classList.add('alternative')
-    alternatives.appendChild(button)
-    alternatives.appendChild(label)
+    label.textContent = alternativeLetter
+    label.classList.add('label')
+    let content = document.createElement('div')
+    content.textContent = data[id]
+    content.classList.add('content')
+    alternative.appendChild(button)
+    alternative.appendChild(label)
+    alternative.appendChild(content)
+    alternatives.appendChild(alternative)
   }
 
   exercise.appendChild(star)
   exercise.appendChild(alternatives)
 
-  var nodes = [
-    identifier,
-    paragraph,
-    exercise
-  ]
-
-  for(const node of nodes)
-    parent.appendChild(node)
+  parent.appendChild(identifier)
+  parent.appendChild(paragraph)
+  parent.appendChild(exercise)
 
   makeWikidataSensesClickable()
 </script>
