@@ -1,3 +1,5 @@
+(require 'exercises)
+
 (defvar exercises-hsk-directory "~/my/git-repos/exercises-hsk")
 
 (cl-defun hsk-5-textbook-exercises-part-1-export (&key filename-input filename-output)
