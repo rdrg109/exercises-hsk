@@ -1,0 +1,22 @@
+fields:
+  - name: identifier
+  - name: word 1
+  - name: word 2
+  - name: word 3
+  - name: word 4
+  - name: word 5
+  - name: word 6
+  - name: word 7
+  - name: word 8
+  - name: sentence 1
+  - name: sentence 1 answer
+  - name: sentence 2
+  - name: sentence 2 answer
+  - name: sentence 3
+  - name: sentence 3 answer
+  - name: sentence 4
+  - name: sentence 4 answer
+  - name: sentence 5
+  - name: sentence 5 answer
+  - name: sentence 6
+  - name: sentence 6 answer

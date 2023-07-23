@@ -1,0 +1,114 @@
+<my-anki-field name="identifier">{{identifier}}</my-anki-field>
+<my-anki-field name="word-1">{{word 1}}</my-anki-field>
+<my-anki-field name="word-2">{{word 2}}</my-anki-field>
+<my-anki-field name="word-3">{{word 3}}</my-anki-field>
+<my-anki-field name="word-4">{{word 4}}</my-anki-field>
+<my-anki-field name="word-5">{{word 5}}</my-anki-field>
+<my-anki-field name="word-6">{{word 6}}</my-anki-field>
+<my-anki-field name="word-7">{{word 7}}</my-anki-field>
+<my-anki-field name="word-8">{{word 8}}</my-anki-field>
+<my-anki-field name="sentence-1">{{sentence 1}}</my-anki-field>
+<my-anki-field name="sentence-1-answer">{{sentence 1 answer}}</my-anki-field>
+<my-anki-field name="sentence-2">{{sentence 2}}</my-anki-field>
+<my-anki-field name="sentence-2-answer">{{sentence 2 answer}}</my-anki-field>
+<my-anki-field name="sentence-3">{{sentence 3}}</my-anki-field>
+<my-anki-field name="sentence-3-answer">{{sentence 3 answer}}</my-anki-field>
+<my-anki-field name="sentence-4">{{sentence 4}}</my-anki-field>
+<my-anki-field name="sentence-4-answer">{{sentence 4 answer}}</my-anki-field>
+<my-anki-field name="sentence-5">{{sentence 5}}</my-anki-field>
+<my-anki-field name="sentence-5-answer">{{sentence 5 answer}}</my-anki-field>
+<my-anki-field name="sentence-6">{{sentence 6}}</my-anki-field>
+<my-anki-field name="sentence-6-answer">{{sentence 6 answer}}</my-anki-field>
+
+<style>
+  @import url('exercises.css');
+  @import url('exercises-hsk.css');
+
+  .card {
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    background-color: white;
+  }
+
+  .words {
+    border: 1px solid black;
+    display: inline-block;
+  }
+
+  .word {
+    display: inline-block;
+    padding: 5px 10px;
+  }
+
+  .sentences {
+    text-align: left;
+    margin: auto;
+    max-width: 70%;
+    border: 1px solid black;
+    padding: 10px;
+  }
+</style>
+
+<script src="anki-persistence-v1.1.8-minified.js"></script>
+<script src="exercises.js"></script>
+<script src="exercises-hsk.js"></script>
+<script>
+  var data = getAllAnkiFields()
+  var parent = document.getElementById('qa')
+
+  var identifier = document.createElement('div')
+  identifier.textContent = data['identifier']
+
+  var words = document.createElement('div')
+  words.classList.add('words')
+  for(var i=1; i<=8; i++) {
+    var id = 'word-' + i
+    if(data[id] == "")
+      continue
+    var node = document.createElement('div')
+    node.textContent = data[id]
+    node.classList.add('word')
+    words.appendChild(node)
+  }
+
+  var sentences = document.createElement('div')
+  sentences.classList.add('sentences')
+  var counter = 1;
+  for(var i=1; i<=6; i++) {
+    var id = 'sentence-' + i
+    var node = document.createElement('div')
+    node.textContent = counter + '. ' + data[id]
+    node.classList.add('sentence')
+    sentences.appendChild(node)
+    counter = counter + 1
+  }
+
+  var nodes = [
+    identifier,
+    words,
+    sentences
+  ]
+
+  for(const node of nodes)
+    parent.appendChild(node)
+
+  var nodes = document.querySelectorAll('.sentence')
+  var counter = 1
+  for(const node of nodes) {
+    node.innerHTML = node.innerHTML.replace(/🟦/, () => {
+      var node = document.createElement('input')
+      node.type = 'text'
+      node.classList.add('exercises-hsk-input-text-for-a-single-word')
+      node.style.display = 'inline-block';
+      id = 'input-' + counter
+      node.id = id
+      counter = counter + 1
+      return node.outerHTML
+    })
+  }
+
+  for(var i=1; i<=6; i++)
+    addEventListenersToInputTextWhenInput(['input-' + i])
+</script>
