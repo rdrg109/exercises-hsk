@@ -3107,28 +3107,28 @@ cab
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 有耐心
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 接受批评
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 学会原谅
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
@@ -3166,28 +3166,28 @@ d
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 降低气温
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 改变风向
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 增加雨量
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
@@ -3225,28 +3225,28 @@ a
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 多调查
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 打好基础
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 及时总结
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
@@ -3284,28 +3284,28 @@ d
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 多运动
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 少吃米饭
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 经常站着
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
@@ -3343,28 +3343,28 @@ a
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 被骗了
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 住在附近
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 在找房子
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
@@ -3402,28 +3402,28 @@ c
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 更安静
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 收入高
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 招聘会多
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
@@ -3461,28 +3461,28 @@ d
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 找人帮忙
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 交给别人
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 早点儿完成
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
@@ -3520,28 +3520,28 @@ c
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 诚实
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 别太得意
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 经常复习
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
@@ -3579,28 +3579,28 @@ d
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 复杂多变
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 让人难过
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 更容易理解
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
@@ -3638,28 +3638,28 @@ c
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:57 -05]
 :END:
 
 更准确
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 值得重视
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 无法被证明
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
@@ -3697,28 +3697,28 @@ d
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 认识汉字
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 熟悉校园
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 提高信心
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
@@ -3756,28 +3756,28 @@ d
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 更努力
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 十分兴奋
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 非常着急
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
@@ -3815,28 +3815,28 @@ a
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 减少误会
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 怕人怀疑
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 想引人同情
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
@@ -3874,28 +3874,28 @@ a
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
-***** a
+***** A
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 聪明
 
-***** b
+***** B
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 跑得快
 
-***** c
+***** C
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
 
 获过奖
 
-***** d
+***** D
 :PROPERTIES:
 :CREATED: [2023-01-01 16:58:58 -05]
 :END:
