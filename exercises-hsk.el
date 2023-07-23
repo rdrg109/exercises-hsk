@@ -104,23 +104,28 @@
       (insert
        (string-join
         (cl-loop
-         for exercise in exercises
+         with exercise-number-start = 66
+         with exercise-number-end = 79
+         for exercise-number from exercise-number-start to exercise-number-end
          collect
-         (string-join
-          (flatten-tree
-           (list
-            deck
-            notetype
-            (alist-get "id" exercise nil nil 'equal)
-            (car exercise)
-            (alist-get "段话" (cdr exercise) nil nil 'equal)
-            (alist-get "星星" (cdr exercise) nil nil 'equal)
-            (cl-loop
-             for alternative in '("A" "B" "C" "D")
-             collect (alist-get alternative
-                                (alist-get "选择" exercise nil nil 'equal)
-                                nil nil 'equal))
-            (alist-get "答案" (cdr exercise) nil nil 'equal)))
-          "	"))
+         (let ((exercise (alist-get
+                          (number-to-string exercise-number)
+                          exercises nil nil 'equal)))
+           (string-join
+            (flatten-tree
+             (list
+              deck
+              notetype
+              (alist-get "id" exercise nil nil 'equal)
+              (number-to-string exercise-number)
+              (alist-get "段话" (cdr exercise) nil nil 'equal)
+              (alist-get "星星" (cdr exercise) nil nil 'equal)
+              (cl-loop
+               for alternative in '("A" "B" "C" "D")
+               collect (alist-get alternative
+                                  (alist-get "选择" exercise nil nil 'equal)
+                                  nil nil 'equal))
+              (alist-get "答案" (cdr exercise) nil nil 'equal)))
+            "	")))
         "\n")
        "\n"))))
