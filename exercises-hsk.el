@@ -2,7 +2,7 @@
 
 (defvar exercises-hsk-directory "~/my/git-repos/exercises-hsk")
 
-(cl-defun hsk-5-textbook-exercises-part-1-export (&key filename-input filename-output)
+(cl-defun exercises-hsk-5-textbook-exercises-part-1-export (&key filename-input filename-output)
   (let* ((outline '("练习" "1"))
          (deck
           (exercises-hsk-build-deck-name-from-file-and-outline
@@ -38,7 +38,7 @@
        "\n"))))
 
 
-(cl-defun hsk-5-textbook-exercises-part-1-get-max-number-of-alternatives ()
+(cl-defun exercises-hsk-5-textbook-exercises-part-1-get-max-number-of-alternatives ()
   (exercises-unique-max-headlines
    :files (directory-files-recursively
            (concat
@@ -49,7 +49,7 @@
    :outline '("练习" "1" "选择")
    :testfn '<))
 
-(cl-defun hsk-5-textbook-exercises-part-2-export (&key filename-input filename-output)
+(cl-defun exercises-hsk-5-textbook-exercises-part-2-export (&key filename-input filename-output)
   (with-current-buffer (find-file-noselect filename-output)
     (let* ((outline '("练习" "2"))
            (deck
