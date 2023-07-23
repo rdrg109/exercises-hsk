@@ -1,0 +1,182 @@
+:PROPERTIES:
+:CREATED: [2022-08-20 08:39:01 -05]
+:END:
+
+* Listening
+
+** 1
+
+*** 1
+
+**** transcript
+
+教师必须把教学活动组织得生动、有趣，除了教师讲授外，要多给学生参与的机会。小学生中出现的课堂纪律问题，往往不是学生故意捣乱，而是学生对教师的课不感兴趣，因而不能坚持听课。
+
+***** translation
+:PROPERTIES:
+:CREATED: [2022-08-20 08:45:33 -05]
+:END:
+ 
+Teachers must organize teaching activities in a lively and interesting way, giving students more opportunities to participate in addition to the teacher's lecture. Classroom discipline problems among elementary school students are often not a result of students' intentional disruptions, but rather of students' disinterest in the teacher's lessons and thus their inability to persist in listening to them.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+c
+
+*** 2
+
+**** transcript
+
+考古发掘中，能够直接参加考古工作的人终究是少数，且一旦发掘工作完毕，现场往往很难原样不动地保存下来，要想让更多的人了解某一地下发掘的现场、情景以及出土文物，只有依靠考古报告。
+
+***** translation
+:PROPERTIES:
+:CREATED: [2022-08-20 08:48:18 -05]
+:END:
+
+Archaeological excavations, can directly participate in the work of archaeology is ultimately a minority, and an excavation is completed, the site is often difficult to preserve intact, in order to allow more people to understand the site of a certain place not excavated scenes and excavated artifacts, only rely on archaeological products.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+d
+
+*** 3
+
+**** transcript
+
+传统的化学工业给环境带来的污染已十分严重，并威胁着人类的生存。化学工业能否生产出对环境无害的化学品？甚至开发出不产生废物的工艺？有识之士提出了绿色化学的号召，并立确得到了全世界的积极响应。
+
+***** translation
+:PROPERTIES:
+:CREATED: [2022-08-20 08:57:51 -05]
+:END:
+
+The pollution caused by the traditional chemical industry to the environment has been heavy and threatens the survival of human beings. Can the chemical industry produce chemicals that are environmentally friendly? Or even develop waste-free processes? The call for green chemistry has been raised by people with insight, and it has been positively received worldwide.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+d
+
+*** 4
+
+**** transcript
+
+农历正月初一是古时的新年，又称“新正”，今天我们称之为“春节”。它作为古代官方法定岁首，乃汉武帝时编定的太初历所规定。千百年来，这个法定岁首逐步汇聚了许多其他节日的习俗，成为一个送旧迎新的节日。
+
+***** translation
+:PROPERTIES:
+:CREATED: [2022-08-20 08:57:36 -05]
+:END:
+
+The first day of the first month of the lunar calendar is the ancient New Year, also known as "New Year's Day", which today we call "Spring Festival". It was the official top of the year in ancient times, and was established by the Taichu calendar, which was compiled during the reign of Emperor Wu of the Han Dynasty. Over the centuries, this legal first day of the year has gradually converged with many other festive customs, becoming a festival to send off the old and welcome the new.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+b
+
+*** 5
+
+**** transcript
+
+小篆，是秦始皇统一六国之后，秦代通用的标准字体。相传是秦国丞相李斯所创。与大篆相比，小篆书写起来更加简便，字体长方，每个字大小一样，排列方正，横竖成行，给人一种整齐之美，这样也就形成了方圆兼备的小篆体。
+
+***** translation
+:PROPERTIES:
+:CREATED: [2022-08-20 09:02:45 -05]
+:END:
+
+Small Seal Script is the standard script used in the Qin Dynasty after the unification of the six states by Qin Shi Huang. It is said to have been written by Li Si, the prime minister of Qin. It is easier to write than the non-seal script, with a rectangular font, each character is the same, and it is arranged squarely in horizontal and vertical lines, giving it a neat appearance.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+b

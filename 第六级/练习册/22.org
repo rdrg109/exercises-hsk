@@ -1,0 +1,169 @@
+* Listening
+
+** 1
+
+*** 1
+
+**** transcript
+
+改变农村落后面貌，建设小康村是一项系统工程，各级干部必须全身心地投入，全方位地服务，不仅要为条件好的村“锦上添花”，更要为基础差的村“雪中送炭”。
+
+***** translation
+
+Changing the backward appearance of rural areas and building well-off villages is a systematic project, and cadres at all levels must devote themselves to all-round services, not only to "add flowers" for villages with good conditions, but also to "send charcoal in snow" for villages with poor foundation.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 2
+
+**** transcript
+
+2010年，北京某出版社为了策划“四书五经精选”系列图书，设计了一个采访题目：“中国人你知道四书五经具体是哪些书吗？”采访一天以后，他们发现被采访的人中十之六七不能全部说出来。
+
+***** translation
+
+In 2010, a publisher in Beijing designed an interview for the "Four Books and Five Classics" book series: "Do Chinese people know which books are the Four Books and Five Classics?" After a day of interviewing, they found that sixty-seven out of ten people interviewed could not tell us all of them.
+
+***** TODO Read these books
+:LOGBOOK:
+- State "TODO"       from              [2022-08-21 Sun 09:15]
+:END:
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 3
+
+**** transcript
+
+青少年都有自己的兴趣爱好，这些兴趣和爱好若能及早得到培养，就能形成特长。老师根据学生的爱好，有意识地加以引导，学生就可能在自己爱好的领域施展才华、发展特长。
+
+***** translation
+
+All young people have their own interests and hobbies, and if these interests and hobbies can be cultivated, they can become specialties. If teachers consciously guide students according to their hobbies, students may develop their talents and strengths in their own hobbies.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 4
+
+**** transcript
+
+从人类诞生的那一刻起，动物就成为人类密不可分的伴侣。在人类寂寞而漫长的进化行程中，动物像忠实的朋友一样始终陪伴左右，然而，作为和人一样有生命有感觉的存在，它们却一直被排除在人类的伦理视野之外。
+
+***** translation
+
+From the moment of human birth, animals have been inseparable companions of human beings. During the long and lonely journey of human beings, animals have always been with us like loyal friends, but as living and feeling beings like humans, they have always been excluded from the ethical vision of human beings.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 5
+
+**** transcript
+
+燃煤会产生二氧化碳和二氧化硫，二氧化碳积聚在地面，会像玻璃罩一样，阻断地面热量向空中散发，使地球表面温度升高，形成“温室效应”。“温室效应”会使全球气候异常，引发干旱或洪涝，还会使冰山融化，海平面升高，海拔较低的国家或岛屿就会被淹没。
+
+***** translation
+
+Burning coal produces carbon dioxide and sulfur dioxide, which accumulate on the ground and act as a glass cover to block heat from the ground to the air, raising the earth's surface temperature and creating the "greenhouse effect. The "greenhouse effect" will cause global climate anomalies, leading to droughts or floods, as well as the melting of icebergs, rising sea levels, and the inundation of countries or islands at lower elevations.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+

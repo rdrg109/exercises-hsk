@@ -1,0 +1,180 @@
+* Listening
+
+** 1
+
+*** 1
+
+**** transcript
+
+
+
+**** alternatives
+
+***** a
+
+妈妈不在家，明明像个小绅士，把阿姨迎进门，跑到桌子前，费力地踮起脚尖，倒了一大杯凉茶，郑重地捧到阿姨面前。阿姨别提多感动了，接过凉茶，瞬间，暑气已经消散了一半。
+
+****** translation in english
+:PROPERTIES:
+:CREATED: [2022-08-22 21:44:48 -05]
+:END:
+
+Mom is not at home, Ming Ming like a little gentleman, the aunt into the door, ran to the table, struggling on tiptoe, poured a large cup of herbal tea, solemnly held in front of the aunt. Aunt can not mention how touched, took the herbal tea, instantly, the summer heat has been dissipated half.
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 2
+
+**** transcript
+
+露西来到我家。早餐我准备了包子和小馄饨，孩子们边吃边聊，滔滔不绝。吃完早饭，露西对我说：“这是我吃过的最好吃的美味佳肴，非常感谢您！”我瞬间被露西的赞美感动了。
+
+***** translation in english
+:PROPERTIES:
+:CREATED: [2022-08-22 21:44:22 -05]
+:END:
+
+Lucy came to my house. For breakfast I prepared buns and small ravioli, and the kids ate and talked about them. After breakfast, Lucy said to me, "This is the best delicious food I have ever eaten, thank you very much!" I was instantly touched by Lucy's compliment.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 3
+
+**** transcript
+
+到底应该怎样培养孩子？显然，过分地溺爱、过度地保护、天天督促他们埋头在书本堆里死读书都是错误的。大家知道，自然是孩子的天性，自由是孩子的本性，约束天性和本性，就是扼杀成长的活力和动力，这样的教育一定不会成功。
+
+***** translation in english
+:PROPERTIES:
+:CREATED: [2022-08-22 21:43:54 -05]
+:END:
+
+How should I raise my children? Obviously, i7t is wrong to over-indulge, over-protect, and urge them to bury their heads in books and study hard every day. As we all know, nature is the child's nature and freedom is the child's nature. To restrain nature and nature is to kill the vitality and motivation of growth, and such education will definitely not be successful.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 4
+
+**** transcript
+
+我很喜欢古典小说《西游记》里的孙悟空，他勇敢、聪明，能分清好人与坏人，他用超人的本领守护他的师傅和弟兄们，就像我们生活里的警察，抓坏人，帮好人，时刻保卫着我们，这就是《西游记》给我的启示。
+
+***** translation in english
+:PROPERTIES:
+:CREATED: [2022-08-22 21:43:33 -05]
+:END:
+
+I like the Monkey King in the classical novel "Journey to the West" very much. He is brave, smart and can distinguish the good guys from the bad guys, and he guards his master and brothers with superhuman skills, just like the police in our life, catching the bad guys and helping the good guys, defending us all the time.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 5
+
+**** transcript
+
+当孩子告诉父母“我感到难受”“我很失望”时，粗心的父母往往会一笑了之，甚至会说：“小孩子，有什么可失望的。”这就是现今多数父母存在的问题，他们忽略了孩子的心理成长。
+
+***** translation in english
+:PROPERTIES:
+:CREATED: [2022-08-22 21:43:04 -05]
+:END:
+
+When children tell their parents "I feel bad" or "I'm disappointed," careless parents tend to laugh it off and even say, "Kids, there's nothing to be disappointed about." This is the problem with most parents today, they ignore the psychological growth of their children.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+1

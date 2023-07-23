@@ -1,0 +1,255 @@
+* Listening
+
+** 1
+
+*** 1
+
+**** transcript
+
+
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 2
+
+**** transcript
+
+
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 3
+
+**** transcript
+
+他喜爱陈师曾，但更崇敬齐白右。他认为齐白右先生从不守旧，最重创新，爱画生活题材，画自己的真心感受，在艺术上绝不人云亦云，生话中也不巴结权贵。干艺术就是要像齐自右先生那样，有人格、有画格！
+
+***** translation
+:PROPERTIES:
+:CREATED: [2022-08-22 09:53:01 -05]
+:END:
+
+He loves Chen Shizeng, but he respects Qi Baiyu more. He believes that Mr. Qi Ziyirou never keeps to the old ways, emphasizes innovation the most, loves to paint life subjects, paints his own sincere feelings, and never follows the clouds in art, nor does he suck up to the powerful in his life talk. To do art is to be like Mr. Qi Ziyou, with personality and painting style!
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 4
+
+**** transcript
+
+“棍棒出孝子”“产师出高徒”，在传统教育观念中念中被奉为圭臬的信条正在逐渐被拋弃，在中国的学校里，体罚学生的现象已基本被杜绝，越来越多的中国人相信，使用暴力手段教育出的孩子更容易有暴力倾向。
+
+***** transcript
+:PROPERTIES:
+:CREATED: [2022-08-22 09:53:54 -05]
+:END:
+
+The traditional beliefs of "the stick makes the filial son" and "the master makes the senior pupil" are gradually being abandoned, and corporal punishment has been largely eliminated in Chinese schools.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+**** answer
+
+
+
+*** 5
+
+**** transcript
+
+他们公司的产品价格确实比其他品牌昂贵很多，但他们提供的是终身保养服务。买他们的刀具是人生的一种享受，吝户享受的是一种佳品、种高档消费的东趣、 一种价值投资的快感和一种高品质的生活。
+
+***** transcript
+:PROPERTIES:
+:CREATED: [2022-08-22 09:54:18 -05]
+:END:
+
+Their products are indeed much more expensive than other brands, but they offer a lifetime maintenance service. Buying their knives is a kind of enjoyment in life, the stingy household enjoys a good product, a kind of high-end consumption of the East, a value investment pleasure and a high quality of life.
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 6
+
+**** transcript
+
+有人喜欢购买许多牙膏，慢慢用，也有人贪便宜，购买储存过久的牙膏。殊不知，这些作法都不科学。构成牙膏的物质经过一定时间会产生化学反应，降低牙膏的去污和保洁作用，变质的牙膏还可能引起人的过敏反应。
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 7
+
+**** transcript
+
+生活在澳不利亚的有袋类动物比起鸭嘴兽进步很多，它们不再是卵生，而是胎生但是，由于幼仔在母体中发育不完整，只好出生后在母亲的育儿袋中再哺育一段时间。可见，有袋类虽表现出高等哺乳动物的特征，但还是比较原始的。
+
+****** note
+
+
+有袋类 / you3 dai4 lei4 / (zoology) marsupial ;
+鸭嘴兽 / ya1 zui3 shou4 / platypus ;
+比起 / bi3 qi3 / compared with ;
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 8
+
+**** transcript
+
+
+
+**** alternatives
+
+***** a
+
+
+
+***** b
+
+
+
+***** c
+
+
+
+***** d
+
+
+
+**** answer
+
+
+
+*** 2
