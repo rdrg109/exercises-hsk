@@ -36,7 +36,7 @@
   identifier.textContent = data['identifier']
 
   var paragraph = document.createElement('div')
-  paragraph.textContent = data['paragraph']
+  paragraph.innerHTML = insertWikidataLinks(data['paragraph'])
 
   var exercise = document.createElement('div')
   exercise.classList.add('exercise')
@@ -75,4 +75,6 @@
 
   for(const node of nodes)
     parent.appendChild(node)
+
+  makeWikidataSensesClickable()
 </script>
