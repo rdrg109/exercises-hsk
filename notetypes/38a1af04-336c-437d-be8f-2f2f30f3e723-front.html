@@ -1,0 +1,78 @@
+<my-anki-field name="identifier">{{identifier}}</my-anki-field>
+<my-anki-field name="exercise-number">{{exercise number}}</my-anki-field>
+<my-anki-field name="paragraph">{{paragraph}}</my-anki-field>
+<my-anki-field name="star">{{star}}</my-anki-field>
+<my-anki-field name="alternative-a">{{alternative a}}</my-anki-field>
+<my-anki-field name="alternative-b">{{alternative b}}</my-anki-field>
+<my-anki-field name="alternative-c">{{alternative c}}</my-anki-field>
+<my-anki-field name="alternative-d">{{alternative d}}</my-anki-field>
+<my-anki-field name="answer">{{answer}}</my-anki-field>
+<my-anki-field name="note">{{note}}</my-anki-field>
+
+<link rel="stylesheet" href="exercises.css">
+<link rel="stylesheet" href="exercises-hsk.css">
+
+<style>
+@import url('exercises.css');
+@import url('exercises-hsk.css');
+
+.card {
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+</style>
+
+<script src="anki-persistence-v1.1.8-minified.js"></script>
+<script src="exercises.js"></script>
+<script src="exercises-hsk.js"></script>
+<script>
+  var data = getAllAnkiFields()
+  var parent = document.getElementById('qa')
+
+  var identifier = document.createElement('div')
+  identifier.textContent = data['identifier']
+
+  var paragraph = document.createElement('div')
+  paragraph.textContent = data['paragraph']
+
+  var exercise = document.createElement('div')
+  exercise.classList.add('exercise')
+
+  var star = document.createElement('div')
+  star.textContent = data['star']
+
+  var alternatives = document.createElement('div')
+  alternatives.classList.add('alternatives')
+  for(const alternative of ["A", "B", "C", "D"]) {
+    let id = 'alternative-' + alternative.toLowerCase()
+    let button = document.createElement('input')
+    let groupName = 'alternative'
+    button.type = 'radio'
+    button.name = groupName
+    button.value = alternative
+    button.id = 'alternative-' + alternative.toLowerCase()
+    button.addEventListener('change', function() {
+      Persistence.setItem(groupName, id)
+    })
+    let label = document.createElement('div')
+    label.textContent = alternative + '. ' + data[id]
+    label.classList.add('alternative')
+    alternatives.appendChild(button)
+    alternatives.appendChild(label)
+  }
+
+  exercise.appendChild(star)
+  exercise.appendChild(alternatives)
+
+  var nodes = [
+    identifier,
+    paragraph,
+    exercise
+  ]
+
+  for(const node of nodes)
+    parent.appendChild(node)
+</script>

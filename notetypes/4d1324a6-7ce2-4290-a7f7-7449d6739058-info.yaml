@@ -1,0 +1,6 @@
+fields:
+  - name: identifier
+  - name: sentence
+  - name: alternative a
+  - name: alternative b
+  - name: answer
