@@ -86,3 +86,39 @@
      exercises-hsk-directory))
    "::"
    (string-join outline "::")))
+
+
+(cl-defun exercises-hsk-4-exam-reading-part-3-export (&key filename-input filename-output)
+  (with-current-buffer (find-file-noselect filename-output)
+    (let* ((outline '("阅读" "第三部分"))
+           (deck
+            (exercises-hsk-build-deck-name-from-file-and-outline
+             filename-input outline))
+           (notetype "38a1af04-336c-437d-be8f-2f2f30f3e723")
+           (data (exercises-get-subtree-as-alist
+                  :filename filename-input
+                  :outline outline))
+           (exercises (cdr data)))
+      (insert
+       (string-join
+        (cl-loop
+         for exercise in exercises
+         collect
+         (string-join
+          (flatten-tree
+           (list
+            deck
+            notetype
+            (alist-get "id" exercise nil nil 'equal)
+            (car exercise)
+            (alist-get "段话" (cdr exercise) nil nil 'equal)
+            (alist-get "星星" (cdr exercise) nil nil 'equal)
+            (cl-loop
+             for alternative in '("A" "B" "C" "D")
+             collect (alist-get alternative
+                                (alist-get "选择" exercise nil nil 'equal)
+                                nil nil 'equal))
+            (alist-get "答案" (cdr exercise) nil nil 'equal)))
+          "	"))
+        "\n")
+       "\n"))))
