@@ -39,12 +39,12 @@ A
 
 **** 对话
 
-女:刚才又打雷又闪电,[[file:75e66e7a-286e-4175-9074-f6ff6f71c8e1.mp3][(audio)]]真吓人![[file:5605de13-f76c-4eb2-bd51-26c4987114df.mp3][(audio)]]怎么这么一会儿雨就停了?[[file:618de789-ea49-4f4c-a6c8-d72a9c51de84.mp3][(audio)]]
-男:夏天的雨就是这样,[[file:067db57d-d226-424c-b908-3db24b4b90d5.mp3][(audio)]]来得快去得也快。[[file:0838fba1-7887-4c92-b966-5d25c8f599fb.mp3][(audio)]]
+女：刚才又打雷又闪电，[[file:75e66e7a-286e-4175-9074-f6ff6f71c8e1.mp3][(audio)]]真吓人！[[file:5605de13-f76c-4eb2-bd51-26c4987114df.mp3][(audio)]]怎么这么一会儿雨就停了？[[file:618de789-ea49-4f4c-a6c8-d72a9c51de84.mp3][(audio)]]
+男：夏天的雨就是这样，[[file:067db57d-d226-424c-b908-3db24b4b90d5.mp3][(audio)]]来得快去得也快。[[file:0838fba1-7887-4c92-b966-5d25c8f599fb.mp3][(audio)]]
 
 **** 问题
 
-他们说的雨最可能是下面哪种?[[file:2453b82b-4a67-4321-b560-afa615f289b2.mp3][(audio)]]
+他们说的雨最可能是下面哪种？[[file:2453b82b-4a67-4321-b560-afa615f289b2.mp3][(audio)]]
 
 **** 选择
 
@@ -72,12 +72,12 @@ B
 
 **** 对话
 
-男:你今天怎么总打喷嚏,[[file:e10f98f2-39cc-4297-8653-67962f8c2034.mp3][(audio)]]感冒了吧?[[file:64ff635c-811b-4eff-8e60-68acd66d0ee6.mp3][(audio)]]
-女:是有点儿。[[file:0c6ddcc2-f086-45c6-b1de-3e5103bca27f.mp3][(audio)]]昨晚和老公去看电影,[[file:3e8cb301-f776-42f1-8891-f0848b0cd009.mp3][(audio)]]电影院的冷气开得太凉了。[[file:c1e34dac-aa52-4471-b00b-44e2a02c6e25.mp3][(audio)]]
+男：你今天怎么总打喷嚏，[[file:e10f98f2-39cc-4297-8653-67962f8c2034.mp3][(audio)]]感冒了吧？[[file:64ff635c-811b-4eff-8e60-68acd66d0ee6.mp3][(audio)]]
+女：是有点儿。[[file:0c6ddcc2-f086-45c6-b1de-3e5103bca27f.mp3][(audio)]]昨晚和老公去看电影，[[file:3e8cb301-f776-42f1-8891-f0848b0cd009.mp3][(audio)]]电影院的冷气开得太凉了。[[file:c1e34dac-aa52-4471-b00b-44e2a02c6e25.mp3][(audio)]]
 
 **** 问题
 
-女的是怎么感冒的?[[file:016d7108-432e-44ff-96a0-031cf85ce79c.mp3][(audio)]]
+女的是怎么感冒的？[[file:016d7108-432e-44ff-96a0-031cf85ce79c.mp3][(audio)]]
 
 **** 选择
 
@@ -105,12 +105,12 @@ B
 
 **** 对话
 
-男:我去上班了,[[file:1d51f8b5-f435-47f4-8cf6-8c5a1d7b10fa.mp3][(audio)]]你走的时候,记得把窗户关好,[[file:8ac11465-6ada-4dbf-a7ee-15c5d376e972.mp3][(audio)]]天气预报说有雨。[[file:57d01fe4-cff8-465f-a048-488e34d8a33d.mp3][(audio)]]
-女:知道了。[[file:679bc0e3-a003-42bb-a72b-ac29b69390d5.mp3][(audio)]]儿子上学时没带伞。[[file:5a0f1ab1-aab3-4c2f-8d20-a78ca39ac821.mp3][(audio)]]你回来早的话,给他送一趟吧。[[file:7b256b63-b8bc-42a4-bad5-0a557d0f25a9.mp3][(audio)]]
+男：我去上班了，[[file:1d51f8b5-f435-47f4-8cf6-8c5a1d7b10fa.mp3][(audio)]]你走的时候，记得把窗户关好，[[file:8ac11465-6ada-4dbf-a7ee-15c5d376e972.mp3][(audio)]]天气预报说有雨。[[file:57d01fe4-cff8-465f-a048-488e34d8a33d.mp3][(audio)]]
+女：知道了。[[file:679bc0e3-a003-42bb-a72b-ac29b69390d5.mp3][(audio)]]儿子上学时没带伞。[[file:5a0f1ab1-aab3-4c2f-8d20-a78ca39ac821.mp3][(audio)]]你回来早的话，给他送一趟吧。[[file:7b256b63-b8bc-42a4-bad5-0a557d0f25a9.mp3][(audio)]]
 
 **** 问题
 
-女的担心什么?[[file:e677335b-e71e-4ddd-94d7-b1c92f830361.mp3][(audio)]]
+女的担心什么？[[file:e677335b-e71e-4ddd-94d7-b1c92f830361.mp3][(audio)]]
 
 **** 选择
 
@@ -138,12 +138,12 @@ C
 
 **** 对话
 
-男:您好![[file:1fd6bba6-9554-4445-8323-d4d5f5559101.mp3][(audio)]]中通快递,[[file:8d95e242-f2d9-417f-8927-811889a021fd.mp3][(audio)]]我在您楼下,[[file:adfc5d68-a316-45e1-818f-6797b105e2d0.mp3][(audio)]]家里没人啊?[[file:37c27863-47d4-4931-9a0e-8904a38604b5.mp3][(audio)]]
-女:我先生在家,[[file:4398d1c5-c4a3-4e07-854a-eca9091e39cb.mp3][(audio)]]您稍等一下,[[file:5ca7cf6d-30fb-44f2-afd3-63803d98298a.mp3][(audio)]]我马上跟他联系,[[file:2bec03a9-7a1d-496a-814d-7b9cc4eddc9e.mp3][(audio)]]不好意思啊![[file:88fa3e51-b3b3-4bc1-8f91-7cf9caa39156.mp3][(audio)]]
+男：您好！[[file:1fd6bba6-9554-4445-8323-d4d5f5559101.mp3][(audio)]]中通快递，[[file:8d95e242-f2d9-417f-8927-811889a021fd.mp3][(audio)]]我在您楼下，[[file:adfc5d68-a316-45e1-818f-6797b105e2d0.mp3][(audio)]]家里没人啊？[[file:37c27863-47d4-4931-9a0e-8904a38604b5.mp3][(audio)]]
+女：我先生在家，[[file:4398d1c5-c4a3-4e07-854a-eca9091e39cb.mp3][(audio)]]您稍等一下，[[file:5ca7cf6d-30fb-44f2-afd3-63803d98298a.mp3][(audio)]]我马上跟他联系，[[file:2bec03a9-7a1d-496a-814d-7b9cc4eddc9e.mp3][(audio)]]不好意思啊！[[file:88fa3e51-b3b3-4bc1-8f91-7cf9caa39156.mp3][(audio)]]
 
 **** 问题
 
-女的接下来会做什么?[[file:d78c1063-a2ee-4cc9-a07e-fa39a51c0dc4.mp3][(audio)]]
+女的接下来会做什么？[[file:d78c1063-a2ee-4cc9-a07e-fa39a51c0dc4.mp3][(audio)]]
 
 **** 选择
 
@@ -174,12 +174,12 @@ D
 
 **** 对话
 
-女:看你的黑眼圈,[[file:06cebe81-20dc-4036-bc2d-21afab1c966c.mp3][(audio)]]是不是昨晚又熬夜了?[[file:8c4e8007-00fd-4fee-ad84-73ea8690bc1d.mp3][(audio)]]
-男:没错,[[file:6c46c05a-863c-4d3a-8ea7-06017dc98c87.mp3][(audio)]]给欧洲冠军杯决赛做解说,[[file:de9ab3be-151e-4123-97ba-79364b301b75.mp3][(audio)]]录完节目都快早上五点了。[[file:69f76666-dd0c-4877-9247-c24da3f27479.mp3][(audio)]]
+女：看你的黑眼圈，[[file:06cebe81-20dc-4036-bc2d-21afab1c966c.mp3][(audio)]]是不是昨晚又熬夜了？[[file:8c4e8007-00fd-4fee-ad84-73ea8690bc1d.mp3][(audio)]]
+男：没错，[[file:6c46c05a-863c-4d3a-8ea7-06017dc98c87.mp3][(audio)]]给欧洲冠军杯决赛做解说，[[file:de9ab3be-151e-4123-97ba-79364b301b75.mp3][(audio)]]录完节目都快早上五点了。[[file:69f76666-dd0c-4877-9247-c24da3f27479.mp3][(audio)]]
 
 **** 问题
 
-男的昨晚为什么熬夜?[[file:114b8138-7fb7-45a5-a870-b69d28c3ebcd.mp3][(audio)]]
+男的昨晚为什么熬夜？[[file:114b8138-7fb7-45a5-a870-b69d28c3ebcd.mp3][(audio)]]
 
 **** 选择
 
