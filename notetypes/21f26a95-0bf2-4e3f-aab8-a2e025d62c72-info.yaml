@@ -1,0 +1,12 @@
+description: |
+  Listen to a dialogue and answer a question.
+fields:
+  - name: identifier
+  - name: exercise number
+  - name: dialogue
+  - name: question
+  - name: alternative a
+  - name: alternative b
+  - name: alternative c
+  - name: alternative d
+  - name: answer

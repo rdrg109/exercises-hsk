@@ -1,0 +1,59 @@
+<my-anki-field name="identifier">{{identifier}}</my-anki-field>
+<my-anki-field name="exercise-number">{{exercise number}}</my-anki-field>
+<my-anki-field name="dialogue">{{dialogue}}</my-anki-field>
+<my-anki-field name="question">{{question}}</my-anki-field>
+<my-anki-field name="alternative-a">{{alternative a}}</my-anki-field>
+<my-anki-field name="alternative-b">{{alternative b}}</my-anki-field>
+<my-anki-field name="alternative-c">{{alternative c}}</my-anki-field>
+<my-anki-field name="alternative-d">{{alternative d}}</my-anki-field>
+<my-anki-field name="answer">{{answer}}</my-anki-field>
+
+<style>
+  @import url('exercises.css');
+  @import url('exercises-hsk.css');
+
+  .card {
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    background-color: white;
+  }
+</style>
+
+<script src="exercises.js"></script>
+<script src="exercises-hsk.js"></script>
+<script src="anki-persistence-v1.1.8-minified.js"></script>
+<script>
+  var data = getAllAnkiFields()
+  var parent = document.getElementById('qa')
+
+  var identifier = document.createElement('div')
+  identifier.textContent = data['identifier']
+
+  var dialogue = document.createElement('div')
+  dialogue.innerHTML = removeAudiosInString(data['dialogue'])
+
+  var set = getAlternatives([
+    data['alternative-a'],
+    data['alternative-b'],
+    data['alternative-c'],
+    data['alternative-d'],
+  ], 'input')
+
+  var playAudio = document.createElement('input')
+  playAudio.type = 'button'
+  playAudio.value = 'Play audio'
+  playAudio.addEventListener('click', () => {
+    collectedAudios = collectAudios([data['dialogue'],
+                                     data['question']])
+    playAudiosSequentially(collectedAudios)
+  })
+
+  parent.appendChild(identifier)
+  parent.appendChild(dialogue)
+  parent.appendChild(playAudio)
+  parent.appendChild(set)
+
+  addEventListenersToInputTextWhenInput(['input'])
+</script>
