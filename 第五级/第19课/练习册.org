@@ -6,6 +6,9 @@
 :END:
 
 *** 1
+:PROPERTIES:
+:ID: a9f19701-d85a-4fc1-a963-f2e0c66ada18
+:END:
 
 **** 对话
 
@@ -39,6 +42,9 @@
 C
 
 *** 2
+:PROPERTIES:
+:ID: 3c156f44-d282-43d5-aa31-80744e7c6973
+:END:
 
 **** 对话
 
@@ -72,6 +78,9 @@ C
 B
 
 *** 3
+:PROPERTIES:
+:ID: 02f305cf-0af2-48e3-a579-f530bc016724
+:END:
 
 **** 对话
 
@@ -105,6 +114,9 @@ B
 D
 
 *** 4
+:PROPERTIES:
+:ID: d8563cdf-a0e0-4ed1-a346-28cf1a820ac8
+:END:
 
 **** 对话
 
@@ -138,6 +150,9 @@ D
 C
 
 *** 5
+:PROPERTIES:
+:ID: b03b2ff9-0c96-48b8-b117-7d0767c139d3
+:END:
 
 **** 对话
 
@@ -171,6 +186,9 @@ C
 B
 
 *** 6
+:PROPERTIES:
+:ID: a0175b2e-12c0-4549-a927-08fed77de446
+:END:
 
 **** 对话
 
