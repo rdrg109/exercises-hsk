@@ -18,18 +18,6 @@ function hideNodesInFrontCard(ids) {
   }
 }
 
-function collectAudios(ids) {
-  audios = []
-  for(id of ids) {
-    node = document.getElementById(id)
-    node.innerText = node.innerText.replace(/\[\[file:([^\]]+)\]\[\(audio\)\]\]/g, (a, b) => {
-      audios.push(b)
-      return ''
-    })
-  }
-  return audios
-}
-
 function compareInputAgainstMultipleAnswers(listOfIds) {
   for(const id of listOfIds) {
     // Get user input and show it
