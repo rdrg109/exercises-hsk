@@ -2,6 +2,12 @@
 
 (defvar exercises-hsk-directory "~/my/git-repos/exercises-hsk")
 
+(cl-defun exercises-hsk-build-deck-name-from-file-and-outline (&key filename outline)
+  (exercises-build-deck-name-from-file-and-outline
+   :dir exercises-hsk-directory
+   :filename filename
+   :outline outline))
+
 (cl-defun exercises-hsk-5-textbook-exercises-part-1-export (&key filename-input filename-output)
   (let* ((outline '("练习" "1"))
          (deck
@@ -129,3 +135,5 @@
             "	")))
         "\n")
        "\n"))))
+
+(provide 'exercises-hsk)
