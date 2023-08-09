@@ -101,17 +101,5 @@ function styleNumberedGapsInNodesWithIds(ids) {
   }
 }
 
-function showNoteAtTheEndOfTheDocument() {
-  if(document.getElementById('back')) {
-    // At the back, we also need to clear the node. Otherwise, when
-    // showing the back template, the node will still be shown.
-    clearNodesWithIds(['note'])
-    return
   }
-  const note = document.getElementById('note').innerText
-  clearNodesWithIds(['note'])
-  const div = document.createElement("div")
-  div.textContent = note
-  div.id = 'note'
-  document.body.appendChild(div)
 }
