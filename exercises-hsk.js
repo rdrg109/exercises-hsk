@@ -101,5 +101,31 @@ function styleNumberedGapsInNodesWithIds(ids) {
   }
 }
 
+function getAlternatives(alternatives, id) {
+  // We create a container because the node that is contained uses
+  // display: inline-block
+  var container = document.createElement('div')
+  var main = document.createElement('div')
+  main.classList.add('exercises-hsk-group-of-alternatives')
+  var counter = 65
+  for(const alternative of alternatives) {
+    var node = document.createElement('div')
+    node.classList.add('exercises-hsk-alternative')
+    var label = document.createElement('div')
+    label.textContent = String.fromCharCode(counter) + '. '
+    label.classList = 'label'
+    var content = document.createElement('div')
+    content.classList.add('content')
+    content.textContent = alternative
+    node.appendChild(label)
+    node.appendChild(content)
+    main.appendChild(node)
+    counter = counter + 1
   }
+  var input = document.createElement('input')
+  input.type = 'text'
+  input.id = id
+  main.appendChild(input)
+  container.appendChild(main)
+  return container
 }
