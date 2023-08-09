@@ -1,6 +1,9 @@
 * 听力
 
 ** 第一部分
+:PROPERTIES:
+:NOTETYPE: 21f26a95-0bf2-4e3f-aab8-a2e025d62c72
+:END:
 
 *** 1
 :PROPERTIES:
