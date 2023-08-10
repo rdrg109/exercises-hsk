@@ -32,7 +32,8 @@
   identifier.textContent = data['identifier']
 
   var dialogue = document.createElement('div')
-  dialogue.innerHTML = removeAudiosInString(data['dialogue'])
+  dialogue.innerHTML = addSpanNodesToWikidataSenses(
+    removeAudiosInString(data['dialogue']))
 
   var set = getAlternatives([
     data['alternative-a'],
