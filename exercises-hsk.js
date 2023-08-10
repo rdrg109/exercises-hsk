@@ -116,7 +116,7 @@ function getAlternatives(alternatives, id) {
     label.classList = 'label'
     var content = document.createElement('div')
     content.classList.add('content')
-    content.textContent = alternative
+    content.innerHTML = addSpanNodesToWikidataSenses(alternative)
     node.appendChild(label)
     node.appendChild(content)
     main.appendChild(node)
