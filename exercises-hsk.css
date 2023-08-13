@@ -18,14 +18,30 @@
    content */
   display: inline-block;
   margin: auto;
-
 }
-.exercises-hsk-alternative .label {
+
+.exercises-hsk-multiple-choice-question {
+  border: 1px solid black;
+  display: inline-block;
+  margin: auto;
+  padding: 10px;
+}
+
+.exercises-hsk-multiple-choice-question
+.alternatives {
+  text-align: left;
+}
+
+.exercises-hsk-multiple-choice-question
+.alternative
+.label {
   font-weight: bold;
   display: inline-block;
   padding: 0 5px 0 0;
 }
 
-.exercises-hsk-alternative .content {
+.exercises-hsk-multiple-choice-question
+.alternative
+.content {
   display: inline-block;
 }
