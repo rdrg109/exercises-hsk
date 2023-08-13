@@ -124,6 +124,8 @@ var dialogueMultipleMultipleChoiceQuestions = class dialogueMultipleMultipleChoi
 
     var dialogue = document.createElement('div')
     dialogue.innerHTML = data['dialogue']
+    if(this.cssClassDialogue)
+      dialogue.classList.add(this.cssClassDialogue)
 
     var dialogueAudio = document.createElement('audio')
     dialogueAudio.setAttribute('controls', '')
@@ -133,7 +135,9 @@ var dialogueMultipleMultipleChoiceQuestions = class dialogueMultipleMultipleChoi
     node.appendChild(dialogue)
 
     for(const exerciseToDisplay of this.exercisesToDisplay) {
-      var container = document.createElement('div')
+      var exerciseContainer = document.createElement('div')
+      if(this.cssClassExerciseContainer)
+        exerciseContainer.classList.add(this.cssClassExerciseContainer)
       var prefixId = 'exercise-' + exerciseToDisplay['exerciseNumber'] + '-'
 
       var question = document.createElement('div')
@@ -146,14 +150,20 @@ var dialogueMultipleMultipleChoiceQuestions = class dialogueMultipleMultipleChoi
       audio.setAttribute('controls', '')
       audio.setAttribute('src', data[prefixId + 'question-audio'])
 
+
       var alternativeContainerNode = document.createElement('div')
+      alternativeContainerNode.classList.add('alternatives')
+
       for(var i=0; i<this.numberOfAlternatives; i++) {
         var alternativeDataName = prefixId + 'alternative-' + (i+1) + '-'
         var alternativeNode = document.createElement('div')
+          alternativeNode.classList.add('alternative')
         var alternativeNodeLabel = document.createElement('div')
         alternativeNodeLabel.textContent = this.data[alternativeDataName + 'label']
+        alternativeNodeLabel.classList.add('label')
         var alternativeNodeContent = document.createElement('div')
         alternativeNodeContent.textContent = this.data[alternativeDataName + 'content']
+        alternativeNodeContent.classList.add('content')
         alternativeNode.appendChild(alternativeNodeLabel)
         alternativeNode.appendChild(alternativeNodeContent)
         alternativeContainerNode.appendChild(alternativeNode)
@@ -164,12 +174,12 @@ var dialogueMultipleMultipleChoiceQuestions = class dialogueMultipleMultipleChoi
       input.id = this.exercisesToDisplay[this.idsForInputsIndex]['idForInput']
       this.idsForInputsIndex = this.idsForInputsIndex + 1
 
-      container.appendChild(exerciseNumber)
-      container.appendChild(question)
-      container.appendChild(audio)
-      container.appendChild(alternativeContainerNode)
-      container.appendChild(input)
-      node.appendChild(container)
+      exerciseContainer.appendChild(exerciseNumber)
+      exerciseContainer.appendChild(question)
+      exerciseContainer.appendChild(audio)
+      exerciseContainer.appendChild(alternativeContainerNode)
+      exerciseContainer.appendChild(input)
+      node.appendChild(exerciseContainer)
     }
     return node
   }
