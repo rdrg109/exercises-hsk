@@ -147,7 +147,7 @@ b
 **  第二部分
 :PROPERTIES:
 :ID: cf24e400-3fb5-4000-9d47-dc0766f86685
-:NOTETYPE: dialogue-with-multiple-questions
+:NOTETYPE: dialogue-with-5-questions
 :END:
 
 *** 对话

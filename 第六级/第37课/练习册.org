@@ -507,7 +507,7 @@ a
 **  第二部分
 :PROPERTIES:
 :ID: 611c75a4-19e6-4937-a89c-c64151ec486b
-:NOTETYPE: dialogue-with-multiple-questions
+:NOTETYPE: dialogue-with-5-questions
 :END:
 
 *** 对话

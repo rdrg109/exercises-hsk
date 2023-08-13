@@ -142,7 +142,7 @@
 
 **  第二部分
 :PROPERTIES:
-:NOTETYPE: dialogue-with-multiple-questions
+:NOTETYPE: dialogue-with-5-questions
 :ID: c5d60bd6-8a01-49fe-aa57-4739d046b523
 :END:
 

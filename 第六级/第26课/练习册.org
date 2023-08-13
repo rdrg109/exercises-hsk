@@ -178,7 +178,7 @@ China is a country with relatively poor natural resources per capita, and the cr
 **  第二部分
 :PROPERTIES:
 :ID: 150a0e98-8121-4679-a4a4-dc5611738446
-:NOTETYPE: dialogue-with-multiple-questions
+:NOTETYPE: dialogue-with-5-questions
 :END:
 
 *** 对话

@@ -179,7 +179,7 @@ Contemporary secondary school students are generally developing earlier in their
 **  第二部分
 :PROPERTIES:
 :ID: 4a226529-7735-4691-af9e-8979b513ac87
-:NOTETYPE: dialogue-with-multiple-questions
+:NOTETYPE: dialogue-with-5-questions
 :END:
 
 *** 对话

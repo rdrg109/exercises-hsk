@@ -172,7 +172,7 @@ Compared with his generous support for social causes, he was too demanding on hi
 **  第二部分
 :PROPERTIES:
 :ID: 0ec2133c-615d-45aa-a322-a711d0b629a3
-:NOTETYPE: dialogue-with-multiple-questions
+:NOTETYPE: dialogue-with-5-questions
 :END:
 
 *** 对话

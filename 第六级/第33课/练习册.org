@@ -184,7 +184,7 @@ b
 **  第二部分
 :PROPERTIES:
 :ID: b3972204-d280-499d-a2d3-443c835d9c41
-:NOTETYPE: dialogue-with-multiple-questions
+:NOTETYPE: dialogue-with-5-questions
 :END:
 
 *** 对话
