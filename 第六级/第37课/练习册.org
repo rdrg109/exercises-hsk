@@ -532,6 +532,9 @@ a
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: c5674c92-d844-48fc-9f45-668eeded7e63
+:END:
 
 ***** 问题
 
@@ -564,6 +567,9 @@ a
 A
 
 **** 7
+:PROPERTIES:
+:ID: 0001bef4-9ffb-4a25-8813-db83f65fcd34
+:END:
 
 ***** 问题
 
@@ -596,6 +602,9 @@ A
 A
 
 **** 8
+:PROPERTIES:
+:ID: fdcc36f2-f240-4b5f-867e-c8a9efe88363
+:END:
 
 ***** 问题
 
@@ -628,6 +637,9 @@ b9e10fef-de13-4287-aefc-ef7019e8f33d.mp3
 B
 
 **** 9
+:PROPERTIES:
+:ID: 1631610a-481a-4c73-90cd-4c43a871184b
+:END:
 
 ***** 问题
 
@@ -660,6 +672,9 @@ febff505-dff7-4af6-89a2-07a913de9f8f.mp3
 D
 
 **** 10
+:PROPERTIES:
+:ID: 131b3ff0-afbb-49ca-953e-0c9a75ce7084
+:END:
 
 ***** 问题
 

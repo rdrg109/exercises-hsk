@@ -190,6 +190,9 @@ When he was in high school, Einstein loved mathematics. Once, his uncle told him
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 3d586efd-b24e-4852-8f81-ec4b50f7f0ee
+:END:
 
 ***** 问题
 
@@ -222,6 +225,9 @@ When he was in high school, Einstein loved mathematics. Once, his uncle told him
 D
 
 **** 7
+:PROPERTIES:
+:ID: 5b79f96e-540b-48cb-8f0b-df90fc7444b4
+:END:
 
 ***** 问题
 
@@ -254,6 +260,9 @@ D
 A
 
 **** 8
+:PROPERTIES:
+:ID: bc7dba9d-cf28-4d21-bd6c-3f28be05c4c4
+:END:
 
 ***** 问题
 
@@ -286,6 +295,9 @@ A
 D
 
 **** 9
+:PROPERTIES:
+:ID: a7e76b4a-d831-4691-9329-9fa596ed0b8a
+:END:
 
 ***** 问题
 
@@ -318,6 +330,9 @@ D
 B
 
 **** 10
+:PROPERTIES:
+:ID: 6aad0d78-c10f-4a09-a620-9910a8172eea
+:END:
 
 ***** 问题
 

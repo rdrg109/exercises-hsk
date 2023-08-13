@@ -199,6 +199,9 @@ China is a country with relatively poor natural resources per capita, and the cr
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 5cce9e89-2d7d-47d2-881e-ac1bcca23990
+:END:
 
 ***** 问题
 
@@ -231,6 +234,9 @@ China is a country with relatively poor natural resources per capita, and the cr
 B
 
 **** 7
+:PROPERTIES:
+:ID: 7f76a8e1-c861-40a8-9dd0-bf5ba1fe80b7
+:END:
 
 ***** 问题
 
@@ -263,6 +269,9 @@ B
 D
 
 **** 8
+:PROPERTIES:
+:ID: 9466ec06-8c9c-4538-8e13-041205055c47
+:END:
 
 ***** 问题
 
@@ -295,6 +304,9 @@ d423085d-9cd0-4a55-9c3f-9f23df0ebf02.mp3
 C
 
 **** 9
+:PROPERTIES:
+:ID: 71759b14-fabd-4e25-a913-a08dd42efb3e
+:END:
 
 ***** 问题
 
@@ -327,6 +339,9 @@ C
 D
 
 **** 10
+:PROPERTIES:
+:ID: de8f35de-ce70-475d-9759-d6f90102f65e
+:END:
 
 ***** 问题
 

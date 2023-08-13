@@ -215,6 +215,9 @@ c0cadc41-b867-40a9-82fc-433aed533330.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: ef027ffd-34d9-4f09-9374-fcb1386d7e9c
+:END:
 
 ***** 问题
 
@@ -247,6 +250,9 @@ c0cadc41-b867-40a9-82fc-433aed533330.mp3
 C
 
 **** 7
+:PROPERTIES:
+:ID: bcc812a0-d1de-4a71-a127-964875767c59
+:END:
 
 ***** 问题
 
@@ -279,6 +285,9 @@ C
 D
 
 **** 8
+:PROPERTIES:
+:ID: 8c6cdd47-c151-4360-81d3-60dfd55f5240
+:END:
 
 ***** 问题
 
@@ -311,6 +320,9 @@ dc272b18-ffb1-4608-9d34-82b8ba6da759.mp3
 C
 
 **** 9
+:PROPERTIES:
+:ID: b529eebf-6b33-40a7-9021-0478e9ab333d
+:END:
 
 ***** 问题
 
@@ -343,6 +355,9 @@ C
 B
 
 **** 10
+:PROPERTIES:
+:ID: d9e3bb50-2750-4724-bb01-6a81a7b1bcab
+:END:
 
 ***** 问题
 

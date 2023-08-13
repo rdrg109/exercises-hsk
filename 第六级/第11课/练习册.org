@@ -171,6 +171,9 @@
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 59d88310-c4c5-4eb2-ad80-9f188a8d8f0a
+:END:
 
 ***** 问题
 
@@ -203,6 +206,9 @@
 B
 
 **** 7
+:PROPERTIES:
+:ID: d54513de-be1e-40e3-9665-2c681984e84c
+:END:
 
 ***** 问题
 
@@ -235,6 +241,9 @@ B
 D
 
 **** 8
+:PROPERTIES:
+:ID: ce4fc365-dd59-4bb6-b712-a045ab55024d
+:END:
 
 ***** 问题
 
@@ -267,6 +276,9 @@ D
 A
 
 **** 9
+:PROPERTIES:
+:ID: 49d6f7b8-e120-4ffa-9180-f8bc257e7f77
+:END:
 
 ***** 问题
 
@@ -299,6 +311,9 @@ A
 D
 
 **** 10
+:PROPERTIES:
+:ID: 1e6b9b44-d80a-4150-b275-f1cac3b18e28
+:END:
 
 ***** 问题
 

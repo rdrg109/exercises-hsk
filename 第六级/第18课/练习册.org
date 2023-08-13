@@ -170,6 +170,9 @@ cd8fb4dc-976d-4bc7-91a3-4413e717ea08.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 87f551c7-50d8-4954-a98a-1e9fa5702eb0
+:END:
 
 ***** 问题
 
@@ -202,6 +205,9 @@ cd8fb4dc-976d-4bc7-91a3-4413e717ea08.mp3
 D
 
 **** 7
+:PROPERTIES:
+:ID: 5d2fc1a6-7f5f-49be-888c-453813265501
+:END:
 
 ***** 问题
 
@@ -234,6 +240,9 @@ D
 A
 
 **** 8
+:PROPERTIES:
+:ID: ffb6fe7f-e3b2-43bb-ada7-2c116c9417f1
+:END:
 
 ***** 问题
 
@@ -266,6 +275,9 @@ a789dc13-eeca-4a05-af0d-260796a0c247.mp3
 A
 
 **** 9
+:PROPERTIES:
+:ID: 289d20fe-8111-4fd5-b357-522085d62dc1
+:END:
 
 ***** 问题
 
@@ -298,6 +310,9 @@ A
 C
 
 **** 10
+:PROPERTIES:
+:ID: fef7b04f-9f11-40cb-8e2e-ee740ddc9b8a
+:END:
 
 ***** 问题
 

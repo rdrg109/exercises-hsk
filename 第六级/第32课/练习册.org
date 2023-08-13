@@ -207,6 +207,9 @@ c8aebc65-d3de-4ec9-be7a-feee08b46801.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: bb4d06a3-b311-4200-8904-520c06afa4f1
+:END:
 
 ***** 问题
 
@@ -239,6 +242,9 @@ c8aebc65-d3de-4ec9-be7a-feee08b46801.mp3
 C
 
 **** 7
+:PROPERTIES:
+:ID: 2a5e37d1-b7c1-427e-85f3-8d1f4898243a
+:END:
 
 ***** 问题
 
@@ -271,6 +277,9 @@ a9564a6d-a1c2-4f42-99d9-a36e04e82ad3.mp3
 A
 
 **** 8
+:PROPERTIES:
+:ID: c7187349-0924-4ee7-ab4c-ca5e48593798
+:END:
 
 ***** 问题
 
@@ -303,6 +312,9 @@ A
 D
 
 **** 9
+:PROPERTIES:
+:ID: f7fad761-ccca-4eb9-93d4-8e1a2765aac6
+:END:
 
 ***** 问题
 
@@ -335,6 +347,9 @@ D
 C
 
 **** 10
+:PROPERTIES:
+:ID: a61392f8-fa0b-4b6d-abcf-70b45559c8b8
+:END:
 
 ***** 问题
 

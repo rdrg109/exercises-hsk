@@ -166,6 +166,9 @@ dcfb9470-9022-4af9-a7a4-2c7e0cf6add4.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 093a71b8-307c-4403-96ad-00585a4229d2
+:END:
 
 ***** 问题
 
@@ -198,6 +201,9 @@ dcfb9470-9022-4af9-a7a4-2c7e0cf6add4.mp3
 D
 
 **** 7
+:PROPERTIES:
+:ID: f7a136cd-8e20-44ad-90c0-d8cd0824e6ca
+:END:
 
 ***** 问题
 
@@ -230,6 +236,9 @@ a754f978-c0a3-46a7-a257-1bb45de2e8fc.mp3
 D
 
 **** 8
+:PROPERTIES:
+:ID: d4f54004-b6f9-4969-84a1-541ba523a6a4
+:END:
 
 ***** 问题
 
@@ -262,6 +271,9 @@ D
 A
 
 **** 9
+:PROPERTIES:
+:ID: c19fa3e4-b778-4518-be0f-0f3635d69b24
+:END:
 
 ***** 问题
 
@@ -294,6 +306,9 @@ f6636fd6-cac4-4233-8a18-88f5689e7eb7.mp3
 B
 
 **** 10
+:PROPERTIES:
+:ID: 2b146c7e-71ef-46b6-895b-19dab081c22a
+:END:
 
 ***** 问题
 

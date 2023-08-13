@@ -188,6 +188,9 @@ She is articulate and well suited to be a lawyer. In the classroom, they did a m
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: c120bd85-da93-440a-acb5-1fbb98a3b68f
+:END:
 
 ***** 问题
 
@@ -220,6 +223,9 @@ She is articulate and well suited to be a lawyer. In the classroom, they did a m
 B
 
 **** 7
+:PROPERTIES:
+:ID: 44eef77f-188b-4225-a055-437c60c141e7
+:END:
 
 ***** 问题
 
@@ -252,6 +258,9 @@ B
 C
 
 **** 8
+:PROPERTIES:
+:ID: e9530352-40d5-4eb4-82f9-f9ef55fc2790
+:END:
 
 ***** 问题
 
@@ -284,6 +293,9 @@ C
 D
 
 **** 9
+:PROPERTIES:
+:ID: 23e1129e-9d65-4d70-ab77-4861adcd0de4
+:END:
 
 ***** 问题
 
@@ -316,6 +328,9 @@ ba17d356-6185-4fc4-a53f-8e367104c820.mp3
 D
 
 **** 10
+:PROPERTIES:
+:ID: 084ed17c-28ab-4809-bcbd-ccf5f3e29939
+:END:
 
 ***** 问题
 

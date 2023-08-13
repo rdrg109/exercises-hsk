@@ -172,6 +172,9 @@ f9cd19f1-fccd-4d31-95c4-55f34d7f156d.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 22f8e024-31ae-4160-94a7-ac5cf2b876db
+:END:
 
 ***** 问题
 
@@ -204,6 +207,9 @@ f9cd19f1-fccd-4d31-95c4-55f34d7f156d.mp3
 A
 
 **** 7
+:PROPERTIES:
+:ID: 7f04a046-cf24-43a8-801a-6b8d9b6172b0
+:END:
 
 ***** 问题
 
@@ -236,6 +242,9 @@ d3eba2a8-56a6-4abe-b038-e2226cf356c3.mp3
 C
 
 **** 8
+:PROPERTIES:
+:ID: d69637ce-d545-4d01-8e34-24e4f525770a
+:END:
 
 ***** 问题
 
@@ -268,6 +277,9 @@ ef0eb459-03d6-486e-bd10-01490f6a04be.mp3
 A
 
 **** 9
+:PROPERTIES:
+:ID: bebc69e5-2586-4ff8-88f9-05ab7a8ffcb0
+:END:
 
 ***** 问题
 
@@ -300,6 +312,9 @@ A
 C
 
 **** 10
+:PROPERTIES:
+:ID: 0da76d95-acad-41f3-8018-4fad0b229027
+:END:
 
 ***** 问题
 

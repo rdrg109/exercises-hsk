@@ -168,6 +168,9 @@ b94762c5-aa49-469e-8e9e-e341c9719dca.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: a28396f4-9302-47f2-a1b6-74b980c5694f
+:END:
 
 ***** 问题
 
@@ -200,6 +203,9 @@ b94762c5-aa49-469e-8e9e-e341c9719dca.mp3
 A
 
 **** 7
+:PROPERTIES:
+:ID: c3c4c918-bfee-4391-b881-211d991501b9
+:END:
 
 ***** 问题
 
@@ -232,6 +238,9 @@ A
 C
 
 **** 8
+:PROPERTIES:
+:ID: 89490de8-9879-4ccb-9b1f-33927d2b86d9
+:END:
 
 ***** 问题
 
@@ -264,6 +273,9 @@ C
 B
 
 **** 9
+:PROPERTIES:
+:ID: a9f6fa4f-5ccc-4e89-a9be-b97d92559313
+:END:
 
 ***** 问题
 
@@ -296,6 +308,9 @@ e90059ad-cb90-420f-b32a-85884d8318f7.mp3
 B
 
 **** 10
+:PROPERTIES:
+:ID: f91a2cf8-0a19-4532-9d62-c30db1e01e19
+:END:
 
 ***** 问题
 

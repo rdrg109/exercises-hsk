@@ -200,6 +200,9 @@ Contemporary secondary school students are generally developing earlier in their
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 1702f390-7b41-4d35-bae9-db5e50c8f43c
+:END:
 
 ***** 问题
 
@@ -232,6 +235,9 @@ d0866e39-4d86-4f29-9da1-c27bad68a7be.mp3
 A
 
 **** 7
+:PROPERTIES:
+:ID: 14cdf506-26ca-4d01-8533-d544d174a8ef
+:END:
 
 ***** 问题
 
@@ -264,6 +270,9 @@ ff714da0-cbb3-4b9e-a1ea-908708cdab13.mp3
 D
 
 **** 8
+:PROPERTIES:
+:ID: 40d70744-f420-4273-ab6a-7bef5b94ff43
+:END:
 
 ***** 问题
 
@@ -296,6 +305,9 @@ fcefb446-2415-4f54-9f43-0079e71a0785.mp3
 D
 
 **** 9
+:PROPERTIES:
+:ID: 194d9181-f562-4d0a-baaf-49fc6d037598
+:END:
 
 ***** 问题
 
@@ -328,6 +340,9 @@ D
 C
 
 **** 10
+:PROPERTIES:
+:ID: 524a187d-1664-43a1-aa57-ceb482701aa9
+:END:
 
 ***** 问题
 

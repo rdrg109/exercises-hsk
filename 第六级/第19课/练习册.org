@@ -190,6 +190,9 @@ From fishing and hunting to agriculture, human society first saw the emergence o
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: c6b28bc3-77d4-45a3-b224-5509183062c0
+:END:
 
 ***** 问题
 
@@ -222,6 +225,9 @@ From fishing and hunting to agriculture, human society first saw the emergence o
 A
 
 **** 7
+:PROPERTIES:
+:ID: 61ceecde-7843-40c2-8031-ed57b05b5d5f
+:END:
 
 ***** 问题
 
@@ -254,6 +260,9 @@ A
 C
 
 **** 8
+:PROPERTIES:
+:ID: 793c381d-c08d-4fac-8ac5-9f9d86cb91e2
+:END:
 
 ***** 问题
 
@@ -286,6 +295,9 @@ C
 D
 
 **** 9
+:PROPERTIES:
+:ID: e4943dac-ba80-495b-818c-8af7c0ef851a
+:END:
 
 ***** 问题
 
@@ -318,6 +330,9 @@ c3243686-8ffa-4a73-a7f8-4a1af6f7dd7c.mp3
 C
 
 **** 10
+:PROPERTIES:
+:ID: 513d59ff-812a-44ed-8eaf-3df2f33bdefd
+:END:
 
 ***** 问题
 

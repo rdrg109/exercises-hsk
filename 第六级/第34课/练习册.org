@@ -193,6 +193,9 @@ Compared with his generous support for social causes, he was too demanding on hi
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 1807677b-0785-4270-99b7-d4f9dc103fb7
+:END:
 
 ***** 问题
 
@@ -225,6 +228,9 @@ Compared with his generous support for social causes, he was too demanding on hi
 A
 
 **** 7
+:PROPERTIES:
+:ID: ff9ed111-b0c0-49ca-877e-42d1e2d32f6e
+:END:
 
 ***** 问题
 
@@ -257,6 +263,9 @@ c1b200c1-773b-475b-b2e2-0bccfebf2912.mp3
 B
 
 **** 8
+:PROPERTIES:
+:ID: 7ad58726-3c2c-4305-9fc4-0008b330e8da
+:END:
 
 ***** 问题
 
@@ -289,6 +298,9 @@ B
 B
 
 **** 9
+:PROPERTIES:
+:ID: f0e64b98-145e-43ea-989c-821ebb3e4524
+:END:
 
 ***** 问题
 
@@ -321,6 +333,9 @@ B
 A
 
 **** 10
+:PROPERTIES:
+:ID: 54bcc8b8-f41d-45cc-831c-c0778f1f52c0
+:END:
 
 ***** 问题
 

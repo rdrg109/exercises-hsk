@@ -324,6 +324,9 @@ eabc229c-7de3-4f7c-aa37-30c1780f8953.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 6c71da73-dec6-489c-912e-07a90aefef00
+:END:
 
 ***** 问题
 
@@ -356,6 +359,9 @@ eabc229c-7de3-4f7c-aa37-30c1780f8953.mp3
 A
 
 **** 7
+:PROPERTIES:
+:ID: 716a9765-50ba-4b0f-9b62-6a47515b8eaf
+:END:
 
 ***** 问题
 
@@ -388,6 +394,9 @@ A
 C
 
 **** 8
+:PROPERTIES:
+:ID: 775f4f6e-bb3b-44f8-b316-79471f5e7ee9
+:END:
 
 ***** 问题
 
@@ -420,6 +429,9 @@ C
 D
 
 **** 9
+:PROPERTIES:
+:ID: 5f63db18-2fdd-4fe8-aca3-a9f96ec7d748
+:END:
 
 ***** 问题
 
@@ -452,6 +464,9 @@ D
 C
 
 **** 10
+:PROPERTIES:
+:ID: 195415f0-409c-40b7-8b6c-740142da23f8
+:END:
 
 ***** 问题
 

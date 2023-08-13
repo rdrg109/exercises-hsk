@@ -201,6 +201,9 @@ a07b13e0-03b6-466f-a16d-e636dcf99187.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: ac496bd0-09c1-4b20-853a-abddd8c4f921
+:END:
 
 ***** 问题
 
@@ -233,6 +236,9 @@ a07b13e0-03b6-466f-a16d-e636dcf99187.mp3
 B
 
 **** 7
+:PROPERTIES:
+:ID: c7085420-10e5-4f57-acfa-691580a1c73a
+:END:
 
 ***** 问题
 
@@ -265,6 +271,9 @@ B
 A
 
 **** 8
+:PROPERTIES:
+:ID: c24c9063-5c54-4d1c-b78c-4c733f2494cc
+:END:
 
 ***** 问题
 
@@ -297,6 +306,9 @@ a023ee4f-fba6-475a-8dd7-af72b63b7b44.mp3
 D
 
 **** 9
+:PROPERTIES:
+:ID: 2c12f7d9-2a23-473a-97b3-399a9f113738
+:END:
 
 ***** 问题
 
@@ -329,6 +341,9 @@ D
 D
 
 **** 10
+:PROPERTIES:
+:ID: 9614e0b9-68f7-46f2-9e58-6c3b5e14514d
+:END:
 
 ***** 问题
 

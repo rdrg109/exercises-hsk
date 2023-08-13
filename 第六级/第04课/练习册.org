@@ -170,6 +170,9 @@ f70c00f8-249e-4637-bf46-1e19dcabc1a1.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 6568e163-8904-4023-ab86-73e2dcfb88d4
+:END:
 
 ***** 问题
 
@@ -202,6 +205,9 @@ f70c00f8-249e-4637-bf46-1e19dcabc1a1.mp3
 B
 
 **** 7
+:PROPERTIES:
+:ID: 0ce6e9a9-9471-43f6-bacf-e10ec0214a82
+:END:
 
 ***** 问题
 
@@ -234,6 +240,9 @@ bdb1d6f0-0708-4e55-b8f6-cbd586ef6820.mp3
 C
 
 **** 8
+:PROPERTIES:
+:ID: 676aa094-3b06-4cbe-a23c-459f074237b9
+:END:
 
 ***** 问题
 
@@ -266,6 +275,9 @@ C
 A
 
 **** 9
+:PROPERTIES:
+:ID: cd5ea622-b506-4cc4-9da1-fc614392363f
+:END:
 
 ***** 问题
 
@@ -298,6 +310,9 @@ A
 D
 
 **** 10
+:PROPERTIES:
+:ID: b9becc68-c53d-4691-9247-9ae6ad77e316
+:END:
 
 ***** 问题
 

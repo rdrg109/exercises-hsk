@@ -193,6 +193,9 @@ aefd05c2-0258-4590-82bd-3fd1f2af254e.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: a99aaad5-d0c7-4ebe-99d0-23ae587e4b0f
+:END:
 
 ***** 问题
 
@@ -225,6 +228,9 @@ cde330ac-3943-4bd1-9a4d-79f0e231cd40.mp3
 B
 
 **** 7
+:PROPERTIES:
+:ID: 109423bc-f6dc-4295-9ba4-ad91bd1dce39
+:END:
 
 ***** 问题
 
@@ -257,6 +263,9 @@ B
 C
 
 **** 8
+:PROPERTIES:
+:ID: a36d825c-0259-48e8-9fa3-33349c4c3b86
+:END:
 
 ***** 问题
 
@@ -289,6 +298,9 @@ C
 A
 
 **** 9
+:PROPERTIES:
+:ID: 70226265-7484-4384-aeac-f5f4d3699e96
+:END:
 
 ***** 问题
 
@@ -321,6 +333,9 @@ A
 B
 
 **** 10
+:PROPERTIES:
+:ID: b6359e3c-4f3c-4b87-b863-f98fa9f17ca3
+:END:
 
 ***** 问题
 

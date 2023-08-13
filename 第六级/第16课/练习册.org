@@ -1272,6 +1272,9 @@ In the past, the phenomenon of poaching Tibetan antelope in Tibet's Cocosi is ve
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 35bcc902-8188-41a8-b4de-808bf879a16a
+:END:
 
 ***** 问题
 
@@ -1304,6 +1307,9 @@ In the past, the phenomenon of poaching Tibetan antelope in Tibet's Cocosi is ve
 C
 
 **** 7
+:PROPERTIES:
+:ID: a0453a3d-d774-460f-924d-84be1a36869a
+:END:
 
 ***** 问题
 
@@ -1336,6 +1342,9 @@ C
 B
 
 **** 8
+:PROPERTIES:
+:ID: af919a01-5f93-47ea-a36f-fec69d14d53a
+:END:
 
 ***** 问题
 
@@ -1368,6 +1377,9 @@ e2fa6d7a-7c1b-49c2-abf0-412a1e3047a2.mp3
 A
 
 **** 9
+:PROPERTIES:
+:ID: 6cfb89b3-fd6f-4715-88ac-4718391b2934
+:END:
 
 ***** 问题
 
@@ -1400,6 +1412,9 @@ A
 D
 
 **** 10
+:PROPERTIES:
+:ID: 0ca68c3a-e961-4632-a71a-f5aeba3f5c70
+:END:
 
 ***** 问题
 

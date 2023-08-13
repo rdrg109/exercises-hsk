@@ -197,6 +197,9 @@ Carpets are afraid of moisture, if not kept dry, they will become moldy, insects
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 1196e4fe-0db0-406f-a188-649246c2cd98
+:END:
 
 ***** 问题
 
@@ -229,6 +232,9 @@ Carpets are afraid of moisture, if not kept dry, they will become moldy, insects
 D
 
 **** 7
+:PROPERTIES:
+:ID: 2aca8bac-a5bd-46bb-9c27-5ae02ebd6bce
+:END:
 
 ***** 问题
 
@@ -261,6 +267,9 @@ D
 B
 
 **** 8
+:PROPERTIES:
+:ID: 1f0e450a-de44-4347-9d00-66b7ae650e87
+:END:
 
 ***** 问题
 
@@ -293,6 +302,9 @@ f0f6d372-ad09-4db3-8e14-2436619ee7bb.mp3
 D
 
 **** 9
+:PROPERTIES:
+:ID: 40711852-9b11-4582-b1d1-a4515dd111aa
+:END:
 
 ***** 问题
 
@@ -325,6 +337,9 @@ D
 B
 
 **** 10
+:PROPERTIES:
+:ID: eed5a7b4-ca20-400c-9360-20727d513c16
+:END:
 
 ***** 问题
 

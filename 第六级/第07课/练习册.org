@@ -170,6 +170,9 @@ e104e3fb-1df5-4873-86a2-33b9ad445653.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 1dedd7ee-1872-4dde-b8dc-acdc6cb61f4b
+:END:
 
 ***** 问题
 
@@ -202,6 +205,9 @@ e104e3fb-1df5-4873-86a2-33b9ad445653.mp3
 C
 
 **** 7
+:PROPERTIES:
+:ID: 1f9e5fb0-243b-45ee-bb62-d10176ce5e4d
+:END:
 
 ***** 问题
 
@@ -234,6 +240,9 @@ C
 D
 
 **** 8
+:PROPERTIES:
+:ID: a0e2c9f7-55ad-4586-9115-e6a7fec85b74
+:END:
 
 ***** 问题
 
@@ -266,6 +275,9 @@ d1416b60-0e62-4733-853d-a2e47d23f0d4.mp3
 B
 
 **** 9
+:PROPERTIES:
+:ID: d83b1c8e-e8a2-4d70-8489-1f50777504bf
+:END:
 
 ***** 问题
 
@@ -298,6 +310,9 @@ B
 D
 
 **** 10
+:PROPERTIES:
+:ID: fff6f1c6-e5ca-4ebe-b646-c7d786c1ec48
+:END:
 
 ***** 问题
 

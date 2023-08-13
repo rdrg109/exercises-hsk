@@ -201,6 +201,9 @@ da25817e-346b-44be-9900-caf84a639022.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: d0428248-c813-4416-96f4-17342f0c0214
+:END:
 
 ***** 问题
 
@@ -233,6 +236,9 @@ da25817e-346b-44be-9900-caf84a639022.mp3
 B
 
 **** 7
+:PROPERTIES:
+:ID: 02ba94fa-e9cc-4a21-9f57-a50bd99ca1e4
+:END:
 
 ***** 问题
 
@@ -265,6 +271,9 @@ df7e1cc0-0cef-4d1d-8b61-30f9b9eb50b0.mp3
 B
 
 **** 8
+:PROPERTIES:
+:ID: a2867def-71e3-41a9-a781-6edbd47180d6
+:END:
 
 ***** 问题
 
@@ -297,6 +306,9 @@ ce385b2d-281e-497b-acf6-7b11deb00895.mp3
 C
 
 **** 9
+:PROPERTIES:
+:ID: 7ab8ae37-7610-4899-b7aa-b942537f9538
+:END:
 
 ***** 问题
 
@@ -329,6 +341,9 @@ b9cbe20c-5ec1-475c-98fb-d1163a032113.mp3
 C
 
 **** 10
+:PROPERTIES:
+:ID: 48762a3b-4476-4ad8-92d7-10d821634920
+:END:
 
 ***** 问题
 

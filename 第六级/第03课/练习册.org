@@ -177,6 +177,9 @@ fc5d5d4a-1434-46de-9145-99c1fe936ea6.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 5c22b646-d69e-48c7-a82d-f5975fbed9bf
+:END:
 
 ***** 问题
 
@@ -209,6 +212,9 @@ fc5d5d4a-1434-46de-9145-99c1fe936ea6.mp3
 C
 
 **** 7
+:PROPERTIES:
+:ID: ee661273-4912-4d90-b5ad-f9bddcb1b1ee
+:END:
 
 ***** 问题
 
@@ -241,6 +247,9 @@ b5814d68-d6aa-464f-8133-f30ea1aebc37.mp3
 D
 
 **** 8
+:PROPERTIES:
+:ID: ad3b5552-3421-4b5b-9a24-ed80c3b2870c
+:END:
 
 ***** 问题
 
@@ -273,6 +282,9 @@ D
 B
 
 **** 9
+:PROPERTIES:
+:ID: 55bcd8e5-2bd8-4a5f-90eb-90b897a43886
+:END:
 
 ***** 问题
 
@@ -305,6 +317,9 @@ B
 D
 
 **** 10
+:PROPERTIES:
+:ID: 72584d97-c2ab-4ac5-983c-37f58de6047c
+:END:
 
 ***** 问题
 

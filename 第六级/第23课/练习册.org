@@ -186,6 +186,9 @@ e193318e-ede7-4d31-99fc-181373dfc2cf.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 06c628ca-8748-43fe-96bc-8b91b9cb1b04
+:END:
 
 ***** 问题
 
@@ -218,6 +221,9 @@ e193318e-ede7-4d31-99fc-181373dfc2cf.mp3
 A
 
 **** 7
+:PROPERTIES:
+:ID: cc945b94-ace2-491b-98c1-2dfbd0400657
+:END:
 
 ***** 问题
 
@@ -250,6 +256,9 @@ dbde101a-5345-4b56-b5d1-8bdda4221fb0.mp3
 A
 
 **** 8
+:PROPERTIES:
+:ID: beec3e00-ac80-4564-baba-e9d8de5c548b
+:END:
 
 ***** 问题
 
@@ -282,6 +291,9 @@ A
 D
 
 **** 9
+:PROPERTIES:
+:ID: 502db061-4da1-4653-9e67-a2a60dcbf8f1
+:END:
 
 ***** 问题
 
@@ -314,6 +326,9 @@ bd677149-5912-4524-a342-a608c0b15824.mp3
 C
 
 **** 10
+:PROPERTIES:
+:ID: 2f473168-4f8e-4c02-8824-87ad7d1ed6e6
+:END:
 
 ***** 问题
 

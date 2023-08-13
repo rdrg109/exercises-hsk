@@ -204,6 +204,9 @@ ee0c14d4-754b-4429-9d56-9bd61dbd23a4.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 32ed6d9c-7a5c-41d1-88d5-1c44a5b1f2f4
+:END:
 
 ***** 问题
 
@@ -236,6 +239,9 @@ ee0c14d4-754b-4429-9d56-9bd61dbd23a4.mp3
 A
 
 **** 7
+:PROPERTIES:
+:ID: 8a68885e-bfe9-402e-bee4-2a18095fc674
+:END:
 
 ***** 问题
 
@@ -268,6 +274,9 @@ A
 C
 
 **** 8
+:PROPERTIES:
+:ID: be17f4f5-0d73-42b5-a07a-ec100bed24a9
+:END:
 
 ***** 问题
 
@@ -300,6 +309,9 @@ a91acf5a-1d2e-43f8-9242-d10503cf6610.mp3
 B
 
 **** 9
+:PROPERTIES:
+:ID: 1a5ab9e9-85a0-4711-941e-6aa8effd39b0
+:END:
 
 ***** 问题
 
@@ -332,6 +344,9 @@ B
 D
 
 **** 10
+:PROPERTIES:
+:ID: 1b109392-d523-4c0f-a051-3a753329713e
+:END:
 
 ***** 问题
 

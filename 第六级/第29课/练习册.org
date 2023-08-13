@@ -205,6 +205,9 @@ The play is very readable, especially the language of the play, which makes it u
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: 8dc4a7d0-9a8f-4f3c-9c3d-f5bb4608c8c9
+:END:
 
 ***** 问题
 
@@ -237,6 +240,9 @@ The play is very readable, especially the language of the play, which makes it u
 C
 
 **** 7
+:PROPERTIES:
+:ID: 6df67efc-10cb-4ff7-81d0-ebc39526b69d
+:END:
 
 ***** 问题
 
@@ -269,6 +275,9 @@ b3d00605-f093-444c-9ba2-dca657ddf48f.mp3
 C
 
 **** 8
+:PROPERTIES:
+:ID: 965cbce1-b96f-4853-9f13-cce3a5c24275
+:END:
 
 ***** 问题
 
@@ -301,6 +310,9 @@ C
 D
 
 **** 9
+:PROPERTIES:
+:ID: 48642522-0064-4a35-958f-36ae206fd321
+:END:
 
 ***** 问题
 
@@ -333,6 +345,9 @@ D
 B
 
 **** 10
+:PROPERTIES:
+:ID: 4360a1c8-9e92-4638-9984-30d2587184be
+:END:
 
 ***** 问题
 

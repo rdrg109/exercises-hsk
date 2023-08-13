@@ -164,6 +164,9 @@ f9a8ff80-10d8-4eb5-9d03-3425b26d0c63.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: eab1bc87-386d-4c9e-b562-8bcf50c79bcb
+:END:
 
 ***** 问题
 
@@ -196,6 +199,9 @@ f9a8ff80-10d8-4eb5-9d03-3425b26d0c63.mp3
 D
 
 **** 7
+:PROPERTIES:
+:ID: 82a7d1ad-e0e7-4ddd-9744-62d0f573d03a
+:END:
 
 ***** 问题
 
@@ -228,6 +234,9 @@ D
 A
 
 **** 8
+:PROPERTIES:
+:ID: 59270489-99f1-4377-a3b7-668f2fd32c5a
+:END:
 
 ***** 问题
 
@@ -260,6 +269,9 @@ b2ee1d76-d705-4f92-9c00-0cbd3fb1c48a.mp3
 D
 
 **** 9
+:PROPERTIES:
+:ID: 185742e8-d8f2-4945-bb22-c77170242400
+:END:
 
 ***** 问题
 
@@ -292,6 +304,9 @@ D
 D
 
 **** 10
+:PROPERTIES:
+:ID: 0fbb16dd-b1a2-452b-983e-1f4c8ecee329
+:END:
 
 ***** 问题
 

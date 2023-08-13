@@ -208,6 +208,9 @@ ad9fd52a-585d-4b83-b5f2-1407598d016e.mp3
 *** 题目
 
 **** 6
+:PROPERTIES:
+:ID: c2da285f-ea51-41fd-882c-5087a2b11237
+:END:
 
 ***** 问题
 
@@ -240,6 +243,9 @@ ad9fd52a-585d-4b83-b5f2-1407598d016e.mp3
 A
 
 **** 7
+:PROPERTIES:
+:ID: ab67b790-cca2-48ae-a7e9-fac3ccb068b3
+:END:
 
 ***** 问题
 
@@ -272,6 +278,9 @@ acf57438-4ce2-4ada-8c2e-e68f542037af.mp3
 A
 
 **** 8
+:PROPERTIES:
+:ID: 08d03d3c-de65-4283-bd4f-79be7c27fdea
+:END:
 
 ***** 问题
 
@@ -304,6 +313,9 @@ ddedd137-a895-4685-ac9c-dcece94f0004.mp3
 D
 
 **** 9
+:PROPERTIES:
+:ID: 7c155aa6-6879-49f3-9825-b18a76e10720
+:END:
 
 ***** 问题
 
@@ -336,6 +348,9 @@ D
 B
 
 **** 10
+:PROPERTIES:
+:ID: 7ebe2c44-362a-4a24-896f-72ece28e33f6
+:END:
 
 ***** 问题
 
