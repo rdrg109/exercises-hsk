@@ -195,6 +195,24 @@ From fishing and hunting to agriculture, human society first saw the emergence o
 
 92fd1d7b-6361-41cf-b78f-939b4efbc197.mp3
 
+***** 选择
+
+****** A
+
+没有不爱吃的食物
+
+****** B
+
+对美食的要求很高
+
+****** C
+
+只吃自已喜爱的食物
+
+****** D
+
+对美食有奇特的标准
+
 **** 7
 
 ***** 问题
@@ -204,6 +222,24 @@ From fishing and hunting to agriculture, human society first saw the emergence o
 ***** 音频
 
 233cbbef-7c2d-49cf-b326-fd7b8289e723.mp3
+
+***** 选择
+
+****** A
+
+美食是可以治病的
+
+****** B
+
+口昧独特的是美食
+
+****** C
+
+家乡的食物是美食
+
+****** D
+
+饿了吃什么都是美食
 
 **** 8
 
@@ -215,6 +251,24 @@ From fishing and hunting to agriculture, human society first saw the emergence o
 
 131963ff-b7ef-46b8-b6a0-2e59a697624d.mp3
 
+***** 选择
+
+****** A
+
+吃是人生头等大事
+
+****** B
+
+吃能解决生存问题
+
+****** C
+
+吃能提供营养，保证健康
+
+****** D
+
+可以和亲友一起享受悠闲
+
 **** 9
 
 ***** 问题
@@ -225,6 +279,24 @@ From fishing and hunting to agriculture, human society first saw the emergence o
 
 c3243686-8ffa-4a73-a7f8-4a1af6f7dd7c.mp3
 
+***** 选择
+
+****** A
+
+男的历来就不愿意做饭
+
+****** B
+
+男的太忙，没学过做饭
+
+****** C
+
+男的做饭手艺相当不错
+
+****** D
+
+男的做饭非常讲究用料
+
 **** 10
 
 ***** 问题
@@ -234,4 +306,22 @@ c3243686-8ffa-4a73-a7f8-4a1af6f7dd7c.mp3
 ***** 音频
 
 5efbb6b2-9f15-4419-b827-fedbaf58970c.mp3
+
+***** 选择
+
+****** A
+
+男的拍戏时经常吃零食
+
+****** B
+
+女演员怕胖不敢吃零食
+
+****** C
+
+男的看不惯女演员老吃零食
+
+****** D
+
+戏中男的不让女演员吃零食
 

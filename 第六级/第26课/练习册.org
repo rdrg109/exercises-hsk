@@ -204,6 +204,24 @@ China is a country with relatively poor natural resources per capita, and the cr
 
 96d4c528-332e-41b0-8190-27ff43f1b642.mp3
 
+***** 选择
+
+****** A
+
+这里政策好条件好
+
+****** B
+
+这里是创业的热土
+
+****** C
+
+没有人怀疑它的成功
+
+****** D
+
+城市对发展有迫切感
+
 **** 7
 
 ***** 问题
@@ -213,6 +231,24 @@ China is a country with relatively poor natural resources per capita, and the cr
 ***** 音频
 
 9b36eff3-c92e-443b-aece-bbacf8d4a2aa.mp3
+
+***** 选择
+
+****** A
+
+怀疑
+
+****** B
+
+蔑视
+
+****** C
+
+反对
+
+****** D
+
+赞成
 
 **** 8
 
@@ -224,6 +260,24 @@ China is a country with relatively poor natural resources per capita, and the cr
 
 d423085d-9cd0-4a55-9c3f-9f23df0ebf02.mp3
 
+***** 选择
+
+****** A
+
+公司资金充裕
+
+****** B
+
+公司聪明人多
+
+****** C
+
+赶上了好时代
+
+****** D
+
+产品具有唯一性
+
 **** 9
 
 ***** 问题
@@ -234,6 +288,24 @@ d423085d-9cd0-4a55-9c3f-9f23df0ebf02.mp3
 
 53174c15-67ed-4b85-a3c1-a6dccc7364aa.mp3
 
+***** 选择
+
+****** A
+
+外出旅行
+
+****** B
+
+学做美食
+
+****** C
+
+拍摄电影
+
+****** D
+
+上网、看书
+
 **** 10
 
 ***** 问题
@@ -243,4 +315,22 @@ d423085d-9cd0-4a55-9c3f-9f23df0ebf02.mp3
 ***** 音频
 
 63310735-7fe5-4360-8ed4-154088157d91.mp3
+
+***** 选择
+
+****** A
+
+他是知名的企业家
+
+****** B
+
+他闯过了无数难关
+
+****** C
+
+深圳是他的出生地
+
+****** D
+
+上下班都着迷于工作
 
