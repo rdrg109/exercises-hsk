@@ -30,6 +30,8 @@
 .exercises-hsk-multiple-choice-question
 .alternatives {
   text-align: left;
+  display: table;
+  margin: auto;
 }
 
 .exercises-hsk-multiple-choice-question
