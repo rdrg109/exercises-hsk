@@ -100,3 +100,77 @@ function styleNumberedGapsInNodesWithIds(ids) {
     )
   }
 }
+
+var dialogueMultipleMultipleChoiceQuestions = class dialogueMultipleMultipleChoiceQuestions {
+  constructor() {
+    this.idsForInputsIndex = 0
+  }
+  getNumberOfAlternatives() {
+    // We assume that all exercises have the same number of
+    // alternatives as the first exercise.
+    //
+    // We count those fields that are called "-label", but we could have
+    // also counted for those that end with "-content".
+    var anyExerciseNumber = this.exercisesToDisplay[0]['exerciseNumber']
+    var regexpAlternativeData = new RegExp('^exercise-' + anyExerciseNumber + '-alternative-[0-9]+-label$')
+    this.numberOfAlternatives = Object.entries(this.data)
+      .filter((keyValue) => regexpAlternativeData.test(keyValue[0]))
+      .length
+  }
+  getNode() {
+    this.getNumberOfAlternatives()
+
+    var node = document.createElement('div')
+
+    var dialogue = document.createElement('div')
+    dialogue.innerHTML = data['dialogue']
+
+    var dialogueAudio = document.createElement('audio')
+    dialogueAudio.setAttribute('controls', '')
+    dialogueAudio.setAttribute('src', data['dialogue-audio'])
+
+    node.appendChild(dialogueAudio)
+    node.appendChild(dialogue)
+
+    for(const exerciseToDisplay of this.exercisesToDisplay) {
+      var container = document.createElement('div')
+      var prefixId = 'exercise-' + exerciseToDisplay['exerciseNumber'] + '-'
+
+      var question = document.createElement('div')
+      question.textContent = data[prefixId + 'question']
+
+      var exerciseNumber = document.createElement('div')
+      exerciseNumber.textContent = data[prefixId + 'number']
+
+      var audio = document.createElement('audio')
+      audio.setAttribute('controls', '')
+      audio.setAttribute('src', data[prefixId + 'question-audio'])
+
+      var alternativeContainerNode = document.createElement('div')
+      for(var i=0; i<this.numberOfAlternatives; i++) {
+        var alternativeDataName = prefixId + 'alternative-' + (i+1) + '-'
+        var alternativeNode = document.createElement('div')
+        var alternativeNodeLabel = document.createElement('div')
+        alternativeNodeLabel.textContent = this.data[alternativeDataName + 'label']
+        var alternativeNodeContent = document.createElement('div')
+        alternativeNodeContent.textContent = this.data[alternativeDataName + 'content']
+        alternativeNode.appendChild(alternativeNodeLabel)
+        alternativeNode.appendChild(alternativeNodeContent)
+        alternativeContainerNode.appendChild(alternativeNode)
+      }
+
+      var input = document.createElement('input')
+      input.type = 'text'
+      input.id = this.exercisesToDisplay[this.idsForInputsIndex]['idForInput']
+      this.idsForInputsIndex = this.idsForInputsIndex + 1
+
+      container.appendChild(exerciseNumber)
+      container.appendChild(question)
+      container.appendChild(audio)
+      container.appendChild(alternativeContainerNode)
+      container.appendChild(input)
+      node.appendChild(container)
+    }
+    return node
+  }
+}
