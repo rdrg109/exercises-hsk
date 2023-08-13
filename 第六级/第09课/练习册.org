@@ -149,6 +149,10 @@
 **** answer
 
 **  第二部分
+:PROPERTIES:
+:ID: 93ef5660-fb16-4beb-b22b-a74f2d30ae43
+:NOTETYPE: dialogue-with-multiple-questions
+:END:
 
 *** 对话
 

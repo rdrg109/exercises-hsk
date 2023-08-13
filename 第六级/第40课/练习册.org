@@ -664,6 +664,10 @@ c
 b
 
 **  第二部分
+:PROPERTIES:
+:ID: ce5e337d-50a6-46f9-a754-f1f1760d0480
+:NOTETYPE: dialogue-with-multiple-questions
+:END:
 
 *** 对话
 

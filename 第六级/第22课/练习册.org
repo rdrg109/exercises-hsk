@@ -166,6 +166,10 @@ Burning coal produces carbon dioxide and sulfur dioxide, which accumulate on the
 **** answer
 
 **  第二部分
+:PROPERTIES:
+:ID: 01168e4c-52d2-46ed-bcdf-b9d80d8881b0
+:NOTETYPE: dialogue-with-multiple-questions
+:END:
 
 *** 对话
 

@@ -180,6 +180,10 @@ When children tell their parents "I feel bad" or "I'm disappointed," careless pa
 1
 
 **  第二部分
+:PROPERTIES:
+:ID: 0c8f7649-95c7-46fe-9a94-99e4b012d1c0
+:NOTETYPE: dialogue-with-multiple-questions
+:END:
 
 *** 对话
 

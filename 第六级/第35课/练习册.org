@@ -143,6 +143,10 @@ b
 a
 
 **  第二部分
+:PROPERTIES:
+:ID: b156799f-90a8-4157-9306-71f7c6e43552
+:NOTETYPE: dialogue-with-multiple-questions
+:END:
 
 *** 对话
 
