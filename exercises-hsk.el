@@ -6,6 +6,23 @@
   '(("content-with-audio-5-multiple-choice-exercises" . exercises-hsk-export-content-with-audio-multiple-choice-exercises))
   "")
 
+(cl-defun exercises-hsk-export-content-with-audio-multiple-choice-exercises (&key
+                                                                             filename-source
+                                                                             outline
+                                                                             filename-export
+                                                                             notetype)
+  (exercises-export-content-with-audio-multiple-choice-exercises
+   :filename-source filename-source
+   :outline outline
+   :filename-export filename-export
+   :notetype notetype
+   :dir exercises-hsk-root-dir
+   :headline-audio "音频"
+   :headline-content "对话"
+   :headline-exercises "题目"
+   :headline-exercise-content "问题"
+   :headline-exercise-alternatives "选择"
+   :headline-exercise-answer "答案"))
 
 (cl-defun exercises-hsk-dialogue-with-single-question (&key
                                                        filename-source
@@ -44,40 +61,5 @@
               (alist-get "答案" item nil nil 'equal)))
             "	")
            "\n")))))
-
-(cl-defun exercises-hsk-dialogue-with-multiple-questions (&key
-                                                          filename-source
-                                                          outline
-                                                          filename-export
-                                                          notetype)
-  (let ((data (exercises-get-subtree-at-point-as-alist)))
-    (with-current-buffer (find-file-noselect filename-export)
-      (insert
-       (string-join
-        (flatten-tree
-         (list
-          (exercises-hsk-build-deck-name-from-file-and-outline
-           :filename filename-source
-           :outline outline)
-          notetype
-          (alist-get "id" (cdr data) nil nil 'equal)
-          (replace-regexp-in-string
-           "\n"
-           "<br>"
-           (alist-get "对话" (cdr data) nil nil 'equal))
-          (alist-get "音频" (cdr data) nil nil 'equal)
-          (cl-loop
-           for question in (alist-get "题目" (cdr data) nil nil 'equal)
-           collect (list
-                    (alist-get "id" question nil nil 'equal)
-                    (car question)
-                    (alist-get "问题" question nil nil 'equal)
-                    (alist-get "音频" question nil nil 'equal)
-                    (cl-loop
-                     for alternative in (alist-get "选择" question nil nil 'equal)
-                     collect (cons (car alternative) (cdr alternative)))
-                    (alist-get "答案" question nil nil 'equal)))))
-        "	")
-       "\n"))))
 
 (provide 'exercises-hsk)
