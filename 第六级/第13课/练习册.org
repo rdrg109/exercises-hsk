@@ -171,7 +171,7 @@ Ms. Yu is a warm-hearted person, and she takes out money from her own meager inc
 **  第二部分
 :PROPERTIES:
 :ID: d3baa158-abdb-428a-ad14-8f91b80b0c93
-:NOTETYPE: dialogue-with-5-questions
+:NOTETYPE: content-with-audio-5-multiple-choice-exercises
 :END:
 
 *** 对话

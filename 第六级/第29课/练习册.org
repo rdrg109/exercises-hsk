@@ -178,7 +178,7 @@ The play is very readable, especially the language of the play, which makes it u
 **  第二部分
 :PROPERTIES:
 :ID: 76d96a6b-5838-420a-8fa4-ccfaaf4c439e
-:NOTETYPE: dialogue-with-5-questions
+:NOTETYPE: content-with-audio-5-multiple-choice-exercises
 :END:
 
 *** 对话

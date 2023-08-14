@@ -151,7 +151,7 @@
 **  第二部分
 :PROPERTIES:
 :ID: 93ef5660-fb16-4beb-b22b-a74f2d30ae43
-:NOTETYPE: dialogue-with-5-questions
+:NOTETYPE: content-with-audio-5-multiple-choice-exercises
 :END:
 
 *** 对话

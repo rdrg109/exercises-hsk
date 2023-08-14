@@ -150,7 +150,7 @@ Old Zhang's craft of making moon cakes is first-class, that is his father's fath
 **  第二部分
 :PROPERTIES:
 :ID: cc675f57-f5d6-4289-8c49-a6ee93534d06
-:NOTETYPE: dialogue-with-5-questions
+:NOTETYPE: content-with-audio-5-multiple-choice-exercises
 :END:
 
 *** 对话
