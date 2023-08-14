@@ -1,6 +1,6 @@
 id
-dialogue
-dialogue audio
+content transcript
+content audio
 
 # Exercise 1
 exercise 1 id
