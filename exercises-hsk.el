@@ -1,23 +1,11 @@
 (require 'exercises)
 
-(defcustom exercises-hsk-directory "~/my/git-repos/exercises-hsk"
-  "")
+(exercises-define-group hsk)
 
 (defcustom exercises-hsk-export-functions
-  '(("dialogue-with-5-questions" . exercises-hsk-dialogue-with-multiple-questions))
+  '(("content-with-audio-5-multiple-choice-exercises" . exercises-hsk-export-content-with-audio-multiple-choice-exercises))
   "")
 
-(cl-defun exercises-hsk-build-deck-name-from-file-and-outline (&key filename outline)
-  (exercises-build-deck-name-from-file-and-outline
-   :dir exercises-hsk-directory
-   :filename filename
-   :outline outline))
-
-(cl-defun exercises-hsk-export-notes (&key files filename-export)
-  (exercises-org-export-notes
-   :export-functions exercises-hsk-export-functions
-   :files files
-   :filename-export filename-export))
 
 (cl-defun exercises-hsk-dialogue-with-single-question (&key
                                                        filename-source
