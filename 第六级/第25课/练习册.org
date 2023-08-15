@@ -1,6 +1,6 @@
 * 听力
 
-**  第二部分
+** 第二部分
 :PROPERTIES:
 :ID: 64b30c45-d8ad-465f-82bb-f39cdb559b33
 :NOTETYPE: content-with-audio-5-multiple-choice-exercises

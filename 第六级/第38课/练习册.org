@@ -152,7 +152,7 @@
 
 ***** answer
 
-**  第二部分
+** 第二部分
 :PROPERTIES:
 :ID: a86b5452-fe5c-4a41-b6dd-a3fcc7d707fc
 :NOTETYPE: content-with-audio-5-multiple-choice-exercises
