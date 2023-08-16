@@ -3,7 +3,9 @@
 (exercises-define-group hsk)
 
 (defcustom exercises-hsk-export-functions
-  '(("content-with-audio-5-multiple-choice-exercises" . exercises-hsk-export-content-with-audio-multiple-choice-exercises))
+  '(("content-with-audio-5-multiple-choice-exercises" . exercises-hsk-export-content-with-audio-multiple-choice-exercises)
+    ("content-with-audio-3-multiple-choice-exercises" . exercises-hsk-export-content-with-audio-multiple-choice-exercises)
+    ("content-with-audio-4-multiple-choice-exercises" . exercises-hsk-export-content-with-audio-multiple-choice-exercises))
   "")
 
 (cl-defun exercises-hsk-export-content-with-audio-multiple-choice-exercises (&key
