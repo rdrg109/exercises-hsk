@@ -365,6 +365,10 @@ D
 ** 第三部分
 
 *** 11-13
+:PROPERTIES:
+:ID: cc99addd-0e67-4d4b-bc7e-3f7e4e814c96
+:NOTETYPE: content-with-audio-3-multiple-choice-exercises
+:END:
 
 **** 课文
 
@@ -381,6 +385,9 @@ D
 **** 题目
 
 ***** 11
+:PROPERTIES:
+:ID: 0a3201f8-1d11-4adc-a81a-19024f83e8f1
+:END:
 
 ****** 选择
 
@@ -413,6 +420,9 @@ D
 D
 
 ***** 12
+:PROPERTIES:
+:ID: 7b6cd7d0-fdac-431b-b8ed-8f4b86c9eb92
+:END:
 
 ****** 选择
 
@@ -445,6 +455,9 @@ D
 A
 
 ***** 13
+:PROPERTIES:
+:ID: 7435231c-c3e0-4916-b4f0-ccd4f334b2c1
+:END:
 
 ****** 选择
 
@@ -477,6 +490,10 @@ A
 B
 
 *** 14-17
+:PROPERTIES:
+:ID: 6e67c94a-36d9-4dd3-a380-9bc8d7ac2605
+:NOTETYPE: content-with-audio-4-multiple-choice-exercises
+:END:
 
 **** 课文
 
@@ -491,6 +508,9 @@ B
 **** 题目
 
 ***** 14
+:PROPERTIES:
+:ID: 3d0b43ce-8203-482e-8ec3-d9445861a87b
+:END:
 
 ****** 选择
 
@@ -523,6 +543,9 @@ ad05c95d-b3ad-4a37-98d8-e00e7af58ae7.mp3
 C
 
 ***** 15
+:PROPERTIES:
+:ID: 61ab2105-4ebc-4933-aed0-7fd27689433d
+:END:
 
 ****** 选择
 
@@ -555,6 +578,9 @@ b967e04d-6be2-4c84-88b6-088e051d2614.mp3
 B
 
 ***** 16
+:PROPERTIES:
+:ID: 77208797-8c15-4f6f-b67c-1b4237cba122
+:END:
 
 ****** 选择
 
@@ -587,6 +613,9 @@ bae2c049-7395-4754-99a4-64bce7f9087b.mp3
 C
 
 ***** 17
+:PROPERTIES:
+:ID: ebb11c63-7edc-49fe-b92a-8f57dabf0fcd
+:END:
 
 ****** 选择
 
