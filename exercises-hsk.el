@@ -20,7 +20,7 @@
    :notetype notetype
    :dir exercises-hsk-root-dir
    :headline-audio "音频"
-   :headline-content "对话"
+   :headline-content '("对话" "课文" "段话")
    :headline-exercises "题目"
    :headline-exercise-content "问题"
    :headline-exercise-alternatives "选择"
