@@ -1,0 +1,48 @@
+id
+content transcript
+content audio
+
+# Exercise 1
+exercise 1 id
+exercise 1 number
+exercise 1 question
+exercise 1 question audio
+exercise 1 alternative 1 label
+exercise 1 alternative 1 content
+exercise 1 alternative 2 label
+exercise 1 alternative 2 content
+exercise 1 alternative 3 label
+exercise 1 alternative 3 content
+exercise 1 alternative 4 label
+exercise 1 alternative 4 content
+exercise 1 answer
+
+# exercise 2
+exercise 2 id
+exercise 2 number
+exercise 2 question
+exercise 2 question audio
+exercise 2 alternative 1 label
+exercise 2 alternative 1 content
+exercise 2 alternative 2 label
+exercise 2 alternative 2 content
+exercise 2 alternative 3 label
+exercise 2 alternative 3 content
+exercise 2 alternative 4 label
+exercise 2 alternative 4 content
+exercise 2 answer
+
+# exercise 3
+exercise 3 id
+exercise 3 number
+exercise 3 question
+exercise 3 question audio
+exercise 3 alternative 1 label
+exercise 3 alternative 1 content
+exercise 3 alternative 2 label
+exercise 3 alternative 2 content
+exercise 3 alternative 3 label
+exercise 3 alternative 3 content
+exercise 3 alternative 4 label
+exercise 3 alternative 4 content
+exercise 3 answer
