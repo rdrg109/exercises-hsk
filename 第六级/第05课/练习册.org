@@ -211,6 +211,10 @@ C
 ** 第一部分
 
 *** 1
+:PROPERTIES:
+:ID: 6c55a5b3-438a-4f94-baea-06a440c4e994
+:NOTE-TYPE: content-with-audio-single-multiple-choice-exercise
+:END:
 
 **** 选择
 
@@ -243,6 +247,10 @@ C
 B
 
 *** 2
+:PROPERTIES:
+:ID: 3f819960-6cee-4f5b-8bfa-eb439d940be4
+:NOTE-TYPE: content-with-audio-single-multiple-choice-exercise
+:END:
 
 **** 选择
 
@@ -275,6 +283,10 @@ B
 C
 
 *** 3
+:PROPERTIES:
+:ID: 232f2dcc-4945-4142-baca-201004b62608
+:NOTE-TYPE: content-with-audio-single-multiple-choice-exercise
+:END:
 
 **** 选择
 
@@ -307,6 +319,10 @@ a8473ed7-d75d-4b7c-8f2b-387b8944f7fb.mp3
 D
 
 *** 4
+:PROPERTIES:
+:ID: e581e4ca-c6d0-4aeb-80d2-59b75e52f294
+:NOTE-TYPE: content-with-audio-single-multiple-choice-exercise
+:END:
 
 **** 选择
 
@@ -339,6 +355,10 @@ D
 B
 
 *** 5
+:PROPERTIES:
+:ID: 26822637-4fe3-4d4d-b442-782b972a52a3
+:NOTE-TYPE: content-with-audio-single-multiple-choice-exercise
+:END:
 
 **** 选择
 
