@@ -3,7 +3,8 @@
 (exercises-define-group hsk)
 
 (defcustom exercises-hsk-export-functions
-  '(("7304a4a2-efe6-4d8e-96dc-e419347c7a56" . exercises-hsk-export-content-with-audio-multiple-choice-exercises))
+  '(("7304a4a2-efe6-4d8e-96dc-e419347c7a56" . exercises-hsk-export-content-with-audio-multiple-choice-exercises)
+    ("6e4af68c-3365-49d9-bfcc-70d2ee989ab7" . exercises-hsk-export-summarize-text))
   "")
 
 (cl-defun exercises-hsk-export-content-with-audio-multiple-choice-exercises ()
