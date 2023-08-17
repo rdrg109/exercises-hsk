@@ -1,0 +1,25 @@
+<my-anki-field name="exercise-id">{{exercise id}}</my-anki-field>
+<my-anki-field name="exercise-number">{{exercise number}}</my-anki-field>
+<my-anki-field name="content">{{content}}</my-anki-field>
+<my-anki-field name="content-audio">{{content audio}}</my-anki-field>
+<my-anki-field name="alternative-1-label">{{alternative 1 label}}</my-anki-field>
+<my-anki-field name="alternative-1-content">{{alternative 1 content}}</my-anki-field>
+<my-anki-field name="alternative-2-label">{{alternative 2 label}}</my-anki-field>
+<my-anki-field name="alternative-2-content">{{alternative 2 content}}</my-anki-field>
+<my-anki-field name="alternative-3-label">{{alternative 3 label}}</my-anki-field>
+<my-anki-field name="alternative-3-content">{{alternative 3 content}}</my-anki-field>
+<my-anki-field name="alternative-4-label">{{alternative 4 label}}</my-anki-field>
+<my-anki-field name="alternative-4-content">{{alternative 4 content}}</my-anki-field>
+<my-anki-field name="answer">{{answer}}</my-anki-field>
+
+<script src="exercises.js"></script>
+<script src="exercises-hsk.js"></script>
+<script src="anki-persistence-v1.1.8-minified.js"></script>
+<script>
+  var a = new contentToBeSummarized()
+  a.cssClassForNodeContainer = 'exercises-hsk-content-to-be-summarized'
+  a.instructions = '请选出与所听内容一致的一项'
+  a.showAudio = true
+  a.showContentBeforeCheck = false
+  a.display()
+</script>

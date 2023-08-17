@@ -1,0 +1,12 @@
+exercise id
+exercise number
+content
+alternative 1 label
+alternative 1 content
+alternative 2 label
+alternative 2 content
+alternative 3 label
+alternative 3 content
+alternative 4 label
+alternative 4 content
+answer
