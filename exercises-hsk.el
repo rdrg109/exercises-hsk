@@ -1,4 +1,4 @@
-(require 'exercises)
+(require 'exercises-anki)
 
 (exercises-define-group hsk)
 
