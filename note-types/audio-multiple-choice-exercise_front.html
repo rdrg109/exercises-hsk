@@ -1,4 +1,4 @@
-<my-anki-field name="id">{{id}}</my-anki-field>
+<my-anki-field name="exercise-id">{{exercise id}}</my-anki-field>
 <my-anki-field name="content-transcript">{{content transcript}}</my-anki-field>
 <my-anki-field name="content-audio">{{content audio}}</my-anki-field>
 <my-anki-field name="exercise-1-id">{{exercise 1 id}}</my-anki-field>
@@ -72,12 +72,8 @@
 <script src="anki-persistence-v1.1.8-minified.js"></script>
 <script>
   var a = new contentWithAudioMultipleChoiceQuestions()
-  a.data = getAllAnkiFields()
-  a.parentNode = document.getElementById('qa')
   a.funcOnContent = removeAudiosInString
-  a.cssClassForContent = 'dialogue'
   a.cssClassForExerciseContainer = 'exercises-hsk-multiple-choice-question'
-  a.exercisesToDisplay = [5]
   a.showTranscriptOfContent = false
   a.showTranscriptOfQuestions = false
   a.display()

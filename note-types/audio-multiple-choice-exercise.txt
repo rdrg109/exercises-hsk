@@ -1,8 +1,8 @@
-id
+exercise id
 content transcript
 content audio
 
-# Exercise 1
+# exercise 1
 exercise 1 id
 exercise 1 number
 exercise 1 question
@@ -61,3 +61,18 @@ exercise 4 alternative 3 content
 exercise 4 alternative 4 label
 exercise 4 alternative 4 content
 exercise 4 answer
+
+# exercise 5
+exercise 5 id
+exercise 5 number
+exercise 5 question
+exercise 5 question audio
+exercise 5 alternative 1 label
+exercise 5 alternative 1 content
+exercise 5 alternative 2 label
+exercise 5 alternative 2 content
+exercise 5 alternative 3 label
+exercise 5 alternative 3 content
+exercise 5 alternative 4 label
+exercise 5 alternative 4 content
+exercise 5 answer
