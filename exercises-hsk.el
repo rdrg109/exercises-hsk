@@ -8,58 +8,120 @@
 
 (cl-defun exercises-hsk-export-content-with-audio-multiple-choice-exercises (&key
                                                                              filename-source
-                                                                             outline
-                                                                             filename-export
-                                                                             notetype)
-  (exercises-export-content-with-audio-multiple-choice-exercises
-   :filename-source filename-source
-   :outline outline
-   :filename-export filename-export
-   :notetype notetype
-   :dir exercises-hsk-root-dir
-   :headline-audio "音频"
-   :headline-content '("对话" "课文" "段话")
-   :headline-exercises "题目"
-   :headline-exercise-content "问题"
-   :headline-exercise-alternatives "选择"
-   :headline-exercise-answer "答案"))
-
-(cl-defun exercises-hsk-dialogue-with-single-question (&key
-                                                       filename-source
-                                                       outline
-                                                       filename-export
-                                                       notetype)
-  (let ((data (exercises-get-subtree-at-point-as-alist)))
-    (with-current-buffer (find-file-noselect filename-export)
+                                                                             outline)
+  (let* ((deck (exercises-anki-build-deck-name-from-file-and-outline
+                :dir exercises-hsk-root-dir
+                :filename filename-source
+                :outline outline))
+         (data (exercises-get-subtree-at-point-as-alist))
+         (content (replace-regexp-in-string
+                   "\n"
+                   "<br>"
+                   (catch 'found
+                     (cl-loop
+                      for item in (alist-get 'entries data)
+                      when (member (alist-get 'headline item) '("对话" "课文"))
+                      do (throw 'found (alist-get 'content item))))))
+         (content-audio (catch 'found
+                          (cl-loop
+                           for item in (alist-get 'entries data)
+                           when (member (alist-get 'headline item) '("对话" "课文"))
+                           do (cl-loop
+                               for item-2 in (alist-get 'entries item)
+                               when (equal (alist-get 'headline item-2) "音频")
+                               do (throw 'found (alist-get 'content item-2))))))
+         (exercises-entries (catch 'found
+                              (cl-loop
+                               for item in (alist-get 'entries data)
+                               when (equal (alist-get 'headline item) "题目")
+                               do (throw 'found (alist-get 'entries item)))))
+         (exercises (cl-loop
+                     for exercise in exercises-entries
+                     collect (cons
+                              (alist-get "id" (alist-get 'properties exercise) nil nil 'equal)
+                              (list
+                               (alist-get 'headline exercise)
+                               (catch 'found
+                                 (cl-loop
+                                  for entry in (alist-get 'entries exercise)
+                                  when (equal (alist-get 'headline entry) "问题")
+                                  do (throw 'found
+                                            (alist-get 'content entry))))
+                               (catch 'found
+                                 (cl-loop
+                                  for item in (alist-get 'entries exercise)
+                                  when (equal (alist-get 'headline item) "问题")
+                                  do (cl-loop
+                                      for item-2 in (alist-get 'entries item)
+                                      when (equal (alist-get 'headline item-2) "音频")
+                                      do (throw 'found (alist-get 'content item-2)))))
+                               (catch 'value
+                                 (cl-loop
+                                  for entry in (alist-get 'entries exercise)
+                                  when (equal (alist-get 'headline entry) "选择")
+                                  do (throw 'value
+                                            (cl-loop
+                                             for alternative in (alist-get 'entries entry)
+                                             collect (cons (alist-get 'headline alternative)
+                                                           (alist-get 'content alternative))))))
+                               (catch 'found
+                                 (cl-loop
+                                  for entry in (alist-get 'entries exercise)
+                                  when (equal (alist-get 'headline entry) "答案")
+                                  do (throw 'found
+                                            (alist-get 'content entry)))))))))
+    (with-current-buffer (find-file-noselect exercises-hsk-export-exported-file)
+      (insert
+       (string-join
+        (exercises-flatten
+         (list
+          deck
+          "audio-multiple-choice-exercise"
+          "listening multiple"
+          (alist-get "id" (alist-get 'properties data) nil nil 'equal)
+          content
+          content-audio
+          exercises))
+        "	")
+       "\n")
       (cl-loop
-       for item in (cdr data)
+       for exercise in exercises
        do (insert
            (string-join
-            (flatten-tree
+            (exercises-flatten
              (list
-              (exercises-hsk-build-deck-name-from-file-and-outline
-               :filename filename-source
-               :outline outline)
-              notetype
-              (alist-get "id" item nil nil 'equal)
-              (car item)
-              (replace-regexp-in-string
-               "\n"
-               "<br>"
-               (alist-get "对话" item nil nil 'equal))
-              (alist-get "问题" item nil nil 'equal)
-              ;; The alternatives are capital letters because in the
-              ;; "HSK Standard Course", the alternatives of listening
-              ;; exercises are shown that way.
-              (cl-loop for letter in '("A" "B" "C" "D")
-                       collect (alist-get
-                                letter
-                                (alist-get "选择" item nil nil 'equal)
-                                nil
-                                nil
-                                'equal))
-              (alist-get "答案" item nil nil 'equal)))
+              deck
+              "audio-multiple-choice-exercise"
+              "listening single"
+              (car exercise)
+              content
+              content-audio
+              (car exercise)
+              (cdr exercise)))
             "	")
            "\n")))))
+
+(cl-defun exercises-hsk-export-children-content-with-single-question (&key
+                                                                      filename-source
+                                                                      outline
+                                                                      note-type)
+  (let ((retrieved-data
+         (exercises-export-content-with-audio-single-multiple-choice-exercise
+          :data (exercises-get-subtree-at-point-as-alist)
+          :headline-content '("段话")
+          :headline-content-audio "音频"
+          :headline-exercise-alternatives "选择"
+          :headline-exercise-answer "答案")))
+    (with-current-buffer (find-file-noselect exercises-hsk-export-exported-file)
+      (insert
+       (string-join
+        (list
+         (exercises-hsk-build-deck-name-from-file-and-outline
+          :filename filename-source
+          :outline outline)
+         note-type
+         retrieved-data)
+        "	")
+       "\n"))))
 
 (provide 'exercises-hsk)
