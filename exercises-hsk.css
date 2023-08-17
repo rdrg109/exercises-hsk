@@ -48,6 +48,59 @@
   display: inline-block;
 }
 
+/**************************************************/
+/* exercises-hsk-content-multiple-choice-exercise */
+/**************************************************/
+
+.exercises-hsk-content-multiple-choice-exercise
+> .content {
+  padding: 10px;
+  border: 1px solid black;
+  text-align: left;
+}
+
+.exercises-hsk-content-multiple-choice-exercise
+.multiple-choice-exercise {
+  display: inline-block;
+  margin: auto;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.exercises-hsk-content-multiple-choice-exercise
+.multiple-choice-exercise
+.exercise-number {
+  display: inline-block;
+  font-weight: bold;
+  padding: 0 5px 0 0;
+}
+
+.exercises-hsk-content-multiple-choice-exercise
+.multiple-choice-exercise
+.exercise-number:after {
+  content: '.';
+}
+
+.exercises-hsk-content-multiple-choice-exercise
+.exercise-label {
+  display: inline-block;
+  padding: 0 5px 0 0;
+}
+
+.exercises-hsk-content-multiple-choice-exercise
+.alternative
+.label {
+  font-weight: bold;
+  display: inline-block;
+  padding: 0 5px 0 0;
+}
+
+.exercises-hsk-content-multiple-choice-exercise
+.alternative
+.content {
+  display: inline-block;
+}
+
 /******************************************/
 /* exercises-hsk-content-to-be-summarized */
 /******************************************/
