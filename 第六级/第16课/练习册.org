@@ -3,7 +3,7 @@
 ** 第二部分
 :PROPERTIES:
 :ID: 27613dbe-0478-44e2-b649-666c82aaab0b
-:NOTETYPE: content-with-audio-5-multiple-choice-exercises
+:EXPORT-ID: 7304a4a2-efe6-4d8e-96dc-e419347c7a56
 :END:
 
 *** 对话
@@ -208,7 +208,6 @@ C
 *** 1
 :PROPERTIES:
 :ID: ed08d84b-23d4-464e-b70d-24f9dc1bc831
-:NOTE-TYPE: content-with-audio-single-multiple-choice-exercise
 :END:
 
 **** 选择
@@ -244,7 +243,6 @@ D
 *** 2
 :PROPERTIES:
 :ID: 0e72f893-393b-490d-a3eb-70fc57dc7edc
-:NOTE-TYPE: content-with-audio-single-multiple-choice-exercise
 :END:
 
 **** 选择
@@ -280,7 +278,6 @@ C
 *** 3
 :PROPERTIES:
 :ID: d799feb9-bf10-44c0-a0f9-0a490e871edd
-:NOTE-TYPE: content-with-audio-single-multiple-choice-exercise
 :END:
 
 **** 选择
@@ -316,7 +313,6 @@ D
 *** 4
 :PROPERTIES:
 :ID: 6abdca2e-33f1-4557-b6ea-1eae3b1156e5
-:NOTE-TYPE: content-with-audio-single-multiple-choice-exercise
 :END:
 
 **** 选择
@@ -352,7 +348,6 @@ A
 *** 5
 :PROPERTIES:
 :ID: 18d2ca5f-19af-4d3d-a432-2f05650bf646
-:NOTE-TYPE: content-with-audio-single-multiple-choice-exercise
 :END:
 
 **** 选择
@@ -390,7 +385,7 @@ A
 *** 11-13
 :PROPERTIES:
 :ID: d279c0a5-895c-4417-9980-bd6e89a5ab04
-:NOTETYPE: content-with-audio-3-multiple-choice-exercises
+:EXPORT-ID: 7304a4a2-efe6-4d8e-96dc-e419347c7a56
 :END:
 
 **** 课文
@@ -513,7 +508,7 @@ C
 *** 14-17
 :PROPERTIES:
 :ID: 73b5e10d-0549-46c2-b49a-6d1f777b1053
-:NOTETYPE: content-with-audio-4-multiple-choice-exercises
+:EXPORT-ID: 7304a4a2-efe6-4d8e-96dc-e419347c7a56
 :END:
 
 **** 课文
