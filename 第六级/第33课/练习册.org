@@ -203,6 +203,7 @@ B
 *** 1
 :PROPERTIES:
 :ID: 071475de-5b70-4776-8799-43cc922b06dd
+:EXPORT-ID: 6e4af68c-3365-49d9-bfcc-70d2ee989ab7
 :END:
 
 **** 选择
@@ -238,6 +239,7 @@ C
 *** 2
 :PROPERTIES:
 :ID: 04dee175-9824-484a-af75-d07379712c4d
+:EXPORT-ID: 6e4af68c-3365-49d9-bfcc-70d2ee989ab7
 :END:
 
 **** 选择
@@ -273,6 +275,7 @@ D
 *** 3
 :PROPERTIES:
 :ID: c7527d05-7614-4bc5-a417-56a1242fa44e
+:EXPORT-ID: 6e4af68c-3365-49d9-bfcc-70d2ee989ab7
 :END:
 
 **** 选择
@@ -308,6 +311,7 @@ D
 *** 4
 :PROPERTIES:
 :ID: 0f84faaa-17aa-40c7-b48c-dc0fc6354a24
+:EXPORT-ID: 6e4af68c-3365-49d9-bfcc-70d2ee989ab7
 :END:
 
 **** 选择
@@ -343,6 +347,7 @@ B
 *** 5
 :PROPERTIES:
 :ID: 90ed6d97-3c27-4ec8-98ed-bf69e447f976
+:EXPORT-ID: 6e4af68c-3365-49d9-bfcc-70d2ee989ab7
 :END:
 
 **** 选择
