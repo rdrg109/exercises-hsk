@@ -13,7 +13,7 @@
                 :dir exercises-hsk-root-dir
                 :filename filename-source
                 :outline outline))
-         (data (exercises-get-subtree-at-point-as-alist))
+         (data (exercises-org-get-subtree-at-point-as-alist))
          (content (replace-regexp-in-string
                    "\n"
                    "<br>"
@@ -37,39 +37,35 @@
                                do (throw 'found (alist-get 'entries item)))))
          (exercises (cl-loop
                      for exercise in exercises-entries
-                     collect (cons
-                              (alist-get "id" (alist-get 'properties exercise) nil nil 'equal)
-                              (list
-                               (alist-get 'headline exercise)
-                               (catch 'found
-                                 (cl-loop
-                                  for entry in (alist-get 'entries exercise)
-                                  when (equal (alist-get 'headline entry) "问题")
-                                  do (throw 'found
-                                            (alist-get 'content entry))))
-                               (catch 'found
-                                 (cl-loop
-                                  for item in (alist-get 'entries exercise)
-                                  when (equal (alist-get 'headline item) "问题")
-                                  do (cl-loop
-                                      for item-2 in (alist-get 'entries item)
-                                      when (equal (alist-get 'headline item-2) "音频")
-                                      do (throw 'found (alist-get 'content item-2)))))
-                               (catch 'value
-                                 (cl-loop
-                                  for entry in (alist-get 'entries exercise)
-                                  when (equal (alist-get 'headline entry) "选择")
-                                  do (throw 'value
+                     collect `((id . ,(alist-get "id" (alist-get 'properties exercise) nil nil 'equal))
+                               (headline . ,(alist-get 'headline exercise))
+                               (question . ,(catch 'found
+                                              (cl-loop
+                                               for entry in (alist-get 'entries exercise)
+                                               when (equal (alist-get 'headline entry) "问题")
+                                               do (throw 'found (alist-get 'content entry)))))
+                               (question-audio . ,(catch 'found
+                                                    (cl-loop
+                                                     for item in (alist-get 'entries exercise)
+                                                     when (equal (alist-get 'headline item) "问题")
+                                                     do (cl-loop
+                                                         for item-2 in (alist-get 'entries item)
+                                                         when (equal (alist-get 'headline item-2) "音频")
+                                                         do (throw 'found (alist-get 'content item-2))))))
+                               (alternatives . ,(catch 'value
+                                                  (cl-loop
+                                                   for entry in (alist-get 'entries exercise)
+                                                   when (equal (alist-get 'headline entry) "选择")
+                                                   do (throw 'value
+                                                             (cl-loop
+                                                              for alternative in (alist-get 'entries entry)
+                                                              collect (cons (alist-get 'headline alternative)
+                                                                            (alist-get 'content alternative)))))))
+                               (answer . ,(catch 'found
                                             (cl-loop
-                                             for alternative in (alist-get 'entries entry)
-                                             collect (cons (alist-get 'headline alternative)
-                                                           (alist-get 'content alternative))))))
-                               (catch 'found
-                                 (cl-loop
-                                  for entry in (alist-get 'entries exercise)
-                                  when (equal (alist-get 'headline entry) "答案")
-                                  do (throw 'found
-                                            (alist-get 'content entry)))))))))
+                                             for entry in (alist-get 'entries exercise)
+                                             when (equal (alist-get 'headline entry) "答案")
+                                             do (throw 'found (alist-get 'content entry)))))))))
     (with-current-buffer (find-file-noselect exercises-hsk-export-exported-file)
       (insert
        (string-join
@@ -81,7 +77,9 @@
           (alist-get "id" (alist-get 'properties data) nil nil 'equal)
           content
           content-audio
-          exercises))
+          (cl-loop
+           for exercise in exercises
+           collect (mapcar 'cdr exercise))))
         "	")
        "\n")
       (cl-loop
@@ -93,11 +91,39 @@
               deck
               "audio-multiple-choice-exercise"
               "listening single"
-              (car exercise)
+              (alist-get 'id exercise)
               content
               content-audio
-              (car exercise)
-              (cdr exercise)))
+              (mapcar 'cdr exercise)))
+            "	")
+           "\n"))
+      (insert
+       (string-join
+        (exercises-flatten
+         (list
+          deck
+          "text-multiple-choice-exercise"
+          "reading multiple"
+          (alist-get "id" (alist-get 'properties data) nil nil 'equal)
+          content
+          (cl-loop
+           for exercise in exercises
+           collect (mapcar 'cdr (delq (assoc 'question-audio exercise) exercise)))
+          ))
+        "	")
+       "\n")
+      (cl-loop
+       for exercise in exercises
+       do (insert
+           (string-join
+            (exercises-flatten
+             (list
+              deck
+              "text-multiple-choice-exercise"
+              "reading single"
+              (alist-get 'id exercise)
+              content
+              (mapcar 'cdr (delq (assoc 'question-audio exercise) exercise))))
             "	")
            "\n")))))
 
