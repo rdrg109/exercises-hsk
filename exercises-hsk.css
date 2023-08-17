@@ -47,3 +47,62 @@
 .content {
   display: inline-block;
 }
+
+/******************************************/
+/* exercises-hsk-content-to-be-summarized */
+/******************************************/
+
+.exercises-hsk-content-to-be-summarized {
+  display: inline-block;
+  margin: auto;
+  padding: 10px;
+}
+
+.exercises-hsk-content-to-be-summarized
+.multiple-choice-exercise {
+  display: table;
+  margin: auto;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.exercises-hsk-content-to-be-summarized
+.multiple-choice-exercise
+.exercise-number {
+  display: inline-block;
+  font-weight: bold;
+  padding: 0 5px 0 0;
+}
+
+.exercises-hsk-content-to-be-summarized
+.multiple-choice-exercise
+.exercise-number:after {
+  content: '.';
+}
+
+.exercises-hsk-content-to-be-summarized
+.multiple-choice-exercise
+.exercise-label {
+  display: inline-block;
+}
+
+.exercises-hsk-content-to-be-summarized
+.alternatives {
+  text-align: left;
+  display: table;
+  margin: auto;
+}
+
+.exercises-hsk-content-to-be-summarized
+.alternative
+.label {
+  font-weight: bold;
+  display: inline-block;
+  padding: 0 5px 0 0;
+}
+
+.exercises-hsk-content-to-be-summarized
+.alternative
+.content {
+  display: inline-block;
+}
