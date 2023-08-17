@@ -72,9 +72,8 @@
 <script src="anki-persistence-v1.1.8-minified.js"></script>
 <script>
   var a = new contentWithAudioMultipleChoiceQuestions()
-  a.funcOnContent = removeAudiosInString
-  a.cssClassForExerciseContainer = 'exercises-hsk-multiple-choice-question'
-  a.showTranscriptOfContent = false
-  a.showTranscriptOfQuestions = false
+  a.cssClassForContainer = 'exercises-hsk-content-multiple-choice-exercise'
+  a.beforeCheckShowTranscriptOfContent = false
+  a.beforeCheckShowTranscriptOfQuestions = false
   a.display()
 </script>
