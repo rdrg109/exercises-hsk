@@ -73,7 +73,7 @@
          (list
           deck
           "audio-multiple-choice-exercise"
-          "listening multiple"
+          "listening multiple-exercises"
           (alist-get "id" (alist-get 'properties data) nil nil 'equal)
           content
           content-audio
@@ -90,7 +90,7 @@
              (list
               deck
               "audio-multiple-choice-exercise"
-              "listening single"
+              "listening single-exercise"
               (alist-get 'id exercise)
               content
               content-audio
@@ -103,7 +103,7 @@
          (list
           deck
           "text-multiple-choice-exercise"
-          "reading multiple"
+          "reading multiple-exercises"
           (alist-get "id" (alist-get 'properties data) nil nil 'equal)
           content
           (cl-loop
@@ -120,7 +120,7 @@
              (list
               deck
               "text-multiple-choice-exercise"
-              "reading single"
+              "reading single-exercise"
               (alist-get 'id exercise)
               content
               (mapcar 'cdr (delq (assoc 'question-audio exercise) exercise))))
