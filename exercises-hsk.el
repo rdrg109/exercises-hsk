@@ -29,7 +29,41 @@
                                for item-2 in (alist-get 'entries item)
                                when (equal (alist-get 'headline item-2) "音频")
                                do (throw 'found (alist-get 'content item-2))))))
-         (exercises (exercises-extract-data-multiple-exercises :data data)))
+         (exercises (cl-loop
+                     for exercise in (catch 'found
+                                       (cl-loop
+                                        for item in (alist-get 'entries data)
+                                        when (equal (alist-get 'headline item) "题目")
+                                        do (throw 'found (alist-get 'entries item))))
+                     collect `((id . ,(alist-get "id" (alist-get 'properties exercise) nil nil 'equal))
+                               (headline . ,(alist-get 'headline exercise))
+                               (question . ,(catch 'found
+                                              (cl-loop
+                                               for entry in (alist-get 'entries exercise)
+                                               when (equal (alist-get 'headline entry) "问题")
+                                               do (throw 'found (alist-get 'content entry)))))
+                               (question-audio . ,(catch 'found
+                                                    (cl-loop
+                                                     for item in (alist-get 'entries exercise)
+                                                     when (equal (alist-get 'headline item) "问题")
+                                                     do (cl-loop
+                                                         for item-2 in (alist-get 'entries item)
+                                                         when (equal (alist-get 'headline item-2) "音频")
+                                                         do (throw 'found (alist-get 'content item-2))))))
+                               (alternatives . ,(catch 'value
+                                                  (cl-loop
+                                                   for entry in (alist-get 'entries exercise)
+                                                   when (equal (alist-get 'headline entry) "选择")
+                                                   do (throw 'value
+                                                             (cl-loop
+                                                              for alternative in (alist-get 'entries entry)
+                                                              collect (cons (alist-get 'headline alternative)
+                                                                            (alist-get 'content alternative)))))))
+                               (answer . ,(catch 'found
+                                            (cl-loop
+                                             for entry in (alist-get 'entries exercise)
+                                             when (equal (alist-get 'headline entry) "答案")
+                                             do (throw 'found (alist-get 'content entry)))))))))
     (with-current-buffer (find-file-noselect exercises-hsk-export-exported-file)
       (exercises-anki-insert-note
        :deck deck
