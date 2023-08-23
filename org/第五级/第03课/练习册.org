@@ -8,10 +8,15 @@
 :ID: 01ea443d-1602-43eb-95df-448accec2421
 :END:
 **** 对话
+***** 转录
 女：请问您还有再次出航的计划吗[[file:01-4fedaf55f76342afa990000309ef2dcf.mp3][(audio)]]？
 男：一切只是开始[[file:02-5ca58d6043d64fa7a72db5d4dd97c93b.mp3][(audio)]]。等到北风南下之时[[file:03-d7210e0edbff4161841d918f63e21d4b.mp3][(audio)]]，我们将再次出发[[file:04-713ed72be54544b499467e7f1ffd25ef.mp3][(audio)]]。
+***** 音频
+2191b8fb-fdf2-4591-8da6-3ec9f151383c.mp3
 **** 问题
-男的是什么意思[[file:05-39ca0945c01049f4b3d233b2f8e49b81.mp3][(audio)]]？
+男的是什么意思？
+***** 音频
+05-39ca0945c01049f4b3d233b2f8e49b81.mp3
 **** 选择
 ***** A
 现在没有打算
@@ -28,10 +33,15 @@ C
 :ID: 5d1503f6-4494-4a44-82e1-8954c51118b0
 :END:
 **** 对话
+***** 转录
 男：老婆[[file:06-1b2f531c818a49ca9b170190c30410eb.mp3][(audio)]]，今晚在家吃饭还是出去吃[[file:07-6661cb1bf47948658faca064855b7900.mp3][(audio)]]？
 女：你今天下午不是钓回来好几条鱼吗[[file:08-d99d53ed13d44ecaa8efe7faaf480b9c.mp3][(audio)]]？晚饭就吃鱼吧[[file:09-1a7fca949f33439e9c7f24934ada097f.mp3][(audio)]]。
+***** 音频
+26d9b897-5906-4147-ba8d-1fc4be21bd22.mp3
 **** 问题
-他们的鱼是怎么来的[[file:10-a290f960afc449a5864f64fc0c1667af.mp3][(audio)]]？
+他们的鱼是怎么来的？
+***** 音频
+10-a290f960afc449a5864f64fc0c1667af.mp3
 **** 选择
 ***** A
 超市买的
@@ -48,10 +58,15 @@ B
 :ID: 1fa69e7e-c4ad-44b2-a892-1dd07ef3c90a
 :END:
 **** 对话
+***** 转录
 女：你今天不是要去出差吗[[file:11-c80b16314ae5429ca7905567ddb33452.mp3][(audio)]]？怎么还在这儿[[file:12-f4b2eee09290400ea762932c9ef655de.mp3][(audio)]]？
 男：有大雾[[file:13-bd51af4dc108485fa699ac7ec20b4b9b.mp3][(audio)]]，航班取消了[[file:14-10981879224e4eaf8c38fc710ba770b3.mp3][(audio)]]。
+***** 音频
+0ed1b3d1-a687-4a90-b884-17d23b6fe939.mp3
 **** 问题
-今天是什么天气[[file:15-77f0cbe8cdb541258fe87d8c834b7ef4.mp3][(audio)]]？
+今天是什么天气？
+***** 音频
+15-77f0cbe8cdb541258fe87d8c834b7ef4.mp3
 **** 选择
 ***** A
 下雨
@@ -68,10 +83,15 @@ D
 :ID: 97e3eb62-3847-4593-8a2a-7e2800f039c8
 :END:
 **** 对话
+***** 转录
 男：外面又打雷又闪电的[[file:16-0027f06d0dc34018a53ca79b27caebbc.mp3][(audio)]]，咱们等会儿再走吧[[file:17-307fc59bfd0f4f1f8cc5f22dff31164d.mp3][(audio)]]。
 女：行[[file:18-c69324e06b1b4e60b99f32e887789b71.mp3][(audio)]]，正好我手头还有事没弄完[[file:19-22bef4c8dbc14c7f9e98cd2efc92107e.mp3][(audio)]]，再加会儿班[[file:20-7f703ba9a0db40a1a0800cb1866da27e.mp3][(audio)]]。
+***** 音频
+de7bc85a-e19a-4334-82aa-1c9ae9a057cb.mp3
 **** 问题
-男的为什么现在不走[[file:21-7fb2336d1e244aebb365c31e58949bf8.mp3][(audio)]]？
+男的为什么现在不走？
+***** 音频
+21-7fb2336d1e244aebb365c31e58949bf8.mp3
 **** 选择
 ***** A
 天气不好
@@ -88,10 +108,15 @@ A
 :ID: 2cf5aa9a-18fc-4640-8c56-255fa663f018
 :END:
 **** 对话
+***** 转录
 女：听说你母亲被车撞了[[file:22-6d2bbbc591e64f7699a9d415472d4a1f.mp3][(audio)]]？你怎么还能这么平静[[file:23-06b3bcddce1d45ac93e7c3a8e556f1e3.mp3][(audio)]]？
 男：我已经给她打过电话了[[file:24-835556ac382d4f25b915f09e5cbbcc4f.mp3][(audio)]]，只是被自行车蹭了一下[[file:25-a00826a5bd95463cbac588b8dffdd54c.mp3][(audio)]]，没受伤[[file:26-7a06c63e894b44a6ba72169b708b908d.mp3][(audio)]]，不要紧[[file:27-81bb3da0dd0346a6a5f2dba331155f9c.mp3][(audio)]]。
+***** 音频
+1f179c33-7ff2-4128-a392-e77eb2ad34ac.mp3
 **** 问题
-关于男的的母亲[[file:28-a813eff412c44d3fad75dd65f62e3315.mp3][(audio)]]，下列哪项正确[[file:29-9f08dde9c4ae4d6f97bda39b71a29b1e.mp3][(audio)]]？
+关于男的的母亲？
+***** 音频
+28-a813eff412c44d3fad75dd65f62e3315.mp3
 **** 选择
 ***** A
 她很平静
@@ -108,10 +133,15 @@ D
 :ID: 522cd0a1-0982-4e35-bb17-24733275e26a
 :END:
 **** 对话
+***** 转录
 男：您和先生的事业都这么成功[[file:30-b6cb5fc6dcd24cb79d4ab90d48c841a6.mp3][(audio)]]，工作应该都很忙[[file:31-15d9fc3edebe4b45b2a9aeb46db652ea.mp3][(audio)]]，那你们平时怎么处理工作与生活的关系[[file:32-940efa712ed946ec8c53862acea65ca2.mp3][(audio)]]？
 女：我们都认为不能因为工作影响生活[[file:33-feeb1b778c80456c881e3869eee7d4a2.mp3][(audio)]]，比如我们会轮流做家务[[file:34-380c98e529984a58ba4a0d912622c343.mp3][(audio)]]。
+***** 音频
+c641c41b-bc8d-43c2-ad08-c139375ebc1c.mp3
 **** 问题
-他们家怎么安排家务[[file:35-5dad6fa47c174f3389bf54ee2b7bace2.mp3][(audio)]]？
+他们家怎么安排家务？
+***** 音频
+35-5dad6fa47c174f3389bf54ee2b7bace2.mp3
 **** 选择
 ***** A
 丈夫做

@@ -8,10 +8,15 @@
 :ID: 071764d0-a779-40bc-a691-48f755f98971
 :END:
 **** 对话
+***** 转录
 女：你记住要从小区的西北门进去，[[file:f35698af-af17-446a-85ef-ab37c3def3d3.mp3][(audio)]]进门右拐第一个楼就是，[[file:01d9e175-17e2-4a41-aa0e-e3d1605f096e.mp3][(audio)]]王总住四单元201。[[file:26e28350-fbc4-4871-9c07-397c3c43a289.mp3][(audio)]]
 男：好的，[[file:8c0bb68b-5406-48fe-bba0-5bf5cebbd9c6.mp3][(audio)]]不说了不说了，[[file:ebaec4ac-fb9e-406c-8c21-0e17334723d7.mp3][(audio)]]我赶紧的！[[file:b5fb07a5-67b4-4021-81dc-fd5d4c27a4cf.mp3][(audio)]]
+***** 音频
+d33fcb3d-855a-49af-aad7-ab10b4087346.mp3
 **** 问题
-男的最可能是去哪儿？[[file:7a958925-1903-4561-ad43-16689008c7f0.mp3][(audio)]]
+男的最可能是去哪儿？
+***** 音频
+7a958925-1903-4561-ad43-16689008c7f0.mp3
 **** 选择
 ***** A
 老板的家
@@ -28,10 +33,15 @@ A
 :ID: dd887f87-58f1-4410-be19-889a19c26e55
 :END:
 **** 对话
+***** 转录
 女：刚才又打雷又闪电，[[file:75e66e7a-286e-4175-9074-f6ff6f71c8e1.mp3][(audio)]]真吓人！[[file:5605de13-f76c-4eb2-bd51-26c4987114df.mp3][(audio)]]怎么这么一会儿雨就停了？[[file:618de789-ea49-4f4c-a6c8-d72a9c51de84.mp3][(audio)]]
 男：夏天的雨就是这样，[[file:067db57d-d226-424c-b908-3db24b4b90d5.mp3][(audio)]]来得快去得也快。[[file:0838fba1-7887-4c92-b966-5d25c8f599fb.mp3][(audio)]]
+***** 音频
+49b7ff05-b1ee-457b-bba4-54e129f9a84a.mp3
 **** 问题
-他们说的雨最可能是下面哪种？[[file:2453b82b-4a67-4321-b560-afa615f289b2.mp3][(audio)]]
+他们说的雨最可能是下面哪种？
+***** 音频
+2453b82b-4a67-4321-b560-afa615f289b2.mp3
 **** 选择
 ***** A
 大暴雨
@@ -48,10 +58,15 @@ B
 :ID: 84c6ae83-c480-450a-83bc-2bd9b9385960
 :END:
 **** 对话
+***** 转录
 男：你今天怎么总打喷嚏，[[file:e10f98f2-39cc-4297-8653-67962f8c2034.mp3][(audio)]]感冒了吧？[[file:64ff635c-811b-4eff-8e60-68acd66d0ee6.mp3][(audio)]]
 女：是有点儿。[[file:0c6ddcc2-f086-45c6-b1de-3e5103bca27f.mp3][(audio)]]昨晚和老公去看电影，[[file:3e8cb301-f776-42f1-8891-f0848b0cd009.mp3][(audio)]]电影院的冷气开得太凉了。[[file:c1e34dac-aa52-4471-b00b-44e2a02c6e25.mp3][(audio)]]
+***** 音频
+a450f133-cff5-4b3f-9107-65ee3c28bbbe.mp3
 **** 问题
-女的是怎么感冒的？[[file:016d7108-432e-44ff-96a0-031cf85ce79c.mp3][(audio)]]
+女的是怎么感冒的？
+***** 音频
+016d7108-432e-44ff-96a0-031cf85ce79c.mp3
 **** 选择
 ***** A
 熬夜累的
@@ -68,10 +83,15 @@ B
 :ID: 4c695df8-8d7a-45e4-8119-e9aeb9e6be90
 :END:
 **** 对话
+***** 转录
 男：我去上班了，[[file:1d51f8b5-f435-47f4-8cf6-8c5a1d7b10fa.mp3][(audio)]]你走的时候，记得把窗户关好，[[file:8ac11465-6ada-4dbf-a7ee-15c5d376e972.mp3][(audio)]]天气预报说有雨。[[file:57d01fe4-cff8-465f-a048-488e34d8a33d.mp3][(audio)]]
 女：知道了。[[file:679bc0e3-a003-42bb-a72b-ac29b69390d5.mp3][(audio)]]儿子上学时没带伞。[[file:5a0f1ab1-aab3-4c2f-8d20-a78ca39ac821.mp3][(audio)]]你回来早的话，给他送一趟吧。[[file:7b256b63-b8bc-42a4-bad5-0a557d0f25a9.mp3][(audio)]]
+***** 音频
+205b8747-de56-4d45-93e4-6f42e630e1f5.mp3
 **** 问题
-女的担心什么？[[file:e677335b-e71e-4ddd-94d7-b1c92f830361.mp3][(audio)]]
+女的担心什么？
+***** 音频
+e677335b-e71e-4ddd-94d7-b1c92f830361.mp3
 **** 选择
 ***** A
 丈夫上班迟到
@@ -88,10 +108,15 @@ C
 :ID: 3e438f15-819f-48ec-ab97-f8972d6cfead
 :END:
 **** 对话
+***** 转录
 男：您好！[[file:1fd6bba6-9554-4445-8323-d4d5f5559101.mp3][(audio)]]中通快递，[[file:8d95e242-f2d9-417f-8927-811889a021fd.mp3][(audio)]]我在您楼下，[[file:adfc5d68-a316-45e1-818f-6797b105e2d0.mp3][(audio)]]家里没人啊？[[file:37c27863-47d4-4931-9a0e-8904a38604b5.mp3][(audio)]]
 女：我先生在家，[[file:4398d1c5-c4a3-4e07-854a-eca9091e39cb.mp3][(audio)]]您稍等一下，[[file:5ca7cf6d-30fb-44f2-afd3-63803d98298a.mp3][(audio)]]我马上跟他联系，[[file:2bec03a9-7a1d-496a-814d-7b9cc4eddc9e.mp3][(audio)]]不好意思啊！[[file:88fa3e51-b3b3-4bc1-8f91-7cf9caa39156.mp3][(audio)]]
+***** 音频
+0ee72605-0e2a-48cd-86a8-5e2da6488839.mp3
 **** 问题
-女的接下来会做什么？[[file:d78c1063-a2ee-4cc9-a07e-fa39a51c0dc4.mp3][(audio)]]
+女的接下来会做什么？
+***** 音频
+d78c1063-a2ee-4cc9-a07e-fa39a51c0dc4.mp3
 **** 选择
 ***** A
 :PROPERTIES:
@@ -111,10 +136,15 @@ D
 :ID: 0b8c395c-6172-4729-9ed7-cd5ea7023918
 :END:
 **** 对话
+***** 转录
 女：看你的黑眼圈，[[file:06cebe81-20dc-4036-bc2d-21afab1c966c.mp3][(audio)]]是不是昨晚又熬夜了？[[file:8c4e8007-00fd-4fee-ad84-73ea8690bc1d.mp3][(audio)]]
 男：没错，[[file:6c46c05a-863c-4d3a-8ea7-06017dc98c87.mp3][(audio)]]给欧洲冠军杯决赛做解说，[[file:de9ab3be-151e-4123-97ba-79364b301b75.mp3][(audio)]]录完节目都快早上五点了。[[file:69f76666-dd0c-4877-9247-c24da3f27479.mp3][(audio)]]
+***** 音频
+eeae6b20-4c69-49c0-8dd0-e141d6c21d38.mp3
 **** 问题
-男的昨晚为什么熬夜？[[file:114b8138-7fb7-45a5-a870-b69d28c3ebcd.mp3][(audio)]]
+男的昨晚为什么熬夜？
+***** 音频
+114b8138-7fb7-45a5-a870-b69d28c3ebcd.mp3
 **** 选择
 ***** A
 加班工作

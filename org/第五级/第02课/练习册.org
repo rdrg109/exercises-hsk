@@ -8,10 +8,15 @@
 :ID: 41e03eab-fc40-498a-be30-79e84031becf
 :END:
 **** 对话
+***** 转录
 女：都半年没回来了[[file:01-85bc74f1b1cd45799d1b0a5cb8c85384.mp3][(audio)]]，家里肯定脏死了[[file:02-fe2dab8a93ef49158b220be4e038f157.mp3][(audio)]]。
 男：今天太晚了，[[file:03-4fc21f9bf00349db9cd6f705edf7fd3e.mp3][(audio)]]到家以后先休息吧，[[file:04-122e5ad3397e472d93bf6ef18f486281.mp3][(audio)]]明天再收拾。[[file:05-fd5bf0e1948a4c449c395cd913c85c5b.mp3][(audio)]]
+***** 音频
+423e4d55-84fa-44b4-8bfa-a4a9cec51d1a.mp3
 **** 问题
-男的是什么意思？[[file:06-e29cb600e3b344e39a72a6f32cf88df9.mp3][(audio)]]
+男的是什么意思？
+***** 音频
+06-e29cb600e3b344e39a72a6f32cf88df9.mp3
 **** 选择
 ***** A
 家里不会太脏
@@ -28,10 +33,15 @@ C
 :ID: 55f2a59f-3702-487a-88c7-db4b508f231c
 :END:
 **** 对话
+***** 转录
 男：姑姑，[[file:07-19ceeba5dc38473884b711361ea827d2.mp3][(audio)]]我来帮您拿行李吧。[[file:08-89fe093ac9fe4773bde7ce2c97915cd6.mp3][(audio)]]
 女：乖孩子，[[file:09-09ca00af986240b8be0ad329a6f81287.mp3][(audio)]]你这么小，[[file:10-3c68a92a7edd4ef09210f2370f6bac92.mp3][(audio)]]哪儿用得着你啊！[[file:11-36dc2ca8f80944879433a3508d55e14a.mp3][(audio)]]姑姑自己能行。[[file:12-9a0b89e5f37045de84a1a51c8122467e.mp3][(audio)]]
+***** 音频
+d4b4176a-3645-466a-b766-aaaf5091663b.mp3
 **** 问题
-女的是什么意思？[[file:13-46c2e9038b4c4e5b93c4c3b631540b17.mp3][(audio)]]
+女的是什么意思？
+***** 音频
+13-46c2e9038b4c4e5b93c4c3b631540b17.mp3
 **** 选择
 ***** A
 行李太重了
@@ -48,10 +58,15 @@ D
 :ID: a4ccdb74-3668-4838-af92-7893ecc36627
 :END:
 **** 对话
+***** 转录
 女：姥爷，[[file:14-106cc0da8ae04e70ac5170f9aa7ffc71.mp3][(audio)]]您腿脚不好，[[file:15-d6a1f2aec91e439d9f5f2517c4aec2d3.mp3][(audio)]]慢点儿走。[[file:16-712f8e20943d4244853bbe7aa35771bd.mp3][(audio)]]
 男：没事，[[file:17-8d288fcf18a940e09e6860bed58348e6.mp3][(audio)]]我天天锻炼，[[file:18-6bc4048a469b454b8e406382d68f6244.mp3][(audio)]]身体好着呢！[[file:19-cc998b4640ce4b9ab656e956a44abfaf.mp3][(audio)]]
+***** 音频
+0d91563e-2a6b-4bb2-a9ad-7bbb3deabe96.mp3
 **** 问题
-女的觉得姥爷怎么样？[[file:20-a6b1c3a9651247aba764bdfa7e803ec8.mp3][(audio)]]
+女的觉得姥爷怎么样？
+***** 音频
+20-a6b1c3a9651247aba764bdfa7e803ec8.mp3
 **** 选择
 ***** A
 身体非常好
@@ -68,10 +83,15 @@ B
 :ID: f5d1892d-56a1-4770-81a5-427be94a95e9
 :END:
 **** 对话
+***** 转录
 男：妈，[[file:21-cadba617b7424ebb95a0c3f5981aa5c0.mp3][(audio)]]您做什么好吃的呢？[[file:22-ae83ea348e2d4af9a1984fd7aecb1a90.mp3][(audio)]]这么香！[[file:23-d32ee3d110614d56b8a6d8083f5f26a0.mp3][(audio)]]
 女：你爸今天出差回来，[[file:24-51a2558ab09f4511810dbbd0118382f4.mp3][(audio)]]给他炖个牛肉。[[file:25-b43510d3425e45a488e82f881e8d5412.mp3][(audio)]]你不是也最爱吃牛肉嘛！[[file:26-86c665388387463891eb86127051959e.mp3][(audio)]]
+***** 音频
+aa3f423f-2586-4c51-8123-a640e003b86a.mp3
 **** 问题
-女的为什么要做牛肉？[[file:27-7f59bd1682c344aabb35f3a3f9114e78.mp3][(audio)]]
+女的为什么要做牛肉？
+***** 音频
+27-7f59bd1682c344aabb35f3a3f9114e78.mp3
 **** 选择
 ***** A
 牛肉味道很香
@@ -88,10 +108,15 @@ C
 :ID: 2cb9be73-579f-4281-99cd-be3814098367
 :END:
 **** 对话
+***** 转录
 女：既然你在这儿干得不顺心，[[file:28-8a81c973b1d843c880a9cc70dd7880fe.mp3][(audio)]]为什么不换个工作呢？[[file:29-2bb5b24d29ff41adb87b8084a5fd610b.mp3][(audio)]]
 男：我都在这个厂里待了大半辈子了，[[file:30-a386021477544c0eb8e8016171ea89d9.mp3][(audio)]]除了这儿，[[file:31-2f61a8a5d7b54c228d26c810d9a21331.mp3][(audio)]]不知道还能去哪儿。[[file:32-4d9b310c394541a980df623e13dfe2ae.mp3][(audio)]]
+***** 音频
+4e80dc7e-bea2-4d9d-84c9-424563647680.mp3
 **** 问题
-男的是什么意思？[[file:33-2083aa2d84574cedbd323372313f4e25.mp3][(audio)]]
+男的是什么意思？
+***** 音频
+33-2083aa2d84574cedbd323372313f4e25.mp3
 **** 选择
 ***** A
 不想换工作
@@ -108,10 +133,15 @@ A
 :ID: e920b4e7-1f47-4768-9820-58078d44733f
 :END:
 **** 对话
+***** 转录
 男：这件事是小李偷偷告诉我的，[[file:34-077b1e896f8b4747b0f46a3938964070.mp3][(audio)]]你可别说出去。[[file:35-94596b96c49f43febeea85729d93f4d5.mp3][(audio)]]
 女：放心吧，[[file:36-5487a61ae4e94f18bd0a6fde184be875.mp3][(audio)]]我就当不知道，[[file:37-a5bd37e70de3431d9d3ab8966c2e4291.mp3][(audio)]]连小李都不说。[[file:38-f35e9d644f904598a06744210b4fcc92.mp3][(audio)]]
+***** 音频
+ef3d690a-02b1-450a-9b7a-82a1c30f2d56.mp3
 **** 问题
-女的是什么意思？[[file:39-aa48f6febf654c37a617b4ac0509335e.mp3][(audio)]]
+女的是什么意思？
+***** 音频
+39-aa48f6febf654c37a617b4ac0509335e.mp3
 **** 选择
 ***** A
 小李已经知道了
@@ -122,7 +152,7 @@ A
 ***** D
 她谁也不会告诉
 **** 答案
-D
+D 
 ** 第二部分
 *** 7
 :PROPERTIES:
