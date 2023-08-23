@@ -2,7 +2,7 @@
 
 (exercises-define-group hsk)
 
-(defcustom exercises-hsk-export-functions
+(defcustom exercises-hsk-export-functions-alist
   '(("7304a4a2-efe6-4d8e-96dc-e419347c7a56" . exercises-hsk-export-content-with-audio-multiple-choice-exercises)
     ("6e4af68c-3365-49d9-bfcc-70d2ee989ab7" . exercises-hsk-export-summarize-text))
   "")
@@ -64,7 +64,7 @@
                                              for entry in (alist-get 'entries exercise)
                                              when (equal (alist-get 'headline entry) "答案")
                                              do (throw 'found (alist-get 'content entry)))))))))
-    (with-current-buffer (find-file-noselect exercises-hsk-export-exported-file)
+    (with-current-buffer (find-file-noselect exercises-hsk-export-output-file)
       (exercises-anki-insert-note
        :deck deck
        :note-type "audio-multiple-choice-exercise"
@@ -146,7 +146,7 @@
                                    for entry in (alist-get 'entries data)
                                    when (equal (alist-get 'headline entry) "答案")
                                    do (throw 'found (alist-get 'content entry))))))))
-    (with-current-buffer (find-file-noselect exercises-hsk-export-exported-file)
+    (with-current-buffer (find-file-noselect exercises-hsk-export-output-file)
       (exercises-anki-insert-note
        :deck deck
        :note-type "summarize-text-multiple-choice-exercise"
@@ -180,7 +180,7 @@
           :headline-content-audio "音频"
           :headline-exercise-alternatives "选择"
           :headline-exercise-answer "答案")))
-    (with-current-buffer (find-file-noselect exercises-hsk-export-exported-file)
+    (with-current-buffer (find-file-noselect exercises-hsk-export-output-file)
       (insert
        (string-join
         (list

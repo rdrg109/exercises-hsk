@@ -1,9 +1,13 @@
 exercise id
-content
 
+content body
+content audio
+
+# exercise 1
 exercise 1 id
 exercise 1 number
 exercise 1 question
+exercise 1 question audio
 exercise 1 alternative 1 label
 exercise 1 alternative 1 content
 exercise 1 alternative 2 label
@@ -14,9 +18,11 @@ exercise 1 alternative 4 label
 exercise 1 alternative 4 content
 exercise 1 answer
 
+# exercise 2
 exercise 2 id
 exercise 2 number
 exercise 2 question
+exercise 2 question audio
 exercise 2 alternative 1 label
 exercise 2 alternative 1 content
 exercise 2 alternative 2 label
@@ -27,9 +33,11 @@ exercise 2 alternative 4 label
 exercise 2 alternative 4 content
 exercise 2 answer
 
+# exercise 3
 exercise 3 id
 exercise 3 number
 exercise 3 question
+exercise 3 question audio
 exercise 3 alternative 1 label
 exercise 3 alternative 1 content
 exercise 3 alternative 2 label
@@ -40,9 +48,11 @@ exercise 3 alternative 4 label
 exercise 3 alternative 4 content
 exercise 3 answer
 
+# exercise 4
 exercise 4 id
 exercise 4 number
 exercise 4 question
+exercise 4 question audio
 exercise 4 alternative 1 label
 exercise 4 alternative 1 content
 exercise 4 alternative 2 label
@@ -53,9 +63,11 @@ exercise 4 alternative 4 label
 exercise 4 alternative 4 content
 exercise 4 answer
 
+# exercise 5
 exercise 5 id
 exercise 5 number
 exercise 5 question
+exercise 5 question audio
 exercise 5 alternative 1 label
 exercise 5 alternative 1 content
 exercise 5 alternative 2 label
