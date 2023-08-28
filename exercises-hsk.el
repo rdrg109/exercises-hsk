@@ -7,6 +7,25 @@
     ("6e4af68c-3365-49d9-bfcc-70d2ee989ab7" . exercises-hsk-export-summarize-text))
   "")
 
+(defun exercises-hsk-move-to-file (N)
+  (let* ((parent-directory
+          (file-name-base
+           (replace-regexp-in-string "/\\'" "" (file-name-directory buffer-file-name))))
+         (chapter
+          (progn
+            (string-match "\\([0-9]+\\)" parent-directory)
+            (string-to-number
+             (match-string 1 parent-directory))))
+         (next-chapter (+ chapter N))
+         (next-chapter-string (concat "第" (format "%02d" next-chapter) "课"))
+         (path (concat
+                "../"
+                (file-name-as-directory next-chapter-string)
+                (file-name-nondirectory buffer-file-name))))
+    (unless (file-exists-p path)
+      (error "File doesn't exist"))
+    (find-file path)))
+
 (cl-defun exercises-hsk-export-content-with-audio-multiple-choice-exercises ()
   (let* ((deck (exercises-anki-build-deck-name-from-file-and-outline
                 :dir exercises-hsk-root-dir
