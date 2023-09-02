@@ -1,118 +1,13 @@
-* Text
-
-** Title
-
-人类超能力会改变世界纪录吗
-
-** Content
-
-我们一直以为世界纪录就是要不断被打破，但国际田联公布的各顷比赛成绩却告诉我们，多数已界记录都是在20世纪90年代创造的。此外，更有人引用《每日电讯报》的说法称：2截至2060年，人类可能不会再创造体新纪录。
-
-一个人的体能究竟有多大？人们在力争打破世界纪录的同时，不禁会对自己的身体产生疑问。比如说，100米短跑最快需要几秒？这不是一个简单的谁拿冠军、谁拿亚军、谁拿季军的问题，这是对人类体能极限的追问。
-
-有专家认为，人类跑100米速度的极限应该是10．42秒，再考虑一般跑到80米才能达到全速，人类可能达到的最快速度大约为11．96秒。
-
-然而，在那条狭窄的跑道上，任性的牙实加田径比赛选手博尔特简直就不把世界纪录放在眼里！2008年6月1日，在美国纽约①锐步不奖赛上，他以9．72秒的成绩获得100，短跑冠军，打破了同鲍威尔保持的9．74秒的世界纪录；2008年8月16日北京奥运会百米决赛电视直播中，摇动的旗帜汇成了沸腾的海洋，他以9．69秒的成绩再次刷新世界纪录，领先亚军0．2秒。振奋之余人们不禁再次追问--人体运动到低有没有极限？
-
-有研究分解了博尔特取得9．72秒成绩的那次比赛动作，并利用公式做了精密计算，結论是：他是从静止状态开跑的，9．72秒还包括了加速的时间，如果他跑200米，那么，第二个100米会比第一个100米快，因为没有起跑的过程。
-
-数据相差如此悬殊，我们到底信谁？飞人博尔特创造的奇迹怎么解释？我们还能迷信专家吗？一时舆论哗然，质疑不断，专家、学者、网民纷纷自发掀起人体扱限的讨论。
-
-有人说，空洞的结论没有说服服力，我们还是看看人体结构吧。运动员向前跑的动又不部分由股四肌提供，股四头肌腱与膝盖连接，运动员才可以加速，这一结构也成为了运动员加速的制约因素，原理就是，超越极限的速度需要的力量足以造成股四头肌腱和膝盖间的连接点撕裂。人体结构是确定的，人体活动当然也有一定的范围，科学就是这么冷酷。
-
-也有人从运动医学和心理学角度出发，其观点也不尢道理。跑步看起来是用腿，其实要动员全员全身的力量，牵扯到各个器官。拿胸膛里的心脏来说，它管辖着全身，如果它出了故障，腿再快也不管用。人进入运动状态后，心率加快，运动时最高心率＝（220-年龄）次／分。运动时的心率应在一定范围內。低限一般是最高心率的60％，高限一般是最高心率的85％。如一名40岁的人，运动时的心率应保持在每分钟108-150次左右，严禁超过心率的极限值，否则会因供血不足发生猝死。
-
-每个人的运动极限都不同，长期正枧科学的训练，多次接近实战性的“演习”，可以让自己越来越接近极限。人的心理因素弹性很大，积极的精神状态可以激发身体潜能，从而让运动员在竞赛中超水平发挥。
-
-体能只有60％是与生俱来的，其余40％要通过练等外界影响去发掘。故而，体能，心理素质好的运员，会成为优先选拔的对象。年轻运动员身体资产丰厚，得天独厚的优势就是他们的年龄；老运动员作风过硬，顽強，有志气，不屈服，这些使不少教练员对打破世界纪录依然充满信心。体育界有种说法：“运动员选对了，就成功了一半口通过训练让运动员的超能又发挥出来那就是百分之百的成功。”
-
-
-优秀的选手和科学训练相辅辅相成，是通往成功的有效手段。如今，教练员依托电脑、超高速摄影机等先进装备以及技术分析等手段来指导训练，用新颖的战术思想指导比赛。谁能顽強地越过人体极限这道“悬崖峭壁“，找到体能的“突破口”，谁就能成为数竞争者中涌现出来的明星，这也是一个公认的事实。
-
-*** QUESTION Should I use "．" or "." for the period between the decimal and the fractional part of a number?
-:LOGBOOK:
-- State "QUESTION"   from              [2022-08-13 Sat 02:13]
-:END:
-
-*** QUESTION Is "--" in the paragraph the correct character for the long dash in the paragraph?
-:LOGBOOK:
-- State "QUESTION"   from              [2022-08-13 Sat 02:42]
-:END:
-
-*** QUESTION Is there a fullwidth character for the "-" character?
-:LOGBOOK:
-- State "QUESTION"   from              [2022-08-13 Sat 21:46]
-:END:
-
-I used this character three times in the dialogue.
-
-** Footnotes
-
-① 国际田联：指国际田径联合会（International Association of Atheletics Federation, IAFF)，简称国际田联，是一个国际性的田经运动的管理组织。
-① 纽约：New York，美美国重要城巿。
-
-** Source
-
-改编自《科学画报》同名文章，作者：王令朝
-
-** New words
-
-引用 / yin3 yong4 / to cite ;
-截至 / jie2 zhi4 / by (a specified time), up to ;
-力争 / li4 zheng1 / to work hard for, to strive for ;
-亚军 / ya4 jun1 / second place, runer-up, silver medal ;
-季军 / ji4 jun1 / third place winner, second runner-up ;
-极限 / ji2 xian4 / limit, maximum, extremety ;
-狭窄 / xia2 zhai3 / narrow, cramped ;
-任性 / ren4 xing4 / capricious, self-willed ;
-田径 / tian2 jin4 / track and field ;
-选手 / xuan3 shou3 / athlete selected for a sports meet, competitor ;
-同胞 / tong2 bao1 / fellow contryman, compatriot ;
-直播 / chi2 bo1 / to broadcast live ;
-旗帜 / qi2 zhi4 / flag ;
-领先 / ling3 xian1 / to be in the lead, to (take the) lead ;
-分解 / fen1 jie3 / to decompose, to desintegrate, to disassemble ;
-公式 / gong1 shi4 / formula ;
-精密 / jing1 mi4 / precise, accurate ;
-悬殊 / xuan2 shu1 / with great disparity, with a wide gap ;
-迷信 / mi2 xin4 / to have blind faith in ;
-舆论 / yu2 lun4 / public opinion ;
-自发 / zi4 fa1 / spontaneous ;
-掀起 / xian1 qi3 / to start, to set off, to stir up ;
-空洞 / kong1 dong4 / empty, hollow, devoid of content ;
-制约 / zhi4 yue1 / to restrict, to contraint ;
-原理 / yuan2 li3 / principle ;
-泠酷 / leng3 ku4 / unfeeling, callous ;
-动员 / dong4 yuan2 / to mobilize, to arouse ;
-牵扯 / qian1 che3 / to involve ;
-胸膛 / xiong1 tang2 / breast, chest ;
-管辖 / guan3 xia2 / to rule, to govern ;
-故障 / gu4 zhang4 / malfunction, breakdown ;
-产禁 / yan2 jin4 / to forbid strictly ;
-猝死 / cu4 si3 / to die suddenly ;
-正规 / zheng4 gui1 / regular, standard, normal ;
-演习 / yan3 xi2 / to maneuver, to exercise, to drill;
-弹性 / tan2 xing4 / elasticity, resilience ;
-竞赛 / jing4 sai4 / to have a contest ;
-优先 / you1 xian1 / to take precedence, to have priority ;
-选拔 / xuan3 ba2 / to select, to choose ;
-资产 / zi1 chan2 / property, asset ;
-得天独厚 / de2 tian1 du2 hou4 / ro be richly endowed by netore, to abound in gifts of nature, to have particularly favorable natural conditions ;
-作风 / zuo4 feng1 / style, style of work,  way ;
-顽强 / wan2 qiang2 / indomitable, staunch, tenacious ;
-志气 / zhi4 qi4 / aspiration, ambition, morale ;
-屈服 / qu1 fu2 / to surrender, to yield, to bow to ;
-相辅相成 / xiang1 fu3 - xiang1 cheng2 / to exist side by side and play a part together, to be inspearably interconnected, to be supplementary to each other ;
-依托 / yi1 tuo1 / to rely on, to depend on ;
-装备 / zhuang1 bei4 / to be equipped with ;
-战术/ zhuan4 shu4 / tactics ;
-悬崖峭壁 / xuan2 ya2 qiao4 bi4 / precipitous rock faces and sheer cliffs, sheer preciipce and overhanging rocks ;
-涌现 / yong3 xian4 / to emerge in large numbers, to spring up ;
-
-*** QUESTION Why does the pinyin of the expression 相辅相成 contains the character "-"?
-:LOGBOOK:
-- State "QUESTION"   from              [2022-08-13 Sat 22:55]
-:END:
-
-Note that the pinyin of 悬崖峭壁 doesn't have this character even though it is formed of two words.
-
+* 课文
+** 转录
+我们一直以为世界纪录就是要不断被打破，但国际田联“公布的各项比赛成绩却告诉我们，多数世界纪录都是在20 世纪 90 年代创造的。此外，更有人引用《每日电讯报》的说法称：截至 2060年，人类可能不会再创造体坛新纪录。
+一个人的体能究竟有多大？人们在力争打破世界纪录的同时，不禁会对自己的身体产生疑问。比如说，100 米短跑最快需要几秒？这不是一个简单的谁拿冠军、谁拿亚军、谁拿季军的问题，这是对人类体能极限的追问。
+有专家认为，人类跑 100 米速度的极限应该是 10.42 秒，再考虑一般跑到 80米才能达到全速，人类可能达到的最快速度大约为 11.96 秒。
+然而，在那条狭窄的跑道上，任性的牙买加田径比赛选手博尔特简直就不把世界纪录放在眼里！2008 年 6 月 1 日，在美国纽约锐步大奖赛上，他以 9.72 秒的成绩获得 100 米短跑冠军，打破了同胞鲍威尔保持的 9.74 秒的世界纪录；2008年 8 月 16 日北京奥运会百米决赛电视直播中，摇动的旗帜汇成了沸腾的海洋，他以 9.69 秒的成绩再次刷新世界纪录，领先亚军 0.2 秒。振奋之余人们不禁再次追问——人体运动到底有没有极限？
+有研究者分解了博尔特取得 9.72秒成绩的那次比赛动作，并利用公式做了精密计算，结论是：他是从静止状态开跑的，9.72 秒还包括了加速的时间，如果他跑 200 米，那么，第二个100 米会比第一个 100 米快，因为没有起跑的过程。
+数据相差如此悬殊，我们到底信谁？飞人博尔特创造的奇迹怎么解释？我们还能迷信专家吗？一时舆论哗然，质疑不断，专家、学者、网民纷纷自发掀起人体极限的讨论。
+有人说，空洞的结论没有说服力，我们还是看看人体结构吧。运动员向前跑的动力大部分由股四头肌提供，股四头肌腱与膝盖连接，运动员才可以加速，这一结构也成为了运动员加速的制约因素，原理就是，超越极限的速度需要的力量足以造成股四头肌腱和膝盖间的连接点撕裂。人体结构是确定的，人体活动当然也有一定的范围，科学就是这么冷酷。
+也有人从运动医学和心理学角度出发，其观点也不无道理。跑步看起来是用腹，其实要动员全身的力量，牵扯到各个器官。拿胸膛里的心脏来说，它管辖着全身，如果它出了故障，腿再快也不管用。人进入运动状态后，心率加快，运动时最高心率二（220–年龄）次/分。运动时的心率应在一定范围内，低限一般是最高心率的 60％，高限一般是最高心率的 85％。如一名 40 岁的人，运动时的心率应保持在每分钟 108–150次左右，严禁超过心率的极限值，否则会因供血不足发生猝死。
+每个人的运动极限都不同，长期正规科学的训练，多次接近实战性的“演习”，可以让自己越来越接近极限。人的心理因素弹性很大，积极的精神状态可以激发身体潜能，从而让运动员在竞赛中超水平发挥。
+体能只有 60％是与生俱来的，其余 40％要通过训练等外界影响去发掘。故而，体能、心理素质好的运动员，会成为优先选拔的对象。年轻运动员身体资产丰厚，得天独厚的优势就是他们的年龄；老运动员作风过硬，顽强，有志气，不屈服，这些使不少教练员对打破世界纪录依然充满信心。体育界有种说法：“运动员选对了，就成功了一半；通过训练让运动员的超能力发挥出来，那就是百分之百的成功。”
+优秀的选手和科学训练相辅相成，是通往成功的有效手段。如今，教练员依托电脑、超高速摄影机等先进装备以及技术分析等手段来指导训练，用新颖的战术思想指导比赛。谁能顽强地越过人体极限这道“悬崖峭壁”，找到体能的“宋破口”，谁就能成为无数竞争者中涌现出来的明星，这也是一个公认的事实。
