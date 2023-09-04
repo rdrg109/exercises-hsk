@@ -65,183 +65,6 @@ b
 
 c
 
-* 课文1
-:PROPERTIES:
-:CREATED: [2022-07-02 21:21:43 -05]
-:END:
-
-** 1
-
-*** 标题
-:PROPERTIES:
-:CREATED: [2022-07-04 11:29:50 -05]
-:END:
-
-小林和小李聊小李的工作
-
-*** 对话
-:PROPERTIES:
-:CREATED: [2022-07-04 11:29:53 -05]
-:END:
-
-小林：听说你又换工作了？今年已经换了三次工作了吧？
-小李：别提了！我以为新工作比以前的好，没想到还没有以前好呢。
-小林：上次那份工作你只做了两个月就离开了，其实，完全适应一个新的工作需要一年时间，所以，经常换工作不一定好。
-小李：我也明白。但是那份工作的收入太少了。
-小林：你才到新公司，不要太急着赚前，多学习是最重要的。
-小李：好。我一定会努力把现在这份工作做好。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:29:58 -05]
-:END:
-
-收入 🟦 shou1 ru4 🟦 income, revenue ;
-急着 🟦 ji2 zhe 🟦 urgently ;
-
-*** 生词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:29:56 -05]
-:END:
-
-1. 提 🟦 ti2 🟦 v. to mention ;
-2. 以为 🟦 yi3wei2 🟦 v. to think, to believe ;
-3. 份 🟦 fen4 🟦 m. /used for jobs among other things/ ;
-4. 完全 🟦 wan2quan2 🟦 adv. completely ;
-5. 赚 🟦 zhuan4 🟦 v. to earn ;
-
-** 2
-
-*** 标题
-:PROPERTIES:
-:CREATED: [2022-07-04 11:30:03 -05]
-:END:
-
-王经理和小李在说工作
-
-*** 对话
-:PROPERTIES:
-:CREATED: [2022-07-04 11:30:08 -05]
-:END:
-
-王经理：那份调查还要多长时间才能做完？
-小李：按原来的计划应该是两周，但是我们可以提前完成，周末保证做完。
-王经理：虽然最近工作很忙，但你们也要注意身体啊。
-小李：谢谢您！现在有很多事情等着我做，真不知道该先做哪个好。
-王经理：每天早上我都把当天计划要做的事情写在笔记本上，提醒自己安排好时间。你也可以试试这样做。
-小李：这个办法真不错！这样我就不会手忙脚乱了。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:30:18 -05]
-:END:
-
-按 🟦 an4 🟦 according to 🟦
-注意 🟦 zhu4 yi4 🟦 v. to pay attention to 🟦
-安排 🟦 an1 pai2 🟦 v. to arrange, to plan 🟦
-
-*** 生词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:30:14 -05]
-:END:
-
-6. 调查 🟦 diao4cha2 🟦 v. to survey, to investigate ;
-7. 原来 🟦 yuan2lai2 🟦 adj. original ;
-8. 计划 🟦 ji4hua4 🟦 n.🟦v. plan, to intend to ;
-9. 提前 🟦 ti2qian2 🟦 v. to do in advance or ahead of time ;
-10. 保证 🟦 bao3zheng4 🟦 v. to guarantee ;
-11. 提醒 🟦 ti2xing3 🟦 v. to remind ;
-12. 乱 🟦 luan4 🟦 adj. hurry-scurry, confused ;
-
-*** 专有名词
-:PROPERTIES:
-:CREATED: [2022-12-19 15:47:14 -05]
-:END:
-
-王 🟦 Wang2 🟦 Wang, a Chinese family name ;
-
-**** UNANSWERED [#B]
-:PROPERTIES:
-:CREATED: [2022-12-19 15:47:33 -05]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-19 15:47:39 -05]
-:END:
-:LOGBOOK:
-- State "UNANSWERED" from              [2022-12-19 Mon 15:47]
-:END:
-
-Why this 专有名词 is not assigned a number? In other paragraphs or dialogues which contain definitions of a 专有名词, they are numbered.
-
-I don't know if this is because there's a single name or the editor of the book forgot to write a number.
-
-** 3
-
-*** 标题
-:PROPERTIES:
-:CREATED: [2022-07-04 11:30:22 -05]
-:END:
-
-王经理和马经理在说工作
-
-*** 对话
-:PROPERTIES:
-:CREATED: [2022-07-04 11:30:24 -05]
-:END:
-
-王经理：什么事让你这么高兴啊？
-马经理：我们和上次。那个公司的生意
-王经理：太好了！你工作那么努力，公司会越好的。
-马经理：我原来以为做生意很简单，后来才发现其实并不容易现在赚钱越来越难了。
-王经理：慢慢来，万事开头难，重要的是要多枳累经验。
-马经理：我相信经过我们大家的努力，公司的生意会越做越大，一切都会好的。
-
-*** 生词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:30:36 -05]
-:END:
-
-13. 生意 🟦 sheng1yi 🟦 n. business, trade ;
-14. 谈 🟦 tan2 🟦 v. to talk, to discuss ;
-15. [X] 并 🟦 bing4 🟦 adv. /used before a negative for emphasis/ ;
-16. 枳累 🟦 ji1lei3 🟦 v. to accumulate ;
-17. 经验 🟦 jing1yan4 🟦 n. experience ;
-18. 一切 🟦 yi2qie4 🟦 pron. all, every ;
-* 课文2
-
-** 4
-
-*** 段话
-
-我们今年的工作都已经按是照计划完成了，这一段时间，尽管工作很紧张，中间也遇到了很多困难，但是因为有大家的努力，我们成功地解决了问题，顺利地完成了工作，非常感谢大家对我的帮助！另外，马经理让我告诉大家一个好消息，因为大家按时完成了工作，公司决定这个月给每人多发三千元奖金。感谢大家这三个多月的努力工作，希望明年能有更大的成绩。
-
-*** 生词
-
-19. 按照 🟦 an4zhao4 🟦 prep. according to ;
-20. 成功 🟦 cheng2gong1 🟦 adj. successful ;
-21. 顺利 🟦 shun4li4 🟦 adj. smooth ;
-22. 感谢 🟦 gan3xie4 🟦 v. to thank ;
-23. 消息 🟦 xiao1xi  n. news ;
-24. 按时 🟦 an4shi2 🟦 adv. on time, on schedule ;
-25. 奖金 🟦 jiang3jin1 🟦 n. money award, bonus ;
-
-** 5
-
-*** 段话
-
-年轻人刚开始工作的时候，不要太急着赚钱，不要眼睛里只有工资和奖金。在工作的前几年，重要的是丰富自己的工作经验，学习与同事交流的方法，积累专业知识，这些比收入重要多了。但是很多时候，我们不得不去做一些自己不愿意做惎至是非常不喜欢的工作。这时，我们最需要的就是对工作的责任心。一个人即使能力再高，经验再丰富，如果对工作没有责任心，也很难把工作做好。
-
-*** 生词
-
-26. 工资 🟦 gong1zi1 🟦 n. pay, salary ;
-27. 方法 🟦 fang1fa3 🟦 n. method, way ;
-28. 知识 🟦 zhi1shi 🟦 n. knowledge ;
-29. 不得不 🟦 bu4de2bu4 🟦 to have to, to have no choice but ;
-30. 甚至 🟦 shen4zhi4 🟦 conj. even, so far as to ;
-31. 责任 🟦 ze2ren4 🟦 n. responsibility, duty ;
-
 * 练习
 
 ** 2
@@ -599,3 +422,34 @@ I don't know if this is because there's a single name or the editor of the book 
 
 方法
 
+* 课文
+** 1
+*** 转录
+小林：听说你又换工作了？今年已经换了三次工作了吧？
+小李：别提了！我以为新工作比以前的好，没想到还没有以前好呢。
+小林：上次那份工作你只做了两个月就离开了，其实，完全适应一个新的工作需要一年时间，所以，经常换工作不一定好。
+小李：我也明白。但是那份工作的收入太少了！
+小林：你才到新公司，不要太急着赚钱，多学习才是最重要的。
+小李：好。我一定会努力把现在这份工作做好。
+** 2
+*** 转录
+王经理：那份调查还要多长时间才能做完？
+小李：按原来的计划应该是两周，但是我们可以提前完成，周末保证做完。
+王经理：虽然最近工作很忙，但你们也要注意身体啊。
+小李：谢谢您！现在有很多事情等着我做，真不知道该先做哪个好。
+王经理：每天早上我都把当天计划要做的事情写在笔记本上，提醒自己安排好时间。你也可以试试这样做。
+小李：这个办法真不错！这样我就不会手忙脚乱了。
+** 3
+*** 转录
+王经理：什么事让你这么高兴啊？
+马经理：我们和上次那个公司的生意终于谈成了。
+王经理：太好了！你工作那么努力，公司会越来越好的。
+马经理：我原来以为做生意很简单，后来才发现其实并不容易，现在赚钱越来越难了。
+王经理：慢慢来，万事开头难，重要的是要多积累经验。
+马经理：我相信经过我们大家的努力，公司的生意会越做越大，一切都会好的。
+** 4
+*** 转录
+我们今年的工作都已经按照计划完成了。这一段时间，尽管工作很紧张，中间也遇到了很多困难，但是因为有大家的努力，我们成功地解决了问题，顺利地完成了工作，非常感谢大家对我的帮助！另外，马经理让我告诉大家一个好消息，因为大家按时完成了工作，公司决定这个月给每人多发三午元奖金。感谢大家这三个多月的努力工作，希望明年能有更大的成绩！
+** 5
+*** 转录
+年轻人刚开始工作的时候，不要太急着赚钱，不要眼睛里只有工资和奖金。在工作的前几年，重要的是丰富自已的工作经验，学习与同事交流的方法，积祜专业知识，这些比收入重要多了。但是很多时候，我们不得不去做一些自已不愿意做甚至是非常不喜欢的工作。这时，我们最需要的就是对工作的责任心。一个人即使能力再高，经验再丰富，如果对工作没有责任心，也依难把工作做好。

@@ -65,220 +65,6 @@ a
 
 d
 
-* 课文1
-:PROPERTIES:
-:CREATED: [2022-07-09 19:43:21 -05]
-:END:
-
-** 1
-
-*** 标题
-
-小张去北京，朋友送小张去机场
-
-*** 对话
-
-朋友：该加油了，去机场的路上有加油站吗？
-小张：我记得过了长江大桥往右拐就有一个，大概有四五公里远。
-朋友：好，啊弄就放心了，别开着开着没油了。你去北京的航班是几点吗？时间来得及吗？
-小张：航班本来是十点的，后来机场网站上通知推迟了一个小时，所以九点半以前到就应该没问题。
-朋友：刚才我还有点儿担心来不及呢。一会儿加完油，往西走五百米就能上高速公路。走高速公路大约半个小时就到了。
-小张：一会儿我自己进去换登机牌，你就不用送我了，等我到了首都机场再给你发短信。
-
-***** 对我生词
-
-网站 🟦 wang3 zhan4 🟦 website ;
-大概 🟦 da4gai4 🟦 approximately, roughly ;
-通知 🟦 tong1 zhi1 🟦 to inform ;
-发短信 🟦 da1 duan3 xin4 🟦 to send SMS messages ;
-
-**** ANSWERED 登机牌 is not included in rime for desktop
-:PROPERTIES:
-:CREATED: [2022-07-09 19:56:01 -05]
-:END:
-:LOGBOOK:
-- State "ANSWERED"   from              [2022-07-09 Sat 19:56]
-:END:
-
-*** 生词
-
-1. 加油站 🟦 jia1you2zhan4 🟦 n. gas station ;
-2. 航班 🟦 hang2ban1 🟦 n. scheduled flight ;
-3. 推迟 🟦 tui1chi2 🟦 v. to postpone, to delay ;
-4. 高速公路 🟦 gao1su4 gong1lu4 🟦 expressway ;
-5. 登机牌 🟦 deng1ji1pai2 🟦 n. boarding pass ;
-6. 首都 🟦 shou3du1 🟦 n. capital (of a country) ;
-
-*** 专有名词
-
-1. 长江 🟦 Chang2jiang1 🟦 Yangtze River, the longest river in China ;
-2. 首都机场 🟦 Shou3du1 Ji1chang3 🟦 Beijing Capital International Airport ;
-3. 长江大桥 🟦 Chang2jiang1 Da4qiao2 🟦 Yangtze River Bridge (in Nanjing) ;
-
-**** UNANSWERED
-:PROPERTIES:
-:CREATED: [2022-12-19 19:55:58 -05]
-:END:
-:LOGBOOK:
-- State "UNANSWERED" from              [2022-12-19 Mon 19:55]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-19 19:56:00 -05]
-:END:
-
-Does the space in the pinyin in these names have an effect in its pronunciation?
-
-** 2
-
-*** 标题
-
-孙月和丈夫计划放寒假带女儿去旅行
-
-*** 对话
-
-孙月：女儿下个星期就要放寒假了，到时候咱们带她去旅游，放松放松，怎么样？
-丈夫：平时女儿那么都课，总是说想去旅行，但是没时间，怪可怜的。这次放假咱们带她去哪儿玩儿比较好呢？
-孙月：去年我同事带她儿子去广西玩儿了一趟，听说很不错，我们就去广西吧。
-丈夫：好啊，那里的气候和北方很不同，即使是冬天，也非常暖和，还能吃到许多新鲜的水果。等女儿一回来就告诉她这个好消息。
-孙月：先别着急说。中午我们不是要去对面的饭店吃烤鸭，祝贺她考试成绩都合格吗？那时候再告诉她，不是更好？
-丈夫：好主意到时她知道了肯定特别开心。
-
-**** QUESTION What does the sentence before the last sentence mean?
-:PROPERTIES:
-:CREATED: [2022-07-09 20:15:28 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-09 Sat 20:15]
-:END:
-
-**** 对我生词
-
-计划 🟦 ji4 hua4 🟦 plan ;
-寒假 🟦 han2 jia4 🟦 winter vacation ;
-咱们 🟦 zan2 men 🟦 we, us (dialect, in a coaxing or familiar way) ;
-怪 🟦 guai4 🟦 quite ;
-广西 🟦 guang3 xi 🟦 Guangxi province ;
-
-转一趟 🟦 zhuan4 yi1 tang4 🟦 to go on a trip ;
-气候 🟦 qi4 hou4 🟦 climate ;
-即使 🟦 ji2 shi3 🟦 even if ;
-暖和 🟦 nuan3 huo 🟦 warm ;
-消息 🟦 xiao1 xi 🟦 news ;
-主意 🟦 zhu3 yi 🟦 idea ;
-肯定 🟦 ken3 ding4 🟦 definitely ;
-开心 🟦 kai1 xin1 🟦 happy, glad ;
-
-**** QUESTION “准备”、“计划”和”打算“有什么区别？
-:PROPERTIES:
-:CREATED: [2022-07-09 20:00:44 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-09 Sat 20:01]
-:END:
-
-
-
-*** 生词
-
-7. 旅行 🟦 lv3xing2 🟦 v. to travel, to tour ;
-8. [X] 怪 🟦 guai4 🟦 adv. rather, quite ;
-9. 可怜 🟦 ke3lian2 🟦 adj. pitiable, poor ;
-10. 对面 🟦 dui4mian4 🟦 n. opposite, across ;
-11. 烤鸭 🟦 kao3ya1 🟦 n. roast duck ;
-12. 祝贺 🟦 zhu4he4 🟦 v. to congratulate ;
-13. 合格 🟦 he2ge2 🟦 adj. qualified, up to standard ;
-
-** 3
-
-*** 标题
-
-安娜向马克介绍去丽江旅行的经验
-
-*** 对话
-
-马克：这么多照片，都是你这次去丽江旅行时照的？那里的自然风景可真美！
-安娜：是啊，小城四李的风景都很美，而且环境保护得也很好，因此每年都吸引着成千上万的游客去那儿旅游。
-马克：这张照片上和你干杯的那个人是少数民族吗？她打扮得真漂亮。
-安娜：她是我们的导游，不是少数民族。一路上她给我们讲了很多有趣的笑话。有一次我把存包的钥匙去了，最后还是她帮我找到的。这张照片就是遭到钥匙后，我们一起照的。
-马克：明年我有机会也去那儿看看，到时把你的导游介绍给我吧。究竟哪个季节去丽江旅游比较好呢？
-安娜：那儿最美的季节是春天和秋天，不过那时候人比较多。稍微好一点儿的时间是每年12月到第二年3月。这段时间去丽江的话，无论交通还是吃，住都很便宜。
-
-**** 对我生词
-
-经验 🟦 jing1 yan4 🟦 experience ;
-丽江 🟦 li4 jiang1 🟦 Lijiang ;
-自然 🟦 zi4 ran2 🟦 naturally ;
-保护 🟦 bao3 hu4 🟦 to protect ;
-因此 🟦 yin1 ci3 🟦 therefore, so ;
-吸引 🟦 xi1 yin3 🟦 to attract ;
-游客 🟦 you2 ke4 🟦 tourist ;
-导游 🟦 dao3 you2 🟦 tour guide ;
-究竟 🟦 jiu1 jing4 🟦 outcome ;
-稍微 🟦 shao1 wei1 🟦 a little bit ;
-无论 🟦 wu2 lun4 🟦 regardless of whether ;
-交通 🟦 jiao1 tong1 🟦 traffic, communication ;
-
-*** 生词
-
-14. 干杯 🟦 gan1 bei1 🟦 v. to drink a toast ;
-15. 民族 🟦 min2zu2 🟦 n. nationality, ethnic group ;
-16. 打扮 🟦 da3ban 🟦 v. to dress up, to deck out ;
-17. 笑话 🟦 xiao4hua 🟦 n. joke ;
-18. 存 🟦 cun2 🟦 v. to store, to keep ;
-19. 钥匙 🟦 yao4shi 🟦 n. key ;
-20. 究竟 🟦 jiu1jing4 🟦 adv. (/used in questions for emphasis/) exactly ;
-
-* 课文2
-
-** 4
-
-*** 段话
-
-中国南北距离约5500公里，因此南北气候有很大区别。每年三四月份的时候，如果从北方坐火车到南方去旅游，一路上你会发现，不同的地方有不同的风景：窗外的树一棵一棵地变绿，北方也许还下着雪，南方却已经到处都是绿色了。南方菜很有特点，特别是汤，味道鲜美，很多北方人都喜欢喝。另外，南方和北方的语言也有很大不同。比如你跟上海人对话时，会发现上海话听起来就像外语一样。虽然上海人也会讲普通话，可是仔细听，还是有上海味儿。
-
-**** 对我生词
-
-因此 🟦 yin1 ci3 🟦 therefore, so ;
-风景 🟦 feng1 jing3 🟦 landscape ;
-特点 🟦 te4 dian3 🟦 charasteristic ;
-语言 🟦 yu3 yan2 🟦 language ;
-仔细 🟦 zi4 xi3 🟦 careful ;
-味儿 🟦 wei4 r 🟦 taste ;
-
-*** 生词
-
-21. 棵 🟦 ke1 🟦 m. /used for plants/ ;
-22. 汤 🟦 tang1 🟦 n. soup ;
-23. 对话 🟦 dui4hua4 🟦 v. to have a dialogue ;
-24. 普通话 🟦 pu3tong1hua4 🟦 n. Mandarin Chinese ;
-
-** 5
-
-*** 段话
-
-一个人有时间一定要去旅行，旅行不仅能丰富一个人的经历，而且是很好的减压方法。但对我来说，最重要的是旅行能让我有机会尝到各地有名的小吃。放假的时候，我会收拾好行李，带上地图，买张火车票，向目的地出发。说起吃的东西，给我印象最深的是湖南菜。湖南菜的特点就是辣，与其他地方的辣不同，湖南菜的辣主要是咸辣，香辣和酸辣。虽然全国各地都有湖南饭馆儿，但最好还是直接去那里尝一尝。每次旅行结束后，我都会精神百倍地开始我的工作。
-
-**** 对我生词
-
-丰富 🟦 feng1 fu4 🟦 to enrich ;
-经历 🟦 jing1 li4 🟦 experience ;
-减压 🟦 jian3 ya1 🟦 to reduce pressure ;
-放假 🟦 fang4 jia4 🟦 to have a holiday or vacation ;
-印象 🟦 yin4 xiang4 🟦 impression ;
-影响 🟦 ying3 xiang3 🟦 influence ;
-精神 🟦 jing3 shen2 🟦 consciousness, with a lot of energy ;
-百倍 🟦 bai3 bei4 🟦 a hundred times ;
-
-*** 生词
-
-25. 小吃 🟦 xiao3chi1 🟦 n. small and cheap dishes ;
-26. 收拾 🟦 shou1shi 🟦 v. to put in order, to pack ;
-27. 出发 🟦 chu1fa1 🟦 v. to depart, to set off ;
-28. 辣 🟦 la4 🟦 adj. hot, spicy ;
-29. 香 🟦 xiang1 🟦 adj. fragrant, scented ;
-30. 酸 🟦 suan1 🟦 sour, tart ;
 * 练习
 
 ** 2
@@ -661,3 +447,34 @@ Does the space in the pinyin in these names have an effect in its pronunciation?
 ****** 1
 
 性格
+* 课文
+** 1
+*** 转录
+朋友：该加油了，去机场的路上有加油站吗？
+小张：我记得过了长江大桥往右一拐就有一个，大概有四五公里远。
+朋友：好，那我就放心了，别开着开着没油了。你去北京的航班是几点的？时间来得及吗？
+小张：航班本来是十点的，后来机场网站上通知推迟了一个小时，所以九点半以前到就应该没问题。
+朋友：刚才我还有点儿担心来不及呢。一会儿加完油，往西走五百米就能上高速公路。走高速公路大约半个小时就到了。
+小张：一会儿我自已进去换登机牌，你就不用送我了，等我到了首都机场再给你发短信。
+** 2
+*** 转录
+孙朋：女儿下个星期就要放寒假了，到时候响们带她去旅游，放松放松，忘么样？
+丈夫：平时女儿那么多课，总是说想去旅行，但是没时间，怪可怜的。这次放假咱们带她去哪儿玩儿比较好呢？
+孙朋：去年我同事带她儿子去广西玩儿了一趟，听说很不错，我们就去广西吧。
+丈夫：好啊，那里的气候和北方很不同，即使是冬天，也非常暖和，还能吃到许多新鲜的水果。等女儿一回来我就告诉她这个好消息。
+孙朋：先别着急说。中午我们不是要去对面的饭店吃烤鸭，祝贺她考试成绩都合格吗？那时侯再告诉她，不是更好？
+丈夫：好主意，到时她知道了肯定特别开心。
+** 3
+*** 转录
+马克：这么多照片，都是你这欠去丽江旅行时照的？那里的自然风景可真美！
+安娜：是啊，小城四季的风景都很美，而且环境保护得也很好，因此每年都吸引着成千上万的游客去那儿旅游。
+马克：这张照片上和你干杯的那个人是少数民族吗？她打扮得真漂亮。
+安娜：她是我们的导游，不是少数民族。一路上她给我们讲了很多有趣的笑话。有一次我把存包的钥匙丢了，最后还是她帮我找到的。这张照片就是找到钥匙后，我们一起照的。
+马克：明年我有机会也去那儿看看，到时把你的导游介绍给我吧。究竟哪个季节去丽江旅游比较好呢？
+安娜：那儿最美的季节是春天和秋天，不过那时侯人比较多。稍微好一点儿的时间是每年12月到第二年3月。这段时间去丽江的话，无论交通还是吃、住都很便宜。
+** 4
+*** 转录
+中国南北距离约5500公里，因此南北气候有很大区别。每年三四月份的时候，如果从北方坐火车到南方去旅游，一路上你会发现，不同的地方有不同的风景：窗外的树一棵一棵地变绿，北方也许还下着雪，南方却已经到处都是绿色了。南方菜很有特点，特别是汤，味道鲜美，很多北方人都喜欢喝。另外，南方和北方的语言也有很大不同。比如你跟上海人对话时，会发现上海话听起来就像外语一样。虽然上海人也会讲普通话，可是仔细听，还是有上海味儿。
+** 5
+*** 转录
+一个人有时间一定要去旅行，旅行不仅能丰富一个人的经历，而且是很好的减压方法。但对我来说，最重要的是旅行能让我有机会尝到各地有名的小吃。放假的时候，我会收拾好行李，带上地图，买张火车票，向目的地出发。说起吃的东西，给我印象最深的是湖南菜。湖南菜的特点就是辣，与其他地方的辣不同，湖南菜的辣主要是咸辣、香辣和酸辣。虽然全国各地都有湖南饭馆儿，但最好还是直接去那里尝一尝。每次旅行结束后，我都会精神百倍地开始我的工作。

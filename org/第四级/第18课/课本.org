@@ -65,241 +65,6 @@ c
 
 a
 
-* 课文1
-:PROPERTIES:
-:CREATED: [2022-07-09 16:23:45 -05]
-:END:
-
-** 1
-
-*** 标题
-
-王静给孙月推荐一本书
-
-*** 对话
-
-孙月：上次女儿问我飞机是怎么起飞和降落的，真不知道该怎么回答她，她现在总是有客种客样的“为什么”。
-王静：孩子眼中的世界是美丽和奇特的。有一本书教《新十万个为什么》，现在卖的非常火。书里的内容都是儿童想知道科学知识，相信你女儿一定喜欢读。
-孙月：难道它和我们小时候看的《十万个为什么》不一样吗 作者是谁啊？
-王静：作者的名字我没记住。《新十万个为什么》的内容更新，介绍了各种科学知识，包括地球、动物、植物、交通、科学技术，社会和文化等很多方面。
-孙月：太好了！不过她这么小，我不知道她是否能读懂。
-王静：放心吧，这本书的语言简单易懂，一定能增长孩子的科学知识。
-
-**** QUESTION Does this book really exist?
-:PROPERTIES:
-:CREATED: [2022-07-09 16:29:35 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-09 Sat 16:29]
-:END:
-
-**** QUESTION “看懂”和“读懂”是什么意思？
-:PROPERTIES:
-:CREATED: [2022-07-09 16:38:31 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-09 Sat 16:38]
-:END:
-
-**** 对我生词
-
-推荐 🟦 tui1 jian4 🟦 to recommend ;
-眼中 🟦 yan3 zhong1 🟦 in one's eyes ;
-美丽 🟦 mei3 li4 🟦 beautiful ;
-奇特 🟦 qi2 te4 🟦 peculiar, usual ;
-内容 🟦 nei4 rong2 🟦 content ;
-儿童 🟦 er2 tong2 🟦 children ;
-知识 🟦 zhi3 shi 🟦 knowledge ;
-地球 🟦 di4 qiu2 🟦 the earth ;
-记住 🟦 ji4 zhu 🟦 to rememebr ;
-植物 🟦 zhi2 wu4 🟦 plants ;
-科学 🟦 ke1 xue2 🟦 science ;
-技术 🟦 ji4 shu4 🟦 technology ;
-社会 🟦 she4 hui4 🟦 society ;
-方面 🟦 fang1 mian4 🟦 fields ;
-!语言 🟦 yu3 yan2 🟦 language ;
-易懂 🟦 yi4 dong1 🟦 easy to understand ;
-
-*** 生词
-
-1. 降落 🟦 jiang4luo4 🟦 v. to descend, to land ;
-2. 火 🟦 huo3 🟦 adj. hot, popular ;
-3. 作者 🟦 zuo4zhe3 🟦 n. author ;
-4. 交通 🟦 jiao1tong1 🟦 n. traffic, communication ;
-5. 技术 🟦 ji4shu4 🟦 n. technology ;
-6. 是否 🟦 shi4fou3 🟦 adv. if, whether ;
-** 2
-
-*** 标题
-
-李老师和高老师在聊电脑和互联网技术的发展
-
-*** 对话
-
-李老师：现在的大学生一遇到不明白的问题，可以马上在网上查找答案，几秒钟就把问题解决了，这比我们上学的时候方便多了。
-高老师：现在的人们，尤其是大学生开始普遍使用电脑，他们的生活已经离不开电脑。
-李老师：据调查，70％的人遇到问题时，首先想到的就是上网找答案。
-高老师：电脑和互亮王技术的发展使学生们的学习方式发生了很多变化，不过天天对着电脑看，眼睛实在受不了。
-李老师：不仅是学习方式，而且连生活方式也发生了很大改变。现在越来越多的学生喜欢在网上写日记，他们说这样可以让朋友及时了解自己的生活。
-高老师：这个办法不错，既能方使大学的交流，还能节约用纸，保护环境，但是如果别人都能看到我的日记的花，多不安全啊！
-李老师：放心吧，可以给网上的日记加密码，那样只有得到了允许，别人才能看到。
-
-
-**** 对我生词
-
-互联网 🟦 hu4 lian2 wang3 🟦 Internet ;
-技术 🟦 ji4 shu4 🟦 technology ;
-发展 🟦 fa1 zhan3 🟦 development ;
-查找 🟦 cha2 zhao3 🟦 to look up ;
-方便 🟦 fang1 bian4 🟦 covenient ;
-尤其 🟦 you2 qi2 🟦 especially ;
-普遍 🟦 pu3 bian4 🟦 common ;
-据 🟦 ju4 🟦 aaccording to ;
-调查 🟦 diao4 cha2 🟦 investigation ;
-首先 🟦 shou3 xian1 🟦 in the first place ;
-方式 🟦 fang1 shi4 🟦 mode ;
-发生 🟦 fa1 sheng1 🟦 to happen ;
-变化 🟦 bian4 hua4 🟦 to change ;
-不仅 🟦 bu4 jin3 🟦 not only ;
-连 🟦 lian2 🟦 even ;
-及时 🟦 ji2 shi2 🟦 without delay ;
-交流 🟦 jiao1 liu2 🟦 communication ;
-保护 🟦 bao3 hu4 🟦 to protect ;
-
-*** 生词
-
-7. 秒 🟦 miao3 🟦 m. second, 1/60 minute ;
-8. [X] 方式 🟦 fang1 shi4 🟦 n. way, mode ;
-9. 受不了 🟦 shou4 bu liao3 🟦 cannot stand, cannot bear ;
-10. 日记 🟦 ri4 ji4 🟦 n. diary, journal ;
-11. 安全 🟦 an1quan2 🟦 adj. safe, secure ;
-12. 密码 🟦 mi4 ma3 🟦 n. password ;
-13. 允许 🟦 yun3 xu3 🟦 v. to allow, to permit ;
-
-** 3
-
-*** 标题
-
-王静和孙月在聊关于梦的情况
-
-*** 对话
-
-王静：我昨天晚上做了一个特别奇怪的梦，梦到自己正在一座桥上走，走着走着，突然开过来一辆车，非常危险，接着又梦见我跳到车上，跟警察一起，抓住了一个坏人。
-孙月：奇怪，你怎么总能记住自己做了什么梦？我好像从来没座过梦。
-王静：每个人都会做梦，区别只是有多有少。有的人睡醒之后还记得梦里的事情，有的人却记不清楚了。你之所以觉得从来没做过梦。只不过是忘记了。
-孙月：你说的有道理，我一般都是一觉睡到天亮。很多人认为做梦是上天要告诉他们将来会发生的一些事情，可能上天不想让我知道吧。
-王静：一般晚上睡觉时，身体感觉到什么，人就容易梦到什么内容。记得有一次，我晚饭吃的太咸，那天晚上就梦见自己到。处找商店买矿泉水。
-孙月：很多人都试着对梦进行解释，有些甚至专门写过这方面的书，可惜到现在仍然没有一个科学的说法。
-
-**** QUESTION “接着”和”突然“的意思是一样？
-:PROPERTIES:
-:CREATED: [2022-07-09 17:07:14 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-09 Sat 17:07]
-:END:
-
-**** 对我生词
-
-梦 🟦 meng4 🟦 dream ;
-坏人 🟦 huai4 ren2 🟦 bad person ;
-记住 🟦 ji4 zhu 🟦 to rememebr ;
-睡醒 🟦 shui4 xing3 🟦 to wake up ;
-之后 🟦 zhi1 hou4 🟦 afterwards ;
-道理 🟦 dao4 li4 🟦 justification ;
-感觉 🟦 gan3 jue2 🟦 perception, to feel ;
-甚至 🟦 shen4 zhi4 🟦 even ;
-专门 🟦 zhuan1 men2 🟦 specialized ;
-仍然 🟦 reng2 ran2 🟦 still, yet ;
-说法 🟦 shuo1 fa 🟦 theory ;
-
-*** 生词
-
-14. 座 🟦 zuo4 🟦 m. /used for bridges, mountains, buildings, etc./ ;
-15. 桥 🟦 qiao2 🟦 n. bridge ;
-16. 危险 🟦 wei1 xian3 🟦 adj. dangerous ;
-17. 接着 🟦 jie1 zhe 🟦 adv. then, immediately, after that ;
-18. 警察 🟦 jing3 cha2 🟦 n. police ;
-19. [X] 抓 🟦 zhua1 🟦 v. to catch, to arrest ;
-20. 咸 🟦 xian2 🟦 adj. salty ;
-21. 矿泉水 🟦 kuang4 quan2 shui3 🟦 n. mineral water ;
-
-* 课文2
-
-** 4
-
-*** 段话
-
-现在手机不但价格降低了，而且作用也越来越大，打电话、发短信已经成了人们普通使用的联系方法。除此，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方使了人们的生活。举一个例子，迷路时，只要用手机地图查一下地址，马上就能知道怎么去那个地点。现在的手机更像是一部可以拿在手中的电脑，现代人的生活已经越来越离不开手机了。
-
-
-**** QUESTION “例子”，“例如”，比如“有什么一样的意思？
-:PROPERTIES:
-:CREATED: [2022-07-09 18:21:30 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-09 Sat 18:21]
-:END:
-
-**** 对我生词
-
-价格 🟦 jia4 ge2 🟦 price ;
-降低 🟦 jiang4 di1 🟦 to reduce ;
-作用 🟦 zuo4 yong4  🟦 effect ;
-短信 🟦 duan4 xin4 🟦 text message ;
-普通 🟦 pu3 tong1 🟦 normal ;
-除此以外 🟦 chu2 ci3 yi3 wai4 🟦 apart from that ;
-购物 🟦 gou4 wu4 🟦 to shop, to buy things ;
-例子 🟦 li4 zi 🟦 for instasnce ;
-地图 🟦 di4 tu2 🟦 map ;
-现代 🟦 xian4 dai4 🟦 modern era ;
-
-*** 生词
-
-22. 付款 🟦 fu4 kuan3 🟦 to pay a sum of money ;
-23. 举 🟦 ju3 🟦 v. to give, to enumerate ;
-24. 迷路 🟦 mi2 lu4 🟦 v. to lose one's way ;
-25. 地址 🟦 di4zhi3 🟦 n. address ;
-26. 地点 🟦 di4dian3 🟦 n. place, site ;
-
-** 5
-
-*** 段话
-
-21世纪，我们的生活发生了巨大变化，几千公里以外的国家，以前坐船需要几个月，现在乘坐飞机不过十几个小时。原来寄信需要好几天，现在连邮局都不用去，只要在家里上网发个电子邮件，不用了一分钟，远处的朋友就能收到，比写信封用的时间都短。以前外地的新闻要几天后才能知道，现在只要打开网站，任何信息都可以在第一时间获得。现代科学技术的发展让世界变得越来越小，所以现在人们都把地球叫作“地球村"。
-
-**** 对我生词
-
-发生 🟦 fa1 sheng1 🟦 to happen ;
-巨 🟦 ju4 🟦 tremendous ;
-公里 🟦 gong1 li3 🟦 kilometer ;
-乘坐 🟦 cheng2 zuo4 🟦 to ride (in a vehicle) ;
-原来 🟦 yuan2 lai2 🟦 originally ;
-寄 🟦 ji4 🟦 to mail, to send ;
-信息 🟦 xin4 xi1 🟦 message ;
-寄信 🟦 ji4 xin4 🟦 send a letter ;
-邮局 🟦 you2 ju2 🟦 post office ;
-远处 🟦 yuan3 chu4 🟦 distant place ;
-信封 🟦 xin4 feng1 🟦 envelope ;
-红色信封 🟦 hong2 se4 xin4 feng1 🟦 red envelope ;
-红包 🟦 hong2 bao1 🟦 red envelope given in Spring Festival ;
-任何 🟦 ren4 he2 🟦 any, whatever ;
-信息 🟦 xin4 xi1 🟦 message ;
-技术 🟦 ji4 shu4 🟦 technology ;
-发展 🟦 fa1 zhan3 🟦 development ;
-地球 🟦 di4 qiu2 🟦 the earth ;
-叫作 🟦 jiao4 zuo4 🟦 to be called ;
-地球村 🟦 di4 qiu2 cun1 🟦 global village ;
-
-*** 生词
-
-27. 世纪 🟦 shi4ji4 🟦 n. century ;
-28. 邮局 🟦 you2ju2 🟦 n. post office ;
-29. 收 🟦 shou1 🟦 v. to receive ;
-30. 信封 🟦 xin4feng1 🟦 n. envelope ;
-31. 网站 🟦 wang3zhan4 🟦 n. website ;
-32. 信息 🟦 xin4xi1 🟦 n. news, information ;
-
 * 练习
 
 ** 2
@@ -678,3 +443,34 @@ a
 ****** 2
 
 缺点
+* 课文
+** 1
+*** 转录
+孙月：上次女儿问我飞机是怎么起飞和降落的，真不知道该怎么回答她，她现在总是有各种各样的“为什么”。
+王静：孩子眼中的世界是美丽和奇特的。有一本书叫《新十万个为什么》，现在卖得非常火。书里的内容都是儿童想知道的科学知识，相信你女儿一定喜欢读。
+孙月：难道它和我们小时候看的《十万个为什么》不一样吗？作者是谁啊？
+王静：作者的名字我没记住。《新十万个为什么》的内容更新，介绍了各种科学知识，包括地球、动物、植物、交通、科学技术、社会和文化等很多方面。
+孙月：太好了！不过她这么小，我不知道她是否能读懂。
+王静：放心吧，这本书的语言简单易懂，一定能增长孩子的科学知识。
+** 2
+*** 转录
+李老师：现在的大学生一遇到不明白的问题，可以马上在网上查找答案，几秒钟就把问题解决了，这比我们上学的时侯方便多了。
+高老师：现在的人们，尤其是大学生开始普遍使用电脑，他们的生活已经离不开电脑。据调查，70％的人遇到问题时，首先想到的就是上网找答案。
+李老师：电脑和互联网技术的发展使学生们的学习方式发生了很多变化，不过天天对着电脑看，眼睛实在受不了。
+高老师：不仅是学习方式，而且连生活方式也，发生了很大改变。现在越来越多的学生喜欢在网上写日记，他们说这样可以让朋友及时了解自已的生活。
+李老师：这个办法不错，既能方便大家的交流，还能节约用纸，保护环境。但是如果别人都能看到我的日记的话，多不安全啊！
+高老师：放心吧，可以给网上的日记加密码，那样只有得到了允许，别人才能看到。
+** 3
+*** 转录
+王静：我昨天晚上做了一个特别奇怪的梦，梦到自己正在一座桥上走，走着走着，突然开过来一辆车，非常危险，接着又梦见我跳到车上，跟警察一起抓住了一个坏人。
+孙月：奇怪，你怎么总能记住自己做了什么梦？我好像从来没做过梦。
+王静：每个人都会做梦，区别只是有多有少。有的人睡醒之后还记得梦里的事情，有的人却记不清楚了。你之所以觉得从来没做过梦，只不过是忘记了。
+孙月：你说的有道理，我一般都是一觉睡到天亮。很多人认为做梦是上天要告诉他们将来会发生的一些事情，可能上天不想让我知道吧。
+王静：一舫晚上睡觉时，身体感觉到什么，人就容易梦到什么内容。记得有一次，我晚饭吃得太咸，那天晚上就梦见自已到处找商店买矿泉水。
+孙月：很多人都试着对梦进行解释，有些人甚至专门写过这方面的书，可惜到现在仍然没有一个科学的说法。
+** 4
+*** 转录
+现在手机不但价格降低了，而且作用也越来越大，打电话、发短信已经成了人们普遍使用的联系方法。除此以外，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方便了人们的生活。举一个例子，迷路时，只要用手机地图查一下地址，马上就能知道怎么去那个地点。现在的手机更像是一部可以拿在手中的电脑，现代人的生活已经越来越离不开手机了。
+** 5
+*** 转录
+21世纪，我们的生活发生了巨大变化。几千公里以外的国家，以前坐船需要几个月，现在乘坐飞机不过十几个小时。原来寄信需要好几天，现在连邮局都不用去，只要在家里上网发个电子邮件，用不了一分钟，远处的朋友就能收到，比写信封用的时间都短。以前外地的新闻要几天后才能知道，现在只要打开网站，任何信息都可以在第一时间获得。现代科学技术的发展让世界变得越来越小，所以现在人们都把地球叫作“地球村”。

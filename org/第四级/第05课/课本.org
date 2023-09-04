@@ -65,198 +65,6 @@ b
 
 e
 
-* 课文1
-:PROPERTIES:
-:CREATED: [2022-07-03 21:23:52 -05]
-:END:
-
-** 1
-
-*** 标题
-:PROPERTIES:
-:CREATED: [2022-07-04 12:53:17 -05]
-:END:
-
-王静在家具店买沙发
-
-*** 对话
-:PROPERTIES:
-:CREATED: [2022-07-04 12:53:31 -05]
-:END:
-
-售货员：小姐，您好！您买什么家具？需要我为您介绍一下吗？
-王静：您看这个沙发怎么样？现在啊饿在打折，比平的便宜了一干块。
-售货员：价格格还可以，就是不知道质量有没有保证。
-王静：您放心，质量肯定不“打折”，这种沙发是今年最流行的。有很多种颜可以选择，您可以看一下。
-王静：这个蓝色的看上去不错，就要这个吧。
-
-*** 生词
-:PROPERTIES:
-:CREATED: [2022-07-04 12:53:36 -05]
-:END:
-
-1. 家具 🟦 jia1ju4 🟦 n. furniture ;
-2. 沙发 🟦 sha1fa1 🟦 n. sofa ;
-3. 打折 🟦 da3 zhe2 🟦 v. to give a dish ;
-4. 价格 🟦 jia4ge2 🟦 n. price ;
-5. 质量 🟦 zhi4liang4 🟦 n. quality ;
-6. 肯定 🟦 ken3ding4 🟦 adv. surely, certainly ;
-7. 流行 🟦 liu2xing2 🟦 v. to be popular ;
-
-** 2
-
-*** 标题
-:PROPERTIES:
-:CREATED: [2022-07-04 12:53:41 -05]
-:END:
-
-王静和李进在商场买东西
-
-*** 对话
-:PROPERTIES:
-:CREATED: [2022-07-04 12:53:43 -05]
-:END:
-
-王静：咱家的冰箱太旧了，商场正好打折，我们顺便也买一台吧。
-李进：今天买的东西太多了。再说，这个月家里已经花了五干多了。
-王静：这么多？你不会是记错了吧？
-李进：没错。上个星期光买沙发就花了两干多。
-王静：但是咱家的冰箱实在太旧了，制泠效果也不太好了，还是买个新的吧。
-李进：那好吧，我带的现金不够，用你的信用卡吧。
-
-*** 生词
-:PROPERTIES:
-:CREATED: [2022-07-04 12:53:47 -05]
-:END:
-
-8. 顺便 🟦 shun4bian4 🟦 adv. in passing ;
-9. 台 🟦 tai2 🟦 m. /used for machines/ ;
-10. 光 🟦 guang1 🟦 adv. only, merely ;
-11. 实在 🟦 shi2zai4 🟦 adv. really ;
-12. [X] 制泠 🟦 zhi4leng3 🟦 v. to refrigerate ;
-13. 效果 🟦 xiao4guo3 🟦 n. effect ;
-14. 现金 🟦 xian4jin1 🟦 n. cash ;
-
-** 3
-
-*** 标题
-:PROPERTIES:
-:CREATED: [2022-07-04 12:53:59 -05]
-:END:
-
-李进和王静在超市买礼物
-
-*** 对话
-:PROPERTIES:
-:CREATED: [2022-07-04 12:54:01 -05]
-:END:
-
-李进：李老师邀请咱们去他家做客，给他带点儿什么礼物好呢？
-王静：他很喜欢葡萄酒，我们就给他买的瓶葡萄就吧。
-李进：可是这里有这么多种，你知道哪种好吗？
-王静：我觉得这种不错，你看她酒瓶做的都这么艺术。而且电视上经常有它的广告，我想味道应该不错。
-李进：广告只会介绍优点，却不会说它的缺点。实际上，很多东西并不像广告上说的那么好，所以不能完全相信广告。
-王静：你说的也对。
-
-**** 对我生词
-
-并 🟦 bing4 ;
-像 🟦 xiang4 🟦 appearance ;
-完全 🟦 wan2 quan2 🟦 completely ;
-相信 🟦 xiang1 xin4 🟦 to believe ;
-实际上 🟦 shi2 ji4 shang4 🟦 in reality ;
-
-*** 生词
-:PROPERTIES:
-:CREATED: [2022-07-04 12:54:06 -05]
-:END:
-
-15. 邀请 🟦 yao1qing3 🟦 v. to invite ;
-16. 葡萄 🟦 pu2tao 🟦 n. grape ;
-17. 艺术 🟦 yi4shu4 🟦 n. art ;
-18. 广告 🟦 guang3gao4 🟦 n. advertisement ;
-19. 味道 🟦 wei4dao4 🟦 n. taste ;
-20. 优点  🟦 you1dian3 🟦 n. merit ;
-21. 实际 🟦 shi2ji4 🟦 n. reality ;
-
-* 课文2
-
-** 4
-
-*** 段话
-
-买衣服只考虑价格当然不好但是只考虑买好看的也不一定好。我买衣服的标准是“只买对的，不买贵的”。第一，自己穿着舒服；第二，衣服的质量要好，而且又不能太贵。对我来说，衣服的样子流行并不是很重要。很多年龄大的人喜欢在打折的时候买便宜的衣服，但对那些衣服是不是适合自己却考虑得不多。这点是我理解不了的，因为如果不适合自己，即使花钱很少，也是一种浪费。
-
-**** 对我生词
-
-价格 🟦 jia4 ge2 🟦 price ;
-质量 🟦 zhi4 liang4 🟦 quality ;
-流行 🟦 liu2 xing2 🟦 popular, fashionable ;
-打折 🟦 da3 zhe2 🟦 to give a discount ;
-适合 🟦 shi4 he2 🟦 to fit, to suit ;
-却 🟦 que4 🟦 but, however ;
-理解 🟦 li3 jie3 🟦 to comprehend, to understand ;
-即使 🟦 ji2 shi3 🟦 even if ;
-
-*** 生词
-
-22. 考虑 🟦 kao3lv4 🟦 v. to consider ;
-23. 标准 🟦 biao1zhun3 🟦 n. standard ;
-24. 样子 🟦 yang4zi 🟦 n. look, appearance ;
-25. 年龄 🟦 nian2ling2 🟦 n. age ;
-26. 浪费 🟦 lang4fei4 🟦 v. to waste ;
-
-** 5
-
-*** 段话
-
-现在网上购物变得悦来越流行了，年轻人尤其喜欢在网上买东西。在网上几乎什么都可以买到，你可以网上买书、买衣服、买包、还可以买家具、买手机。网上购物能够受人们的喜爱，原因主要有两个：首先，网上的东西很多，而且比去商店买便宜，这是吸引人们购买的主要原因。其次，人们可以在任何时间网上购买自己喜欢的东西，卖家可以把你买的东西寄到你办公室或者家里，非常方便。
-
-**** QUESTION “上网”和网上”有什么区别？
-:PROPERTIES:
-:CREATED: [2022-07-04 13:16:43 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-04 Mon 13:17]
-:END:
-
-**** 对我生词
-
-流行  🟦 (of a style of something, e.g. clothing, song, etc.) popular ;
-家具 🟦 jia1 ju4 🟦 furniture ;
-够 🟦 gou4 🟦 to be enough ;
-喜爱  🟦 xi3 ai4 🟦 favourite, to love ;
-原因 🟦 yuan2 yin1 🟦 cause, origin, reason, root cause ;
-主要 🟦 zhu3 yao4 🟦 main, principal ;
-首先 🟦 shou3 xian1 🟦 first (of all), in the first place ;
-吸引 🟦 xi1 yin3 🟦 to attract ;
-购 🟦 gou4 🟦 to buy, to purchase ;
-其次 🟦 qi2 ci4 🟦 second, next ;
-购买 🟦 gou4 mai3 🟦 to buy, to purchase ;
-
-*** 生词
-
-27. 购物 🟦 gou4wu4 🟦 to shop, to buy things ;
-28. 尤其 🟦 you2qi2 🟦 especially ;
-29. 受到 🟦 shou4dao4 🟦 to receive ;
-30. 任何 🟦 ren4he2 🟦 any, whatever ;
-31. 寄 🟦 ji4 🟦 to mail, to send ;
-
-**** UNANSWERED
-:PROPERTIES:
-:CREATED: [2022-12-19 16:20:54 -05]
-:END:
-:LOGBOOK:
-- State "UNANSWERED" from              [2022-12-19 Mon 16:20]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-19 16:20:58 -05]
-:END:
-
-
-Why doesn't 购物 have a lexical category?
 * 练习
 
 ** 2
@@ -601,3 +409,34 @@ Why doesn't 购物 have a lexical category?
 
 准备
 
+* 课文
+** 1
+*** 转录
+售货员：小姐，您好！您想买什么家具？需要我为您介绍一下吗？
+王静：谢谢，我想买沙发。
+售货员：您看这个沙发怎么样？现在正在打折，比平时便宜了一午块。
+王静：价格还可以，就是不知道质量有没有保证。
+售货员：您放心，质量肯定不“打折”，这种沙发是今年最流行的。有很多种颜色可以选择，您可以看一下。
+王静：这个蓝色的看上去不错，就要这个吧。
+** 2
+*** 转录
+王静：咱家的冰箱太旧了，商场正好打折，我们顺便也买一台吧。
+李进：今天买的东西太多了。再说，这个月家里已经花了五午多了。
+王静：这么多？你不会是记错了吧？
+李进：没错。上个星期光买沙发就花了两千多。
+王静：但是咱家的冰箱实在太旧了，制冷效果也不太好了，还是买个新的吧。
+李进：那好吧，我带的现金不够，用你的信用卡吧。
+** 3
+*** 转录
+李进：李老师邀请咱们去他家做客，给他带点儿什么礼物好呢？
+王静：他很喜欢葡萄酒，我们就给他买两瓶葡萄酒吧。
+李进：可是这里有这么多种，你知道哪种好吗？
+李进：我觉得这种不错，你看它酒瓶做得都这么艺术。而且电视上经常有它的广告，我想味道应该不错。
+李进：广告只会介绍优点，却不会说它的缺点。实际上，很多东西并不像广告上说的那么好，所以不能完全相信广告。
+王静：你说的也对。
+** 4
+*** 转录
+买衣服只考虑价格当然不好，但是只考虑买好看的也不一定对。我买衣服的标准是“只买对的，不买贵的”。第一，自己穿着舒服；第二，衣服的质量要好，而且又不能太贵。对我来说，衣服的样子流行不流行并不是很重要。很多年龄大的人喜欢在打折的时候买便宜的衣服，但对那些衣服是不是适合自己却考虑得不多。这点是我理解不了的，因为如果不造合自己，即使花钱很少，也是一种浪费。
+** 5
+*** 转录
+现在网上购物变得越来越流行了，年轻人尤其喜欢在网上买东西。在网上几乎什么都可以买到，你可以上网买书、买衣服、买包，还可以买家具、买手机。网上购物能够受到人们的喜爱，原因主要有两个：首先，网上的东西很多，而且比去商店买便宜，这是吸引人们购买的主要原因。其次，人们可以在任何时间上网购买自己喜欢的东西，卖家可以把你买的东西寄到你办公室或者家里，非常方便。

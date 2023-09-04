@@ -65,184 +65,6 @@ a
 
 e
 
-* 课文1
-:PROPERTIES:
-:CREATED: [2022-07-05 15:48:04 -05]
-:END:
-
-** 1
-
-*** 标题
-王静和孙月聊孙减肥的事情
-
-*** 对话
-
-王静：怎么又买了这么多饼干和巧克力？难道你不减肥了？
-孙月：减了一个月都没瘦下来，我买在没有信心了。
-王静：如果你想减肥，就得少吃东西，而且要多运动。
-孙月：我就是这么做的，但这一个月下来，我只轻了一公斤。
-王静：一个月太短了。要想减肥成功，只能坚持，才会慢慢有效果。
-孙月：我本来已经打算放弃了，但是你刚才的话让我改变了主意。这些干和巧克力送给你了。
-
-**** 对我生词
-
-减肥 🟦 jian3 fei2 🟦 to lose weight ;
-信心 🟦 xin4 xin1 🟦 confidence ;
-成功 🟦 cheng2 gong1 🟦 success, to succeed ;
-效果 🟦 xiao4 guo3 🟦 effect, quality, result ;
-放弃 🟦 fang4 qi4 🟦 to abandon, to give up, to renounce ;
-改变 🟦 gai3 bian4 🟦 to alter, to change, to transform ;
-干 🟦 gan 🟦 dried food ;
-
-*** 生词
-
-1. 饼干 🟦 bing3gan1 🟦 n. biscuit ;
-2. 难道 🟦 nan2dao4 🟦 adv. /used in a rhetorical question for emphasis/ ;
-3. 得 🟦 dei3 🟦 mod. must, have to ;
-4. 坚持 🟦 jian1chi2 🟦 v. to insist, to persist ;
-5. 放弃 🟦 fang4qi4 🟦 v. to give up ;
-6. 主意 🟦 zhu3yi 🟦 n. idea, plan ;
-
-** 2
-
-*** 标题
-
-李进和张远聊张远的成功经历
-
-*** 对话
-
-李进：你网球打得真好，还得过那么多国际打奖！每次看你比赛，感觉你轻轻松松就赢了。
-张远：哪里啊！那是你没看到我辛苦练习的一面，没有人随随便便就能成功的。
-李进：我从小也对网球感兴趣，但是到现在还是打得不怎么样。
-张远：你知道吗？不管春夏秋冬，我练球从来没有休息过一天。
-李进：真是不容易啊！看来我只看到了你成功时获得的鲜花，却没注意到你成功前流下的汗水。
-张远：任何成功都要通过努力才能得到。只要你坚持练习，我相信你也会越打越好的。
-
-**** 对我生词
-
-成功 🟦 cheng2 gong1 🟦 sucess, to succeed ;
-经历 🟦 jing1 li4 🟦 experience ;
-感觉 🟦 gan3 jue2 🟦 perception, to feel ;
-辛苦 🟦 xin1 ku3 🟦 exhausting, hard ;
-获得 🟦 huo4 de2 🟦 to get, to obtain, to receive ;
-相信 🟦 xiang1 xin4 🟦 to believe ;
-坚持 🟦 jian1 chi2 🟦 to insist on, to persist in ;
-
-*** 生词
-
-7. 网球 🟦 wang3qiu2 🟦 n. tennis ;
-8. 国际 🟦 guo2ji4 🟦 n. international ;
-9. 轻松 🟦 qing1song1 🟦 adj. relaxed, effortless ;
-10. 赢 🟦 ying2 🟦 v. to win ;
-11. 随便 🟦 sui2bian4 🟦 adj. casual, at random ;
-12. 汗 🟦 han4 🟦 n. sweet, perspiration ;
-13. 通过 🟦 tong2guo4 🟦 prep. through, by means of ;
-
-** 3
-
-*** 标题
-
-小林和小李谈王红的成功经历
-
-*** 对话
-
-小林：你还记得王红吗？我在报纸上看到一篇关于她的新闻，她现在已经是一个有名的作家了。
-小李：听说她毕业后放弃了律师的工作，开始专门写说，没想到她竟然成功了。
-小林：当时她的父母和亲戚都不支持她，可是她坚持自己的选择，现在终于向说有 人证明了她的选择是正确的。
-小李：看来为了已的理想，放弃一些东西也是值得的。
-小林：一个人只有两只手，可以能得到所有想要的东西，所以有时候放弃是一种聪明的选择。
-小李：是啊，只有学会放弃，才能把自己的能力用到最该做的事情上，最后获的成功。
-
-**** 对我生词
-
-成功 🟦 cheng2 gong1 🟦 success, to succeed ;
-经历 🟦 jing1 li4 🟦 experience ;
-放弃 🟦 fang4 qi4 🟦 to abandon, to give up, to renounce ;
-律师 🟦 lv4 shi1 🟦 lawyer ;
-竟然 🟦 jing4 ran2 🟦 actually ;
-
-*** 生词
-
-14. 篇 🟦 pian1 🟦 m. /used for writings, papers or articles/ ;
-15. 作家 🟦 zuo4jia1 🟦 n. writer ;
-16. 当时 🟦 dang1shi2 🟦 n. then, at that time ;
-17. 可是 🟦 ke3shi4 🟦 conj. but, however ;
-18. 正确 🟦 zheng4que4 🟦 adj. right, correct ;
-19. 理想 🟦 li3xiang3 🟦 n. ideal ;
-
-*** 专有名词
-
-王红 🟦 wang2 hang2 🟦 Wang Hong, name of a person ;
-
-**** Note
-:PROPERTIES:
-:CREATED: [2022-12-19 16:48:49 -05]
-:END:
-
-I think I can confirm that when there is a single proper noun, it is not numbered. This is the second time I find this situation.
-* 课文2
-
-** 4
-
-*** 段话
-
-如果你想做什么事情，那就勇敢地去做，不要担心结果，不要考虑会不会失败。要是太看重结果，失败就会给人们带来很多烦恼。我们应该把注意力放在做事情的过程上，这样你会在做的过程中发现决定问题的快乐，这是其他任何东西都给不了的。即便最后失败了也没有关系，因为至少你已经努力过，而且我们还可以从失败中总结出有用的经验，有了这些积累，成功自然离我们越来越近。
-
-**** 对我生词
-
-担心 🟦 dan1 xin1 🟦 anxious, to worry ;
-考虑 🟦 kao3 lv4 🟦 to think over ;
-烦恼 🟦 fan2 nao3 🟦 worries ;
-任何 🟦 ren4 he2 🟦 any, whatever ;
-即便 🟦 ji2 bian4 🟦 even if ;
-努力 🟦 nu3 li4 🟦 great effort, to strive, to try hard ;
-能力 🟦 neng2 li4 🟦 ability, capability ;
-积累 🟦 ji1 lei3 🟦 to accumulate ;
-成功 🟦 cheng2 gong1 🟦 success ;
-自然 🟦 zi4 ran2 🟦 naturally ;
-
-*** 生词
-
-20. 勇敢 🟦 yong3gan3 🟦 adj. brave, courageous ;
-21. 结果 🟦 jie2guo3 🟦 n. result ;
-22. 失败 🟦 shi1bai4 🟦 v. to fail ;
-23. 过程 🟦 guo4cheng2 🟦 n. course, process ;
-24. 至少 🟦 zhi4shao3 🟦 adv. at least ;
-25. 总结 🟦 zong3jie2 🟦 v. to sum up ;
-
-** 5
-
-*** 段话
-
-每一个人都希望成功，可是很多时候在成功之前会遇到很多困难。有些人遇到苦难就放弃，而有些人遇到困难却想办法解决它。对困难的态度不同，结果也是不一样的。爱
-迪生就是在找了上干种材料后才找到了能点亮电灯的材料。取得成功的人往往都经历过许多失败，他们和普通人的区别就是他们都坚持了下来。所以就算只有1％的希望，我们也要做出100％的努力。困难只是暂时的，“阳光总在风雨后“，只有我们勇敢地面对困难，才能有希望取得成功。
-
-**** 对我生词
-
-之 🟦 zhi1 🟦 (possessive particle, literary equivalent of her, him, it) ;
-困难 🟦 kun4 nan 🟦 challenging, difficult ;
-态度 🟦 tai4 du 🟦 approach, attitude ;
-结果 🟦 jie2 guo3 🟦 result ;
-电灯 🟦 dian4 deng1 🟦 electric light ;
-材料 🟦 cai2 liao4 🟦 material ;
-往往 🟦 wang3 wang3 🟦 often, usually ;
-失败 🟦 shi1 bai4 🟦 to fail ;
-坚持 🟦 jian1 chi2 🟦 to insist on, to persist on, to persevere with ;
-阳光 🟦 yang2 guang1 🟦 optimistic, cheerful ;
-风雨 🟦 feng1 yu3 🟦 wind and rain, storm ;
-
-*** 生词
-
-26. 取 🟦 qu3 🟦 v. to gain, to seek ;
-27. 经历 🟦 jing1 li4 🟦 v. to go through, to experience ;
-28. 许多 🟦 xu3 duo1 🟦 num. many, plenty of ;
-29. 区别 🟦 qu1 bie2 🟦 n. difference, distinction ;
-30. 暂时 🟦 zan4 shi2 🟦 n. temporary, for the time being ;
-31. [X] 面对 🟦 mian4 dui4 🟦 v. to face, to confront ;
-
-*** 专有名词
-
-爱迪生 / Ai4di2sheng1 / Thomas Alva Edison (1847-1931), an American inventor ;
 * 练习
 
 ** 2
@@ -598,3 +420,34 @@ I think I can confirm that when there is a single proper noun, it is not numbere
 
 效果
 
+* 课文
+** 1
+*** 转录
+王静：怎么又买了这么多饼干和巧克力？难道你不减肥了？
+孙月：减了一个月都没瘦下来，我实在没有信心了。
+王静：如果你想减肥，就得少吃东西，而且要多运动。
+孙月：我就是这么做的，但这一个月下来，我只轻了一公斤。
+王静：一个月太短了。要想减肥成功，只能坚持，才会慢慢有效果。
+孙月：我本来已经打算放弃了，但是你刚才的话让我改变了主意。这些饼干和巧克力送给你了。
+** 2
+*** 转录
+李进：你网球打得真好，还得过那么多国际大奖！每次看你比赛，感觉你轻轻松松就赢了。
+张远：哪里啊！那是你没看到我辛苦练习的一面，没有人随随便便就能成功的。
+李进：我从小也对网球感兴趣，但是到现在还是打得不怎么样。
+张远：你知道吗？不管春夏秋冬，我练球从来没有休息过一天。
+李进：真是不容易响！看来我只看到了你成功时获得的鲜花，却没注意到你成功前流下的汗水。
+张远：任何成功都要通过努力才能得到。只要你坚持练习，我相信你也会越打越好的。
+** 3
+*** 转录
+小林：你还记得王红吗？我在报纸上看到一篇关于她的新闻，她现在已经是一个有名的作家了。
+小李：听说她毕业后放弃了律师的工作，开始专门写小说，没想到她竟然成功了。
+小林：当时她的父母和亲都都不支持她，可是她坚持自己的选择，现在终于向所有人证明了她的选择是正确的。
+小李：看来为了自已的理想，放弃一些东西也是值得的。
+小林：一个人只有两只手，不可能得到所有想要的东西，所以有时候放弃是一种聪明的选择。
+小李：是啊，只有学会放弃，才能把自己的能力用到最该做的事情上，最后获得成功。
+** 4
+*** 转录
+如果你想做什么事情，那就勇敢地去做，不要担心结果，不要考虑会不会失败。要是太看重结果，失败就会给人们带来很多烦恼。我们应该把注意力放在做事情的过程上，这样你会在做的过程中发现解决问题的快乐，这是其他任何东西都给不了的。即使最后失败了也没有关系，因为至少你已经努力过，而且我们还可以从失败中总结出有用的经验，有了这些积累，成功自然离我们越来越近。
+** 5
+*** 转录
+每一个人都希望成功，可是很多时侯，在成功之前会遇到很多困难。有些人遇到困难就放弃，而有些人遇到困难却想办法解决它。对困难的态度不同，结果也是不一样的。爱迪生就是在找了上千种材料后才找到了能点亮电灯的材料。取得成功的人往往都经历过许多失败，他们和普通人的区别就是他们都坚持了下来。所以就算只有1％的希望，我们也要做出100％的努力。困难只是暂时的，“阳光总在风雨后”，只有我们勇敢地面对困难，才能有希望取得成功。

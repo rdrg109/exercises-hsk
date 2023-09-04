@@ -65,201 +65,6 @@ b
 
 c
 
-* 课文1
-:PROPERTIES:
-:CREATED: [2022-07-08 19:25:04 -05]
-:END:
-
-** 1
-
-*** 标题
-
-李进要出差，王静和李进在聊天儿
-
-*** 对话
-
-王静：这是明天你出差要带的毛巾，牙膏和牙刷，把它们放到
-李进：不用拿这些，宾馆都会免费提供的。再说，箱子已经够重的了！
-王静：我当然知道宾馆里有。你不是一直说要保护环境吗？现在就从身边的小事做起吧。
-李进：行，没问题。我明天上午10点的飞机，你能开车把我送到机场吗？
-王静：那个时间路上堵车多严重啊！你还时坐地铁去机吧。这样不仅省油钱，而且还不会不会污染空气。
-李进：好，拿就听你的。
-
-**** QUESTION Does 箱子 means box or suitcase?
-:PROPERTIES:
-:CREATED: [2022-07-08 19:30:08 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-08 Fri 19:30]
-:END:
-
-**** 对我生词
-
-牙刷 🟦 ya2 shua1 🟦 toothbrush ;
-箱子 🟦 xiang1 zi 🟦 box, suitcase ;
-免费 🟦 mian3 fei4 🟦 free ;
-保护 🟦 bao3 hu4 🟦 to protect ;
-环境 🟦 huan2 jing4 🟦 environment ;
-空气 🟦 kong1 qi4 🟦 air ;
-
-*** 生词
-
-1. 出差 🟦 chu1chai1 🟦 v. to go on a business trip ;
-2. 毛巾 🟦 mao2jin1 🟦 n. towel ;
-3. 牙膏 🟦 ya2gao1 🟦 n. toothpaste ;
-4. 重 🟦 zhong4 🟦 adj. heavy, weighty ;
-5. 行 🟦 xing2 🟦 v. to be ok, to be all right ;
-6. 省 🟦 sheng3 🟦 v. to save, to economize ;
-7. 污染 🟦 wu1ran2 🟦 v. to pollute ;
-
-** 2
-
-*** 标题
-
-经理和服务员在谈工作
-
-*** 对话
-
-经理：小王，卫生间怎么那么脏啊？这会给客人留下不好的印象，快去打扫一下。
-服务员：经理，买在抱歉。今天店里太忙了，我还没来得及打扫。
-经理：那张桌子下面还有一些空饮料瓶子和纸盒子。
-服务员：好的，我马上就去把他们扔掉。
-经理：以后你一定就注意这个问题，不管客人多多，生意多忙，我们都要保证餐厅干净卫生。
-服务员：经理您放心，我一定以最快的速度完成。不过咱们真的应该再多招聘几个服务员了。
-
-
-**** QUESTION “客人”和“顾客”有什么区别？
-:PROPERTIES:
-:CREATED: [2022-07-08 19:42:44 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-08 Fri 19:42]
-:END:
-
-**** 对我生词
-
-谈 🟦 tan2 🟦 to discuss ;
-印象 🟦 yin4 xiang4 🟦 impression ;
-瓶子 🟦 ping2 zi 🟦 bottle ;
-纸 🟦 zhi3 🟦 (classifier for documents, letter, etc.)
-生意 🟦 sheng1 yi 🟦 business ;
-保证 🟦 bao3 zheng4 🟦 to guarantee ;
-餐厅 🟦 can1 ting1 🟦 restaurant ;
-卫生 🟦 wei4 sheng1 🟦 hygiene ;
-招聘 🟦 zhao1 pin4 🟦 to recruit ;
-咱们 🟦 zan2 men 🟦 (dialect) (in a coaxing or familiar way) you (
-
-*** 生词
-
-8. 卫生间 🟦 wei4sheng1jian1 🟦 n. restroom, bathroom ;
-9. 脏 🟦 zang1 🟦 adj. dirty ;
-10. 抱歉 🟦 bao4qian4 🟦 v. to be sorry ;
-11. 空 🟦 kong1 🟦 adj. empty ;
-12. 盒子 🟦 he2zi 🟦 n. box, case ;
-13. 扔 🟦 reng1 🟦 v. to throw away ;
-14. 以 🟦 yi3 🟦 prep. via, by means of ;
-15. 速度 🟦 su4du4 🟦 n. speed ;
-** 3
-
-*** 标题
-
-孙月和王静在聊关于环保的事情
-
-*** 对话
-
-孙月：早上听新闻说明天有一个叫“地球一小时”的活动，你对这个活动了解吗？
-王静：这个活动年年都有，最早是从2007年开始的。明天晚上很多人都会关灯一小时，支持这个活动。你没看到门口的通知吗？我们公司也参加。
-孙月：真的吗？太好了！既然明天晚上公司会关灯停电，那么我们肯定不用加班了。
-王静：看你得意的样子！还以为你高兴是为了支持环保，原来是因为不用加班啊！
-孙月：环境保护我当然也支持了！对了，为什么会有这么一个活动啊？
-王静：其实目的挺简单的，就是提醒人们节约用电，希望引起人们对气候变暖问题的关注。
-
-**** 对我生词
-
-环保 🟦 huan2 bao3 🟦 environmental protection ;
-了解 🟦 liao3 jie3 🟦 to know ;
-支持 🟦 zhi1 chi2 🟦 support ;
-通知 🟦 tong1 zhi1 🟦 to inform ;
-肯定 🟦 ken3 ding4 🟦 definitely ;
-加班 🟦 jia1 ban1 🟦 to work overtime ;
-保护 🟦 bao3 hu4 🟦 to protect ;
-提醒 🟦 ti2 xing3 🟦 to remind ;
-节约 🟦 jie2 yue1 🟦 to conserve (resources) ;
-引起 🟦 yin3 qi3 🟦 to cause ;
-气候 🟦 qi4 hou4 🟦 climate ;
-关注 🟦 guan1 zhu4 🟦 concern ;
-
-*** 生词
-
-16. 地球 🟦 di4qiu2 🟦 n. earth, globe ;
-17. 既然 🟦 ji4ran2 🟦 conj. since, as, now that ;
-18. 停 🟦 ting2 🟦 v. to stop, to cease ;
-19. 得意 🟦 de2yi4 🟦 adj. complacent, gloating ;
-20. 目的 🟦 mu4di4 🟦 n. aim, purpose ;
-21. 暖 🟦 nuan3 🟦 adj. warm ;
-
-* 课文2
-
-** 4
-
-*** 段话
-
-塑料袋给人们的生活带来方便，受到人们的普遍欢迎，可是，它的大量使用也带来了严重的环境污染问题。于是，一些国家规定，超市，商场拒绝不能为顾客提供免费塑料袋，并且鼓励大家购买可以多次使用的购物袋。我们每个人都有责任保护环境，因此，请大家节约使用塑料袋，或者购物时自备购物袋，甚至拒绝使用塑料袋。虽然这是一样很小的事，但这样做可以减少塑料袋的使用数量，对环境保护有很大的作用。
-
-**** 对我生词
-
-受到 🟦 shou4 dao4 🟦 to receive ;
-于是 🟦 yu2 shi4 🟦 as a result ;
-规定 🟦 gui1 ding4 🟦 to regulate ;
-并且 🟦 bing4 qie3 🟦 furthermore, in addition ;
-购物袋 🟦 gou4 wu4 dai4 🟦 shopping bag ;
-责任 🟦 ze2 ren4 🟦 responsibility ;
-保护 🟦 bao3 hu4 🟦 to protect ;
-因此 🟦 yin1 ci3 🟦 therefore, so ;
-节约 🟦 jie2 yue1 🟦 to conserve (resources) ;
-自备 🟦 zi4 bei4 🟦 self-contained ;
-甚至 🟦 shen4 zhi4 🟦 even ;
-数量 🟦 shu4 liang4 🟦 amount ;
-作用 🟦 zuo4 yong4  🟦 effect ;
-
-*** 生词
-
-22. 塑料袋 🟦 su4liao4dai4 🟦 n. plastic bag ;
-23. 于是 🟦 yu2shi4 🟦 conj. hence, therefore ;
-24. 鼓励 🟦 gu3li4 🟦 v. to encourage ;
-25. 拒绝 🟦 ju4jue2 🟦 v. to refuse, to reject ;
-26. 减少 🟦 jian3shao3 🟦 v. to reduce, to decrease ;
-27. 数量 🟦 shu4liang4 🟦 n. quantity, amount ;
-** 5
-
-*** 段话
-
-保护地球环境，并不是一样离我们很远，很难做到的事情。实际上，我们只需注意一下身边的小事就可以。例如，夏天把空调的温度开得高一些，出门时记得关空调和电脑，这样可以节约用电；少开车，多骑车或者乘坐地铁和公共汽车，这样能降低空气污染；还有养成把垃圾丢进垃圾桶的习惯什么的。这些是我们每个人都能够做到的小事，但却有实实在在的效果。地球是我们共同的家，只有大家共同努力，减少污染，保护环境，才能使我们的家变得更美丽。
-
-**** 对我生词
-
-地球 🟦 di4 qiu2 🟦 earth, globe ;
-实际 🟦 shi2 ji4 🟦 reality ;
-例如 🟦 li4 ru2 🟦 for example ;
-空调 🟦 kong1 tiao2 🟦 air conditioner ;
-节约 🟦 jie2 yue1 🟦 to conserve (resources) ;
-降低 🟦 jiang4 di1 🟦 to reduce ;
-空气 🟦 kong1 qi4 🟦 air ;
-污染 🟦 wu1 ran2 🟦 to pollute ;
-养成 🟦 yang3 cheng2 🟦 to form (a habit) ;
-垃圾 🟦 la1 ji1 🟦 garbage ;
-小事 🟦 xiao3 shi4 🟦 trivial matter ;
-效果 🟦 xiao4 guo3 🟦 effect ;
-共同 🟦 gong4 tong2 🟦 collaborative ;
-减少 🟦 jian3 shao3 🟦 to reduce ;
-
-*** 生词
-
-28. 温度 🟦 wen1du4 🟦 n. temperature ;
-29. 乘坐 🟦 cheng2zuo4 🟦 v. to take (a vehicle), to ride (in a vehicle) ;
-30. 丢 🟦 diu1 🟦 v. to throw, to cast ;
-31. 垃圾桶 🟦 la1ji1tong3 🟦 n. dustbin, trash can ;
-32. 美丽 🟦 mei3li4 🟦 adj. beautiful ;
 * 练习
 
 ** 2
@@ -605,3 +410,34 @@ c
 
 态度
 
+* 课文
+** 1
+*** 转录
+王静：这是明天你出差要带的毛巾、牙膏和牙刷，把它们放到箱子里吧。
+李进：不用拿这些，宾馆都会免费提供的。再说，箱子已经够重的了！
+王静：我当然知道宾馆里有。你不是一直说要保护环境吗？现在就从身边的小事做起吧。
+李进：行，没问题。我明天上午10点的飞机，你能开车把我送到机场吗？
+王静：那个时间路上堵车多严重啊！你还是坐地铁去机场吧。这样不仅省油钱，而且还不会污染空气。
+李进：好，那就听你的。
+** 2
+*** 转录
+经理：小王，卫生间怎么那么脏啊？这会给客人留下不好的印象，快去打扫一下。
+服务员：经理，实在抱歉。今天店里太忙了，我还没来得及打扫。
+经理：那张桌子下面还有一些空饮料瓶子和纸盒子。
+服务员：好的，我马上就去把它们扔掉。
+经理：以后你一定得注意这个问题，不管客人多多，生意多忙，我们都要保证餐厅干净卫生。
+服务员：经理您放心，我一定以最快的速度完成。不过咱们真的应该再多招聘几个服务员了。
+** 3
+*** 转录
+孙月：早上听新闻说明天有一个叫“地球一小时”的活动，你对这个活动了解吗？
+王静：这个活动年年都有，最早是从2007年开始的。明天晚上很多人都会关灯一小时，支持这个活动。你没看到门口的通知吗？我们公司也参加。
+孙月：真的吗？太好了！既然明天晚上公司会关灯停电，那么我们肯定不用加班了。
+王静：看你得意的样子！还以为你高兴是为了支持环保，原来是因为不用加班啊！
+孙月：环境保护我当然也支持了！对了，为什么会有这么一个活动啊？
+王静：其实目的挺简单的，就是提醒人们节约用电，希望引起人们对气侯变暖问题的关注。
+** 4
+*** 转录
+塑料袋给人们的生活带来方便，受到人们的普遍欢迎，可是，它的大量使用也带来了严重的环境污染问题。于是，一些国家规定，超市、商场不能为顾客提供免费塑料袋，并且鼓励大家购买可以多次使用的购物袋。我们每个人都有责任保护环境，因此，请大家节约使用塑料袋，或者购物时自备购物袋，甚至拒绝使用塑料袋。虽然这是一件很小的事，但这样做可以减少塑料袋的使用数量，对环境保护有很大的作用。
+** 5
+*** 转录
+保护地球环境，并不是一件离我们很远、很难做到的事情。实际上，我们只需注意一下身边的小事就可以。例如，夏天把空调的温度开得高一些，出门时记得关空调和电脑，这样可以节约用电；少开车，多骑车或者乘坐地铁和公共汽车，这样能降低空气污染；还有养成把垃圾丢进垃圾桶的习惯什么的。这些是我们每个人都能够做到的小事，但却有实实在在的效果。地球是我们共同的家，只有大家共同努力，减少污染、保护环境，才能使我们的家变得更美丽。

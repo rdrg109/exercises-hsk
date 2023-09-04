@@ -65,201 +65,6 @@ c
 
 e
 
-* 课文1
-:PROPERTIES:
-:CREATED: [2022-07-04 13:33:05 -05]
-:END:
-
-** 1
-
-*** 标题
-
-张远和李进聊李进昨晚的购物经历
-
-*** 对话
-
-张远：晚上我给你打电话一直没人接，你忙什么呢？
-李进：昨天妻子让我陪她去超市买果汁。我把手机忘在家里了。
-张远：买这么点儿东西也用不了那么长时间啊！
-李进：我们先去逛了会儿商场。一进们，售货员就热情地为我们介绍这，介绍那，她买了一条裤子，一件衬衫，两双袜子，然后我们就高高兴兴地回家了。
-张远：买东西时我只看自己想买的，而且喜欢自己看，自己进，不希望被别人打扰。
-李进：是啊！回家以后，我才发现，竟然忘了去商场的超市买果汁。
-
-**** QUESTION “高高兴兴”什么意思？
-:PROPERTIES:
-:CREATED: [2022-07-04 14:37:36 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-04 Mon 14:37]
-:END:
-
-**** 对我生词
-
-陪 🟦 pei2 🟦 to accompany ;
-逛 🟦 guang4 🟦 to visit ;
-商场  🟦 shang1 chang3 🟦 shopping mall ;
-经历 🟦 jing1 li4 🟦 experience ;
-
-*** 生词
-
-1. 果汁 🟦 guo3zhi1 🟦 n. fruit juice ;
-2. 售货员 🟦 shou4huo4yuan2 🟦 n. salesperson ;
-3. 袜子 🟦 wa4zi 🟦 n. socks ;
-4. 打扰 🟦 da3rao3 🟦 v. to disturb, to bother ;
-5. 竟然 🟦 jing4ran2 🟦 adv. /indicating unexpectedness/ ;
-
-** 2
-
-*** 标题
-
-王静在商店买西红柿
-
-*** 对话
-
-王静：西红柿新鲜吗？怎么卖？
-售货员：七块钱一斤，您放心，保证百分之新鲜。
-王静：怎么这么贵啊 ！我记得昨天才三块五一斤，今天的价格是昨天的两倍。
-售货员：您问的这种是“绿色”的。一分钱一分货。每天吃一两个这种新鲜的西红柿，对皮肤有好处。
-王静：好，那我先买几个尝尝。
-售货员：好的，给您西红柿，一共两斤，十四块。
-
-**** 对我生词
-
-保证 🟦 bao3 zheng4 🟦 to guarantee ;
-
-*** 生词
-
-6. 西红柿 🟦 xi1hong2shi4 🟦 n. tomato ;
-7. 百分之 🟦 bai3 fen1 zhi1 🟦 percent ;
-8. 倍 🟦 bei4 🟦 m. times ;
-9. 皮肤 🟦 pi2fu1 🟦 n. skin ;
-10. 好处 🟦  hao3chu4 🟦 n. benefit, advantage ;
-11. 尝 🟦 chang2 🟦 v. to taste ;
-
-**** UNANSWERED
-:PROPERTIES:
-:CREATED: [2022-12-19 16:04:53 -05]
-:END:
-:LOGBOOK:
-- State "UNANSWERED" from              [2022-12-19 Mon 16:04]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-19 16:04:56 -05]
-:END:
-
-Why the pinyin of 百分之 is separated? The other words that contain more than one character have a pinyin that is not separated.
-
-**** UNANSWERED
-:PROPERTIES:
-:CREATED: [2022-12-19 16:23:18 -05]
-:END:
-:LOGBOOK:
-- State "UNANSWERED" from              [2022-12-19 Mon 16:23]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-19 16:23:23 -05]
-:END:
-
-Why doesn't 百分之 have a lexical category?
-** 3
-
-*** 标题
-
-李进在商场买行李箱
-
-*** 对话
-
-售货员：先生，我们店的行李箱都在这里，请问您要什么样的？
-李进：我想买一个轻一点儿的。
-售货员：您看看这个， 不管从价格方面看，还是从质量上看，都是值得虑的。
-李进：质量是不错。请问这个多少前？
-售货员：现在我们商场正好有打折活动，打完折是999，另外，一年内我们都负责免费修理。
-李进：你们的服务不错，价格也可以，就买这个吧。
-
-**** 对我生词
-
-行李箱 🟦 xing2 li xiang1 🟦 suitcase ;
-质量 🟦 zhi4 liang4 🟦 quality ;
-另外 🟦 ling4 wai4 🟦 additional, in addition, moreover ;
-
-*** 生词
-
-12. 轻 🟦 qing1 🟦 adj. light, of little weight ;
-13. 方面 🟦 fang1mian4 🟦 n. aspect ;
-14. 值得 🟦  zhi2de2 🟦 v. to be worth ;
-15. 活动 🟦 huo2dong4 🟦 n. activity, event ;
-16. 内 🟦 nei4 🟦 n. in, within ;
-17. 免费 🟦 mian3 fei4 🟦 v. to be free of charge ;
-18. 修理 🟦 xiu1li3 🟦 v. to repair, to mend ;
-
-**** UNANSWERED
-:PROPERTIES:
-:CREATED: [2022-12-19 16:06:21 -05]
-:END:
-:LOGBOOK:
-- State "UNANSWERED" from              [2022-12-19 Mon 16:06]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-19 16:06:26 -05]
-:END:
-
-Why the pinyin of 免费 is separated?
-* 课文2
-
-** 4
-
-*** 段话
-
-顾客朋友们，为了感谢大家的支持，我们书店今天举行“购书送好礼“活动，购书满200元送一本词典。另外，一些图书还有打折活动，其中，小说7.5折，地图8折，留学考试用书6折。如果购书满500元可免费办会员卡，以后购书可打8折。今天过生日的朋友和所有的小朋友还可以获得一份小礼物。欢迎大家选购！
-
-**** 对我生词
-
-顾客 🟦 gu4 ke4 🟦 customer ;
-感谢 🟦 gan3 xie4 🟦 grateful, thankful ;
-打折 🟦 da3 zhe2 🟦 to give a discount ;
-活动 🟦 huo2 dong4 🟦 activity ;
-购 🟦 gou4 🟦 to buy, to purchase ;
-另外 🟦 ling4 wai4 🟦 in addition, moreover ;
-免费 🟦 mian3 fei4 🟦 free (of charge) ;
-选购 🟦 xuan3 gou4 🟦 to select and purchase ;
-
-*** 生词
-
-19. 支持 🟦 zhi1chi2 🟦 v. to support ;
-20. 举行 🟦 ju3xing2 🟦 v. to hold (a meeting, a event, etc.) ;
-21. 满 🟦 man3 🟦 v. to reach a quota or limit ;
-22. 其中 🟦 qi2zhong1 🟦 n. among (which, them, etc.) ;
-23. 小说 🟦 xiao3shuo1 🟦 n. novel, fiction ;
-24. [X] 会员卡 🟦 hui4yuan2ka3 🟦 n. membership card ;
-25. 所有 🟦 suo3you3 🟦 adj. all ;
-26. 获得 🟦 huo4de2 🟦 v. to get, to obtain ;
-
-** 5
-
-*** 段话
-
-人们常说“一分钱一分货“，意思是东西的质量和价格有很大的关系，也可以说“便宜没好货，好货不便宜“，一般情况下，你花的钱越多，买的东西也就越好。其实也不一定都是这样的。有的时候，质量很好的东西也会很便宜。例如，春天来了，冬天的衣服就会打折，质量很好，还很便宜，花很少的钱就可以买到。一到节日，商场也会举办各种各样的活动。降低价格，这个时候我们也可以买到又便宜又好的东西。
-
-**** 对我生词
-
-一分钱一分货 🟦🟦 you get what you pay for ;
-货 🟦 huo4 🟦 commodity ;
-质量 🟦 zhi4 liang4 🟦 quality ;
-
-*** 生词
-
-27. 情况 🟦 qing2kuang4 🟦 n. situation, circumstances ;
-28. 例如 🟦 li4ru2 🟦 v. for example ;
-29. 举办 🟦 ju3ban4 🟦 v. to hold, to conduct ;
-30. 各 🟦 ge4 🟦 pron. various, different ;
-31. 降低 🟦 jiang4di1 🟦 v. to lower, to reduce ;
-
 * 练习
 
 ** 2
@@ -645,3 +450,34 @@ Why the pinyin of 免费 is separated?
 其中
 
 
+* 课文
+** 1
+*** 转录
+张远：昨天晚上我给你打电话一直没人接，你忙什么呢？
+李进：昨天妻子让我陪她去超市买果汁。我把手机忘在家里了。
+张远：买这么点儿东西也用不了那么长时间啊！
+李进：我们先去逛了会儿商场。一进门，售质员就热情地为我们介绍这、介绍那，她买了一条裤子、一件衬衫、两双袜子，然后我们就高高兴兴地回家了。
+张远：买东西时我只看自已想买的，而且喜欢自已看、自已选，不希望被别人打扰。
+李进：是啊！回家以后，我才发现，竟然忘了去商场的超市买果汁！
+** 2
+*** 转录
+王静：西红柿新鲜吗？怎么卖？
+售货员：七块钱一斤，您放心，保证百分之百新鲜。
+王静：怎么这么贵啊！我记得昨天才三块五一斤，今天的价格是昨天的两倍。
+售货员：您问的这种是“绿色”的。一分钱一分贷。每天吃一两个这种新鲜的西红柿，对皮肤有好处。
+王静：好，那我先买几个尝尝。
+售货员：好的，给您西红柿，一共两斤，十四块。
+** 3
+*** 转录
+售货员：先生，我们店的行李箱都在这里，请问您要什么样的？
+李进：我想买一个轻一点儿的。
+售货员：您看看这个，不管从价格方面看，还是从质量上看，都是值得考虑的。
+李进：质量是不错。请问这个多少钱？
+售货员：现在我们商场正好有打折活动，打完折是999。另外，一年内我们都负责免费修理。
+李进：你们的服务不错，价格也可以，就买这个吧。
+** 4
+*** 转录
+顾客朋友们，为了感谢大家的支持，我们书店今天举行“购书送好礼”活动，购书满100元送一个笔记本，满200元送一本词典。另外，一些图书还有打折活动，其中，小说7.5折，地图8折，留学考试用书6折。如果购书满500元可免费办会员卡，以后购书可打8折。今天过生日的朋友和所有的小朋友还可以获得一份小礼物。欢迎大家选购！
+** 5
+*** 转录
+人们常说“一分钱一分贷”，意思是东西的质量和价格有很大的关系，也可以说“便宜没好贷，好货不便宜”，一般情况下，你花的钱越多，买的东西也就越好。其实也不一定都是这样的。有的时候，质量很好的东西也会很便宜。例如，春天来了，冬天的衣服就会打折，质量很好，还很便宜，花很少的钱就可以买到。一到节日，商场也会举办各种各样的活动，降低价格，这个时候我们也可以买到又便宜又好的东西。

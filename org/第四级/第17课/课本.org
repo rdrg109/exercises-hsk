@@ -65,211 +65,6 @@ d
 
 e
 
-* 课文1
-:PROPERTIES:
-:CREATED: [2022-07-09 14:14:54 -05]
-:END:
-
-** 1
-
-*** 标题
-
-小夏和安娜在聊天气
-
-*** 对话
-
-小夏：最近天气越来越凉快了，风一刮，草地张就会有一层厚厚的黄叶，看来秋天已经到了。
-安娜：这几天春香出特别热闹，随着气温的降低，那里许多植物的叶子都由绿变黄或者变红，吸引了很多游客参观咱们今天也去看看吧。
-小夏：你看天上的云，今天肯定有大雨，再说，香出上看红叶的人太多了。咱们改天去长城吧，广播里说那里有不少专门看红叶的好地方。
-安娜：真可惜，我还想多照点儿香出的照片呢。去长城倒是一个好主意，那我们明天去吧。
-小夏：明天恐怕也不行，明天是我爸的生日。
-安娜：没关系，那我们再约时间。
-
-**** 对我生词
-
-黄 🟦 huang2 🟦 yellow ;
-叶（子） 🟦 ye4 (zi) 🟦 leaf ;
-秋天 🟦 qiu1 tian1 🟦 autumn ;
-参观 🟦 can1 guan1 🟦 to look around ;
-游客 🟦 you2 ke4 🟦 tourist ;
-咱们 🟦 zan2 men 🟦 we, us (dialect, in a coaxing or familiar way) ;
-肯定 🟦 ken3 ding4 🟦 definitely ;
-改天 🟦 gai3 tian1 🟦 another day ;
-专门 🟦 zhuan1 men2 🟦 specialist ;
-可惜 🟦 ke3 xi1 🟦 unfortunately ;
-恐怕 🟦 kong3 pa4 🟦 (indicating an estimation) I guess... ;
-约 🟦 yue1 🟦 to make an appointment ;
-
-*** 生词
-
-1. 凉快 🟦 liang2kuai 🟦 adj. pleasantly cool ;
-2. 热闹 🟦 re4nao 🟦 adj. busy, bustling ;
-3. 云 🟦 yun2 🟦 n. cloud ;
-4. 广播 🟦 guang3bo1 🟦 n. broadcast, radio program ;
-5. 照 🟦 zhao4 🟦 v. to take a picture, to photograph ;
-6. 倒 🟦 dao4 🟦 adv. (/used to indicate contrast/) yet, actually ;
-
-*** 专有名词
-
-1. 安娜 🟦 An1na4 🟦 name of a person ;
-2. 香山 🟦 Xiang1 Shan1 🟦 the Fragant Hill (in Beijing) ;
-3. 长城 🟦 Chang2cheng2 🟦 the Great Wall ;
-
-** 2
-
-*** 标题
-
-小林和小李聊小李的狗
-
-*** 对话
-
-小林：你的这只大黑狗毛真漂亮，而且这么聪明，每次见了都想抱一抱它。
-小李：狗是聪明的动物，只要稍微花点儿时间教教它，她就能学会很多东西。
-小林：听你这么一说，我现在也想养一直狗了。每次你让它干什么，它就像能听懂你的话一样去做。你教它是不是用了什么特别的方法？
-小李：要让它完成一些任务，只教一次是不够的，应该耐心低一遍一遍地教给它，使它熟悉，然后它就会严格按照你的要求做了。
-小林：看来没有想的那么容易。
-小李：狗是我们的好朋友，它能听懂人的话，明白人的心情。在你心里难受的时候，它会一直陪着你。
-
-**** 对我生词
-
-稍微 🟦 shao1 wei1 🟦 a little bit ;
-任务 🟦 ren4 wu 🟦 assignment ;
-耐心 🟦 nai4 xin1 🟦 to be patient ;
-熟悉 🟦 shu2 xi 🟦 to be familiar with ;
-按照 🟦 an4 zhao4 🟦 according to ;
-心情 🟦 xin1 qing2 🟦 mood ;
-陪 🟦 pei2 🟦 to accompany ;
-
-*** 生词
-
-7. 毛 🟦 mao2 🟦 n. hair, fur ;
-8. 抱 🟦 bao4 🟦 v. to hold in the arms, to hug ;
-9. 干 🟦 gan4 🟦 v. to do, to act ;
-10. 严格 🟦 yan2ge2 🟦 adj. strict, rigorous ;
-11. 难受 🟦 nan2shou4 🟦 adj. sad, unhappy ;
-
-** 3
-
-*** 标题
-
-马克和小夏在聊动物
-
-*** 对话
-
-马克：上个月我去了趟北京动物园，那里约有500中动物，听导游说北京动物园是亚洲最大的动物园之一。
-小夏：去年放暑假的时候，我也去过一次，我在那儿看了马，熊猫，老虎等动物。我特别喜欢熊猫，可惜它们当时大多在睡觉。
-马克：我去的那天正赶上六一儿童节，许多父母带着孩子去动物园。人口处排队的人很多，动物园里热闹极了。熊猫也变得特别活泼，我还给它们照了不少照片呢。
-小夏：大熊猫身子胖胖的，样子可爱极了。
-马克：不过，它们数量不多，现在全世界一共才有一千多只吧。
-小夏：以前只有中国有大熊猫，为了表示友好，从1957年开始，中国把大熊猫作为礼物送给其他一些国家。现在，很多国家的人们在本国都能看到大熊猫了。
-
-**** QUESTION 等后面我总是需要用the class of the items?
-:PROPERTIES:
-:CREATED: [2022-07-09 15:01:35 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-09 Sat 15:01]
-:END:
-
-Esta es una nota para el futuro.
-
-Sigue concentrado en estudiar chino, no te desconcentres mucho con los patines, deportes, Wikimedia y Reddit.
-
-**** 对我生词
-
-导游 🟦 dao3 you2 🟦 tour guide ;
-之 🟦 ;
-等 🟦 deng3 🟦 particle, etc., and so on ;
-可惜 🟦 ke3 xi1 🟦 unfortunately ;
-许多 🟦 xu3 duo1 🟦 a lot of ;
-热闹 🟦 re4 nao 🟦 busy, bustling ;
-数量 🟦 shu4 liang4 🟦 amount ;
-身子 🟦 shen1 zi 🟦 body ;
-表示 🟦 biao3 shi4 🟦 to express, to indicate ;
-友好 🟦 you3 hao3 🟦 friendly ;
-本国 🟦 ben3 guo2 🟦 one's own country ;
-
-*** 生词
-
-12. 趟 🟦 tang4 🟦 m. (/used for a round trip/) time ;
-13. 放暑假 🟦 fang4 shu3jia4 🟦 to be on summer vacation ;
-14. 老虎 🟦 lao3hu3 🟦 n. tiger ;
-15. 入口 🟦 ru4kou3 🟦 n. entrance ;
-16. 排队 🟦 pai2dui4 🟦 v. to form a line, to line up ;
-17. 活泼 🟦 huo2po1 🟦 adj. lively, vivacious ;
-
-*** 专有名词
-:PROPERTIES:
-:CREATED: [2022-12-19 19:45:24 -05]
-:END:
-
-1. 亚洲 🟦 Ya4zhou1 🟦 Asia ;
-2. 六一儿童节 🟦 Liu4yi1 Er2tong2jie2 🟦 International Children's Day ;
-
-* 课文2
-
-** 4
-
-*** 段话
-
-不仅社会上的人与人之间有竞争，森林里的各种物之间也有竞争，这一点儿也不奇怪。植物会为了阳光、空气和水而竞争。一些高大的植物往往能获得更多阳光，空气和水，而剩下的一些比较低矮的植物就只能长在这些高大植物的下面。由干气候条件不同，世界各地植物叶子的样子也很不相同。在暖和，水分比较多的地方，叶子往往长得又大又厚；在阳光特别厉害、水分少的地方，叶子就会长得又细又长。
-
-**** 对我生词
-
-不仅 🟦 bu4 jin3 🟦 not only ;
-之间 🟦 zhi1 jian1 🟦 among, between ;
-奇怪 🟦 qi2 guai4 🟦 strange ;
-植物 🟦 zhi2 wu4 🟦 vegetation ;
-阳光 🟦 yang2 guang1 🟦 transparent ;
-相同 🟦 xiang1 tong2 🟦 identical ;
-暖和 🟦 nuan3 huo 🟦 warm ;
-厚 🟦 hou4 🟦 deep, profound ;
-细 🟦 xi4 🟦 delicate ;
-
-*** 生词
-
-18. 社会 🟦 she4hui4 🟦 n. society ;
-19. 竞争 🟦 jing4zheng1 🟦 v. to compete ;
-20. 森林 🟦 sen1lin2 🟦 n. forest ;
-21. 剩 🟦 sheng4 🟦 v. to be left over, to remain ;
-22. 暖和 🟦 nuan3huo 🟦 adj. warm ;
-** 5
-
-*** 段话
-
-地球上大约71％的地方是蓝色的海洋，在美丽海底世界里，生活着各种各样的植物和动物。我们小时候都听过美人鱼的故事。其实真正的海底世界比故事里写的更美。料学研究发现，海洋底部看上去非常安静，然而却不是一点儿声音也没有，海底的动物们一直在“说话”。只不过人的耳朵是听不到的。另外，就算在极公里深的海底也仍然能看到东西，许多鱼会发出各种颜色的亮光，像一个个排列起来的灯，美极了，就像在梦里一样。
-
-**** 对我生词
-
-美丽 🟦 mei3 li4 🟦 beautiful ;
-植物 🟦 zhi2 wu4 🟦 vegetation ;
-真正 🟦 zhen1 zheng4 🟦 real ;
-材料学 🟦 cai2 liao4 xue2 🟦 material science ;
-研究 🟦 yan2 jiu1 🟦 research ;
-安静 🟦 an1 jing4 🟦 quiet ;
-然而 🟦 ran2 er2 🟦 however ;
-声音 🟦 sheng1 yin1 🟦 sound, voice ;
-海底 🟦 hai3 di3 🟦 bottom of the sea ;
-亮光 🟦 hai3 di3 🟦 beam of light ;
-
-*** 生词
-
-23. 海洋 🟦 hai3yang2 🟦 n. sea, ocean ;
-24. 底 🟦 di3 🟦 n. bottom, base ;
-25. [X] 美人鱼 🟦 Mei3ren2yu2 🟦 n. mermaid ;
-26. 公里 🟦 gong1li3 🟦 m. kilometer ;
-27. 仍然 🟦 reng2ran2 🟦 adv. still, yet ;
-28. 排列 🟦 pai2lie4 🟦 v. to put in order, to arrange ;
-29. 梦 🟦 meng4 🟦 n. dream ;
-
-**** QUESTION What does the star means in 生词?
-:PROPERTIES:
-:CREATED: [2022-07-09 16:13:29 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-09 Sat 16:13]
-:END:
-
 * 注释
 
 ** 3
@@ -632,3 +427,34 @@ Sigue concentrado en estudiar chino, no te desconcentres mucho con los patines, 
 既然
 
 
+* 课文
+** 1
+*** 转录
+小夏：最近天气趋来越凉快了，风一制，草地上就会有一层厚厚的黄叶，看来秋天已经到了。
+安娜：这几天香山特别热闹，随着气温的降低，那里许多植物的叶子都由绿变黄或者变红，吸引了很多游客参观，咱们今天也去看看吧。
+小夏：你看天上的云，今天肯定有大雨。再说，香山上看红叶的人太多了。咱们改天去长城吧，广播里说那里也有不少专门看红叶的好地方。
+安娜：真可惜，我还想多照点儿香山的照片呢。去长城倒是一个好主意，那我们明天去吧。
+小夏：明天恐怕也不行，明天是我爸的生日。
+安娜：没关系，那我们再约时间。
+** 2
+*** 转录
+小林：你的这只大黑狗毛真漂亮，而且这么聪明，每次见了都想抱一抱它。
+小李：狗是很聪明的动物，只要稍微花点儿时间教教它，它就能学会很多东西。
+小林：听你这么一说，我现在也想养一只狗了。每欠你让它干什么，它就像能听懂你的话一样去做。你教它是不是用了什么特别的方法？
+小李：要让它完成一些任务，只教一次是不够的，应该耐心地一遍一遍地教给它，使它熟悉，然后它就会严格按照你的要求做了。
+小林：看来没有想的那么容易。
+小李：狗是我们的好朋友，它能听懂人的话，明白人的心情。在你心里难受的时候，它会一直陪着你。
+** 3
+*** 转录
+马克：上个月我去了趟北京动物园，那里约有500种动物，听导游说北京动物园是亚洲最大的动物园之一。
+小夏：去年放暑假的时候，我也去过一次，我在那儿看了马、熊猫、老虎等动物。我特别喜欢熊猫，可惜它们当时大多在睡觉。
+马克：我去的那天正赶上六一儿童节，许多父母带着孩子去动物园。入口处排队的人很多，动物园里热闹极了。熊猫们也变得特别活泼，我还给它们照了不少照片呢。
+小夏：大熊猫身子胖胖的，样子可爱极了。
+马克：不过，它们数量不多，现在全世界一共才有一千多只吧。
+小夏：以前只有中国有大熊猫，为了表示友好，从1957年开始，中国把大熊猫作为礼物送给其他一些国家。现在，很多国家的人们在本国都能看到大熊猫了。
+** 4
+*** 转录
+不仅社会上的人与人之间有竞争，森林里的各种植物之间也有竞争，这一点儿也不奇怪。植物会为了阳光、空气和水而竞争。一些高大的植物往往能获得更多的阳光、空气和水，而剩下的一些比较低矮的植物就只能长在这些高大植物的下面。由于气候条件不同，世界各地植物叶子的样子也很不相同。在暖和、水分比较多的地方，叶子往往长得又大又厚；在阳光特别厉害、水分少的地方，叶子就会长得又细又长。
+** 5
+*** 转录
+地球上大约71%的地方是蓝色的海洋，在美丽的海底世界里，生活着各种各样的植物和动物。我们小时候都听过美人鱼的故事，其实真正的海底世界比故事里写的更美。科学研究发现，海洋底部看上去非常安静，然而却不是一点儿声音也没有，海底的动物们一直在“说话”，只不过人的耳朵是听不到的。另外，就算在几公里深的海底也仍然能看到东西，许多鱼会发出各种颜色的亮光，像一个个排列起来的灯，美极了，就像在梦里一样。

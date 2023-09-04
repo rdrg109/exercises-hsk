@@ -65,206 +65,6 @@ a
 
 b
 
-* 课文1
-:PROPERTIES:
-:CREATED: [2022-07-07 15:10:27 -05]
-:END:
-
-** 1
-
-*** 标题
-
-小雨和小夏在聊小夏的爷爷表演京剧的情况
-
-*** 对话
-
-小雨：小夏，你爷爷京剧唱得真专业，我还以为她是京剧演员呢。
-小夏：对啊，他本来就是京剧演员，年轻时在我们那儿很有名，深受观众们的喜爱。
-小雨：你爷爷一定对京剧有着很深厚的感情。
-小夏：是呀，他8岁就开始上台演出，到现在大概唱了60多年了，他对这们艺术的喜爱从来没有改变过。
-小雨：这么说你喜欢听京剧也是受了你爷爷的影响？
-小夏：我小时候经常去看他的演出。平时他还给我讲很多京剧里的历史故事，让我学到了很多知识。
-
-**** 对我生词
-
-表演 🟦 biao3 yan3 🟦 performance ;
-专业 🟦 zhuan1 ye4 🟦 professional ;
-深 🟦 shen1 🟦 deep ;
-受 🟦 shou4 🟦 to accept ;
-感情 🟦 gan3 qing2 🟦 emotion, sentiment ;
-艺术 🟦 yi4 shu4 🟦 art ;
-平时 🟦 ping2 shi2 🟦 normal times ;
-历史 🟦 li4 shi3 🟦 history ;
-知识 🟦 zhi1 shi 🟦 knowledge ;
-
-*** 生词
-
-1. 京剧 🟦 jing1ju4 🟦 n. Beijing opera ;
-2. 演员 🟦 yan3yuan2 🟦 n. actor/actress ;
-3. 观众 🟦 guan1zhong4 🟦 n. audience ;
-4. 厚 🟦 hou4 🟦 adj. deep, profound ;
-5. 演出 🟦 yan3chu1 🟦 v. to perform, to put on (a show) ;
-6. 大概 🟦 da4gai4 🟦 adv. roughly, approximately ;
-** 2
-
-*** 标题
-
-小雨和马克在聊京剧
-
-*** 对话
-
-小雨：真没想到你一个来自美国的外国留学生，能把京剧唱得这么好。
-马克：我常常跟着电视学唱京剧，然后一遍一遍地练习，偶尔跟中国人一起唱上几句。
-小雨：难道你从来没有接受过京剧方面的专门教育吗？
-马克：别吃惊，因为我以前学习过音乐、有一些音乐基础，又对京剧这种表演艺术非常感兴趣，所以能比较容易地学会它的唱法。
-马克：你真厉害！竟然连很多中国人都听不懂的京剧也能学会。我还是比较喜欢听流行音乐。
-小雨：那是你不了解京剧的唱法。在音乐方面，京剧给了我很多新的想法。我还把京剧的一些特点增加到了自己的音乐中，达到了很好的效果。
-
-**** 对我生词
-
-京剧 🟦 jing1 ju4 🟦 Beijing opera ;
-常常 🟦 chang2 chang2 🟦 often ;
-句 🟦 ju4 🟦 sentence ;
-表演 🟦 biao3 yan3 🟦 performance ;
-唱法 🟦 chang4 fa3 🟦 singing style ;
-厉害 🟦 li4 hai 🟦 awesome, serious ;
-竟然 🟦 jing4 ran2 🟦 actually ;
-连 🟦 lian2 🟦 even ;
-学会 🟦 xue2 hui4 🟦 to master ;
-流行 🟦 liu2 xing2 🟦 (of a style of something, e.g. clothing, song, etc.) popular ;
-增加 🟦 zeng1 jia1 🟦 to increase ;
-达到 🟦 da2 dao4 🟦 to achieve ;
-效果 🟦 xiao4 guo3 🟦 result ;
-
-*** 生词
-
-7. 来自 🟦 lai2zi4 🟦 v. to be from ;
-8. 遍 🟦 bian4 🟦 m. /(denoting an action from beginning to end)/ time;
-9. 偶尔 🟦 ou3'er3 🟦 adv. occassionally, once in a while ;
-10. 吃惊 🟦 chi1 jing1 🟦 v. to be surprised, to be shocked ;
-11. 基础 🟦 ji1chu3 🟦 n. basis, foundation ;
-12. 表演 🟦 biao3yan4 🟦 v. to act, to perform ;
-
-**** UNANSWERED [#C]
-:PROPERTIES:
-:CREATED: [2022-12-19 19:29:39 -05]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-19 19:29:47 -05]
-:END:
-
-The pinyin of which other words contain the notation ='=?
-:LOGBOOK:
-- State "UNANSWERED" from              [2022-12-19 Mon 19:29]
-:END:
-** 3
-
-*** 标题
-
-李老师和校长在谈工作
-
-*** 对话
-
-李老师：校长，因为外国留学不了解中国文化，有时候会影响他们和中国人之间正常交流，甚至还可能引骑误会，带来麻烦，所以我们想申请举办一次中国传统文化节活动。
-校长：你们的想法很好，举办文化节活动，一方面能让客国学生更好地了解中国，另一方面也能为学生那个们提供互相交流和学习的机会。
-李老师：谢谢您的支持！
-校长：上次的春游活动你们办得非常有趣，大家都玩儿的很开心，这次活动继续由你负责，相信也一定很成功。
-李老师：我们回去就开会讨论，星期五之前把详细的计划书发给你。
-校长：好的，准备过程中有什么问题，你们可以直接来找我。
-
-**** 对我生词
-
-校长 🟦 xiao4 zhang3 🟦 headmaster ;
-谈 🟦 tan2 🟦 to discuss ;
-交流 🟦 jiao1 liu2 🟦 communication ;
-甚至 🟦 shen4 zhi4 🟦 even ;
-误会 🟦 wu4 hui4 🟦 to misunderstand ;
-传统 🟦 chuan2 tong3 🟦 traditional ;
-举办 🟦 ju3 ban4 🟦 to hold ;
-一方面 🟦 yi1 fang1 mian4 🟦 on one hand ;
-另一方面  🟦 ling4 yi1 fang1 mian4 🟦 on the other hand ;
-支持 🟦 zhi1 chi2 🟦 support ;
-春游 🟦 chun1 you2 🟦 spring excursion ;
-活动 🟦 huo2 dong4 🟦 activity ;
-负责 🟦 fu4 ze2 🟦 to be in charge of ;
-成功 🟦 cheng2 gong1 🟦 success ;
-直接 🟦 zhi2 jie1 🟦 immediately ;
-
-*** 生词
-
-13. 正常 🟦 zheng4chang2 🟦 adj. normal, regular ;
-14. 申请 🟦 shen1qing3 🟦 v. to apply for ;
-15. 有趣 🟦 you3qu4 🟦 adj. interesting, fun ;
-16. 开心 🟦 kai1xin1 🟦 adj. happy, glad ;
-17. 继续 🟦 ji4xu4 🟦 v. to go on, to continue ;
-18. 由 🟦 you2 🟦 prep. by (sb.) ;
-19. 讨论 🟦 tao3lun4 🟦 v. to discuss, to talk over ;
-
-* 课文2
-
-** 4
-
-*** 段话
-
-
-筷子在中国大约已经有3000多年的历史了。对外国人来说，使用筷子吃饭并不容易。所以，国外的一些中国餐厅在放筷子的纸袋上会提供使用筷子的详细说用。不过，如果你认为每个中国人大都会正确使用筷子，那就错了。有人在互联网上专门进行过调查，结果发现没六个中国人中就有一个使用筷子的方法是错误的。如果你想正确使用筷子，那就好好练习吧。
-
-**** 对我生词
-
-提供 🟦 ti2 gong1 🟦 to supply ;
-详细 🟦 xiang2 xi4 🟦 in detail ;
-正确 🟦 zheng4 que4 🟦 correct ;
-进行 🟦 jin4 xing2 🟦 to carry out ;
-调查 🟦 diao4 cha2 🟦 survey ;
-结果 🟦 jie guo 🟦 as a result ;
-错误 🟦 cuo4 wu4 🟦 mistake ;
-
-*** 生词
-
-20. 大约 🟦 da4yue1 🟦 approximately, about ;
-21. 餐厅 🟦 can1ting1 🟦 restaurant ;
-22. 纸袋 🟦 zhi3dai4 🟦 paper bag ;
-    + 袋（子） 🟦 dai4 (zi) 🟦 bag, sack ;
-23. 互联网 🟦 hu4lian2wang3 🟦 Internet ;
-24. 进行 🟦 jin4xing2 🟦 to conduct, to carry out ;
-25. 错误 🟦 cuo4wu4 🟦 wrong ;
-** 5
-
-*** 段话
-
-茶在中国有千年历史，是中国最常见的饮料。最早的时候，茶只是被当作一种药，而不是饮料。后来，随着人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。在中国，喝茶是一种十分普遍的生活习惯。很多中国人来说，喝茶已成为他们生活中不可缺少的一部分。但是有的饮料虽然名字叫“茶”，却并不是真正的茶，比如广东省的人爱喝的“凉茶“，它的味道稍微有点儿苦，其实是一种用中药做成的饮料。
-
-**** 对我生词
-
-微常见 🟦 chang2 jian4 🟦 commonly seen ;
-加深 🟦 jia1 shen1 🟦 to deepen ;
-成为 🟦 cheng2 wei2 🟦 to become ;
-缺少 🟦 que1 shao3 🟦 to lack ;
-却 🟦 que4 🟦 but ;
-并 🟦 bing4 🟦 (not) at all ;
-真正 🟦 zhen1 zheng4 🟦 true ;
-苦 🟦 bitter 🟦 amargo ;
-
-
-*** 生词
-
-26. 随着 🟦 sui2 zhe 🟦 prep. along with, as ;
-27. 十分 🟦 shi2 fen1 🟦 shi2 fen1 🟦 adv. very, extremely ;
-28. 普遍 🟦 pu3 bian4 🟦 adj. universal, common ;
-29. 部分 🟦 bu4 fen 🟦 n. part ;
-30. 稍微 🟦 shao1 wei1 🟦 adv. a little, slightly ;
-31. 苦 🟦 ku3 🟦 adj. bitter ;
-32. 省 🟦 sheng3 🟦 n. province ;
-
-*** 专有名词
-:PROPERTIES:
-:CREATED: [2022-12-19 19:32:30 -05]
-:END:
-
-广东省 / Guang3dong1 Sheng3 / Guangdong, a province of China ;
-
 * 练习
 
 ** 2
@@ -611,3 +411,35 @@ The pinyin of which other words contain the notation ='=?
 商量
 
 
+* 课文
+** 1
+*** 转录
+小雨：小夏，你爷爷京剧唱得真
+专业，我还以为他是京剧演员呢。
+小夏：对啊，他本来就是京剧演员，年轻时在我们那儿很有名，深受观众们的喜爱。
+小雨：你爷爷一定对京剧有着很深厚的感情。
+小夏：是呀，他8岁就开始上台演出，到现在大概唱了60多年了，他对这门艺术的喜爱从来没有改变过。
+小雨：这么说你喜欢听京剧也是受了你爷爷的影响？
+小夏：我小时候经常去看他的演出。平时他还给我讲很多京剧里的历史故事，让我学到了很多知识。
+** 2
+*** 转录
+小雨：真没想到你一个来自美国的外国留学生，能把京剧唱得这么好。
+马克：我常常跟着电视学唱京剧，然后一遍一遍地练习，偶尔跟中国人一起唱上几句。
+小雨：难道你从来没有接受过京剧方面的专门教育吗？
+马克：别吃惊，因为我以前学习过音乐，有一些音乐基础，又对京剧这种表演艺术非常感兴趣，所以能比较容易地学会它的唱法。
+小雨：你真厉害！章然连很多中国人都听不懂的京剧也能学会。我还是比较喜欢听流行音乐。
+马克：那是你不了解京剧的唱法。在音乐方面，京剧给了我很多新的想法。我还把京剧的一些特点增加到了自己的音乐中，达到了很好的效果。
+** 3
+*** 转录
+李老师：校长，因为外国留学生不了解中国文化，有时侯会影响他们和中国人之间的正常交流，甚至还可能引起误会，带来麻烦，所以我们想申请举办一次中国传统文化节活动。
+校长：你们的想法很好，举办文化节活动，一方面能让各国学生更好地了解中国，另一方面也能为学生们提供互相交流和学习的机会。
+李老师：谢谢您的支持！
+校长：上次的春游活动你们办得非常有趣，大家都玩儿得很开心，这次活动继续由你负责，相信也一定会很成功。
+李老师：我们回去就开会讨论，星期五之前把详细的计划书发给您。
+校长：好的，准备过程中有什么问题，你们可以直接来找我。
+** 4
+*** 转录
+筷子在中国大约已经有3000多年的历史了。对外国人来说，使用筷子吃饭并不容易，所以，国外的一些中国餐厅在放筷子的纸袋上会提供使用筷子的详细说明。不过，如果你认为每个中国人都会正确使用筷子，那就错了。有人在互联网上专门进行过调查，结果发现每六个中国人中就有一个使用筷子的方法是错误的。如果你想正确使用筷子，那就好好练习吧。
+** 5
+*** 转录
+茶在中国有几千年的历史，是中国最常见的饮料。最早的时候，茶只是被当作一种药，而不是饮料。后来，随着人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。在中国，喝茶是一种十分普遍的生活习惯。对很多中国人来说，喝茶已成为他们生活中不可缺少的一部分。但是有的饮料虽然名字叫“茶”，却并不是真正的茶。比如广东省的人爱喝的“凉茶”，它的味道稍微有点儿苦，其实是一种用中药做成的饮料。

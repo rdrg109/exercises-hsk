@@ -100,188 +100,6 @@ b
 
 f
 
-* 课文1
-:PROPERTIES:
-:CREATED: [2022-07-09 11:00:45 -05]
-:END:
-
-** 1
-
-*** 标题
-
-小夏出国留学遇到了问题
-
-*** 对话
-
-小雨：你马上就要硕士毕业了吧？将来有什么打算？
-小夏：我想出国读博士，一直在准备办签证需要的
-小雨：现在材料准备得怎么样了？
-小夏：成绩证明和护照已经准备好了，另外，还跟国外的大学取得了联系，填写了报名表格
-小雨：还应该有国外大学给你的邀请信吧？他们把邀相信专真给你了吗？
-小夏：没有啊，下个星期我就要去便馆办签证了，这可怎么办？
-小雨：这可是个大问题，我也不太清楚。我帮你查一下学校的电话号码你大电话问一下吧。
-
-**** QUESTION ”这可怎么办“的”这可“什么意思？
-:PROPERTIES:
-:CREATED: [2022-07-09 11:18:56 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-09 Sat 11:19]
-:END:
-
-**** 对我生词
-
-硕士 🟦 shuo4 shi4 🟦 master, person who has a master's degree ;
-材料 🟦 cai2 liao4 🟦 stuff ;
-成绩 🟦 cheng2 ji4 🟦 grade ;
-证明 🟦 zheng4 ming2 🟦 identification ;
-联系 🟦 lian2 xi4 🟦 to contact ;
-填写 🟦 tian2 xie3 🟦 to fill in a form ;
-邀 🟦 yao1 🟦 to request ;
-
-*** 生词
-
-1. 博士 🟦 bo2shi4 🟦 n. doctor (academic degree) ;
-2. 签证 🟦 qian1zheng4 🟦 n. visa ;
-3. 报名 🟦 bao4ming2 🟦 v. to apply, to sign ;
-4. 表格 🟦 biao3ge2 🟦 n. form, table ;
-5. 传真 🟦 chuan2zhen1 🟦 v. to send by fax ;
-6. 号码 🟦 hao4ma3 🟦 n. number ;
-
-** 2
-
-*** 标题
-
-王老板告诉李进自己成功的经验
-
-*** 对话
-
-李进：谢谢你带我参观您的公司，在参观过程中我很激动，有个问题一直想问您。
-王老板：好啊！小伙子，咱们一边吃西瓜，一边聊。
-李进：您从大学毕业开始工作，到现在才十年时间，怎么给公司赚了这么多钱？这让我非常吃惊。我想问您学习一下成功的经验。
-王老板：这个问题以前一个记者也问过我。做生意时虽然会遇到各种压力和困难，但是大学的机会都是相同的。你看，这里有三块大小不同的西瓜，我们用西瓜的大小代表钱的多少，要是我们一起开始吃，您会先选哪块？
-李进：我肯定先吃最大的一块了，难道您会先吃小的，放弃吃大块的机会吗？
-王老板：我会先吃最小的一块，因为在你没吃完最大的那块时，我还有时间再多吃一块，最后一定比你吃得西瓜多。听完我的回答，恐怕你已经知道我的答案了吧。
-
-**** QUESTION ”经验“和“情况“有什么区别？
-:PROPERTIES:
-:CREATED: [2022-07-09 11:28:06 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-09 Sat 11:28]
-:END:
-
-**** 对我生词
-
-经验 🟦 jing1 yan4 🟦 experience ;
-成功 🟦 cheng2 gong1 🟦 success ;
-生意 🟦 sheng1 yi 🟦 business ;
-压力 🟦 ya1 li4 🟦 pressure ;
-肯定 🟦 ken3 ding4 🟦 definitely ;
-难道 🟦 nan2 dao4 🟦 (used in a rhetorical question for emphasis) could it be that ...? don't tell me;
-
-*** 生词
-
-7. 参观 🟦 can1guan1 🟦 v. to visit, to look around ;
-8. 激动 🟦 ji1dong4 🟦 adj. excited, emotional ;
-9. 小伙子 🟦 xiao3huo3zi 🟦 n. young man ;
-10. 记者 🟦 ji4zhe3 🟦 n. journalist, reporter ;
-11. [X] 代表 🟦  dai4biao3 🟦 v. to represent, to stand for ;
-12. 恐怕 🟦 kong3pa4 🟦 adv. (/indicating an estimation/) I guess...
-
-** 3
-
-*** 标题
-
-小林不好意思拒绝朋友
-
-*** 对话
-
-
-小林：今年放假我又会不了家了，这次我父母又要失望了。你有什么计划？
-小李：我计划去郊区住一个月，你不是已经买好火车票了吗？你到底怎么打算的呀？
-小林：昨天一个外地的好朋友打电话说要来旅游，让我当导游，我实在不好意思拒绝。
-小李：其实拒绝并不表示不愿意帮忙。遇到解决不了的问题或者无法完成的任务时，拒绝正好说明你对朋友负责。这也是对你父母负责的态度。
-小林：既然别人找我帮忙，说明他真的很需要我的帮助。我担心要是说“不”的话，会让他误会和伤心。
-小李：别担心！如果你用一个既合适又礼貌的方法告诉朋友，他一定会原谅你的。
-
-**** 对我生词
-
-放假 🟦 fang4 jia4 🟦 to have a holiday or vacation ;
-计划 🟦 ji4 hua4 🟦 plan ;
-拒绝 🟦 ju4 jue2 🟦 to refuse ;
-表示 🟦 biao3 shi4 🟦 to express, to indicate ;
-无法 🟦 wu2 fa3 🟦 uncapable ;
-完成 🟦 wan2 cheng2 🟦 to complete ;
-任务 🟦 ren4 wu 🟦 ;
-负责 🟦 fu4 ze2 🟦 to be in charge of ;
-态度 🟦 tai4 du4 🟦 attitude ;
-
-*** 生词
-
-13. 失望 🟦 shi1wang4 🟦 v. disappointed ;
-14. 郊区 🟦 jiao1qu1 🟦 n. suburb, outskirts ;
-15. 到底 🟦 dao4di3 🟦 adv. /(/used in questions for emphasis/) ... on earth ;
-16. 呀 🟦 ya 🟦 part. /a variant of the interjection "啊", used at the end of a question to soften the tone/ ;
-17. 导游 🟦 dao3you2 🟦 n. tour guide ;
-18. 礼貌 🟦 li3mao4 🟦 n. polite ;
-19. 原谅 🟦 yuan2liang4 🟦 v. to forgive ;
-
-* 课文2
-
-** 4
-
-*** 段话
-
-有些同学经常把“明天”和“将来“挂在嘴边，常说作业明天再完成，下次考试一定好好儿复习，等等。这种态度会浪费时间，不但会让你到最后什么事情都做不成，而且还得不到别人的同情。所以不要把什么事情都推到“明天”，一切从现在做起。就拿学习汉语来说吧。首先要注意课前预习，找出第二天要学习的重点；其次，上课时要认真听，不能马虎；最后，课后要记得复习。只要这样，汉语就能越学越好，越说越自信。
-
-**** 对我生词
-
-将来 🟦 jiang1 lai2 🟦 in the future ;
-挂在嘴边 🟦 gua4 zai4 zui3 bian1 🟦 to keep saying something over and over ;
-态度 🟦 tai4 du4 🟦 attitude ;
-浪费 🟦 lang4 fei4 🟦 to waste ;
-同情 🟦 tong2 qing2 🟦 to sympathize ;
-一切 🟦 yi1 qie4 🟦 everything ;
-自信 🟦 zi4 xin4 🟦 self-confidence ;
-
-*** 生词
-
-20. 挂 🟦 gua4 🟦 v. to hang, to put up ;
-21. 同情 🟦 tong2qing2 🟦 v. to show sympathy for ;
-22. 推 🟦 tui1 🟦 v. to put off, to postpone ;
-23. 预习 🟦 yu4xi2 🟦 v. to prepare lessons before class ;
-24. 重点 🟦 zhong4dian3 🟦 n. focal point, emphasis ;
-25. 马虎 🟦 ma3hu 🟦 adj. careless, slipshod ;
-26. 自信 🟦 zi4xin4 🟦 adj. self-confident ;
-
-** 5
-
-*** 段话
-
-当你认为自己在哪方面很优秀时，千万要冷静，不要骄傲。因为这个世界很大，“天外有天，人外有人”，很可能有人在这方面比你更厉害。你现在是第一，并不表示你永远都是第一。就像比赛一样，没有人会永远输，也没有人会一直赢。我们知道的越多，就会发现自己不懂的也越多。我们应该重视平时积累，多向周围的人学习。如果你敢诚实说出自己对哪方面不了解，并不说明自己比别人差，相反，这样做更能得到别人的尊重。
-
-**** 对我生词
-
-优秀 🟦 you1 xiu4 🟦 excellent, outstanding ;
-千万 🟦 qian1 wan4 🟦 one must by all means ;
-方面 🟦 fang1 mian4 🟦 aspect ;
-骄 🟦 jiao1 🟦 arrogant ;
-傲 🟦 ao4 🟦 arrogant ;
-骄傲 🟦 jiao1 ao4 🟦 arrogant, conceited ;
-表示 🟦 biao3 shi4 🟦 to express, to indicate ;
-赢 🟦 ying2 🟦 to win ;
-周围 🟦 zhou1 wei2 🟦 environment ;
-相反 🟦 xiang1 fan3 🟦 contrary ;
-
-*** 生词
-
-27. 冷静 🟦 leng3jing4 🟦 adj. calm, composed ;
-28. 输 🟦 shu1 🟦 v. to lose, to suffer defeat ;
-29. 重视 🟦 zhong4shi4 🟦 v. to attacch importance to ;
-30. 敢 🟦 gan3 🟦 v. to dare ;
-31. 尊重 🟦 zun1zhong4 🟦 v. to respect ;
-
 * 练习
 
 ** 2
@@ -644,3 +462,35 @@ f
 
 尊重
 
+* 课文
+** 1
+*** 转录
+小雨：你马上就要硕士毕业了吧？将来有什么打算？
+小夏：我想出国读博士，一直在准备办签证需要的材料。
+小雨：现在材料准备得怎么样了？
+小夏：成绩证明和护照已经准备好了，另外，还跟国外的大学取得了联系，填写了报名表格。
+小雨：还应该有国外大学给你的邀请信吧？他们把邀请信传真给你了吗？
+小夏：没有啊，下个星期我就要去使馆办签证了，这可怎么办？
+小雨：这可是个大问题，我也不太清楚。我帮你查一下学校的电话号码，你打电话问一下吧。
+** 2
+*** 转录
+李进：谢谢您带我参观您的公司。在参观过程中我很激动，有个问题一直想问您。
+王老师：好响！小伙子，咱们一边吃西瓜，一边聊。
+李进：您从大学毕业开始工作，到现在才十年时间，怎么给公司赚了这么多钱？这让我非常吃惊。我想向您学习一下成功的经验。
+王老师：这个问题以前一个记者也问过我。做生意时虽然会遇到各种压力和困难，但是大家的机会都是相同的。你看，这里有三块大小不同的西瓜，我们用西瓜的大小代表钱的多少，要是我们一起开始吃，你会先选哪块？
+李进：我肯定先吃最大的一块了，难道您会先吃小的，放弃吃大块的机会吗？
+王老师：我会先吃最小的一块，因为在你没吃完最大的那块时，我还有时间再多吃一块，最后一定比你吃的西瓜多。听完我的回答，恐怕你已经知道我的答案了吧。
+** 3
+*** 转录
+小林：今年放假我又回不了家了，这次我父母又要失望了。你有什么计划？
+小李：我计划去郊区住一个月。你不是已经买好火车祭了吗？你到底怎么打算的呀？
+小林：昨天一个外地的好朋友打电话说要来旅游，让我当导游，我实在不好意思拒绝。
+小李：其实拒绝并不表示不愿意帮忙。遇到解决不了的问题或者无法完成的任务时，拒绝正好说明你对朋友负责。这也是对你父母负责的态度。
+小林：既然别人找我帮忙，说明他真的很需要我的帮助。我担心要是说，不“的话，会让他误会和伤心。
+小李：别担心！如果你用一个既合造又礼貌的方法告诉朋友，他一定会原谅你的。
+** 4
+*** 转录
+有些同学经常把“明天”和“将来”挂在嘴边，常说作业明天再完成，下次考试一定好好儿复习，等等。这种态度会浪费时间，不但会让你到最后什么事情都做不成，而且还得不到别人的同情。所以不要把什么事情都推到“明天”，一切从现在做起。就拿学汉语来说吧，首先要注意课前预习，找出第二天要学习的重点；其次，上课时要认真听，不能马虎；最后，课后要记得复习。只要这样，汉语就能越学越好，越说越自信。
+** 5
+*** 转录
+当你认为自己在哪方面很优秀时，十万要冷静，不要骄傲。因为这个世界很大，“天外有天，人外有人”，很可能有人在这方面比你更厉害。你现在是第一，并不表示你永远都是第一。就像比赛一样，没有人会永远输，也没有人会一直赢。我们知道的越多，就会发现自已不懂的也越多。我们应该重视平时的积累，多向周围的人学习。如果你敢诚实地说出自己对哪方面不了解，并不说明自己比别人差，相反，这样做更能得到别人的尊重。

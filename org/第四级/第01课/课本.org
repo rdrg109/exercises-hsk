@@ -72,253 +72,7 @@ f
 
 c
 
-* 课文1-3
-:PROPERTIES:
-:CREATED: [2022-07-01 17:33:49 -05]
-:END:
 
-** 1
-:PROPERTIES:
-:CREATED: [2022-07-01 17:39:26 -05]
-:ID: d5836f1c-297c-4f6f-adf5-139506e33c1c
-:END:
-
-*** 标题
-:PROPERTIES:
-:CREATED: [2022-07-04 11:01:55 -05]
-:END:
-
-孙月和王静聊王静的男朋友
-
-*** 对话
-:PROPERTIES:
-:CREATED: [2022-07-04 11:01:57 -05]
-:END:
-
-孙月：听说你男朋友李进跟你一个学校的，是你同学吗？
-王静：是的，他学的是新闻，我学的是法律，我和他不是一个班。
-孙月：那你们俩是怎么认识的？
-王静：我们是在一次足球比赛中认识的。我们班跟他们班比赛，他一个人踢进两个球，我对他印象很深，后来就慢慢熟悉了。
-孙月：你为什么喜欢他？
-王静：他不仅足球踢得好，性格也不错。
-
-*** 生词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:01:59 -05]
-:END:
-
-1. 法律 🟦 fa3lv4 🟦 n. law ;
-2. 俩  🟦 lia3 🟦 num.-m. two, both ;
-3. 印象 🟦 yin4xiang4 🟦 n. impression ;
-4. 深 🟦 shen1 🟦 adj. deep ;
-5. 熟悉  🟦 shu2xi 🟦 v. to be familiar with ;
-6. 不仅 🟦 bu4jin3 🟦 conj. not only ;
-7. 性格 🟦 xing4ge2 🟦 n. personality ;
-
-*** 专有名词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:02:02 -05]
-:END:
-
-1. 孙月 🟦 Sun1 Yue4 🟦 Sun Yue, name of a person ;
-2. 王静 🟦 Wang2 Jing4 🟦 Wang Jing, name of a person ;
-3. 李进 🟦 Li3 Jin4 🟦 Li Jin, name of a person ;
-
-** 2
-:PROPERTIES:
-:CREATED: [2022-07-01 17:39:27 -05]
-:ID: e128712c-f0f2-4340-91e5-956fb6961614
-:END:
-
-*** 标题
-:PROPERTIES:
-:CREATED: [2022-07-04 11:01:40 -05]
-:END:
-
-王静跟老师聊她要结婚的事情
-
-*** 对话
-:PROPERTIES:
-:CREATED: [2022-07-04 11:01:44 -05]
-:END:
-
-王静：李老师，我下个月5号就要结婚了。
-李老师：你是在开玩笑吧？你们不是才认识一个月？
-王静：虽然我们认识的时间不长，但我从来没这么快东过。
-李老师：两个人在一起，最好能有共同的兴趣和爱好。
-王静：我们有很多共同的爱好，经常一起打球，唱歌，做菜。
-李老师：看来你真的找到适合你的人了。祝你们幸福！
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:01:50 -05]
-:END:
-
-祝 🟦 zhu4 🟦 to express good wishes ;
-
-*** 生词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:01:47 -05]
-:ID: d7ca3eb5-d4aa-403f-a4b7-d96794485735
-:END:
-
-8. 开玩笑 🟦 kai1 wan2xiao4 🟦 to be kidding ;
-9. 从来 🟦 cong2lai2 🟦 adv. always, all along ;
-10. 最好 🟦 zui4hao3 🟦 adv. had better ;
-11. 共同 🟦 gong4tong2 🟦 adj. common, shared ;
-12. 适合 🟦 shi4he2 🟦 v. to suit, to fit ;
-13. 幸福 🟦 xing4fu2 🟦 adj. happy ;
-
-**** UNANSWERED [#B]
-:PROPERTIES:
-:CREATED: [2022-12-19 15:19:13 -05]
-:END:
-:LOGBOOK:
-- State "UNANSWERED" from              [2022-12-19 Mon 15:19]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-19 15:19:15 -05]
-:END:
-
-Why doesn't the word 开玩笑 have lexical category? Note that the other words in the same list have lexical category.
-
-**** UNANSWERED
-:PROPERTIES:
-:CREATED: [2022-12-19 15:18:27 -05]
-:END:
-:LOGBOOK:
-- State "UNANSWERED" from              [2022-12-19 Mon 15:18]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-19 15:18:42 -05]
-:END:
-
-Why the pinyin of the word 开玩笑 is separated?
-
-*** 专有名词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:02:02 -05]
-:END:
-
-4. 李 🟦 Li3 🟦 Li, a Chinese family name ;
-
-** 3
-:PROPERTIES:
-:CREATED: [2022-07-01 17:45:07 -05]
-:ID: eb80c3ba-41bf-4af2-a682-9dd449486470
-:END:
-
-*** 标题
-:PROPERTIES:
-:CREATED: [2022-07-04 11:00:58 -05]
-:END:
-
-高老师和离老师聊结婚后的生活
-
-*** 对话
-:PROPERTIES:
-:CREATED: [2022-07-04 11:00:43 -05]
-:END:
-
-高老师：听说您跟妻子结婚快二十年了？
-李老师：到6月9号，我们就结婚二十年了。这么多年，我们的生活一直挺幸福的。
-高老师：我和丈夫刚结婚的时候，每天都觉得很新鲜，在一起有说不完的话。但是现在……
-李老师：两个人共同生活，只有浪漫和新鲜感是不够的。
-高老师：您说的对！我现在每天看到的都是他的缺点。
-李老师：两个人在一起时间长了，就会有很多问题。只有接受了他的缺点，我们才能更好地一起生活。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:00:05 -05]
-:END:
-
-挺 🟦 ting3 🟦 quite ;
-幸福 🟦 xing4 fu2 🟦 happy ;
-共同 🟦 gong4 tong2 🟦 common, shared ;
-浪漫  🟦 lang4 man4 🟦 romantic ;
-
-*** 生词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:00:29 -05]
-:END:
-
-14. 生活 🟦 sheng1huo2 🟦 n.🟦v. life, to live ;
-15. 刚  🟦 gang1 🟦 adv. just, not long ;
-16. 浪漫 🟦 lang4man4 🟦 adj. romantic ;
-17. 够 🟦 gou4 🟦 v. to be enough ;
-18. 缺点 🟦 que1dian3 🟦 n. shortcoming ;
-19. 接受  jie1shou4 🟦 v. to accept ;
-
-*** 专有名词
-:PROPERTIES:
-:CREATED: [2022-07-04 11:02:02 -05]
-:END:
-
-4. 高 🟦 Gao1 🟦 Gao, a Chinese family name ;
-
-* 课文4-5
-:PROPERTIES:
-:CREATED: [2023-01-21 17:45:49 -05]
-:END:
-
-** 4
-:PROPERTIES:
-:ID: af9f69ec-430b-4264-8138-8bf5aad37f91
-:END:
-
-*** 段话
-
-很多女孩子羡慕浪漫的爱情。那什么是浪漫呢？年轻人说：“浪漫是她想要月亮时，你不会给她星星；中年人说：”浪漫是即使晚上加班到零点，到家时，自己家里也还亮着灯；老年人说：浪漫其实就像歌中唱的那样，“我能想到最浪漫的事，就是和你一起慢慢变老。”其实，让我们感动的，就是生活中简单的爱情。有时候，简单就是最大的幸福。
-
-**** 对我生词
-
-浪漫 | lang4 man | romantic ;
-中年人 | zhong1 nian2 ren2 | middle aged (between the ages of about 40 and 60) ;
-即便 | ji2 bian4 | even if, even though, immediately, right away ;
-幸福 | xing4 fu2 | blessed, happiness, happy ;
-
-*** 生词
-
-20. 羡慕 🟦 xian4mu4 🟦 v. to envy, to admire ;
-21. 爱情 🟦 ai4qing2 🟦 n. love (between a man and a woman) ;
-22. [X] 星星 🟦 xing1xing 🟦 n. star ;
-23. 即使 🟦 ji2shi3 🟦 conf. even if ;
-24. 加班 🟦 jia1 ban1 🟦 v. to work overtime ;
-25. [X] 亮 🟦 liang4 🟦 v. to shine, to be lit ;
-26. 感动 🟦 gan3dong4 🟦 v. to touch, to move ;
-
-** 5
-:PROPERTIES:
-:ID: 0fd7b3d2-a6a4-4739-b56b-8573a9bd2118
-:END:
-
-*** 段话
-
-说到结婚，人们就会很自然地想起爱情。爱情是结婚的重要原因，但两个人共同生活，不仅需要浪漫的爱情，更需要性格上互相吸引。
-
-我丈夫是个很幽默的人。即使是很普通的事情，从他嘴里说出来也会变得很有意思。在我难过的时候，他总是有办法让我高兴起来。而且他的脾气也不错，结婚快十年了，我们俩几乎没因为什么事红过脸，很多人都特别羡慕我们。
-
-**** 笔记
-
-生活 🟦 sheng1 huo2 🟦 to live ;
-
-**** 对我生词
-
-即使 🟦 ji2 shi3 🟦 even if, even though ;
-普通 🟦 pu3 tong1 🟦 average, common, general ;
-
-*** 生词
-
-27. 自然 🟦 zi4ran2 🟦 adv. naturally, certainly ;
-28. 原因 🟦 yuan2yin1 🟦 n. reason ;
-29. 互相 🟦 hu4xiang1 🟦 adv. mutually ;
-30. 吸引 🟦 xi1yin3 🟦 v. to attract ;
-31. 幽默 🟦 you1mo4 🟦 adj. humourous ;
-32. 脾气 🟦 pi2qi 🟦 n. temper, disposition ;
 
 * 练习
 :PROPERTIES:
@@ -929,3 +683,34 @@ What does this part mean?
 :END:
 
 感到 🟦 gan3 dao4 🟦 v. to feel 🟦
+* 课文
+** 1
+*** 转录
+孙月：听说你男朋友李进跟你是一个学校的，是你同学吗？
+王静：是的，他学的是新闻，我学的是法律，我和他不是一个班。
+孙月：那你们俩是怎么认识的？
+王静：我们是在一次足球比赛中认识的。我们班路他们班比赛，他一个人踢进两个球，我对他印象很深，后来就慢慢熟悉了。
+孙月：你为什么喜欢他？
+王静：他不仅足球踢得好，性格也不错。
+** 2
+*** 转录
+王静：李老师，我下个月5号就要结婚了。
+李老师：你是在开玩笑吧？你们不是才认识一个月？
+王静：虽然我们认识的时间不长，但我从来没这么快乐过。
+李老师：两个人在一起，最好能有共同的兴趣和爱好。
+王静：我们有很多共同的爱好，经常一起打球、唱歌、做菜。
+李老师：看来你真的找到适合你的人了。祝你们幸福！
+** 3
+*** 转录
+高老师：听说您跟妻子结婚快二十年了？
+李老师：到6月9号，我们就结婚二十年了。这么多年，我们的生活一直挺幸福的。
+高老师：我和丈夫刚结婚的时候，每天都觉得很新鲜，在一起有说不完的话。但是现在……
+李老师：两个人共同生活，只有浪漫和新鲜感是不够的。
+高老师：您说的对！我现在每天看到的都是他的缺点。
+李老师：两个人在一起时间长了，就会有很多问题。只有接受了他的缺点，你们才能更好地一起生活。
+** 4
+*** 转录
+很多女孩子羡慕浪漫的爱情。那什么是浪漫呢？年轻人说：浪漫是她想要月亮时，你不会给她星星；中年人说：浪漫是即使晚上加班到零点，到家时，自己家里也还亮着灯；老年人说：浪漫其实就像歌中唱的那样，“我能想到最浪漫的事，就是和你一起慢慢变老。”其实，让我们感动的，就是生活中简单的爱情。有时侯，简单就是最大的幸福。
+** 5
+*** 转录
+说到结婚，人们就会很自然地想起爱情。爱情是结婚的重要原因，但两个人共同生活，不仅需要浪漫的爱情，更需要性格上互相吸引。我丈夫是个很幽默的人。即使是很普通的事情，从他嘴里说出来也会变得很有意思。在我难过的时候，他总是有办法让我高兴起来。而且他的脾气也不错，结婚快十年了，我们俩几乎没因为什么事红过脸，很多人都特别羡慕我们。
