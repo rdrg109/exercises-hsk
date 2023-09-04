@@ -24,23 +24,13 @@
 
 At home
 
-*** 对话
-
+*** 转录
 小丽：今天太阳从西边出来了吗？
 小刚：怎么了？
 小丽：你怎么这么早就要睡觉了？以前都要12点以后才睡觉。
 小刚：我明天8点就要到公司。
 小丽：有事吗？
-小刚：经理生气了，他告诉我，明天8点不到，以后就别来了。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 12:47:13 -05]
-:END:
-
-以前 | yi3 qian2 | previously ;
-以后 | yi3 hou4 | afterwards ;
-
+小刚：经理生气了，他告诉我，明天8点不到，以后就别李了。
 *** 生词
 
 1. 太阳 | tai4 yang2 | sun ;
@@ -63,28 +53,13 @@ At home
 
 At home
 
-*** 对话
-
+*** 转录
 小刚：我要跟周经理去外地办事，明天的飞机。
 小丽：那我帮你把衣服放到行李箱里吧。什么时候回来？
 小刚：一个星期就回来。
 小丽：啊？一个星期以后才回来？
 小刚：你要自己照顾好自己，我已经给你准备好吃的和喝的了。
-小丽：好吧，我已经把我的照片放在你的包里了。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 12:47:51 -05]
-:END:
-
-地办事 | de ban4 shi4 | to work ;
-放 | fang4 | to put, to place ;
-以后 | yi3 hou4 | afterwards ;
-才 | cai2 | only ;
-照顾 | zhao4 gu4 | to take care of ;
-照片 | zhao4 pian4 | photos ;
-放 | fang4 | to put, to place ;
-
+小丽：好吧。我已经把我的照片放在你的包里了。
 *** 生词
 
 4. 行李箱 | xing2 li xiang1 | luggage, suitcase ;
@@ -106,26 +81,12 @@ At home
 
 At the airport
 
-*** 对话
-
+*** 转录
 周明：你怎么才来？
 小刚：对不起，周经理，来机场的路上我才发现忘带护照了。
 周明：快点吧，飞机就要起飞了。
-小刚：您有钱吗？司机把我送到机场的时候，我才发现忘记带钱包了。
+小刚：您有钱吗？司机把我送到机场的时侯，我才发现忘记带钱包了。
 周明：我看你还是把重要的东西放在我这儿吧。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 12:48:45 -05]
-:END:
-
-才 | cai2 | a moment ago ;
-忘 | wang4 | to forget ;
-记 | ji4 | to remember ;
-钱包 | qian2 bao1 | wallet ;
-重要  | zhong4 yao4 | important ;
-放 | fang4 | to put, to place ;
-
 *** 生词
 
 7. 发现 | fa1 xian4 | to discover ;
@@ -139,24 +100,11 @@ At the airport
 :ID: ef44a566-d6c0-462a-b113-cf2e79c4c0c2
 :END:
 
-*** 段话
+*** 转录
 :PROPERTIES:
 :CREATED: [2022-12-19 12:49:27 -05]
 :END:
-
-我是一个中学老师，教学生画画儿。每次下课前，我都会把下次学生需要带的东西写在黑板上，但是每次上课时，总会有学生忘了铅笔，所以我有点儿生气，不是因为他们没带铅笔，是因为他们没有好的学习习惯。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 12:50:17 -05]
-:END:
-
-中学 | zhong1 xue2 | middle school ;
-忘 | wang4 | to forget ;
-铅笔 | qian1 bi3 | pencil ;
-生气 | sheng1 qi4 | angry ;
-习惯 | xi2 guan4 | to be used to, habit ;
-
+我是一个中学老师，教学生画画儿。每次下课前，我都会把下次学生需要带的东西写在黑板上，但是每欠上课时，总会有学生忘了拿铅笔，所以我有点儿生气，不是因为他们没带铅笔，是因为他们没有好的学习习惯。
 *** 生词
 :PROPERTIES:
 :CREATED: [2022-12-19 12:49:32 -05]

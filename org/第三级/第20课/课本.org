@@ -24,23 +24,12 @@
 
 In the lounge
 
-*** 对话
-
+*** 转录
 小丽：我的照相机被谁拿走了？怎么找不到了？
 同事：你再找找。是不是没带来？
 小丽：我找了，没找到啊。
 同事：别难过，再买一个吧，公司东门外不就有一个大商场吗？
 小丽：但是我这个月信用卡里的钱已经花得差不多了。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:31:23 -05]
-:END:
-
-商场 | shang1 chang3 | shopping  center, shopping mall ;
-花 | hua4 | to spend ;
-差 | cha4 | to fall short of ;
-
 *** 生词
 
 1. 照相机 | zhao4 xiang4 ji1 | camera ;
@@ -65,31 +54,13 @@ In the lounge
 
 In the classroom
 
-*** 对话
-
+*** 转录
 小明：你怎么突然关心起体育来了？
-朋友：我的男朋友喜欢看踢足球比赛，我被他影响的。
+朋友：我的男朋友喜欢看足球比赛，我被他影响的。
 小明：看来只有爱，才能让人有变化。
 朋友：是啊，为了和他的爱好一样，我天天看球赛。
 小明：除了足球，他还影响你什么了？
 朋友：我最近天天上网玩儿游戏，我的成绩差极了。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:32:16 -05]
-:END:
-
-突然 | tu1 ran2 | suddenly ;
- 体育 | ti3 yu4 | stadium ;
- 比赛 | bi3 sai4 | match, competition ;
- 被 | bei4 | (preposition used to indicate the passive voice) ;
-影响 | ying3 xiang3 | influence ;
-变化 | bian4 hua4 | to change ;
-爱好 | ai4 hao4 | hobby, interest ;
-上网 | shang4 wang3 | to surf the internet ;
-差 | cha4 | to fall short of ;
-极 | ji2 | extremely ;
-
 *** 生词
 
 6. 关心 | guan1 xin1 | to be concerned about, to care for, to care about ;
@@ -112,30 +83,13 @@ In the classroom
 
 In the restaurant
 
-*** 对话
-
+*** 转录
 朋友：那个拿着碗吃饭的人是你哥哥吗？他和你长得真像。
 大卫：我们经常被别人认错。
-朋友：只有你们爸爸妈妈才能分出来哪个是哥哥，哪个是弟弟吧。
+朋友：只有你们的爸爸妈妈才能分出来哪个是哥哥，哪个是弟弟吧。
 大卫：除了父母以外，还有我们自己也能啊。
 朋友：你们两个除了长得像，还有什么相同的地方？
-大卫：我们住在同一个楼，同一个房间。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:33:06 -05]
-:END:
-
-像 | xiang4 | to be like ;
-认错 | ren4 cuo4 | to acknowledge one's mistake, to admit an error ;
-被 | bei4 | (preposition used to indicate the passive voice) ;
-父母 | fu4 mu3 | parents ;
-以外 | yi3 wai4 | apart from, beyond, except for ;
-长 | zhang3 | to grow, to develop ;
-相同 | xiang1 tong2 | identical, same ;
-楼 | lou2 | building ;
-房间 | fang2 jian1 | room ;
-
+大卫：我们住在同一个楼、同一个房间……
 *** 生词
 
 9. 碗 | wan3 | bowl ;
@@ -169,54 +123,11 @@ In the restaurant
 :ID: aa186c2f-df82-4c46-a385-02b751ee0f01
 :END:
 
-*** 段话
+*** 转录
 :PROPERTIES:
 :CREATED: [2022-12-19 13:33:22 -05]
 :END:
-
-年轻人遇到难题，常常很着急，不知道怎么办。其实，不同的问题有不同的解决办法。有些问题看上去很难。但是做起来非常简单，所以得试着做做。有些问题看上去虽然简单，但是解决起来难极了。所以只有真正做事情的时候，才能了解有多难。不过，我们一定要相信：多么难的问题，都会被解决的。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:34:14 -05]
-:END:
-
-年轻 | nian2 qing1 | young ;
-遇到 | yu4 dao4 | to come across, to run into ;
-着急 | zhao2 ji2 | worried, anxious ;
-怎么办 | zen3 me ban4 | what's to be done ;
-办法 | ban4 fa3 | way, approach ;
-看上去 | kan4 shang qu | it seems that ;
-简单 | jian3 dan1 | simple ;
-虽然 | sui1 ran2 | although, though ;
-了解 | liao3 jie3 | to know ;
-一定 | yi2 ding4 | definitely, certainly ;
-相信 | xiang1 xin4 | to believe ;
-被 | bei4 | (preposition used to indicate the passive voice) ;
-
-**** UNANSWERED
-:PROPERTIES:
-:CREATED: [2022-06-14 08:38:41 -05]
-:END:
-:LOGBOOK:
-- State "UNANSWERED" from              [2022-12-19 Mon 13:35]
-- State "QUESTION"   from              [2022-06-14 Tue 08:38]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-19 13:35:05 -05]
-:END:
-
-“不过”什么意思？
-
-***** Answer
-:PROPERTIES:
-:CREATED: [2022-12-19 13:35:07 -05]
-:END:
-
-This lexeme has various meanings. In the context of this paragraph, it means "but".
-
+年轻人遇到难题，常常很着急，不知道怎么办。其实，不同的问题有不同的解决办法。有些问题看上去很难，但是做起来非常简单，所以得试着做做。有些问题看上去虽然简单，但是解决起来难极了。所以只有真正做事情的时候，才能了解有多难。不过，我们一定要相信：多么难的问题，都会被解决的。
 *** 生词
 :PROPERTIES:
 :CREATED: [2022-12-19 13:33:35 -05]

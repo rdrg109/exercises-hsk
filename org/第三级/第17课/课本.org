@@ -23,23 +23,12 @@
 
 In the company
 
-*** 对话
-
+*** 转录
 小丽：周经理，下个星期我可以请几天假吗？
 周明：你有什么事？
 小丽：我的一个老朋友结婚，我跟他两年没见了。
 周明：你一共想请几天假？
 小丽：三天。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:15:44 -05]
-:END:
-
-经理 | jing1 li3 | manager ;
-结婚 | jie2 hun1 | to marry, to get married ;
-跟 | gen1 | with ;
-
 *** 生词
 :PROPERTIES:
 :ID: 0b87c138-613a-4bb9-b2f6-05b35ddf1607
@@ -64,29 +53,13 @@ In the company
 
 In the company
 
-*** 对话
-
+*** 转录
 同事：小丽，那个高高的男人是你们公司的吗？你对他了解吗？
-小丽：我们过去是邻居，后来是大学同学，关系一直很不错。
+小丽：我们过去是邻居，后来是大学同学，关系一直很不锦。
 同事：他一般喜欢做什么？
-小丽：他有很多爱好，唱歌，画画儿，踢足球，什么都会。
+小丽：他有很多爱好，唱歌、画画儿、踢足球，什么都会。
 同事：真的？那你介绍我们认识认识吧。
-小丽：不行，现他是我丈夫。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:16:45 -05]
-:END:
-
-了解 | liao3 jie3 | to know ;
-过去 | guo4 qu4 | (in the) past ;
-关系 | guan1 xi4 | relationship ;
-一直 | yi4 zhi2 | all the time ;
-一般 | yi4 ban1 | general, usual ;
-踢足球 | ti1 zu2 qiu2 | play football ;
-介绍 | jie4 shao4 | to introduce, to recommend ;
-丈夫 | zhang4 fu | husband ;
-
+小丽：不行，现在他是我丈夫。
 *** 生词
 
 3. 邻居 | lin2 ju1 | neighbor ;
@@ -109,36 +82,12 @@ In the company
 
 At home
 
-*** 对话
-
-周太太：最近我觉得哪儿不舒服，你带我去医院检查检查吧。
-周明：不用去医院，谁都有办法有好你的“病”。我问你，你多久没运动了？
+*** 转录
+周太太：最近我觉得哪儿都不舒服，你带我去医院检查检查吧。
+周明：不用去医院，谁都有办法看好你的“病”。我问你，你多久没运动了？
 周太太：我三年没运动了。
 周明：谁都知道运动对身体好。但是你吃饱了就睡。
 周太太：为了健康，我真应该多锻炼锻炼了。从明天起，我决定每天去长跑。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:17:39 -05]
-:END:
-
-最近 | zui4 jin4 | lately, recently ;
-舒服 | shu1 fu | comfortable ;
-检查 | jian3 cha2 | to check, to examine ;
-久 | jiu3 | for a long time, long ;
-健康 | jian4 kang1 | healthy ;
-应该 | ying1 gai1 | should ;
-锻炼 | duan4 lian4 | to do physical exercise ;
-长跑 | chang2 pao3 | long-distance running ;
-
-**** QUESTION “谁都有办法有好你的“病””什么意思？
-:PROPERTIES:
-:CREATED: [2022-10-03 03:41:45 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-10-03 Mon 03:42]
-:END:
-
 *** 生词
 
 6. 办法 / ban4fa3 / n. way, approach ;
@@ -152,33 +101,11 @@ At home
 :ID: da12a76f-0ec2-458e-b10e-d84415fc9655
 :END:
 
-*** 段话
+*** 转录
 :PROPERTIES:
 :CREATED: [2022-12-19 13:19:38 -05]
 :END:
-
-“运动很重要”这句话谁都懂。但是你知道怎么运动吗？第一，要选择“对”的时间。一般来说，早上9点是最好的时间，冬天要再晚一些。第二，要选择”对”的地点，公园，山上，游泳馆，这些地方都可以运动。第三，必须要根据自己的健康情况运动。如果你很久没爬山或者游泳了，运动一会儿就一定要休息休息。还要记得刚运动完口渴的时候，不要马上喝水。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:20:43 -05]
-:END:
-
-重要  | zhong4 yao4 | important ;
-句子 | ju4 zi | sentence ;
-句话 | ju4 hua4 | sentence ;
-一般 | yi4 ban1 | general, usual ;
-公园 | gong1 yuan2 | park ;
-山 | shan1 | mountain ;
-游泳馆 | you2 yong3 guan3 | swimming pool ;
-健康 | jian4 kang1 | healthy ;
-久 | jiu3 | for a long time, long ;
-或者 | huo4 zhe3 | or ;
-一定 | yi2 ding4 | definitely, certainly ;
-记得 | ji4 de | to remember ;
-刚 | gang1 | just ;
-马上 | ma3 shang4 | immediately, at once ;
-
+“运动很重要”这句话谁都懂。但是你知道怎么运动吗？第一，要选择“对”的时间。一般来说，早上9点是最好的时间，冬天要再晚一些。第二，要选择“对”的地点，公园、山上、游泳馆，这些地方都可以运动。第三，必须要根据自已的健康情况运动。如果你很久没爬山或者游泳了，运动一会儿就一定要休息休息。还要记得刚运动完口渴的时侯，不要马上喝水。
 *** 生词
 :PROPERTIES:
 :CREATED: [2022-12-19 13:19:34 -05]

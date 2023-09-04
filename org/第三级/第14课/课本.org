@@ -23,27 +23,13 @@
 
 At home
 
-*** 对话
-
+*** 转录
 周太太：客人就要来了，你怎么还不打扫房间啊？
-周明：别着急，我让孩子们打扫呢，客人来的时候，他们会把房间打扫干净。
+周明：别着急，我让孩子们打扫吱，客人来的时侯，他们会把房间打扫干净。
 周太太：那你也不能看电视啊。
 周明：你让我做什么？
-周太太：先把茶和杯子（放好），然后把冰箱里的西瓜拿出来。
+周太太：先把茶和杯子放好，然后把冰箱里的西瓜拿出来。
 周明：太热了，我还是先把空调打开吧。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 12:57:23 -05]
-:END:
-
-客人 | ke4 ren2 | customer, guest ;
-房间e | fang2 jian1 | room ;
-着急 | zhao2 ji2 | worried, anxious ;
-放 | fang4 | to put, to place ;
-空调 | kong1 tiao2 | air conditioner ;
-打开 | da3 kai1 | to switch, to turn on ;
-
 *** 生词
 
 1. 打扫 | da3 sao3 | to clean, to sweep ;
@@ -79,25 +65,12 @@ to set the table
 
 On the phone
 
-*** 对话
-
+*** 转录
 同事：你在忙什么呢？刚才打你的手机你也不接。
 小刚：对不起，我刚洗了个澡，没听见。有什么事吗？
 同事：我想问问你公司里的一些事情。
 小刚：你先等一下，我去把电视关了。
 同事：没关系，你先把电视节目看完吧，然后再给我回电话。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 12:57:55 -05]
-:END:
-
-同事 | tong2 shi4 | co-worker, colleague ;
-刚才 | gang1 cai2 | just now ;
-接 | jie1 | to answer (the phone) ;
-事情 | shi4 qing | thing, matter, affair ;
-关 | guan1 | to shut, to turn off ;
-
 *** 生词
 
 5. 洗澡 | xi3 zao3 | to take a bath, shower ;
@@ -119,25 +92,12 @@ On the phone
 
 At Xiaoming's home
 
-*** 对话
-
-同学：今晚的月亮真漂亮，像白色盘子一样。
-小明：是啊，外边也不刮风，我们坐在外边一边看月亮一边吃东西，怎么样？
+*** 转录
+同学：今晚的月亮真漂亮，像白色的盘子一样。
+小明：是咪，外边也不剖风，我们坐在外边一边看月亮一边吃东西，怎么样？
 同学：好啊，我先把桌椅搬出去，然后你把水果拿过来，我们听叔叔阿姨讲讲他们年轻时候的故事。
-小明：太好了！记得给大出打个电话，让他马上过来。
-同学：不用打了，你听外边的声音，一定大出。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 12:59:10 -05]
-:END:
-
-今晚 | jin1 wan3 | tonight ;
-年轻 | nian2 qing1 | young ;
-马上 | ma3 shang4 | immediately, at once ;
-过来 | guo4 lai2 | to come over ;
-一定 | yi2 ding4 | definitely, certainly ;
-
+小明：太好了！记得给大山打个电话，让他马上过来。
+同学：不用打了，你听外边的声音，一定是大山。
 *** 生词
 
 7. 月亮 | yue4liang | moon ;
@@ -155,71 +115,11 @@ At Xiaoming's home
 :ID: 8199342d-39c4-4203-b4b6-d70dd565a959
 :END:
 
-*** 段话
+*** 转录
 :PROPERTIES:
 :CREATED: [2022-12-19 13:00:07 -05]
 :END:
-
-你吃过水果饭吗？你在饭馆的菜单上见过水果饭吗？你想学着做水果饭吗？其实做水果饭很简单，先把来饭做好，然后再把一块块新鲜的水果放进去，水果饭就做好了。你可以做苹果饭，香蕉饭，要是你愿意，还可以做西瓜饭。多吃新鲜水果对身体好。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:00:49 -05]
-:END:
-
-其实 | qi2 shi2 | actually ;
-新鲜 | xin1 xian1 | fresh ;
-进 | jin4 | to enter, to come/go in ;
-愿意 | yuan4 yi4 | would like to ;
-
-**** ANSWERED
-:PROPERTIES:
-:CREATED: [2022-10-01 19:08:05 -05]
-:END:
-:LOGBOOK:
-- State "ANSWERED"   from "QUESTION"   [2022-10-01 Sat 20:12]
-- State "QUESTION"   from              [2022-10-01 Sat 19:08]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-19 13:01:07 -05]
-:END:
-
- “水果饭”什么意思？
-
-Is it "fruits with rice"?
-
-***** Answer
-:PROPERTIES:
-:CREATED: [2022-12-19 13:01:14 -05]
-:END:
-
-Yes, some people eat this dish.
-
-**** ANSWERED
-:PROPERTIES:
-:CREATED: [2022-10-01 19:43:50 -05]
-:END:
-:LOGBOOK:
-- State "ANSWERED"   from "QUESTION"   [2022-10-01 Sat 20:12]
-- State "QUESTION"   from              [2022-10-01 Sat 19:44]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-19 13:01:22 -05]
-:END:
-
-”一块块“什么意思？
-
-***** Answer
-:PROPERTIES:
-:CREATED: [2022-12-19 13:01:21 -05]
-:END:
-
-Its English translation is "one by one".
-
+你吃过水果饭吗？你在饭馆的菜单上见过水果饭吗？你想学着做水果饭吗？其实做水果饭很简单，先把米饭做好，然后再把一块块新鲜的水果放进去，水果饭就做好了。你可以做苹果饭、香蕉饭，要是你愿意，还可以做西瓜饭。多吃新鲜水果对身体好。
 *** 生词
 :PROPERTIES:
 :CREATED: [2022-12-19 13:00:11 -05]

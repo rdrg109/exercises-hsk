@@ -23,28 +23,12 @@
 
 At home
 
-*** 对话
-
+*** 转录
 爸爸：女儿最近喜欢把头发放在耳朵后面，你知道为什么吗？
-妈妈：这样可以便她的脸看上去漂亮一些。
+妈妈：这样可以使她的脸看上去漂亮一些。
 爸爸：我最近觉得她和以前不太一样了。
 妈妈：女儿变化不小，她小时候喜欢短头发，像男孩子一样。
 爸爸：我也想起来了。她现在慢慢地开始像个女孩子了。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:25:40 -05]
-:END:
-
-把 | ba3 | (classifier for objects that can be picked up with the hand) ;
-头发 | tou2 fa | hair ;
-放 | fang4 | to put, to place ;
-便 | bian4 | convenient ;
-以前 | yi3 qian2 | before, ago ;
-变化 | bian4 hua4 | to change ;
-像 | xiang4 | to be like ;
-地 | de | (classifier used to connect an adverbial modifier and the verb it modifies) ;
-
 *** 生词
 
 1. 耳朵 | er3duo | n. ear ;
@@ -61,66 +45,13 @@ At home
 
 在家
 
-*** 对话
-
+*** 转录
 小丽：上次我们参加骑马比赛的照片，我选了几张洗出来了。
-同事：快给我看看。骑的最快的这位是谁？
+同事：快给我看看。骑得最快的这位是谁？
 小丽：你没看出来吗？他是小刚啊。
 同事：怎么看上去跟现在不太一样？
-小丽：他上班穿西服，衬衫，比赛的时候穿的是运动服。
+小丽：他上班穿西服、衬衫，比赛的时侯穿的是运动服。
 同事：他今天穿蓝西服，看上去像40多岁，还是穿运动服让他更年轻。
-
-**** UNANSWERED
-:PROPERTIES:
-:CREATED: [2022-12-12 17:59:56 -05]
-:END:
-:LOGBOOK:
-- State "UNANSWERED" from              [2022-12-19 Mon 13:25]
-- State "QUESTION"   from              [2022-12-12 Mon 18:00]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-12-12 18:00:16 -05]
-:END:
-
-
-
-I think this dialogue has a grammar mistake. Am I correct?
-
-小丽：上次我们参加骑马比赛的照片，我选了几张洗出来了。
-同事：快给我看看。骑的最快的这位是谁？
-小丽：你没看出来吗？他是小刚啊。
-同事：➡️怎么看上去跟现在不太一样？ ⬅️ (correction: 怎么看上去？跟现在不太一样。)
-小丽：他上班穿西服，衬衫，比赛的时候穿的是运动服。
-同事：他今天穿蓝西服，看上去像40多岁，还是穿运动服让他更年轻。
-
-***** Answer
-:PROPERTIES:
-:CREATED: [2022-12-14 18:43:58 -05]
-:END:
-
-看上出 - looks like (estimation)
-看起来 - looks like (estimation)
-
-How come he doesn't look like in normal dayus?
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:27:01 -05]
-:END:
-
-参加 | can1 jia1 | to participate ;
-骑 | qi2 | to ride ;
-比赛 | bi3 sai4 | match, competition ;
-选择 | xuan3 ze2 | to choose ;
-上班 | shang4 ban1 | go to work ;
-西服 | xi1 fu2 | suit ;
-衬衫 | chen4 shan1 | shirt ;
-像 | xiang4 | to be like ;
-更 | geng4 | more, to a greater extent ;
-年轻 | nian2 qing1 | young ;
-
 *** 生词
 
 4. 马 | ma3 | n. horse ;
@@ -144,28 +75,13 @@ How come he doesn't look like in normal dayus?
 
 At Xiaoli's home
 
-*** 对话
-
+*** 转录
 朋友：我们一年没见面了吧？
-小丽：听说你都有女儿了？她多大了？
+小丽：听说你都有文儿了？她多大了？
 朋友：她去年秋天出生的，刚过完一岁生日。
 小丽：她喜欢什么？我送给她。
-朋友：她就洗欢听她爸爸学鸟叫。哭的时候，只要他爸爸学小鸟叫，她马上就安静下来了。
+朋友：她就喜欢听她爸爸学鸟叫。哭的时候，只要他爸爸学小鸟叫，她马上就安静下来了。
 小丽：啊？这个礼物我没办法送。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:28:40 -05]
-:END:
-
-见面 | jian4 mian4 | to meet ;
-出生 | chu1 sheng1 | to be born ;
-刚 | gang1 | just ;
-马上 | ma3 shang4 | immediately, at once ;
-安静 | an1 jing4 | quiet ;
-礼物 | li3 wu4 | gift, present ;
-办法 | ban4 fa3 | way, approach ;
-
 *** 生词
 
 8. 秋（天） | qiu1 (tian1) | autumn, fall ;
@@ -179,25 +95,11 @@ At Xiaoli's home
 :ID: 3eb78772-0aa3-473a-93fd-b040d938dc9d
 :END:
 
-*** 段话
+*** 转录
 :PROPERTIES:
 :CREATED: [2022-12-19 13:29:19 -05]
 :END:
-
-这次旅游，我去了不少地方，每个地方都让我非常难忘。我先去看了黄河，黄河是中国有名的大河，我坐在船上，一边看一边照相。一路上经过了很多地方，每个地方都不一样。我想快点儿把照片发给大家，叫朋友们也高兴高兴。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:30:14 -05]
-:END:
-
-地方 | di4 fang | place ;
-忘 | wang4 | to forget ;
-有名 | you3 ming2 | famous ;
-大河 | da4 he2 | large river ;
-照相 | zhao4 xiang4 | to take a photograph ;
-照片 | zhao4 pian4 | photo ;
-
+这欠旅游，我去了不少地方，每个地方都让我非常难忘。我先去看了黄河，黄河是中国有名的大河，我坐在船上，一边看一边照相。一路上经过了很多地方，每个地方都不一样。我想快点儿把照片发给大家，叫朋友们也高兴高兴。
 *** 生词
 :PROPERTIES:
 :CREATED: [2022-12-19 13:29:16 -05]

@@ -23,23 +23,13 @@
 
 At home
 
-*** 对话
-
-小丽：你终于回来了！从哪儿买回来者这么多东西啊？
+*** 转录
+小丽：你终于回来了！从哪儿买回来这么多东西啊？
 小刚：都是从那边的商店买回来的。
 小丽：怎么还买红酒回来了？谁喝啊？
 小刚：这是给爷爷的礼物，明天我们一起送过去，看看爷爷奶奶。
 小丽：那我的礼物呢？快拿出来让我看看。
-小刚：我不已经回来了吗？
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 12:51:48 -05]
-:END:
-
-红酒 | hong2 jiu3 | wine ;
-过去 | guo4 qu4 | (in the) past ;
-
+小刚：我不是已经回来了吗？
 *** 生词
 
 1. 终于 | zhong1 yu2 | finally ;
@@ -63,22 +53,13 @@ At home
 
 At home
 
-*** 对话
-
+*** 转录
 小丽：我今天看见你和一个女的进了咖啡店，她是谁啊？
 小刚：她是我今天在路上遇到的一个老同学。
 小丽：你们就一起去喝咖啡了？
 小刚：是啊，一边喝咖啡一边说了些过去的事。
 小丽：你回来得这么晚，是说了很多过去的事吗？
-小刚：不是，没有公共汽车了，我是走回来的。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 12:52:21 -05]
-:END:
-
-咖啡店 | ka1 fei1 dian4 | coffee shop ;
-
+小刚：不是。没有公共汽车了，我是走回来的。
 *** 生词
 
 5. 遇到 | yu4 dao4 | to come across, to run into ;
@@ -101,29 +82,13 @@ At home
 
 On the phone
 
-*** 对话
-
+*** 转录
 同事：小丽，周末你一般跟小刚出去看电影吗？
 小丽：我很少去电影院看电影，我更愿意在家看电视。
 同事：看电视有什么意思啊？
 小丽：可以一边吃一边看，坐久了还可以站起来休息一会儿。
 同事：你应该多出去走走，这样你们的生活会更有意思。
 小丽：有他在，我的生活已经很有意思了。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 12:53:51 -05]
-:END:
-
-周末 | zhou1 mo4 | weekend ;
-电影院 | dian4 ying3 yuan4 | cinema ;
-更 | geng4 | more ;
-一边 | yi4 bian1 | (indicating two actions taking place at the same time) ;
-久 | jiu3 | for a long time, long ;
-站 | zhan4 | to stand ;
-更 | geng4 | more, to a greater extent ;
-有意思 | you3 yi4 si | interesting ;
-
 *** 生词
 
 8. 一般 | yi4 ban1 | general, usual ;
@@ -138,51 +103,11 @@ On the phone
 :ID: a276e24a-5759-4001-a1c9-6283dbb364b4
 :END:
 
-*** 段话
+*** 转录
 :PROPERTIES:
 :CREATED: [2022-12-19 12:54:28 -05]
 :END:
-
 刚结婚的时候，我丈夫是中学老师，他喜欢每天早上起床后，一边吃早饭一边看报纸。十年过去了，现在他已经是校长了，因为太忙，每天早上我起床后都看不到他，晚上很晚他才回到家。我真怕他累坏了。希望他能少一些会议，多一些休息，可以经常和我还有孩子在一起。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 12:55:21 -05]
-:END:
-
-刚 | gang1 | just ;
-结婚 | jie2 hun1 | to marry, to get married ;
-丈夫 | zhàngfu | husband ;
-中学 | zhong1 xue2 | middle school ;
-一边 | yi4 bian1 | (indicating two actions taking place at the same time) ;
-过去 | guo4 qu4 | past ;
-怕 | pa4 | to be afraid ;
-累坏 | lei4 huai4 | to become exhausted ;
-会议 | hui4 yi4 | meeting, conference ;
-
-**** QUESTION Can 少 also be used as a verb?
-:PROPERTIES:
-:CREATED: [2022-09-24 16:50:03 -05]
-:END:
-:LOGBOOK:
-- State "QUESTION"   from              [2022-09-24 Sat 16:50]
-:END:
-
-刚结婚的时候， 我丈夫是中学老师， 他喜欢每天早上起床后， 一边吃早饭一边看报纸。 十年过去了， 现在他已经是校长了， 因为太忙， 每天早上我起床后都看不到他， 晚上很晚他才回到家。 我真怕他累坏了。 希望他能（少）一些会议， 多一些休息， 可以经常和我还有孩子在一起。
-
-This is not correct: 你可以（少）一些音乐的音量吗？
-Correct: 你可以降低音量一些吗？
-
-Can you make the music a little less loud?
-
-希望老师（少）一些考试的题。
-I hope that the teacher reduce the number of questions in the exam.
-
-在我们公司，我们无法（降低）产品的质量。
-In our company, there's no way we reduce the quality of our products.
-
-你可以少一些运动。
-
 *** 生词
 :PROPERTIES:
 :CREATED: [2022-12-19 12:54:41 -05]

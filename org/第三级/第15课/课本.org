@@ -23,28 +23,13 @@
 
 In the office
 
-*** 对话
-
-大出：老师，我来中国留学两年了，但是我的汉语水平提高一点儿也不快啊。
-老师：你每天认真学习，做练习，完成作业，一直不错啊。
-大出：这是我昨天的作业，您帮我看看对不对。
+*** 转录
+大山：老师，我来中国留学两年了，但是我的汉语水平提高得一点儿也不快啊。
+老师：你每天认真学习，做练习、完成作业，一直不错啊。
+大山：这是我昨天的作业，您帮我看看对不对。
 老师：写得不错，除了这个句子意思有些不清楚外，其他都没什么问题。
-大出：谢谢老师！
-老师：以后有什么不明百的地方，可以给我打电话或者发电子邮件。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:02:50 -05]
-:END:
-
-认真 | ren4 zhen1 | serious, earnest ;
-一直 | yi4 zhi2 | all the time ;
-清楚 | qing1 chu | clear, distinct ;
-以后 | yi3 hou4 | after, afterwards ;
-地方 | di4 fang | place ;
-或者 | huo4 zhe3 | or ;
-电子邮件 | dian4 zi3 you2 jian4 | e-mail ;
-
+大山：谢谢老师！
+老师：以后有什么不明白的地方，可以给我打电话或者发电子邮件。
 *** 生词
 
 1. 留学 | liu2 xue2 | to study abroad ;
@@ -72,61 +57,12 @@ In the office
 
 In the classroom
 
-*** 对话
-
+*** 转录
 学生：老师，除了小云，其他人都来了。
-老师： 比赛马上就要开始了，小云怎么还没来？
-学生：刚才给她电话了，她在路上呢。
-老师：不等她了，我先给大家讲讲这次比赛的要求和一些需要注意的地方。
+老师：比赛马上就要开始了，小云怎么还没来？
+学生：刚才给她打电话了，她在路上呢。
+老师：不等她了，我先给大家讲讲这欠比赛的要求和一些需要注意的地方。
 学生：老师，您放心，今天的比赛我们一定能拿第一。
-
-
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:03:32 -05]
-:END:
-
-小云 | xiao3 yun1 | Xiayun, name of a person ;
-除了 | chu2 le | other than, except ;
-其他 | qi2 ta1 | the rest ;
-比赛 | bi3 sai4 | match, competition ;
-马上 | ma3 shang4 | immediately, at once ;
-刚才 | gang1 cai2 | just now ;
-需要 | xu1 yao4 | to need ;
-注意 | zhu4 yi4 | to pay attention to ;
-放心 | fang4 xin1 | to ease one's mind, to rest assured ;
-一定 | yi2 ding4 | definitely, certainly ;
-
-**** ANSWERED
-:PROPERTIES:
-:CREATED: [2022-10-03 04:13:58 -05]
-:END:
-:LOGBOOK:
-- State "ANSWERED"   from              [2022-12-19 Mon 13:03]
-- State "QUESTION"   from              [2022-10-03 Mon 04:14]
-:END:
-
-***** Question
-:PROPERTIES:
-:CREATED: [2022-10-03 19:52:07 -05]
-:END:
-
-在这个对话，"注意的地方"什么意思？
-
-学生：老师，除了小云，其他人都来了。
-老师： 比赛马上就要开始了，小云怎么还没来？
-学生：刚才给她电话了，她在路上呢。
-老师：不等她了，我先给大家讲讲这次比赛的要求和一些需要➡️注意的地方⬅️。
-学生：老师，您放心，今天的比赛我们一定能拿第一。
-
-***** Answer
-:PROPERTIES:
-:CREATED: [2022-10-03 19:52:51 -05]
-:END:
-
-some rules for the competition
-
 *** 生词
 
 9. 要求 | yao1 qiu2 | requirement ;
@@ -156,24 +92,13 @@ some rules for the competition
 
 In the lounge
 
-*** 对话
-
+*** 转录
 同事：现在用电脑上网真方便啊！
-小刚：是啊，除了看新闻，人们还可以在网上听歌，看电影，买东西。
+小刚：是啊，除了看新闻，人们还可以在网上听歌、看电影、买东西。
 同事：对了，你从网上买的那件衣服呢？怎么没见你穿？
-小刚：那件衣服我穿有点儿小，给我弟弟了。
+小刚：那件衣服我穿着有点儿小，给我弟弟了。
 同事：他满意吗？
 小刚：不用花钱，还有新衣服穿，他满意极了。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:06:32 -05]
-:END:
-
-方便 | fang1 bian4 | convenient ;
-网上 | wang3 shang4 | online ;
-满意 | man3 yi4 | to be satisfied ;
-
 *** 生词
 
 11. 上网 | shang4 wang3 | to surf the internet ;.
@@ -187,28 +112,11 @@ In the lounge
 :ID: 701adbc4-5b08-4197-bded-fe577eadaee0
 :END:
 
-*** 段话
+*** 转录
 :PROPERTIES:
 :CREATED: [2022-12-19 13:06:56 -05]
 :END:
-
-除了春节，中秋节以外，啤酒节也是这里很重要的一个节日。这个地方每年夏天都要举行一次啤酒节。在啤酒节上，你可以喝到世界上不同地方的啤酒。除了喝啤酒，你还可以在街道两边看到世界上不同地方的歌舞。你想不想了解世界各个地方的啤酒文化？来这里的啤酒节看看吧。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-12-19 13:08:25 -05]
-:END:
-
-除了 | chu2 le | other than ;
-春节 | chun1jie2 | Spring Festival ;
-中秋节 | zhong1qiu1jie2 | Mid-Autumn Festival ;
-以外 | yi3 wai4 | apart from, beyond, except for, other than ;
-啤酒节 | pi2 jiu3 jie2 | Beer Festival ;
-重要  | zhong4 yao4 | important ;
-夏（天） | xia4 (tian1) | summer ;
-歌舞 | ge1 wu3 | sing and dance ;
-了解 | liao3 jie3 | to know ;
-
+除了春节、中秋节以外，啤酒节也是这里很重要的一个节日。这个地方每年夏天都要举行一次啤酒节。在啤酒节上，你可以喝到世界上不同地方的啤酒。除了喝啤酒，你还可以在街道两边看到世界上不同地方的歌舞。你想不想了解世界各个地方的啤酒文化？来这里的啤酒节看看吧。
 *** 生词
 :PROPERTIES:
 :CREATED: [2022-12-19 13:07:00 -05]

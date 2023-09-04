@@ -23,21 +23,13 @@
 
 In the classroom
 
-*** 对话
-
+*** 转录
 朋友：大山，你和马可谁个子高？
 大山：马可比我高，我比马可矮一点儿。
 朋友：那你们谁大？
 大山：我比马可大两岁。
 朋友：你们谁的汉语说得更好？
 大山：马可比我说得好一些，我的汉语没有他好。
-
-**** 对我生词
-
-大山 | da4 shan1 | Dashan (name oof a person) ;
-马可 | ma3 ke3 | marco ;
-更 | geng4 | more, to a greater extent ;
-
 *** 生词
 
 1. 个子 | ge4 zi | height, stature ;
@@ -59,21 +51,13 @@ In the classroom
 
 In the classroom
 
-*** 对话
-
-小明：我喜欢历史课，倚育课，不喜欢数学课。
+*** 转录
+小明：我喜欢历史课、体育课，不喜欢数学课。
 同学：为什么？数学也很有意思啊。
 小明：我觉得数学比历史难多了，我听不懂。
 同学：别担心，我可以帮你。
 小明：好啊，我们每天学多长时间？
 同学：一两个小时吧。
-
-**** 对我生词
-
-有意思 | you3 yi4 si | interesting ;
-懂 | dǒng | to understand ;
-担心  | dan1 xin1 | to worry ;
-
 *** 生词
 
 3. 历史 | li4 shi3 | history ;
@@ -96,24 +80,13 @@ In the classroom
 
 In the lounge
 
-*** 对话
-
+*** 转录
 同事：你最近比以前来得早多了，搬家了？
 小丽：是啊，你不知道？我上个月就搬家了，走路二十分钟就到。
 同事：那很方便啊。
-小丽：我还打算买自行车，骑车七八分钟就能到。
+小丽：我还打算买辆自行车，骑车七八分钟就能到。
 同事：你不是有一辆吗？
 小丽：那辆太旧了，要换一辆，很便宜，两三百块钱。
-
-**** 对我生词
-
-最近 | zui4 jin4 | recently ;
-以前 | yi3 qian2 | before, ago ;
-搬家 | ban1 jia1 | to move house ;
-辆 | liang4 | (measure word used for vehicles) ;
-便宜 | piányi | cheap ;
-百 | bai3 | hundred ;
-
 *** 生词
 
 6. 方便 | fang1 bian4 | convenient ;
@@ -138,36 +111,13 @@ In the lounge
 
 Seeing an apartment
 
-*** 对话
-
+*** 转录
 大山：这两个地方的房子一样吗？
 中介：不一样。您看，学校外边的房子比学校里边的大一些。
 大山：大小没关系，主要是环境，哪个更安静？
 中介：学校里边的没有学校外边的那么安静。
 大山：哪个方便一些呢？
 中介：学校里边比学校外边方便，附近有三四个车站。
-
-**** 对我生词
-
-大山 | da4 shan1 | Dashan (name of a person) ;
-房子 | fang2 zi | apartment, house ;
-一样 | yi2 yang4 | same, as … as … ;
-更 | geng4 | more ;
-安静 | an1 jing4 | quiet ;
-方便 | fang1 bian4 | convenient ;
-车站 | che1 zhan4 | rail station ;
-
-**** QUESTION Do people in China live inside schools?
-:LOGBOOK:
-- State "QUESTION"   from              [2022-07-24 Sun 18:11]
-:END:
-
-In Lima, Peru, no schools have houses for people to live.
-
-Which people can live in these schools?
-
-你觉得住在学校里边很方便吗？
-
 *** 生词
 
 11. 地方 | di4 fang | place ;

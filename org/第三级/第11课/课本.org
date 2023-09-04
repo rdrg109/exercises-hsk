@@ -177,30 +177,16 @@ e
 
 In the classroom
 
-*** 对话
+*** 转录
 :PROPERTIES:
 :CREATED: [2022-09-17 17:02:42 -05]
 :END:
-
 小明：我先走了。
 同学：你去哪儿？
 小明：我去图书馆借本书。
 同学：帮我把这本词典还了吧。
 小明：好，等一会儿你离开教室的时候，记得把灯关了。
 同学：好的，放心吧。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-09-17 17:03:00 -05]
-:END:
-
-把 | ba3 | (classifier for objects that can be picked up with the hand) ;
-离开 | li2 kai1 | to leave, to part with ;
-教室 | jiao4 shi4 | classroom ;
-记得 | ji4 de | to remember ;
-关 | guan1 | to shut, to turn off ;
-放心 | fang4 xin1 | to ease one's mind, to rest assured ;
-
 *** 生词
 :PROPERTIES:
 :CREATED: [2022-09-17 17:02:46 -05]
@@ -237,17 +223,15 @@ In the classroom
 
 In the conference room
 
-*** 对话
+*** 转录
 :PROPERTIES:
 :CREATED: [2022-09-17 17:07:16 -05]
 :END:
-
 周明：会议结束后，别忘记把空调关了。
-小丽：好的，王经理两点左右来了个电话。
+小丽：好的。王经理两点左右来了个电话。
 周明：他已经到北京了？
 小丽：是的，他正坐地铁来我们公司呢。
 周明：等他到了就告诉我。
-
 *** 生词
 :PROPERTIES:
 :CREATED: [2022-09-17 17:07:20 -05]
@@ -285,27 +269,15 @@ In the conference room
 
 In the living room
 
-*** 对话
+*** 转录
 :PROPERTIES:
 :CREATED: [2022-09-17 17:10:12 -05]
 :END:
-
 妈妈：还差一双筷子，你去拿一下。
 儿子：今天怎么做了这么多菜？
-妈妈：今天是你的爸爸的生日。
+妈妈：今天是你爸爸的生日。
 儿子：真的啊？我把爸爸的生日忘了。那我们今天喝点儿啤酒吧。
 妈妈：医生说你爸爸一口酒都不能喝，别让他看见酒瓶子。
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-09-17 17:11:02 -05]
-:END:
-
-差 | cha4 | to fall short of ;
-菜 | cai4 | dish ;
-真的啊 | zhen1 de a | really? ;
-忘 | wang4 | to forget ;
-
 *** 生词
 :PROPERTIES:
 :CREATED: [2022-09-17 17:10:37 -05]
@@ -323,25 +295,11 @@ In the living room
 :ID: 3c2cb9e9-8f42-4e96-988e-97efcca628ec
 :END:
 
-*** 段话
+*** 转录
 :PROPERTIES:
 :CREATED: [2022-09-17 17:13:09 -05]
 :END:
-
-这个笔记本电脑我去年买的时候要五千块左右，现在便宜多了。我想把这个电脑卖了，再买一个更好的。现在我每天起床后的第一件事就是打开电脑，看电子邮件。我已经很少写信，也很少用笔写字，已经习惯用电脑来学习和工作了。哪一天突然没有了电脑，我们怎么办呢？
-
-**** 对我生词
-:PROPERTIES:
-:CREATED: [2022-09-17 17:13:01 -05]
-:END:
-
-去年 | qu4 nian2 | last year ;
-左右 | zuo3 you4 | approximately ;
-打开 | da3 kai1 | to switch, to turn on ;
-信 | xin4 | letter, mail ;
-写信 / xie3 xin4 / write a letter or email ;
-突然 | tu1 ran2 | suddenly ;
-
+这个笔记本电脑我去年买的时候要五午块左右，现在便宜多了。我想把这个电脑卖了，再买一个更好的。现在我每天起床后的第一件事就是打开电脑，看电子邮件。我已经很少写信，也很少用笔写字，已经习惯用电脑来学习和工作了。哪一天突然没有了电脑，我们怎么办呢？
 *** 生词
 :PROPERTIES:
 :CREATED: [2022-09-17 17:12:57 -05]
