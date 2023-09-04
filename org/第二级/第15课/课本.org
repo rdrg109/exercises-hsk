@@ -1,199 +1,26 @@
-:PROPERTIES:
-:CREATED: [2022-04-29 20:26:38 -05]
-:END:
 
-* Warm-up
-:PROPERTIES:
-:CREATED: [2022-04-29 17:21:12 -05]
-:END:
-
+* 课文
 ** 1
-:PROPERTIES:
-:CREATED: [2022-04-29 17:23:04 -05]
-:END:
-
-1. d
-
-新年 | xin1 nian2 | new year ;
-
-2. a
-
-票 | piao4 | ticket ;
-
-3. e
-
-旅游 | lv3 you2 | travel ;
-
-4. b
-
-帮助 | bang1 zhu4 | help ;
-
-5. f
-
-阴 | yin1 | cloudy day ;
-
-6. c
-
+*** 转录
+A：今天是12月20日，新年就要到了。
+B：新年你准备做什么？
+A：我想去北京旅游，北京很不错，我去过一次。
+B：你买票了吗？
+A：还没有呢，明天就去火车站买票。
 ** 2
-:PROPERTIES:
-:CREATED: [2022-04-29 17:23:09 -05]
-:END:
-
-1.
-
-公共汽车 | gong1 gong4 qi4 che1 | public bus ;
-
-2.
-
-车 | che1 | car ;
-
-3.
-
-火车 | huo3 che1 | train ;
-
-4.
-
-自行车 | zi4 xing2 che1 | bicycle ;
-
-* Text
-:PROPERTIES:
-:CREATED: [2022-04-29 17:25:30 -05]
-:END:
-
-** 1. 在朋友家
-:PROPERTIES:
-:CREATED: [2022-04-29 17:25:35 -05]
-:ID: 3f9a1071-c8f2-4dae-b26a-528c5f465fc1
-:END:
-
-Ａ：今天是12月20日，新年就要到了。
-Ｂ：新年你准备做什么？
-Ａ：我想去北京旅游，北京很不错，我去过一次。
-Ｂ：你买票了吗？
-Ａ：还没有呢，明天就去火车站买票。
-
-日 | ri4 | day, date ;
-
-新年 | xin1 nian2 | new year ;
-
-票 | piao4 | ticket ;
-
-火车站 | huo3 che1 zhan4 | railway station
-
-** 2. 在公司
-:PROPERTIES:
-:CREATED: [2022-04-29 17:30:01 -05]
-:ID: 055df863-2d74-47f8-9c7f-4c1a0e886ae2
-:END:
-
-Ａ：时间过得真快，新的一年快要到了。
-Ｂ：是啊，谢谢大家这一年对我的帮助！
-Ｃ：希望我们的公司明年更好。
-
-大家 | da4 jia1 | all, everybody ;
-
-更 | geng4 | more, to a greater extent ;
-
-** 3. 在车站
-:PROPERTIES:
-:CREATED: [2022-04-29 17:30:43 -05]
-:ID: 6865b9a3-6cab-4aa9-83af-e351b64d8bc7
-:END:
-
-Ａ：你妹妹怎么还没来？都八点四十了！
-Ｂ：我们再等她几分钟吧。
-Ａ：都等她半个小时了！
-Ｂ：她来了，我听见她说话了。
-
-妹妹 | mei4 mei | younger sister ;
-
-** 4. 在咖啡馆门口
-:PROPERTIES:
-:CREATED: [2022-04-29 17:31:35 -05]
-:ID: 8058d571-ab3d-4483-b502-22ac3afdc110
-:END:
-
-Ａ：天阴了，我要回去了。
-Ｂ：好的。快要下雨了，你路上慢点儿。
-Ａ：没关系，我坐公共汽车。
-Ｂ：好的。再见。
-
-阴 | yin1 | overcast, cloudy ;
-
-* Notes                                                          :flashcards:
-:PROPERTIES:
-:CREATED: [2022-04-28 07:47:06 -05]w
-:END:
-
-** 1                                                            :flashcards:
-:PROPERTIES:
-:CREATED: [2022-04-28 07:47:09 -05]
-:END:
-
-火车快要来了。
-
-要下雨了。
-
-新的一年快要到了。
-
-下个月我们就要回国了。
-
-明天姐姐就要走了。
-
-下个星期我们就要考试了。
-
-Sentences
-
-八月我爸妈就要旅游了。
-
-下个星期日我和我哥哥就要看奶奶了。
-
-明天我给爷爷就要打了个电话了。
-
-notes
-
-火车[快/要/快要/就要]来了。
-[快/要/快要/就要]下雨了。
-新的一年[快/要/快要/就要]到了。
-b
-
-** 2                                                            :flashcards:
-:PROPERTIES:
-:CREATED: [2022-04-29 20:41:44 -05]
-:END:
-
-都8点了，快点儿起床吧。
-
-你都十岁了，可以自己洗衣服了。
-
-都等她半个小时了。
-
-* Pronunciation                                                  :flashcards:
-:PROPERTIES:
-:CREATED: [2022-05-03 14:34:42 -05]
-:END:
-
-这本书是你的吧？
-pi: zhe4 ben3 shu1 shi4 ni3 de ba?
-en: this book is yours, right?
-
-这本书是你的吗？
-pi: zhe4 ben3 shu1 shi4 ni3 de ma?
-en: is this book yours?
-
-明天是星期二吧？
-pi: ming2tian1 shi4 xing1qi1 er4 ba?
-en: tomorrow is tuesday, right?
-
-明天是星期二吗？
-pi: ming2tian1 shi4 xing1qi1 er4 ma?
-en: is tomorrow tuesday?
-
-你买票了吧？
-pi: ni3 mai3 piao4 le ba?
-en: you bought a ticket, right?
-
-你买票了吗？
-pi: ni3 mai3 piao4 le ma?
-en: have your bought a ticket?
-
+*** 转录
+A：时间过得真快，新的一年快要到了！
+B：是啊，谢谢大家这一年对我的帮助！
+C：希望我们的公司明年更好！
+** 3
+*** 转录
+A：你妹妹怎么还没来？都八点四十了！
+B：我们再等她几分钟吧。
+A：都等她半个小时了！
+B：她来了，我听见她说话了。
+** 4
+*** 转录
+A：天阴了，我要回去了。
+B：好的。快要下雨了，你路上慢点儿。
+A：没关系，我坐公共汽车。
+B：好的。再见。
